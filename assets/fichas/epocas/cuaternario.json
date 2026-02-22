@@ -1,0 +1,74 @@
+{
+  "id": "cuaternario",
+  "nombre": "Cuaternario",
+  "nombre_comun": "Período Cuaternario",
+  "periodo_geologico": "Cenozoico",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 2.58,
+  "fin_millones_anos_atras": 0.0,
+  "duracion_aproximada_millones_anos": 2.58,
+  "subdivisiones": [
+    {
+      "nombre": "Pleistoceno",
+      "series": ["Gelasiense", "Calabriense", "Chibaniense", "Tarantiense"],
+      "inicio_millones_anos_atras": 2.58,
+      "fin_millones_anos_atras": 0.0117
+    },
+    {
+      "nombre": "Holoceno",
+      "series": ["Groenlandiense", "Norgardiense", "Meghalayense"],
+      "inicio_millones_anos_atras": 0.0117,
+      "fin_millones_anos_atras": 0.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes están en sus posiciones actuales. La principal actividad geológica ha sido la glaciación y desglaciación, que ha moldeado el paisaje a través de la erosión y deposición de sedimentos.",
+    "clima_general": "Caracterizado por ciclos de glaciaciones e interglaciales (edades de hielo y períodos cálidos). El Pleistoceno fue dominado por las edades de hielo, mientras que el Holoceno (la época actual) es un período interglacial relativamente cálido.",
+    "eventos_geologicos_importantes": "Grandes capas de hielo cubrieron vastas áreas de los continentes. Cambios drásticos en el nivel del mar. Formación de grandes lagos glaciares y valles en forma de U. Actividad volcánica continua en zonas sísmicamente activas."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Pastizales (expansión y adaptación a climas cambiantes)",
+      "Bosques boreales y templados (expansión y contracción con los ciclos glaciales)",
+      "Tundra (en regiones frías y periglaciares)",
+      "Angiospermas (continuaron dominando, con adaptaciones a diversos climas)"
+    ],
+    "nuevas_apariciones": "La flora se adaptó a los rápidos cambios climáticos, con migraciones de especies y la aparición de comunidades vegetales adaptadas a los nuevos entornos glaciares e interglaciales."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Megafauna del Pleistoceno (mamuts, mastodontes, tigres dientes de sable, perezosos gigantes, rinocerontes lanudos)",
+      "Mamíferos modernos (caballos, ciervos, bisontes, lobos, osos)",
+      "Humanos (Homo sapiens, evolución y dispersión global)",
+      "Aves y reptiles (diversificación continua)"
+    ],
+    "fauna_marina_clave": [
+      "Mamíferos marinos (ballenas, focas, delfines)",
+      "Peces y moluscos (adaptados a las fluctuaciones del nivel del mar y la temperatura del agua)",
+      "Corales (afectados por los cambios climáticos y el nivel del mar)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves (diversificación y adaptaciones a diferentes climas)",
+      "Insectos (continuaron su evolución y adaptación)"
+    ],
+    "nuevas_apariciones": "La aparición y dispersión global del Homo sapiens. La megafauna dominó los paisajes del Pleistoceno, aunque muchas especies se extinguieron al final de este período."
+  },
+  "eventos_biologicos_significativos": {
+    "glaciaciones_y_adaptacion": "La fauna y flora se adaptaron a los repetidos ciclos de glaciación y desglaciación, con migraciones masivas y evolución de especies adaptadas al frío.",
+    "evolucion_y_expansion_humana": "El Cuaternario es la era de la evolución y expansión de los homínidos, culminando con la dispersión global del Homo sapiens y el desarrollo de la cultura y la tecnología."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción de la Megafauna del Pleistoceno",
+    "fecha_millones_anos_atras": 0.0117,
+    "causas_probables": "Una combinación de factores, incluyendo el cambio climático rápido al final de la última edad de hielo y el impacto de la caza por parte de los humanos (hipótesis de la 'sobrecaza').",
+    "impacto_biologico": "Provocó la extinción de la mayoría de los grandes mamíferos (megafauna) en casi todos los continentes, lo que tuvo un impacto significativo en los ecosistemas terrestres."
+  },
+  "sitios_fosiles_clave": [
+    "La Brea Tar Pits (Estados Unidos)",
+    "Cuevas de Altamira (España)",
+    "Siberia (Rusia, para mamuts lanudos)",
+    "Valle del Rift (África, para homínidos)"
+  ],
+  "imagen_principal_url": "cuaternario.webp",
+  "mapa_paleogeografico_url": ""
+}

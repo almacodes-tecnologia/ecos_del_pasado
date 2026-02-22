@@ -1,0 +1,74 @@
+{
+  "id": "espinosaurus",
+  "nombre": "Spinosaurus aegyptiacus",
+  "nombre_comun": "Espinosaurus",
+  "nombre_cientifico": "Spinosaurus aegyptiacus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "espinosáurido",
+  "clasificacion": {
+    "familia": "Spinosauridae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 15.0,
+    "altura_m": 6.0,
+    "peso_t": 7.0
+  },
+  "alimentacion": "Piscívoro/Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Albiense-Cenomaniense (Temprano a Medio)",
+    "edad_millones_anios": "112–93.5"
+  },
+  "descubrimiento": {
+    "anio": 1912,
+    "descubridor": "Ernst Stromer",
+    "lugar_original": {
+      "formacion": "Bahariya",
+      "region": "Desierto Occidental",
+      "pais": "Egipto"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Egipto",
+      "regiones": ["Desierto Occidental"],
+      "lat": 28.0,
+      "lon": 29.0
+    },
+    {
+      "pais": "Marruecos",
+      "regiones": ["Kem Kem Beds"],
+      "lat": 30.0,
+      "lon": -5.0
+    },
+    {
+      "pais": "Níger",
+      "regiones": ["Gadoufao"],
+      "lat": 17.0,
+      "lon": 10.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Ríos y pantanos costeros, deltas",
+    "zona_actual": "Norte de África (extinto)",
+    "zona_paleogeografica": "África del Norte",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Fue el dinosaurio carnívoro más grande conocido, y se cree que pasaba gran parte de su vida en el agua, cazando peces con sus mandíbulas alargadas y dientes cónicos.",
+  "imagen_principal_url": "espinosaurus.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Spinosaurus aegyptiacus fue un género de dinosaurios terópodos que vivió en lo que hoy es el norte de África durante el Cretácico. Es notable por ser el dinosaurio carnívoro más grande conocido, superando incluso al Tyrannosaurus rex en longitud. Su característica más distintiva era una enorme 'vela' dorsal, formada por espinas neurales alargadas que podían alcanzar hasta 1.8 metros de altura.\n\nInvestigaciones recientes sugieren que Spinosaurus era el primer dinosaurio no aviano semi-acuático conocido, con adaptaciones para la vida en el agua, como patas traseras cortas, pies palmeados y una cola en forma de remo. Se cree que su dieta consistía principalmente en peces grandes, que capturaba con sus mandíbulas alargadas y dientes cónicos, aunque también pudo haber cazado otros animales terrestres. Habitaba en vastos sistemas fluviales y deltas.",
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 3,
+    "rareza": 5,
+    "fuerza_estimada": 5,
+    "defensa": 4,
+    "inteligencia": 3,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 5,
+    "impresionabilidad": 5
+  }
+}

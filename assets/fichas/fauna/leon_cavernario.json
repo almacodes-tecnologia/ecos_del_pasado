@@ -1,0 +1,74 @@
+{
+  "id": "leon_cavernario",
+  "nombre": "Panthera spelaea",
+  "nombre_comun": "León cavernario",
+  "nombre_cientifico": "Panthera spelaea",
+  "tipo_animal": "mamífero",
+  "grupo": "felino",
+  "clasificacion": {
+    "familia": "Felidae",
+    "orden": "Carnivora"
+  },
+  "dimensiones": {
+    "longitud_m": 2.5,
+    "altura_m": 1.2,
+    "peso_t": 0.3
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.37–0.012"
+  },
+  "descubrimiento": {
+    "anio": 1810,
+    "descubridor": "Georg August Goldfuss",
+    "lugar_original": {
+      "formacion": "Cueva de Zoolithen",
+      "region": "Baviera",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Europa",
+      "regiones": ["Alemania", "Francia", "Rusia", "España"],
+      "lat": 50.0,
+      "lon": 10.0
+    },
+    {
+      "pais": "Asia",
+      "regiones": ["Siberia", "China"],
+      "lat": 60.0,
+      "lon": 100.0
+    },
+    {
+      "pais": "América del Norte",
+      "regiones": ["Alaska", "Yukón"],
+      "lat": 65.0,
+      "lon": -140.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Estepas frías, tundra y bosques abiertos",
+    "zona_actual": "Eurasia y América del Norte (extinto)",
+    "zona_paleogeografica": "Eurasia y Beringia",
+    "clima_estimado": "Frío (glacial)"
+  },
+  "curiosidad": "Era uno de los felinos más grandes de la Edad de Hielo, superando en tamaño al león africano moderno, y se representó en el arte rupestre paleolítico.",
+  "imagen_principal_url": "leon_cavernario.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El León cavernario (Panthera spelaea) fue una subespecie extinta de león que habitó Europa y Asia durante el Pleistoceno. Era uno de los felinos más grandes de su tiempo, superando en tamaño al león africano moderno. A pesar de su nombre, no vivía exclusivamente en cuevas, sino que las usaba para refugio y guarida, especialmente durante el invierno.\n\nSe alimentaba de grandes herbívoros de la megafauna de la Edad de Hielo, como bisontes, caballos y ciervos. A menudo se le representa en el arte rupestre paleolítico, lo que indica su coexistencia con los humanos primitivos. Su extinción al final del Pleistoceno se atribuye a los cambios climáticos que alteraron su hábitat y las poblaciones de sus presas, así como a la competencia con los humanos.",
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 4,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

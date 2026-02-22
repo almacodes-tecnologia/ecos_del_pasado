@@ -1,0 +1,74 @@
+ {
+  "id": "mammut_lanudo",
+  "nombre": "Mammuthus primigenius",
+  "nombre_comun": "Mamut lanudo",
+  "nombre_cientifico": "Mammuthus primigenius",
+  "tipo_animal": "mamífero",
+  "grupo": "proboscídeo",
+  "clasificacion": {
+    "familia": "Elephantidae",
+    "orden": "Proboscidea"
+  },
+  "dimensiones": {
+    "longitud_m": 5.5,
+    "altura_m": 3.4,
+    "peso_t": 6.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.3–0.004"
+  },
+  "descubrimiento": {
+    "anio": 1799,
+    "descubridor": "Johann Friedrich Blumenbach (descripción formal)",
+    "lugar_original": {
+      "formacion": "Siberia",
+      "region": "Siberia",
+      "pais": "Rusia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Rusia",
+      "regiones": ["Siberia"],
+      "lat": 60.0,
+      "lon": 105.0
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Alaska", "Grandes Llanuras"],
+      "lat": 64.0,
+      "lon": -150.0
+    },
+    {
+      "pais": "Europa",
+      "regiones": ["Francia", "Alemania", "Reino Unido"],
+      "lat": 50.0,
+      "lon": 10.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Estepa de mamut (tundra-estepa fría)",
+    "zona_actual": "Hemisferio Norte (extinto)",
+    "zona_paleogeografica": "Eurasia y América del Norte",
+    "clima_estimado": "Frío y seco (glacial)"
+  },
+  "curiosidad": "Estaban adaptados al frío extremo con una gruesa capa de pelo, una capa de grasa aislante y orejas más pequeñas que los elefantes modernos.",
+  "imagen_principal_url": "mamut_lanudo.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Mamut lanudo (Mammuthus primigenius) fue una especie de mamut que vivió durante el Pleistoceno en el hemisferio norte. Era un herbívoro adaptado a los climas fríos de la Edad de Hielo, caracterizado por su denso pelaje lanudo, una capa de grasa subcutánea y orejas más pequeñas que las de los elefantes actuales para minimizar la pérdida de calor.\n\nSe alimentaba principalmente de hierbas y juncos de la 'estepa de mamut', un bioma frío y árido que se extendía por gran parte de Eurasia y América del Norte durante las glaciaciones. Sus colmillos curvados y largos eran utilizados para remover la nieve y el hielo en busca de vegetación. El Mamut lanudo se extinguió al final del Pleistoceno, probablemente debido a una combinación de cambio climático y la presión de la caza por parte de los humanos primitivos.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 2,
+    "rareza": 4,
+    "fuerza_estimada": 5,
+    "defensa": 4,
+    "inteligencia": 3,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  }
+}

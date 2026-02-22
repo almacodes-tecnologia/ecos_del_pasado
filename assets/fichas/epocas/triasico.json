@@ -1,0 +1,81 @@
+{
+  "id": "triasico",
+  "nombre": "Triásico",
+  "nombre_comun": "Período Triásico",
+  "periodo_geologico": "Mesozoico",
+  "era_geologica": "Mesozoica",
+  "inicio_millones_anos_atras": 251.902,
+  "fin_millones_anos_atras": 201.3,
+  "duracion_aproximada_millones_anos": 50.602,
+  "subdivisiones": [
+    {
+      "nombre": "Triásico Inferior",
+      "series": ["Induense", "Olenekiense"],
+      "inicio_millones_anos_atras": 251.902,
+      "fin_millones_anos_atras": 247.2
+    },
+    {
+      "nombre": "Triásico Medio",
+      "series": ["Anisiense", "Ladiniense"],
+      "inicio_millones_anos_atras": 247.2,
+      "fin_millones_anos_atras": 237.0
+    },
+    {
+      "nombre": "Triásico Superior",
+      "series": ["Carniense", "Noriense", "Rhaetiense"],
+      "inicio_millones_anos_atras": 237.0,
+      "fin_millones_anos_atras": 201.3
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "El supercontinente Pangea dominaba, con su forma de 'C' extendiéndose desde los polos. El océano de Tetis se extendía hacia el este, y el Océano Panthalassa cubría el resto del globo. El movimiento de Pangea comenzó a fracturarla en el Triásico Superior, formando los primeros rift de lo que sería el Atlántico.",
+    "clima_general": "Cálido y mayormente árido en las zonas interiores de Pangea debido a la continentalidad. Las regiones costeras y polares eran más húmedas. No había capas de hielo polares. Se caracterizó por un fuerte monzón estacional.",
+    "eventos_geologicos_importantes": "Actividad volcánica masiva asociada a la formación de la Provincia Magmática del Atlántico Central (CAMP) al final del Triásico, ligada a la desintegración de Pangea."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Gimnospermas (coníferas, cicadáceas, ginkgos)",
+      "Helechos",
+      "Colas de caballo (equisetos)",
+      "Licófitas (en menor medida)"
+    ],
+    "nuevas_apariciones": "Las primeras cícadas y ginkgos, así como la diversificación de coníferas modernas. Ausencia total de plantas con flores (angiospermas)."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Arcosaurios (grupo al que pertenecen cocodrilos, pterosaurios y dinosaurios)",
+      "Primeros dinosaurios (pequeños y bípedos al principio, como Eoraptor o Herrerasaurus)",
+      "Sinápsidos (incluyendo los cinodontes, ancestros de los mamíferos, y los dicinodontes herbívoros)",
+      "Primeros mamíferos verdaderos (pequeños y nocturnos)",
+      "Anfibios (temnospóndilos gigantes)"
+    ],
+    "fauna_marina_clave": [
+      "Ammonites (moluscos cefalópodos, muy diversos)",
+      "Bivalvos y gasterópodos",
+      "Reptiles marinos (ictiosaurios, notosaurios, plesiosaurios, placodontes)",
+      "Peces (rayos y tiburones primitivos)"
+    ],
+    "fauna_aerea_clave": [
+      "Primeros pterosaurios (reptiles voladores, como Eudimorphodon)"
+    ],
+    "nuevas_apariciones": "Los dinosaurios, mamíferos, pterosaurios, tortugas y cocodrilos hacen su primera aparición en el registro fósil durante el Triásico."
+  },
+  "eventos_biologicos_significativos": {
+    "recuperacion_post_permica": "La vida se recupera de la extinción masiva del Pérmico-Triásico, la más grande en la historia de la Tierra. Esta recuperación es lenta al principio, con 'zonas muertas' oceánicas.",
+    "radiacion_dinosaurios": "Aunque surgieron en el Triásico Medio, los dinosaurios no se diversificaron y dominaron los ecosistemas terrestres hasta el Triásico Superior y principios del Jurásico. Compitieron con otros arcosaurios y sinápsidos."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción Triásico-Jurásica",
+    "fecha_millones_anos_atras": 201.3,
+    "causas_probables": "Asociada a la actividad volcánica masiva de la Provincia Magmática del Atlántico Central (CAMP) durante la fragmentación de Pangea. Esto liberó grandes cantidades de CO2 y otros gases, causando calentamiento global y acidificación de los océanos.",
+    "impacto_biologico": "Provocó la extinción de aproximadamente el 80% de las especies terrestres y marinas, incluyendo muchos grupos de grandes anfibios, reptiles no dinosaurios y gran parte de la vida marina. Abrió el camino para el dominio de los dinosaurios en el Jurásico."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Ischigualasto-Talampaya (Argentina)",
+    "Formación Chinle (EE. UU.)",
+    "Formación Dockum (EE. UU.)",
+    "Formación Lossiemouth (Escocia)"
+  ],
+  "imagen_principal_url": "triasico.webp",
+  "mapa_paleogeografico_url": ""
+}

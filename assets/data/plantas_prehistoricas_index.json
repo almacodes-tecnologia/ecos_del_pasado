@@ -1,0 +1,38 @@
+[
+  {
+    "id": "archaeopteris",
+    "nombre_comun": "Archaeopteris",
+    "nombre_cientifico": "Archaeopteris spp.",
+    "tipo_vegetal": "Árbol prehistórico",
+    "grupo": "Progymnospermae",
+    "epoca": "Devónico",
+    "imagen_principal_url": "archaeopteris.webp"
+  },
+  {
+    "id": "calamites",
+    "nombre_comun": "Calamites",
+    "nombre_cientifico": ".",
+    "tipo_vegetal": "Equisetos gigantes",
+    "grupo": "Equisetophyta",
+    "epoca": "Carbonífero",
+    "imagen_principal_url": "calamites.webp"
+  },
+  {
+    "id": "glossopteris",
+    "nombre_comun": "Glossopteris",
+    "nombre_cientifico": ".",
+    "tipo_vegetal": "Árbol prehistórico",
+    "grupo": "Glossopteridales",
+    "epoca": "Pérmico",
+    "imagen_principal_url": "glossopteris.webp"
+  },
+  {
+    "id": "williamsonia",
+    "nombre_comun": "Williamsonia",
+    "nombre_cientifico": ".",
+    "tipo_vegetal": "Cícada",
+    "grupo": "Bennettitales",
+    "epoca": "Jurásico",
+    "imagen_principal_url": "williamsonia.webp"
+  }
+]

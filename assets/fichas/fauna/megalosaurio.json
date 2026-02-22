@@ -1,0 +1,62 @@
+{
+  "id": "megalosaurio",
+  "nombre": "Megalosaurus bucklandii",
+  "nombre_comun": "Megalosaurio",
+  "nombre_cientifico": "Megalosaurus bucklandii",
+  "tipo_animal": "dinosaurio",
+  "grupo": "megalosáurido",
+  "clasificacion": {
+    "familia": "Megalosauridae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 7.0,
+    "altura_m": 2.5,
+    "peso_t": 1.0
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Bathoniense (Medio)",
+    "edad_millones_anios": "167–164"
+  },
+  "descubrimiento": {
+    "anio": 1824,
+    "descubridor": "William Buckland",
+    "lugar_original": {
+      "formacion": "Stonesfield Slate",
+      "region": "Oxfordshire",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Oxfordshire"],
+      "lat": 51.8,
+      "lon": -1.5
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques y llanuras costeras",
+    "zona_actual": "Europa (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Fue el primer dinosaurio no aviano en ser descrito científicamente, aunque en su momento no se le reconoció como tal.",
+  "imagen_principal_url": "megalosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Megalosaurus bucklandii fue un género de dinosaurios terópodos carnívoros que vivió durante el Jurásico Medio en lo que hoy es Europa. Es históricamente significativo por ser el primer dinosaurio no aviano en ser descrito científicamente, aunque el término 'dinosaurio' no se acuñaría hasta más tarde. Era un depredador bípedo con dientes afilados y aserrados, adaptados para desgarrar carne.\n\nAunque inicialmente se le asignaron muchos fósiles fragmentarios de terópodos de diferentes épocas y lugares, la investigación moderna ha refinado su clasificación, reconociéndolo como un megalosáurido típico de su tiempo. Megalosaurus era un cazador activo en los bosques y llanuras costeras del Jurásico, alimentándose de otros dinosaurios y animales de su entorno. Su descubrimiento fue un hito en la paleontología y sentó las bases para el estudio de los dinosaurios.",
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 3,
+    "rareza": 3,
+    "fuerza_estimada": 3,
+    "defensa": 2,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 4
+  }
+}

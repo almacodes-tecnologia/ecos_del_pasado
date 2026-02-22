@@ -1,0 +1,75 @@
+{
+  "id": "cretacico",
+  "nombre": "Cretácico",
+  "nombre_comun": "Período Cretácico",
+  "periodo_geologico": "Mesozoico",
+  "era_geologica": "Mesozoica",
+  "inicio_millones_anos_atras": 145.0,
+  "fin_millones_anos_atras": 66.0,
+  "duracion_aproximada_millones_anos": 79.0,
+  "subdivisiones": [
+    {
+      "nombre": "Cretácico Inferior",
+      "series": ["Berriasiense", "Valanginiense", "Hauteriviense", "Barremiense", "Aptiense", "Albiense"],
+      "inicio_millones_anos_atras": 145.0,
+      "fin_millones_anos_atras": 100.5
+    },
+    {
+      "nombre": "Cretácico Superior",
+      "series": ["Cenomaniense", "Turoniense", "Coniaciense", "Santoniense", "Campaniense", "Maastrichtiense"],
+      "inicio_millones_anos_atras": 100.5,
+      "fin_millones_anos_atras": 66.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Pangea continuó su fragmentación, separándose en los continentes actuales. El Atlántico Sur se abrió completamente, y la India comenzó su viaje hacia el norte. La actividad tectónica fue intensa, con la formación de grandes cadenas montañosas.",
+    "clima_general": "El Cretácico fue un período de invernadero, con temperaturas globales muy cálidas y niveles del mar significativamente más altos que los actuales. No había casquetes polares y las zonas polares eran templadas. Hubo fluctuaciones climáticas, pero la tendencia general fue de calentamiento.",
+    "eventos_geologicos_importantes": "Formación de grandes depósitos de tiza (creta), que da nombre al período. Intensa actividad volcánica, especialmente en las provincias ígneas grandes (LIPs), que contribuyó al calentamiento global. Formación de las Montañas Rocosas y los Andes."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Angiospermas (plantas con flores, que se diversificaron y dominaron)",
+      "Gimnospermas (coníferas, cicadáceas, ginkgos, pero en declive relativo)",
+      "Helechos",
+      "Magnoliáceas (primeras angiospermas)"
+    ],
+    "nuevas_apariciones": "La aparición y rápida diversificación de las angiospermas revolucionó los ecosistemas terrestres, coevolucionando con los insectos polinizadores."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Dinosaurios (Tiranosaurios, Triceratops, Hadrosaurios, Anquilosaurios, etc.)",
+      "Mamíferos (pequeños, placentarios y marsupiales primitivos)",
+      "Serpientes y lagartos (diversificación)",
+      "Insectos (gran diversificación, especialmente polinizadores)"
+    ],
+    "fauna_marina_clave": [
+      "Ammonites y belemnites (siguieron siendo abundantes hasta la extinción masiva)",
+      "Mosasaurs (grandes reptiles marinos dominantes)",
+      "Plesiosaurios y tortugas marinas",
+      "Peces teleósteos (peces óseos modernos, gran diversificación)"
+    ],
+    "fauna_aerea_clave": [
+      "Pterosaurios (alcanzaron tamaños gigantes, como Quetzalcoatlus)",
+      "Aves (diversificación y evolución de formas modernas)"
+    ],
+    "nuevas_apariciones": "Aparición de los mosasaurios como depredadores marinos dominantes. Gran diversificación de aves y mamíferos placentarios y marsupiales."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_angiosperma": "La rápida evolución y propagación de las plantas con flores transformó los paisajes terrestres y llevó a una coevolución con insectos polinizadores y herbívoros.",
+    "dominio_continuo_de_dinosaurios": "Los dinosaurios alcanzaron su máxima diversidad y especialización, incluyendo formas icónicas como Tyrannosaurus rex y Triceratops."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción Cretácico-Paleógeno (K-Pg)",
+    "fecha_millones_anos_atras": 66.0,
+    "causas_probables": "Impacto de un asteroide (Chicxulub) en la península de Yucatán, México, combinado con intensa actividad volcánica (Deccan Traps en India). El impacto causó inviernos de impacto, tsunamis, incendios globales y cambios climáticos drásticos.",
+    "impacto_biologico": "Provocó la extinción masiva de aproximadamente el 75% de las especies de la Tierra, incluyendo todos los dinosaurios no avianos, grandes reptiles marinos y voladores, y muchos grupos de plantas e invertebrados marinos. Marcó el fin del Mesozoico y el inicio del Cenozoico, abriendo el camino para la radiación de mamíferos y aves."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Hell Creek (Estados Unidos)",
+    "Formación Nemegt (Mongolia)",
+    "Bahía de Biscoe (Antártida)",
+    "Formación Candeleros (Argentina)"
+  ],
+  "imagen_principal_url": "cretacido.webp",
+  "mapa_paleogeografico_url": ""
+}

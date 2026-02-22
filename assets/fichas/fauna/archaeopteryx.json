@@ -1,0 +1,108 @@
+{
+  "id": "archaeopteryx",
+  "nombre_comun": "Archaeopteryx",
+  "nombre_cientifico": "Archaeopteryx lithographica (Meyer, 1861)",
+  "tipo_animal": "dinosaurio aviano",
+  "grupo": "avialano basal",
+  
+  "clasificacion": {
+    "clase": "Aves",
+    "orden": "Archaeopterygiformes",
+    "familia": "Archaeopterygidae"
+  },
+  
+  "dimensiones": {
+    "longitud_m": 0.5,
+    "altura_m": 0.25,
+    "peso_kg": 0.9,
+    "descripcion_dimensiones": "El *Archaeopteryx* medía cerca de medio metro desde el pico hasta la cola, con una envergadura alar de unos 70 centímetros y un peso inferior a un kilogramo. Tenía proporciones intermedias entre un ave moderna y un pequeño terópodo."
+  },
+  
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Final",
+    "rango_edad_presentacion": "Hace entre 150 y 145 millones de años",
+    "edad_inicio_ma": 150.0,
+    "edad_fin_ma": 145.0
+  },
+  
+  "descubrimiento": {
+    "anio": 1861,
+    "descubridor": "Christian Erich Hermann von Meyer",
+    "lugar_original": {
+      "formacion": "Formación Solnhofen",
+      "region": "Baviera",
+      "pais": "Alemania"
+    }
+  },
+  
+  "yacimientos_clave": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Baviera"],
+      "coordenadas": [
+        {"lat": 48.90, "lon": 10.90}
+      ]
+    }
+  ],
+  
+  "habitat_aproximado": {
+    "tipo": "Entorno costero y lagunar subtropical",
+    "zona_actual": "Europa Central (extinto)",
+    "zona_paleogeografica": "Islas del Archipiélago Europeo del Jurásico",
+    "clima_estimado": "Cálido y húmedo, con abundante vegetación y cuerpos de agua poco profundos que favorecían insectos y pequeños reptiles."
+  },
+  
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro oportunista",
+      "detalle": "Probablemente se alimentaba de pequeños reptiles, insectos y otros invertebrados. Su pico dentado y garras curvas indican un estilo de caza activo y versátil."
+    },
+    "socialidad": "Posiblemente solitario o en pequeños grupos dispersos, similar a algunas aves modernas de hábitos forestales.",
+    "defensa": "Confiaba en su camuflaje y capacidad de planeo para evadir depredadores. Sus plumas también podían ayudarlo a ganar altura o amortiguar caídas.",
+    "movimiento": "Bípeda al correr y cuadrúpeda al trepar; poseía plumas asimétricas que le permitían planear o realizar cortos vuelos batidos.",
+    "reproduccion": "Ovíparo, con huevos similares a los de pequeños dinosaurios terópodos. Las crías nacían precoces y probablemente nidificaban en zonas seguras.",
+    "actividad": "Diurna, con hábitos arborícolas y terrestres alternos; probablemente descansaba entre ramas y cazaba al amanecer o al atardecer."
+  },
+  
+  "curiosidades_adicionales": [
+    "Considerado el eslabón entre dinosaurios y aves modernas, *Archaeopteryx* combina rasgos reptilianos (dientes, cola ósea, garras) con plumas y capacidad de vuelo.",
+    "El primer ejemplar fue hallado en la misma cantera que una pluma fósil aislada, lo que confirmó la existencia de aves en el Jurásico.",
+    "Sus plumas presentan estructura idéntica a la de las aves actuales, lo que indica una función aerodinámica plenamente desarrollada.",
+    "El fósil conocido como 'Ejemplar de Berlín' es uno de los más icónicos del mundo, y ha sido clave en la comprensión de la transición evolutiva hacia las aves.",
+    "*Archaeopteryx* vivió en un entorno de islotes tropicales y probablemente representaba una forma temprana de vuelo planado entre árboles o acantilados."
+  ],
+  
+  "imagen_principal_url": "archaeopteryx.webp",
+  "galeria_imagenes": [
+    "archaeopteryx_reconstruccion.webp",
+    "archaeopteryx_fosil.webp",
+    "archaeopteryx_pluma.webp"
+  ],
+  
+  "descripcion_cientifica": [
+    "El *Archaeopteryx lithographica* es uno de los fósiles más importantes de la paleontología, al representar una clara transición entre los dinosaurios terópodos y las aves modernas.",
+    "Su anatomía muestra un equilibrio entre rasgos avianos (plumas, alas, fúrcula) y rasgos reptilianos (cola ósea, mandíbulas con dientes, manos con garras).",
+    "Las plumas de vuelo eran asimétricas, lo que indica una capacidad real de vuelo o planeo controlado. El esternón reducido sugiere que no podía realizar vuelos prolongados como las aves modernas.",
+    "Los estudios de microestructura ósea y la disposición de los músculos indican un metabolismo activo, probablemente endotérmico, en línea con los terópodos más evolucionados."
+  ],
+  
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 4,
+    "rareza": 5,
+    "fuerza_estimada": 2,
+    "defensa": 2,
+    "inteligencia": 4,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 5,
+    "impresionabilidad": 5
+  },
+  
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-11-13",
+    "referencia_principal": "Meyer, C. E. H. von (1861)"
+  }
+}

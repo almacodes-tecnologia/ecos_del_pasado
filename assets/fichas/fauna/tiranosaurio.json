@@ -1,0 +1,68 @@
+{
+  "id": "tiranosaurio",
+  "nombre": "Tyrannosaurus Rex",
+  "nombre_comun": "Tiranosaurio Rex",
+  "nombre_cientifico": "Tyrannosaurus rex",
+  "tipo_animal": "dinosaurio",
+  "grupo": "tiranosáurido",
+  "clasificacion": {
+    "familia": "Tyrannosauridae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 12.0,
+    "altura_m": 4.0,
+    "peso_t": 9.0
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Maastrichtiense (Tardío)",
+    "edad_millones_anios": "68–66"
+  },
+  "descubrimiento": {
+    "anio": 1902,
+    "descubridor": "Barnum Brown",
+    "lugar_original": {
+      "formacion": "Hell Creek",
+      "region": "Montana",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Montana", "Wyoming", "Dakota del Sur"],
+      "lat": 45.0,
+      "lon": -105.0
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Alberta", "Saskatchewan"],
+      "lat": 53.0,
+      "lon": -110.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques subtropicales y llanuras costeras",
+    "zona_actual": "Oeste de América del Norte (extinto)",
+    "zona_paleogeografica": "Laramidia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Con una de las fuerzas de mordida más potentes de cualquier animal terrestre conocido, el T. rex podía aplastar huesos con facilidad.",
+  "imagen_principal_url": "tiranosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Tyrannosaurus rex fue uno de los dinosaurios terópodos más grandes y conocidos, viviendo en el oeste de América del Norte durante el Cretácico Tardío. Era un depredador ápice, caracterizado por su enorme cráneo, dientes aserrados en forma de plátano y una mordida increíblemente potente, capaz de ejercer una de las fuerzas de mordida más grandes entre los animales terrestres.\n\nAunque sus brazos eran diminutos en proporción a su cuerpo, eran sorprendentemente musculosos. La dieta del T. rex incluía grandes herbívoros como Triceratops y Edmontosaurus. A pesar de su fama como depredador, la comunidad científica aún debate si era un cazador activo, un carroñero, o una combinación de ambos. Su reinado terminó con el evento de extinción masiva del Cretácico-Paleógeno.",
+  "estadisticas_fantasia": {
+    "agresividad": 5,
+    "velocidad": 3,
+    "rareza": 5,
+    "fuerza_estimada": 5,
+    "defensa": 4,
+    "inteligencia": 4,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  }
+}

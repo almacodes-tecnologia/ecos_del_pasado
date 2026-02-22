@@ -1,0 +1,105 @@
+{
+  "id": "carbonifero",
+  "nombre": "Carbonífero",
+  "nombre_comun": "Período Carbonífero",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 358.9,
+  "fin_millones_anos_atras": 298.9,
+  "duracion_aproximada_millones_anos": 60.0,
+
+  "subdivisiones": [
+    {
+      "nombre": "Misisípico",
+      "series": ["Tournaisiense", "Viseense", "Serpukhoviense"],
+      "inicio_millones_anos_atras": 358.9,
+      "fin_millones_anos_atras": 323.2
+    },
+    {
+      "nombre": "Pensilvánico",
+      "series": ["Bashkiriense", "Moscoviense", "Kasimoviense", "Gzheliense"],
+      "inicio_millones_anos_atras": 323.2,
+      "fin_millones_anos_atras": 298.9
+    }
+  ],
+
+  "geologia_y_clima": {
+    "configuracion_continental": "Gondwana y Euramérica se aproximaban, proceso que culminaría en la formación de Pangea. La colisión generó la orogenia Hercínica/Varisca, creando grandes cordilleras.",
+    "clima_general": "Clima cálido y húmedo durante gran parte del período, favoreciendo la expansión de bosques pantanosos. Hacia el final, Gondwana experimentó una glaciación importante (glaciación Karoo).",
+    "eventos_geologicos_importantes": "Formación de pantanos de carbón, intensa actividad tectónica por colisión continental y fluctuaciones del nivel del mar asociadas a las glaciaciones."
+  },
+
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Bosques de licófitas gigantes (Lepidodendron, Sigillaria)",
+      "Helechos arborescentes (Psaronius)",
+      "Equisetos gigantes (Calamites)",
+      "Primeras coníferas y cicadáceas"
+    ],
+    "nuevas_apariciones": "Diversificación de las plantas con semillas (gimnospermas) y desarrollo de árboles modernos que formarían los futuros depósitos de carbón."
+  },
+
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Anfibios de gran tamaño y diversidad",
+      "Primeros reptiles (Hylonomus) con huevos amnióticos",
+      "Artrópodos gigantes como Meganeura y Arthropleura",
+      "Insectos con nuevas formas aladas"
+    ],
+    "fauna_marina_clave": [
+      "Braquiópodos, bivalvos y gasterópodos",
+      "Amonites y belemnites",
+      "Crinoideos y equinodermos abundantes",
+      "Peces cartilaginosos y óseos primitivos",
+      "Foraminíferos"
+    ],
+    "fauna_aerea_clave": [
+      "Insectos voladores de gran tamaño"
+    ],
+    "nuevas_apariciones": "Los reptiles se independizan del agua para la reproducción gracias al huevo amniótico. El oxígeno elevado favorece el gigantismo de artrópodos."
+  },
+
+  "eventos_importantes": [
+    "Formación de grandes depósitos de carbón",
+    "Diversificación de los insectos alados",
+    "Aparición del huevo amniótico en los primeros reptiles",
+    "Gigantismo de los artrópodos debido al alto oxígeno atmosférico",
+    "Glaciación en Gondwana hacia el final del período"
+  ],
+
+  "descripcion": [
+    "El Carbonífero fue un período caracterizado por vastos bosques pantanosos dominados por licófitas y helechos arborescentes. Estas masas vegetales dieron lugar a los grandes depósitos de carbón explotados en la actualidad.",
+    "Los niveles atmosféricos de oxígeno alcanzaron valores excepcionalmente altos, lo que permitió el desarrollo de insectos y artrópodos gigantes como Meganeura o Arthropleura.",
+    "Durante el Carbonífero aparecieron los primeros reptiles verdaderos, cuyo huevo amniótico les permitió reproducirse lejos del agua, marcando un avance evolutivo clave.",
+    "Hacia el final del período se produjo una glaciación importante en Gondwana, desencadenando cambios climáticos y ecológicos que afectaron profundamente a los ecosistemas tropicales."
+  ],
+
+  "fin_del_periodo": [
+    "Glaciación prolongada en Gondwana (glaciación Karoo)",
+    "Colapso de los bosques pantanosos tropicales",
+    "Reducción de hábitats húmedos que afectó a anfibios y flora dominante",
+    "Expansión de ecosistemas más secos que favorecieron a los reptiles"
+  ],
+
+  "extinciones_masivas": {
+    "nombre_extincion": "Colapso de los Bosques Lluviosos del Carbonífero (CRC)",
+    "fecha_millones_anos_atras": 305.0,
+    "causas_probables": "Enfriamiento global y aridificación asociados a la glaciación en Gondwana, provocando fragmentación de los bosques tropicales.",
+    "impacto_biologico": "Gran pérdida de anfibios y plantas tropicales. Los reptiles se volvieron predominantes en ambientes más secos."
+  },
+
+  "sitios_fosiles_clave": [
+    "Joggins Fossil Cliffs (Canadá)",
+    "Mazon Creek (Estados Unidos)",
+    "East Kirkton Quarry (Escocia)",
+    "Drumclog (Escocia)"
+  ],
+
+  "imagen_principal_url": "carbonifero.webp",
+  "galeria_de_imagenes": [
+    "bosque_carbonifero.webp",
+    "artrópodos_gigantes.webp"
+  ],
+
+  "mapa_paleogeografico_url": ""
+}

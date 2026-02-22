@@ -1,0 +1,72 @@
+{
+  "id": "archaeopteris",
+  "nombre_comun": "Archaeopteris",
+  "nombre_cientifico": "Archaeopteris spp.",
+  "tipo_vegetal": "árbol prehistórico",
+  "grupo": "Progymnospermae",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Progymnospermales"
+  },
+  "dimensiones": {
+    "altura_m": 10.0,
+    "diametro_tronco_m": 0.5,
+    "extension_copa_m": 4.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico",
+    "fase": "Tardío",
+    "edad_millones_anios": "385–359",
+    "edad_inicio_millones_anios": 385,
+    "edad_fin_millones_anios": 359
+  },
+  "descubrimiento": {
+    "anio": 1871,
+    "descubridor": "John William Dawson",
+    "lugar_original": {
+      "formacion": "Escocia y Norteamérica",
+      "region": "Europa y América del Norte",
+      "pais": "Canadá / Escocia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Canadá",
+      "regiones": ["Quebec", "Nueva Escocia"],
+      "lat": 47.0,
+      "lon": -65.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques húmedos ribereños",
+    "zona_actual": "Regiones templadas del hemisferio norte",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Fue la primera planta leñosa en formar verdaderos bosques y probablemente tuvo un gran impacto en el clima global al aumentar el oxígeno atmosférico."
+  ],
+  "imagen_principal_url": "archaeopteris.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Archaeopteris fue un género de plantas arborescentes del Devónico tardío, con estructuras similares a los helechos pero con madera verdadera. Se considera una transición clave entre los helechos y las gimnospermas, y su capacidad para crecer alto y formar bosques marcó un hito en la evolución vegetal. Su existencia tuvo un efecto profundo en los ecosistemas y la atmósfera de la Tierra.",
+  "estadisticas_ambientales": {
+    "belleza": 4,
+    "rareza": 5,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Compuestas y planas, similares a las de los helechos",
+    "tronco": "Leñoso, con anillos de crecimiento primitivos",
+    "raiz": "Extensa, ramificada"
+  },
+  "reproduccion": {
+    "tipo": "Esporas"
+  },
+  "extincion": "Desconocida, probablemente relacionada con cambios climáticos y competencia con gimnospermas más modernas"
+}

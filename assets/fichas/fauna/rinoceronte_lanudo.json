@@ -1,0 +1,74 @@
+{
+  "id": "rinoceronte_lanudo",
+  "nombre": "Coelodonta antiquitatis",
+  "nombre_comun": "Rinoceronte lanudo",
+  "nombre_cientifico": "Coelodonta antiquitatis",
+  "tipo_animal": "mamífero",
+  "grupo": "rinocerótido",
+  "clasificacion": {
+    "familia": "Rhinocerotidae",
+    "orden": "Perissodactyla"
+  },
+  "dimensiones": {
+    "longitud_m": 3.7,
+    "altura_m": 1.9,
+    "peso_t": 2.5
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.35–0.014"
+  },
+  "descubrimiento": {
+    "anio": 1769,
+    "descubridor": "Peter Simon Pallas",
+    "lugar_original": {
+      "formacion": "Siberia",
+      "region": "Siberia",
+      "pais": "Rusia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Rusia",
+      "regiones": ["Siberia"],
+      "lat": 60.0,
+      "lon": 105.0
+    },
+    {
+      "pais": "Europa",
+      "regiones": ["Alemania", "Polonia", "Reino Unido"],
+      "lat": 50.0,
+      "lon": 10.0
+    },
+    {
+      "pais": "China",
+      "regiones": ["Norte de China"],
+      "lat": 40.0,
+      "lon": 110.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Estepa de mamut (tundra-estepa fría)",
+    "zona_actual": "Eurasia (extinto)",
+    "zona_paleogeografica": "Eurasia",
+    "clima_estimado": "Frío y seco (glacial)"
+  },
+  "curiosidad": "Poseía dos cuernos de queratina, siendo el frontal muy largo, y estaba cubierto de un espeso pelaje que lo protegía del frío glacial.",
+  "imagen_principal_url": "rinoceronte_lanudo.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Rinoceronte lanudo (Coelodonta antiquitatis) fue una especie de rinoceronte extinta que vivió en las vastas estepas frías de Eurasia durante el Pleistoceno. Estaba adaptado de manera única a los climas glaciares, con un espeso pelaje lanudo, orejas pequeñas, patas cortas y robustas, y dos cuernos de queratina, siendo el frontal particularmente largo.\n\nSe alimentaba de hierbas y líquenes que pastoreaba en la tundra-estepa. Sus cuernos probablemente se usaban para la defensa y para apartar la nieve en busca de vegetación. Coexistió con mamuts lanudos y otros animales de la megafauna. Su extinción al final de la última Edad de Hielo se atribuye a los cambios climáticos que redujeron su hábitat y a la presión de la caza por parte de los humanos, como lo demuestran las representaciones en el arte rupestre.",
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 2,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 5,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 4
+  }
+}

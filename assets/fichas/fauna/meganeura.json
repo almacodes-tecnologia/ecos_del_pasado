@@ -1,0 +1,68 @@
+{
+  "id": "megaunera",
+  "nombre": "Meganeura",
+  "nombre_comun": "Meganeura",
+  "nombre_cientifico": "Meganeura monyi",
+  "tipo_animal": "insecto",
+  "grupo": "Protodonata",
+  "clasificacion": {
+    "familia": "Meganeuridae",
+    "orden": "Meganisoptera"
+  },
+  "dimensiones": {
+    "longitud_m": 0.3,
+    "altura_m": 0.05,
+    "peso_t": 0.00001
+  },
+  "alimentacion": "Carnívoro/Insectívoro",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero",
+    "fase": "Superior",
+    "edad_millones_anios": "305–299"
+  },
+  "descubrimiento": {
+    "anio": 1884,
+    "descubridor": "Charles Brongniart",
+    "lugar_original": {
+      "formacion": "Commentry",
+      "region": "Auvernia",
+      "pais": "Francia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Francia",
+      "regiones": ["Auvernia"],
+      "lat": 46.2,
+      "lon": 3.0
+    },
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Derbyshire"],
+      "lat": 53.0,
+      "lon": -1.5
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques húmedos y pantanosos",
+    "zona_actual": "Europa y América del Norte",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido y muy húmedo"
+  },
+  "curiosidad": "Fue uno de los insectos voladores más grandes de la historia, con una envergadura de alas de hasta 75 cm, gracias a los altos niveles de oxígeno atmosférico del Carbonífero.",
+  "imagen_principal_url": "meganeura.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Meganeura fue un género de insectos protodonatos gigantes que vivieron durante el período Carbonífero. Es notable por ser uno de los insectos voladores más grandes conocidos en la historia de la Tierra, con una envergadura de alas que podía alcanzar hasta 75 centímetros. Su gran tamaño se atribuye a los altos niveles de oxígeno atmosférico presentes durante el Carbonífero, que permitían un sistema respiratorio más eficiente para insectos tan grandes.\n\nAunque a menudo se la confunde con una libélula gigante, Meganeura no era una libélula verdadera, sino un pariente cercano. Era un depredador aéreo, probablemente cazando otros insectos y pequeños anfibios en los densos bosques pantanosos que caracterizaban el paisaje del Carbonífero.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 5,
+    "rareza": 4,
+    "fuerza_estimada": 2,
+    "defensa": 1,
+    "inteligencia": 1,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

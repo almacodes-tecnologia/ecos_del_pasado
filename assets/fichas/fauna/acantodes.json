@@ -1,0 +1,68 @@
+{
+  "id": "acantodes",
+  "nombre": "Acanthodes bronni",
+  "nombre_comun": "Acantodes",
+  "nombre_cientifico": "Acanthodes bronni",
+  "tipo_animal": "pez",
+  "grupo": "acantodio",
+  "clasificacion": {
+    "familia": "Acanthodidae",
+    "orden": "Acanthodiformes"
+  },
+  "dimensiones": {
+    "longitud_m": 0.3,
+    "altura_m": 0.05,
+    "peso_t": 0.0001
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Temprano",
+    "edad_millones_anios": "290–270"
+  },
+  "descubrimiento": {
+    "anio": 1833,
+    "descubridor": "Louis Agassiz",
+    "lugar_original": {
+      "formacion": "Saar-Nahe Basin",
+      "region": "Renania-Palatinado",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Saar-Nahe"],
+      "lat": 49.5,
+      "lon": 7.5
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Texas", "Oklahoma"],
+      "lat": 33.0,
+      "lon": -98.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Aguas dulces (lagos y ríos) y estuarios",
+    "zona_actual": "Europa y América del Norte (extinto)",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Templado a cálido"
+  },
+  "curiosidad": "Eran 'tiburones espinosos', un grupo extinto de peces que combinaban características de tiburones y peces óseos, con una espina delante de cada aleta.",
+  "imagen_principal_url": "acantodes.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Acanthodes fue un género de peces acantodios, un grupo extinto de peces que a menudo se les denomina 'tiburones espinosos' debido a las prominentes espinas que precedían a cada una de sus aletas. Vivieron durante el Pérmico temprano y habitaban principalmente en ambientes de agua dulce, como lagos y ríos, así como estuarios.\n\nEran depredadores pequeños, con un cuerpo alargado y aerodinámico, adaptado para la natación rápida. Sus branquias estaban cubiertas por un opérculo, una característica más común en los peces óseos que en los tiburones. Los acantodios representan un grupo clave en la evolución de los vertebrados, mostrando una mezcla de rasgos primitivos y avanzados que los sitúan en una posición importante en el árbol filogenético de los peces.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 4,
+    "rareza": 3,
+    "fuerza_estimada": 1,
+    "defensa": 2,
+    "inteligencia": 1,
+    "impacto_historico": 2,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 2
+  }
+}

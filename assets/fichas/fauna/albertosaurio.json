@@ -1,0 +1,107 @@
+{
+  "id": "albertosaurus",
+  "nombre_comun": "Albertosaurio",
+  "nombre_cientifico": "Albertosaurus sarcophagus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Tyrannosauridae"
+  },
+  
+  "dimensiones": {
+    "longitud_m": 9.0,
+    "altura_m": 3.0,
+    "peso_kg": 2500.0,
+    "descripcion_dimensiones": "El *Albertosaurus* alcanzaba alrededor de 9 metros de largo y pesaba aproximadamente entre 1.7 y 2.5 toneladas. Era más esbelto y ligero que su pariente cercano, el *Tyrannosaurus rex*, con un cráneo estrecho y extremidades traseras largas adaptadas para la velocidad."
+  },
+  
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 72 y 68 millones de años",
+    "edad_inicio_ma": 72.0,
+    "edad_fin_ma": 68.0
+  },
+  
+  "descubrimiento": {
+    "anio": 1905,
+    "descubridor": "Henry Fairfield Osborn",
+    "lugar_original": {
+      "formacion": "Horseshoe Canyon Formation",
+      "region": "Alberta",
+      "pais": "Canadá"
+    }
+  },
+  
+  "yacimientos_clave": [
+    {
+      "pais": "Canadá",
+      "regiones": ["Alberta"],
+      "coordenadas": [
+        {"lat": 51.32, "lon": -112.72}
+      ]
+    }
+  ],
+  
+  "habitat_aproximado": {
+    "tipo": "Llanuras fluviales, deltas y bosques abiertos",
+    "zona_actual": "Oeste de Canadá (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Templado-cálido, con estaciones húmedas influenciadas por el Mar Interior Occidental."
+  },
+  
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Depredador activo especializado en grandes herbívoros como hadrosaurios y ceratópsidos. Su construcción ligera le daba ventaja en persecuciones cortas y emboscadas rápidas."
+    },
+    "socialidad": "Existe evidencia fósil que sugiere comportamientos sociales o agregaciones, ya que varios ejemplares han sido hallados juntos, aunque se debate si eran manadas o simples acumulaciones postmortem.",
+    "defensa": "Su mejor defensa era su velocidad, sus poderosas mandíbulas llenas de dientes aserrados y su postura bípeda ágil. Poseía sentidos desarrollados, especialmente visión y olfato.",
+    "movimiento": "Bípedo y muy ágil. Se estima que podía alcanzar velocidades de entre 30 y 40 km/h gracias a sus largas piernas.",
+    "reproduccion": "Ovíparo. Probablemente construía nidos excavados como otros terópodos, aunque no se han encontrado nidos atribuibles directamente a *Albertosaurus*.",
+    "actividad": "Principalmente diurno, aunque su agudo sentido del olfato sugiere que podía operar también en condiciones de poca luz."
+  },
+  
+  "curiosidades_adicionales": [
+    "El *Albertosaurus* era más ligero y rápido que el *T. rex*, aunque pertenecían a la misma familia de terópodos tiranosáuridos.",
+    "Se han encontrado más de 20 individuos en un mismo yacimiento, lo que sugiere que pudo tener algún grado de vida social o comportamiento grupal.",
+    "Sus dientes estaban diseñados para cortar carne con gran eficacia y se reemplazaban continuamente a lo largo de su vida.",
+    "Los estudios de crecimiento muestran que experimentaba una fase de crecimiento extremadamente rápido durante la adolescencia."
+  ],
+  
+  "imagen_principal_url": "albertosaurus.webp",
+  "galeria_imagenes": [
+    "albertosaurus_reconstruccion.webp",
+    "albertosaurus_fosil.webp",
+    "albertosaurus_cazando.webp"
+  ],
+  
+  "descripcion_cientifica": [
+    "El *Albertosaurus* fue un tiranosáurido de tamaño medio que habitó el Cretácico tardío en lo que hoy es Alberta, Canadá. Su cuerpo esbelto indica una adaptación hacia la velocidad y eficiencia depredadora.",
+    "Sus mandíbulas, aunque menos robustas que las de *T. rex*, eran lo suficientemente poderosas para infligir heridas profundas. Sus dientes aserrados estaban optimizados para desgarrar carne.",
+    "Los hallazgos de múltiples individuos en un mismo sitio han alimentado el debate sobre si los tiranosáuridos podían formar grupos sociales o cazar cooperativamente.",
+    "Su estudio ha proporcionado información esencial sobre la ontogenia de los tiranosáuridos, incluyendo patrones de crecimiento acelerado en etapas juveniles."
+  ],
+  
+  "estadisticas_fantasia": {
+    "agresividad": 5,
+    "velocidad": 4,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 4,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 5,
+    "impresionabilidad": 5
+  },
+  
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-11-14",
+    "referencia_principal": "Osborn, H. F. (1905)"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "alosaurio",
+  "nombre": "Allosaurus fragilis",
+  "nombre_comun": "Alosaurio",
+  "nombre_cientifico": "Allosaurus fragilis",
+  "tipo_animal": "dinosaurio",
+  "grupo": "alosaurio",
+  "clasificacion": {
+    "familia": "Allosauridae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 8.5,
+    "altura_m": 3.5,
+    "peso_t": 2.0
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "edad_millones_anios": "155–145"
+  },
+  "descubrimiento": {
+    "anio": 1877,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Morrison",
+      "region": "Colorado",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Colorado", "Utah", "Wyoming"],
+      "lat": 39.0,
+      "lon": -106.0
+    },
+    {
+      "pais": "Portugal",
+      "regiones": ["Lourinhã Formation"],
+      "lat": 39.0,
+      "lon": -9.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y bosques abiertos",
+    "zona_actual": "América del Norte y Europa (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Era el depredador ápice de su ecosistema en el Jurásico Tardío, cazando grandes saurópodos y estegosaurios.",
+  "imagen_principal_url": "allosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Allosaurus fragilis fue un gran dinosaurio terópodo carnívoro que dominó los ecosistemas de América del Norte durante el Jurásico Tardío. Era un depredador formidable, con un cráneo grande y robusto, dientes aserrados y garras afiladas en sus manos de tres dedos. Se le considera el 'león del Jurásico' por su posición como depredador ápice.\n\nLa evidencia fósil, incluyendo marcas de mordeduras en huesos de presas como Estegosaurio y saurópodos, sugiere que Allosaurus era un cazador activo. Aunque no era tan grande como algunos tiranosáuridos posteriores, era ágil y rápido, capaz de cazar presas grandes. Se han encontrado múltiples esqueletos juntos, lo que ha llevado a debatir si cazaban en manada o si los sitios eran trampas de depredadores.",
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 4,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 4
+  }
+}

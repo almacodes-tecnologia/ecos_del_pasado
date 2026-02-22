@@ -1,0 +1,68 @@
+{
+  "id": "bisonte_gigante",
+  "nombre": "Bison latifrons",
+  "nombre_comun": "Bisonte gigante",
+  "nombre_cientifico": "Bison latifrons",
+  "tipo_animal": "mamífero",
+  "grupo": "bóvido",
+  "clasificacion": {
+    "familia": "Bovidae",
+    "orden": "Artiodactyla"
+  },
+  "dimensiones": {
+    "longitud_m": 4.6,
+    "altura_m": 2.5,
+    "peso_t": 2.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.2–0.009"
+  },
+  "descubrimiento": {
+    "anio": 1852,
+    "descubridor": "Richard Harlan",
+    "lugar_original": {
+      "formacion": "Big Bone Lick",
+      "region": "Kentucky",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["California", "Florida", "Grandes Llanuras"],
+      "lat": 37.0,
+      "lon": -95.0
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Yukón", "Alberta"],
+      "lat": 60.0,
+      "lon": -135.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Praderas y sabanas abiertas",
+    "zona_actual": "América del Norte (extinto)",
+    "zona_paleogeografica": "América del Norte",
+    "clima_estimado": "Templado a frío"
+  },
+  "curiosidad": "Poseía los cuernos más grandes de cualquier bóvido conocido, con una envergadura que podía superar los 2.5 metros.",
+  "imagen_principal_url": "bisonte_gigante.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Bison latifrons, o bisonte gigante de cuernos largos, fue una especie de bisonte extinta que habitó América del Norte durante el Pleistoceno. Se distinguía por su tamaño imponente y, sobre todo, por sus cuernos masivos, que podían extenderse hasta 2.5 metros de punta a punta, los más grandes de cualquier bóvido conocido.\n\nEstos cuernos probablemente se usaban para la defensa contra depredadores como el Smilodon y el León americano, así como en combates intraespecíficos por el dominio. Se alimentaba de pastos en las vastas praderas de la Edad de Hielo. Su extinción, al final del Pleistoceno, se asocia con el cambio climático y la presión de la caza por parte de los humanos primitivos.",
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 5,
+    "inteligencia": 2,
+    "impacto_historico": 3,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 4
+  }
+}

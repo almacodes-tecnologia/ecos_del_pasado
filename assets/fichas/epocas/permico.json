@@ -1,0 +1,81 @@
+{
+  "id": "permico",
+  "nombre": "Pérmico",
+  "nombre_comun": "Período Pérmico",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 298.9,
+  "fin_millones_anos_atras": 251.902,
+  "duracion_aproximada_millones_anos": 47.0,
+  "subdivisiones": [
+    {
+      "nombre": "Cisuraliense",
+      "series": ["Asseliense", "Sakmariense", "Artinskiense", "Kunguriense"],
+      "inicio_millones_anos_atras": 298.9,
+      "fin_millones_anos_atras": 272.95
+    },
+    {
+      "nombre": "Guadalupiense",
+      "series": ["Roadiense", "Wordiense", "Capitaniense"],
+      "inicio_millones_anos_atras": 272.95,
+      "fin_millones_anos_atras": 259.8
+    },
+    {
+      "nombre": "Lopingiense",
+      "series": ["Wuchiapingiense", "Changhsingiense"],
+      "inicio_millones_anos_atras": 259.8,
+      "fin_millones_anos_atras": 251.902
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "El supercontinente Pangea se completó en el Pérmico temprano, uniendo casi toda la masa terrestre en un solo continente. Esto llevó a la formación de grandes desiertos en el interior y a la elevación de cadenas montañosas (como los Apalaches).",
+    "clima_general": "El clima global varió desde un Pérmico temprano con glaciaciones en el hemisferio sur (Gondwana) hasta un Pérmico medio y tardío que se volvió progresivamente más cálido y árido, especialmente en el interior de Pangea.",
+    "eventos_geologicos_importantes": "Formación de la orogenia Varisca/Hercínica debido a la colisión continental. Grandes depósitos de carbón en el Pérmico temprano, seguidos por extensos depósitos de evaporitas (sal y yeso) en el Pérmico tardío debido a la aridez."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Gimnospermas (coníferas, cicadáceas, ginkgos, Glossopteris)",
+      "Helechos con semillas (Pteridospermas)",
+      "Helechos y licófitas (en declive, especialmente en zonas áridas)",
+      "Musgos y hepáticas"
+    ],
+    "nuevas_apariciones": "Las gimnospermas, especialmente las coníferas, se adaptaron mejor a los climas secos y comenzaron a dominar los paisajes terrestres, reemplazando a muchas plantas de los pantanos de carbón del Carbonífero."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Sinápsidos (reptiles mamiferoides, incluyendo los pelicosaurios como Dimetrodon y los dicinodontes)",
+      "Anfibios (grandes temnospóndilos)",
+      "Reptiles (parareptiles, primeros diápsidos)",
+      "Insectos (diversificación, incluyendo los primeros escarabajos y moscas)"
+    ],
+    "fauna_marina_clave": [
+      "Braquiópodos, bivalvos y gasterópodos",
+      "Amonites (diversificación)",
+      "Crinoideos y equinodermos",
+      "Peces óseos y cartilaginosos (tiburones y rayas primitivos)",
+      "Trilobites (últimas especies antes de la extinción)"
+    ],
+    "fauna_aerea_clave": [
+      "Insectos voladores (libélulas gigantes, cucarachas, etc.)"
+    ],
+    "nuevas_apariciones": "Gran diversificación de los sinápsidos terrestres, que se convirtieron en los vertebrados terrestres dominantes. Los reptiles se adaptaron a los ambientes terrestres secos."
+  },
+  "eventos_biologicos_significativos": {
+    "dominio_de_sinapsidos": "Los sinápsidos, a menudo conocidos como 'reptiles mamiferoides', dominaron los ecosistemas terrestres, mostrando adaptaciones hacia la endotermia y la diferenciación dental.",
+    "declive_de_anfibios": "A medida que el clima se volvió más árido, muchos grupos de anfibios que dependían del agua para la reproducción comenzaron a declinar."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción masiva del Pérmico-Triásico (La Gran Mortandad)",
+    "fecha_millones_anos_atras": 251.902,
+    "causas_probables": "Una combinación de factores, incluyendo la actividad volcánica masiva de las Trampas Siberianas (liberación de gases de efecto invernadero y aerosoles), el calentamiento global extremo, la anoxia oceánica y la acidificación de los océanos. También se ha sugerido un impacto de asteroide.",
+    "impacto_biologico": "Fue la extinción masiva más grande en la historia de la Tierra, eliminando aproximadamente el 96% de todas las especies marinas y el 70% de las especies de vertebrados terrestres. Marcó el fin del Paleozoico y abrió el camino para el dominio de los dinosaurios en el Mesozoico."
+  },
+  "sitios_fosiles_clave": [
+    "Karoo Basin (Sudáfrica)",
+    "Permian Basin (Estados Unidos)",
+    "Siberian Traps (Rusia)",
+    "Canning Basin (Australia)"
+  ],
+  "imagen_principal_url": "permico.webp",
+  "mapa_paleogeografico_url": ""
+}

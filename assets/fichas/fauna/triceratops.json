@@ -1,0 +1,112 @@
+{
+  "id": "triceratops",
+  "nombre_comun": "Triceratops",
+  "nombre_cientifico": "Triceratops horridus (Marsh, 1889)",
+  "tipo_animal": "dinosaurio",
+  "grupo": "ceratopsio",
+  
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Ceratopsidae"
+  },
+  
+  "dimensiones": {
+    "longitud_m": 9.0,
+    "altura_m": 3.0,
+    "peso_kg": 12000.0,
+    "descripcion_dimensiones": "El *Triceratops* alcanzaba unos 9 metros de longitud y 3 metros de altura hasta el hombro, con un peso estimado de hasta 12 toneladas. Su característico cráneo, uno de los más grandes del reino animal terrestre, podía medir más de 2.5 metros de largo."
+  },
+  
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Final",
+    "rango_edad_presentacion": "Hace entre 68 y 66 millones de años",
+    "edad_inicio_ma": 68.0,
+    "edad_fin_ma": 66.0
+  },
+  
+  "descubrimiento": {
+    "anio": 1889,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Formación Hell Creek",
+      "region": "Montana",
+      "pais": "Estados Unidos"
+    }
+  },
+  
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Montana", "Dakota del Sur", "Wyoming"],
+      "coordenadas": [
+        {"lat": 46.92, "lon": -105.70}
+      ]
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Alberta", "Saskatchewan"]
+    }
+  ],
+  
+  "habitat_aproximado": {
+    "tipo": "Llanuras subtropicales y bosques abiertos",
+    "zona_actual": "América del Norte (extinto)",
+    "zona_paleogeografica": "Laramidia, parte occidental de Norteamérica",
+    "clima_estimado": "Cálido y húmedo, con estaciones marcadas y abundante vegetación de helechos, cicadáceas y coníferas."
+  },
+  
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Se alimentaba de plantas bajas como helechos, cícadas y angiospermas jóvenes. Su pico córneo y los dientes dispuestos en baterías le permitían cortar y triturar vegetación dura."
+    },
+    "socialidad": "Probablemente vivía en grupos pequeños o manadas, especialmente durante las migraciones o en épocas de cría.",
+    "defensa": "Sus tres cuernos (dos sobre los ojos y uno nasal) y su gran gola ósea le servían tanto para la defensa frente a depredadores como para combates rituales entre machos.",
+    "movimiento": "Cuadrúpedo robusto con patas delanteras ligeramente flexionadas, capaz de cargar y embestir con fuerza.",
+    "reproduccion": "Ovíparo; se cree que las crías recibían cierta protección parental dentro de grupos familiares.",
+    "actividad": "Diurna; posiblemente pasaba gran parte del día alimentándose y desplazándose lentamente entre zonas de pasto."
+  },
+  
+  "curiosidades_adicionales": [
+    "El nombre *Triceratops* significa 'cara de tres cuernos', en referencia a sus distintivos apéndices craneales.",
+    "Fue uno de los últimos dinosaurios no avianos antes de la extinción masiva del Cretácico-Paleógeno.",
+    "Su cráneo podía representar hasta una tercera parte del peso total del animal.",
+    "Se han encontrado numerosos fósiles bien preservados, incluyendo individuos jóvenes y adultos, lo que sugiere un comportamiento social estructurado.",
+    "Probablemente fue presa del *Tyrannosaurus rex*, su contemporáneo y principal depredador."
+  ],
+  
+  "imagen_principal_url": "triceratops.webp",
+  "galeria_imagenes": [
+    "triceratops_reconstruccion.webp",
+    "triceratops_fosil.webp",
+    "triceratops_craneo.webp"
+  ],
+  
+  "descripcion_cientifica": [
+    "El *Triceratops* fue uno de los dinosaurios herbívoros más grandes y emblemáticos del Cretácico tardío. Representa el ápice evolutivo de los ceratopsios, caracterizados por sus cuernos y golas óseas ornamentadas.",
+    "Su morfología combinaba fuerza y protección: los cuernos oculares alcanzaban casi un metro de longitud y podían perforar la piel de grandes depredadores. La gola pudo servir como escudo o como elemento de exhibición sexual.",
+    "El análisis de huesos craneales y variaciones morfológicas ha sugerido que *Triceratops horridus* y *Triceratops prorsus* podrían representar distintas etapas del crecimiento o especies cercanas dentro del mismo género.",
+    "Su dentición en forma de baterías permitía reemplazo constante, adaptada a un consumo masivo de vegetación dura, indicio de un metabolismo relativamente alto para un reptil de su tamaño."
+  ],
+  
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 2,
+    "rareza": 5,
+    "fuerza_estimada": 5,
+    "defensa": 5,
+    "inteligencia": 3,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  },
+  
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-11-13",
+    "referencia_principal": "Marsh, O. C. (1889)"
+  }
+}

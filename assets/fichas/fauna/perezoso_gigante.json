@@ -1,0 +1,74 @@
+{
+  "id": "perezoso_gigante",
+  "nombre": "Megatherium americanum",
+  "nombre_comun": "Perezoso gigante",
+  "nombre_cientifico": "Megatherium americanum",
+  "tipo_animal": "mamífero",
+  "grupo": "folívoro terrestre",
+  "clasificacion": {
+    "familia": "Megatheriidae",
+    "orden": "Pilosa"
+  },
+  "dimensiones": {
+    "longitud_m": 6.0,
+    "altura_m": 3.5,
+    "peso_t": 4.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "2.58–0.008"
+  },
+  "descubrimiento": {
+    "anio": 1787,
+    "descubridor": "Manuel Torres (fósil), Georges Cuvier (descripción)",
+    "lugar_original": {
+      "formacion": "Luján",
+      "region": "Buenos Aires",
+      "pais": "Argentina"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Argentina",
+      "regiones": ["Buenos Aires", "Córdoba"],
+      "lat": -34.0,
+      "lon": -64.0
+    },
+    {
+      "pais": "Brasil",
+      "regiones": ["Minas Gerais"],
+      "lat": -18.0,
+      "lon": -44.0
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Florida", "Texas"],
+      "lat": 29.0,
+      "lon": -82.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques, sabanas y zonas semiáridas",
+    "zona_actual": "América del Sur (extinto)",
+    "zona_paleogeografica": "América del Sur",
+    "clima_estimado": "Cálido a templado"
+  },
+  "curiosidad": "Podía erguirse sobre sus patas traseras y cola para alcanzar las hojas de los árboles más altos, usando sus grandes garras para arrancar ramas.",
+  "imagen_principal_url": "perezoso_gigante.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Megatherium americanum, o perezoso gigante, fue uno de los mamíferos terrestres más grandes que jamás haya existido, rivalizando en tamaño con los elefantes. Vivió en América del Sur durante el Pleistoceno. A pesar de su nombre, no estaba directamente relacionado con los perezosos arbóreos modernos, aunque compartían ancestros comunes.\n\nEra un herbívoro masivo con garras enormes que probablemente usaba para arrancar vegetación y defenderse. Se cree que era capaz de pararse sobre sus patas traseras y su robusta cola para alcanzar hojas de árboles altos. Su extinción, junto con gran parte de la megafauna pleistocénica, se atribuye a una combinación de cambios climáticos y la llegada de los humanos.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 1,
+    "rareza": 4,
+    "fuerza_estimada": 5,
+    "defensa": 5,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "estegosaurio",
+  "nombre": "Stegosaurus stenops",
+  "nombre_comun": "Estegosaurio",
+  "nombre_cientifico": "Stegosaurus stenops",
+  "tipo_animal": "dinosaurio",
+  "grupo": "tireóforo",
+  "clasificacion": {
+    "familia": "Stegosauridae",
+    "orden": "Ornithischia"
+  },
+  "dimensiones": {
+    "longitud_m": 9.0,
+    "altura_m": 4.0,
+    "peso_t": 5.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "edad_millones_anios": "155–150"
+  },
+  "descubrimiento": {
+    "anio": 1877,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Morrison",
+      "region": "Colorado",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Colorado", "Wyoming", "Utah"],
+      "lat": 39.0,
+      "lon": -106.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras y bosques con vegetación baja",
+    "zona_actual": "Oeste de América del Norte",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "A pesar de su gran tamaño, su cerebro era del tamaño de una nuez, lo que lo convierte en uno de los dinosaurios con la relación cerebro-cuerpo más pequeña.",
+  "imagen_principal_url": "estegosaurio.webp",
+  "imagen_fosil_url": "h",
+  "descripcion_cientifica": "El Estegosaurio fue un gran dinosaurio herbívoro que vivió durante el Jurásico Tardío en lo que hoy es América del Norte. Es fácilmente reconocible por sus distintivas placas óseas en forma de cometa a lo largo de su espalda y las cuatro púas afiladas en la punta de su cola, conocidas como 'thagomizer', que probablemente utilizaba para la defensa contra depredadores.\n\nSu dieta consistía en plantas bajas, que arrancaba con su pico desdentado. A pesar de su imponente tamaño, su cerebro era notablemente pequeño en proporción a su cuerpo. Las placas dorsales del Estegosaurio han sido objeto de mucho debate, con teorías que sugieren que servían para la termorregulación, exhibición o incluso defensa pasiva.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 2,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 5,
+    "inteligencia": 1,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

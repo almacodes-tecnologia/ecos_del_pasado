@@ -1,0 +1,68 @@
+{
+  "id": "anquilosaurio",
+  "nombre": "Ankylosaurus magniventris",
+  "nombre_comun": "Anquilosaurio",
+  "nombre_cientifico": "Ankylosaurus magniventris",
+  "tipo_animal": "dinosaurio",
+  "grupo": "anquilosáurido",
+  "clasificacion": {
+    "familia": "Ankylosauridae",
+    "orden": "Ornithischia"
+  },
+  "dimensiones": {
+    "longitud_m": 8.0,
+    "altura_m": 2.0,
+    "peso_t": 6.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Maastrichtiense (Tardío)",
+    "edad_millones_anios": "68–66"
+  },
+  "descubrimiento": {
+    "anio": 1908,
+    "descubridor": "Barnum Brown",
+    "lugar_original": {
+      "formacion": "Hell Creek",
+      "region": "Montana",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Montana", "Wyoming"],
+      "lat": 45.0,
+      "lon": -105.0
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Alberta", "Saskatchewan"],
+      "lat": 53.0,
+      "lon": -110.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques y llanuras costeras",
+    "zona_actual": "Oeste de América del Norte (extinto)",
+    "zona_paleogeografica": "Laramidia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Era un 'tanque' viviente, cubierto de armadura ósea y con una gran maza en la cola que podía usar para defenderse de depredadores como el T. rex.",
+  "imagen_principal_url": "anquilosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Ankylosaurus magniventris fue un género de dinosaurios anquilosáuridos que vivió en el oeste de América del Norte durante el Cretácico Tardío. Es uno de los dinosaurios más reconocibles por su impresionante armadura corporal. Su cuerpo estaba cubierto de placas óseas (osteodermos) y púas, formando una defensa casi impenetrable. Además, poseía una gran maza ósea en la punta de su cola, que podía usar como arma defensiva contra grandes depredadores como el Tyrannosaurus rex.\n\nEra un herbívoro de movimiento lento, que se alimentaba de plantas bajas. Su robusta constitución y su armadura lo hacían prácticamente invulnerable a los ataques frontales. El Anquilosaurio representa el pináculo de la evolución de los dinosaurios acorazados, siendo uno de los últimos grandes herbívoros de la era de los dinosaurios antes de la extinción masiva del K-Pg.",
+  "estadisticas_fantasia": {
+    "agresividad": 1,
+    "velocidad": 1,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 5,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

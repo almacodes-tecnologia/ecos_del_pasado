@@ -1,0 +1,74 @@
+{
+  "id": "alce_gigante",
+  "nombre": "Megaloceros giganteus",
+  "nombre_comun": "Alce gigante",
+  "nombre_cientifico": "Megaloceros giganteus",
+  "tipo_animal": "mamífero",
+  "grupo": "cérvido",
+  "clasificacion": {
+    "familia": "Cervidae",
+    "orden": "Artiodactyla"
+  },
+  "dimensiones": {
+    "longitud_m": 2.7,
+    "altura_m": 2.1,
+    "peso_t": 0.7
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.4–0.007"
+  },
+  "descubrimiento": {
+    "anio": 1697,
+    "descubridor": "Thomas Molyneux",
+    "lugar_original": {
+      "formacion": "Irlanda",
+      "region": "Irlanda",
+      "pais": "Irlanda"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Irlanda",
+      "regiones": ["Todo el país"],
+      "lat": 53.0,
+      "lon": -8.0
+    },
+    {
+      "pais": "Europa",
+      "regiones": ["Alemania", "Francia", "Rusia"],
+      "lat": 50.0,
+      "lon": 10.0
+    },
+    {
+      "pais": "Asia",
+      "regiones": ["Siberia", "China"],
+      "lat": 60.0,
+      "lon": 100.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Praderas abiertas, estepas y bosques dispersos",
+    "zona_actual": "Eurasia (extinto)",
+    "zona_paleogeografica": "Eurasia",
+    "clima_estimado": "Frío a templado"
+  },
+  "curiosidad": "Sus cuernos podían medir hasta 3.65 metros de punta a punta, los más grandes de cualquier cérvido conocido, y se mudaban anualmente.",
+  "imagen_principal_url": "megaloceros.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Alce gigante (Megaloceros giganteus), también conocido como 'ciervo irlandés', fue una especie de cérvido extinta que vivió en Eurasia durante el Pleistoceno. Es famoso por sus enormes cuernos, que podían alcanzar una envergadura de hasta 3.65 metros, los más grandes de cualquier cérvido conocido. A pesar de su nombre común, no estaba estrechamente relacionado con el alce moderno.\n\nHabitaba en praderas abiertas y estepas, alimentándose de una variedad de vegetación. Sus cuernos, que mudaba anualmente, eran probablemente utilizados para exhibición sexual y competencia entre machos. La extinción del Alce gigante al final de la última Edad de Hielo se ha vinculado a la reducción de su hábitat preferido (pastizales abiertos) y posiblemente a la presión de la caza humana.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 3,
+    "defensa": 4,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 5
+  }
+}

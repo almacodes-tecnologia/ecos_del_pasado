@@ -1,0 +1,76 @@
+{
+  "id": "neogeno",
+  "nombre": "Neógeno",
+  "nombre_comun": "Período Neógeno",
+  "periodo_geologico": "Cenozoico",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 23.03,
+  "fin_millones_anos_atras": 2.58,
+  "duracion_aproximada_millones_anos": 20.45,
+  "subdivisiones": [
+    {
+      "nombre": "Mioceno",
+      "series": ["Aquitaniense", "Burdigaliense", "Langhiense", "Serravalliense", "Tortoniense", "Messiniense"],
+      "inicio_millones_anos_atras": 23.03,
+      "fin_millones_anos_atras": 5.333
+    },
+    {
+      "nombre": "Plioceno",
+      "series": ["Zancliense", "Piacenziense"],
+      "inicio_millones_anos_atras": 5.333,
+      "fin_millones_anos_atras": 2.58
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron moviéndose hacia sus posiciones actuales. La colisión de África y Eurasia formó el Mediterráneo y los Alpes. La formación del Istmo de Panamá conectó América del Norte y del Sur, lo que tuvo un impacto significativo en las corrientes oceánicas y el clima.",
+    "clima_general": "El Neógeno fue un período de enfriamiento global gradual, con la intensificación de las glaciaciones en el hemisferio norte hacia el final del Plioceno. Los climas se volvieron más estacionales y la aridez aumentó en algunas regiones.",
+    "eventos_geologicos_importantes": "Elevación de las cordilleras del Himalaya, los Andes y las Montañas Rocosas. Formación del Istmo de Panamá, que alteró las corrientes oceánicas globales y contribuyó al enfriamiento del hemisferio norte."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Pastizales (expansión global y dominancia en muchos ecosistemas)",
+      "Bosques templados y boreales (se extendieron a medida que el clima se enfriaba)",
+      "Angiospermas (continuaron siendo la forma de vida vegetal dominante)",
+      "Plantas C4 (especialmente en pastizales, adaptadas a climas más secos y cálidos)"
+    ],
+    "nuevas_apariciones": "La expansión masiva de los pastizales fue el evento floral más significativo, impulsando la evolución de grandes herbívoros y sus depredadores."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Mamíferos (gran diversificación y evolución de formas modernas, incluyendo caballos, camellos, rinocerontes, elefantes, felinos y cánidos)",
+      "Grandes mamíferos herbívoros (ej. mastodontes, gomphotheres)",
+      "Primates (continuaron evolucionando, incluyendo los primeros homínidos en África)",
+      "Aves (diversificación continua)",
+      "Roedores y conejos (gran éxito adaptativo)"
+    ],
+    "fauna_marina_clave": [
+      "Ballenas y delfines (diversificación y evolución de formas modernas)",
+      "Tiburones (incluyendo el Megalodón, uno de los mayores depredadores marinos)",
+      "Focas y leones marinos (primeros pinípedos)",
+      "Peces óseos y moluscos"
+    ],
+    "fauna_aerea_clave": [
+      "Aves (diversificación de aves rapaces, paseriformes, etc.)",
+      "Insectos (continuaron su evolución)"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros homínidos en África. Diversificación de los grandes mamíferos herbívoros y carnívoros que conocemos hoy. El Gran Intercambio Americano tras la formación del Istmo de Panamá."
+  },
+  "eventos_biologicos_significativos": {
+    "gran_intercambio_americano": "La formación del Istmo de Panamá permitió el intercambio masivo de fauna terrestre entre América del Norte y del Sur, lo que llevó a extinciones y nuevas radiaciones de especies.",
+    "evolucion_de_hominidos": "En África, los primeros homínidos comenzaron a evolucionar, marcando el inicio de la línea evolutiva humana."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción del Plioceno-Pleistoceno (o Cuaternario temprano)",
+    "fecha_millones_anos_atras": 2.58,
+    "causas_probables": "Asociada al inicio de las glaciaciones del Pleistoceno y los cambios climáticos drásticos. Las fluctuaciones de temperatura y los cambios en el nivel del mar afectaron a muchos ecosistemas.",
+    "impacto_biologico": "Provocó la extinción de varias especies de mamíferos marinos y terrestres, aunque no fue tan severa como las extinciones masivas anteriores. Marcó el fin del Neógeno y el inicio del Cuaternario."
+  },
+  "sitios_fosiles_clave": [
+    "Laetoli (Tanzania)",
+    "Olduvai Gorge (Tanzania)",
+    "Siwalik Hills (India/Pakistán)",
+    "Ashfall Fossil Beds (Estados Unidos)"
+  ],
+  "imagen_principal_url": "neogeno.webp",
+  "mapa_paleogeografico_url": ""
+}

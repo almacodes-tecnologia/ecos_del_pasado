@@ -1,0 +1,105 @@
+{
+  "id": "dimetrodon",
+  "nombre_comun": "Dimetrodon",
+  "nombre_cientifico": "Dimetrodon grandis (Cope, 1878)",
+  "tipo_animal": "sinápsido",
+  "grupo": "pelicosaurio",
+  
+  "clasificacion": {
+    "clase": "Synapsida",
+    "orden": "Pelycosauria",
+    "familia": "Sphenacodontidae"
+  },
+  
+  "dimensiones": {
+    "longitud_m": 3.5,
+    "altura_m": 1.5,
+    "peso_kg": 250.0,
+    "descripcion_dimensiones": "Longitud total medida desde la cabeza hasta la cola. Alcanzaba alrededor de 3.5 metros y un peso aproximado de 250 kilogramos. La vela dorsal, formada por prolongaciones óseas de las vértebras, podía superar el metro de altura."
+  },
+  
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Temprano",
+    "rango_edad_presentacion": "Hace entre 295 y 272 millones de años",
+    "edad_inicio_ma": 295.0,
+    "edad_fin_ma": 272.0
+  },
+  
+  "descubrimiento": {
+    "anio": 1878,
+    "descubridor": "Edward Drinker Cope",
+    "lugar_original": {
+      "formacion": "Arroyo Formation",
+      "region": "Texas",
+      "pais": "Estados Unidos"
+    }
+  },
+  
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Texas", "Oklahoma", "Nuevo México"],
+      "coordenadas": [
+        {"lat": 31.96, "lon": -99.90}
+      ]
+    }
+  ],
+  
+  "habitat_aproximado": {
+    "tipo": "Llanuras áridas con zonas pantanosas cercanas a cursos de agua",
+    "zona_actual": "Sur de Estados Unidos (extinto)",
+    "zona_paleogeografica": "Pangea",
+    "clima_estimado": "Cálido y seco, con estaciones marcadas y períodos de sequía."
+  },
+  
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Depredador terrestre que cazaba anfibios y reptiles más pequeños. Sus dientes serrados, en forma de cuchilla, eran ideales para desgarrar carne."
+    },
+    "socialidad": "Probablemente solitario, territorial y cazador de emboscada.",
+    "defensa": "Su principal defensa era su tamaño, su mordida poderosa y la intimidante vela dorsal, posiblemente usada para advertir o aparentar mayor tamaño.",
+    "movimiento": "Cuadrúpedo con postura extendida. Caminaba apoyando el cuerpo parcialmente erguido y podía moverse con rapidez en cortas distancias.",
+    "reproduccion": "Ovíparo, aunque los detalles exactos sobre su reproducción son desconocidos debido a la falta de fósiles de huevos o nidos.",
+    "actividad": "Diurna o crepuscular; es posible que regulase su temperatura corporal mediante su vela dorsal."
+  },
+  
+  "curiosidades_adicionales": [
+    "Aunque muchos lo confunden con un dinosaurio, el *Dimetrodon* vivió unos 40 millones de años antes de que aparecieran los primeros dinosaurios.",
+    "Su vela dorsal probablemente ayudaba a regular la temperatura corporal, absorbiendo o disipando calor según la orientación al sol.",
+    "Pertenecía al linaje de los sinápsidos, del que más tarde evolucionarían los mamíferos.",
+    "Los fósiles de *Dimetrodon* se encuentran frecuentemente junto a los de anfibios prehistóricos en formaciones fluviales del Pérmico."
+  ],
+  
+  "imagen_principal_url": "dimetrodon.webp",
+  "galeria_imagenes": [
+    "dimetrodon_reconstruccion.webp",
+    "dimetrodon_fosil.webp"
+  ],
+  
+  "descripcion_cientifica": [
+    "El *Dimetrodon* fue un sinápsido depredador dominante del Pérmico temprano, anterior a los dinosaurios. A menudo se confunde con ellos por su apariencia, pero está más emparentado con los mamíferos que con los reptiles actuales.",
+    "Destacaba por la enorme vela dorsal formada por prolongaciones espinosas de las vértebras, cubierta por piel. Esta estructura pudo haber servido para regular la temperatura corporal, atraer pareja o intimidar competidores.",
+    "Su cráneo alargado con dientes de distinto tamaño (heterodoncia) le permitía cortar carne con eficiencia. Su diseño corporal muestra una transición evolutiva temprana hacia características mamaliformes."
+  ],
+  
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 3,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  },
+  
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-11-13",
+    "referencia_principal": "Cope, E. D. (1878)"
+  }
+}

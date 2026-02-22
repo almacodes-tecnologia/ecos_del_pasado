@@ -1,0 +1,62 @@
+{
+  "id": "escutosaurio",
+  "nombre": "Scutosaurus karpinskii",
+  "nombre_comun": "Escutosaurio",
+  "nombre_cientifico": "Scutosaurus karpinskii",
+  "tipo_animal": "reptil",
+  "grupo": "pareiasaurio",
+  "clasificacion": {
+    "familia": "Pareiasauridae",
+    "orden": "Procolophonomorpha"
+  },
+  "dimensiones": {
+    "longitud_m": 3.0,
+    "altura_m": 1.5,
+    "peso_t": 1.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Tardío",
+    "edad_millones_anios": "254–252"
+  },
+  "descubrimiento": {
+    "anio": 1922,
+    "descubridor": "Vladimir P. Amalitsky",
+    "lugar_original": {
+      "formacion": "Sokolki",
+      "region": "Óblast de Arcángel",
+      "pais": "Rusia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Rusia",
+      "regiones": ["Óblast de Arcángel", "Óblast de Vologda"],
+      "lat": 64.0,
+      "lon": 40.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras secas y semiáridas",
+    "zona_actual": "Europa del Este (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Árido a semiárido"
+  },
+  "curiosidad": "Su nombre significa 'reptil con escudo', refiriéndose a las numerosas placas óseas (osteodermos) que cubrían su cuerpo como armadura.",
+  "imagen_principal_url": "escutosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Scutosaurus karpinskii fue un gran reptil herbívoro del grupo de los pareiasaurios, que vivió durante el Pérmico tardío en lo que hoy es Rusia. Era un animal robusto y de constitución pesada, con patas cortas y fuertes. Su característica más notable era la extensa armadura corporal, compuesta por numerosas placas óseas (osteodermos) incrustadas en su piel, que le proporcionaban protección contra depredadores.\n\nSu cráneo era ancho y estaba adornado con protuberancias y cuernos óseos. Scutosaurus habitaba en ambientes terrestres secos y semiáridos, y se alimentaba de vegetación dura. Fue uno de los últimos grandes pareiasaurios antes de la extinción masiva del Pérmico-Triásico, a la que no sobrevivió.",
+  "estadisticas_fantasia": {
+    "agresividad": 1,
+    "velocidad": 1,
+    "rareza": 3,
+    "fuerza_estimada": 3,
+    "defensa": 5,
+    "inteligencia": 1,
+    "impacto_historico": 2,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 4
+  }
+}

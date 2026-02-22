@@ -1,0 +1,74 @@
+[
+  {
+    "id": "triasico",
+    "nombre": "Triásico",
+    "periodo_geologico": "Mesozoico",
+    "inicio_millones_anos_atras": 252.2,
+    "fin_millones_anos_atras": 201.3,
+    "descripcion_corta": "Origen de los dinosaurios y primeros mamíferos.",
+    "imagen_url": "triasico.webp"
+  },
+  {
+    "id": "jurasico",
+    "nombre": "Jurásico",
+    "periodo_geologico": "Mesozoico",
+    "inicio_millones_anos_atras": 201.3,
+    "fin_millones_anos_atras": 145.0,
+    "descripcion_corta": "La era dorada de los grandes dinosaurios.",
+    "imagen_url": "jurasico.webp"
+  },
+  {
+    "id": "cretacico",
+    "nombre": "Cretácico",
+    "periodo_geologico": "Mesozoico",
+    "inicio_millones_anos_atras": 145.0,
+    "fin_millones_anos_atras": 66.0,
+    "descripcion_corta": "Aparición de las plantas con flores y fin de los dinosaurios.",
+    "imagen_url": "cretacico.webp"
+  },
+  {
+    "id": "paleogeno",
+    "nombre": "Paleógeno",
+    "periodo_geologico": "Cenozoico",
+    "inicio_millones_anos_atras": 66.0,
+    "fin_millones_anos_atras": 23.03,
+    "descripcion_corta": "Periodo posterior a la extinción de los dinosaurios.",
+    "imagen_url": "paleogeno.webp"
+  },
+  {
+    "id": "neogeno",
+    "nombre": "Neógeno",
+    "periodo_geologico": "Cenozoico",
+    "inicio_millones_anos_atras": 23.03,
+    "fin_millones_anos_atras": 2.58,
+    "descripcion_corta": "Grandes cambios climáticos y evolución de primates.",
+    "imagen_url": "neogeno.webp"
+  },
+  {
+    "id": "cuaternario",
+    "nombre": "Cuaternario",
+    "periodo_geologico": "Cenozoico",
+    "inicio_millones_anos_atras": 2.58,
+    "fin_millones_anos_atras": 0.0,
+    "descripcion_corta": "Edad de hielo y aparición de los humanos modernos.",
+    "imagen_url": "cuaternario.webp"
+  },
+  {
+    "id": "permico",
+    "nombre": "Pérmico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 298.9,
+    "fin_millones_anos_atras": 252.2,
+    "descripcion_corta": "Grandes reptiles y la mayor extinción masiva.",
+    "imagen_url": "permico.webp"
+  },
+  {
+    "id": "carbonifero",
+    "nombre": "Carbonífero",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 358.9,
+    "fin_millones_anos_atras": 298.9,
+    "descripcion_corta": "Vastas selvas de helechos y anfibios gigantes.",
+    "imagen_url": "cabonifero.webp"
+  }
+]

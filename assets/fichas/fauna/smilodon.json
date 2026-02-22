@@ -1,0 +1,108 @@
+{
+  "id": "smilodon",
+  "nombre_comun": "Smilodon",
+  "nombre_cientifico": "Smilodon fatalis (Leidy, 1868)",
+  "tipo_animal": "mamífero",
+  "grupo": "félido dientes de sable",
+  
+  "clasificacion": {
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Felidae"
+  },
+  
+  "dimensiones": {
+    "longitud_m": 1.8,
+    "altura_m": 1.1,
+    "peso_kg": 280.0,
+    "descripcion_dimensiones": "El *Smilodon fatalis* medía alrededor de 1.8 metros desde el hocico hasta la base de la cola y pesaba entre 200 y 300 kilogramos. Poseía colmillos superiores de hasta 20 centímetros y un cuerpo robusto, con extremidades poderosas adaptadas para emboscadas."
+  },
+  
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Pleistoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 2.5 millones y 10 mil años",
+    "edad_inicio_ma": 2.5,
+    "edad_fin_ma": 0.01
+  },
+  
+  "descubrimiento": {
+    "anio": 1868,
+    "descubridor": "Joseph Leidy",
+    "lugar_original": {
+      "formacion": "Depósitos del Pleistoceno de Carolina del Norte",
+      "region": "Carolina del Norte",
+      "pais": "Estados Unidos"
+    }
+  },
+  
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["California", "Carolina del Norte", "Nevada"],
+      "coordenadas": [
+        {"lat": 34.07, "lon": -118.35}
+      ]
+    }
+  ],
+  
+  "habitat_aproximado": {
+    "tipo": "Praderas abiertas, bosques templados y zonas arbustivas",
+    "zona_actual": "América del Norte y del Sur (extinto)",
+    "zona_paleogeografica": "América durante el Gran Intercambio Biótico",
+    "clima_estimado": "Variable según la región: desde templado-húmedo hasta seco y frío durante las glaciaciones."
+  },
+  
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Especializado en cazar grandes herbívoros, como bisontes, camélidos y caballos prehistóricos. Usaba sus poderosos miembros anteriores para sujetar a la presa y sus colmillos para realizar mordidas precisas en zonas blandas."
+    },
+    "socialidad": "Debate científico: evidencia fósil sugiere posible comportamiento social, similar a los leones modernos, pero también se considera un posible depredador solitario.",
+    "defensa": "Sus principales defensas eran su fuerza muscular, tamaño imponente y garras retráctiles. Evitaba daños a sus colmillos empleando tácticas de sujeción antes de morder.",
+    "movimiento": "Caminaba y corría como un gran félido robusto. No era un corredor de larga distancia sino un cazador de emboscada, explosivo y muy potente en distancias cortas.",
+    "reproduccion": "Vivíparo. Posiblemente formaba madrigueras o refugios para la cría, similar a grandes felinos actuales.",
+    "actividad": "Probablemente crepuscular o nocturno, adaptado a la caza silenciosa en ambientes variados."
+  },
+  
+  "curiosidades_adicionales": [
+    "El *Smilodon fatalis* es uno de los animales más representativos de los yacimientos de La Brea en California, donde miles de fósiles han sido hallados.",
+    "Sus colmillos eran muy largos pero relativamente frágiles para impactos directos; se cree que realizaba mordidas controladas y precisas tras inmovilizar a la presa.",
+    "Es uno de los últimos y más grandes 'felinos de dientes de sable', pero no está directamente relacionado con los felinos modernos.",
+    "Vivió hasta el final del Pleistoceno y desapareció coincidiendo con la extinción de la megafauna y posibles cambios climáticos o presión humana.",
+    "Su musculatura del cuello y los hombros estaba extremadamente desarrollada para soportar el uso de sus enormes colmillos."
+  ],
+  
+  "imagen_principal_url": "smilodon.webp",
+  "galeria_imagenes": [
+    "smilodon_reconstruccion.webp",
+    "smilodon_fosil.webp",
+    "smilodon_cazando.webp"
+  ],
+  
+  "descripcion_cientifica": [
+    "El *Smilodon fatalis* fue un gran depredador del Pleistoceno, conocido mundialmente por sus colmillos alargados y su robusta musculatura. Formaba parte de los llamados 'dientes de sable', un grupo diverso de félidos extintos.",
+    "A diferencia de los felinos corredores, su cuerpo era compacto y potente, adaptado para sujetar y derribar presas grandes mediante fuerza bruta.",
+    "Sus colmillos superiores, largos y comprimidos lateralmente, no estaban diseñados para resistir fuerza lateral intensa, lo que sugiere un estilo de caza basado en ataques precisos tras inmovilizar a la presa.",
+    "Los yacimientos de La Brea han proporcionado una cantidad de fósiles excepcional que ha permitido estudiar su edad, salud, lesiones, alimentación y comportamiento potencialmente social."
+  ],
+  
+  "estadisticas_fantasia": {
+    "agresividad": 5,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 5,
+    "defensa": 4,
+    "inteligencia": 4,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  },
+  
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-11-14",
+    "referencia_principal": "Leidy, J. (1868)"
+  }
+}

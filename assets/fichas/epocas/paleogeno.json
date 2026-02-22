@@ -1,0 +1,84 @@
+{
+  "id": "paleogeno",
+  "nombre": "Paleógeno",
+  "nombre_comun": "Período Paleógeno",
+  "periodo_geologico": "Cenozoico",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 66.0,
+  "fin_millones_anos_atras": 23.03,
+  "duracion_aproximada_millones_anos": 42.97,
+  "subdivisiones": [
+    {
+      "nombre": "Paleoceno",
+      "series": ["Daniense", "Selandiense", "Thanetiense"],
+      "inicio_millones_anos_atras": 66.0,
+      "fin_millones_anos_atras": 56.0
+    },
+    {
+      "nombre": "Eoceno",
+      "series": ["Ypresiense", "Lutetiense", "Bartoniense", "Priaboniense"],
+      "inicio_millones_anos_atras": 56.0,
+      "fin_millones_anos_atras": 33.9
+    },
+    {
+      "nombre": "Oligoceno",
+      "series": ["Rupeliense", "Chattiense"],
+      "inicio_millones_anos_atras": 33.9,
+      "fin_millones_anos_atras": 23.03
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron su deriva hacia sus posiciones actuales. El Atlántico se ensanchó, la India colisionó con Asia formando el Himalaya, y Australia se separó de la Antártida. Se formaron nuevas cadenas montañosas y se reconfiguraron las masas de tierra.",
+    "clima_general": "El Paleógeno comenzó con un clima cálido global (Máximo Térmico del Paleoceno-Eoceno, PETM), seguido de un enfriamiento gradual a lo largo del Eoceno y una marcada tendencia al enfriamiento y la formación de hielo en la Antártida durante el Oligoceno.",
+    "eventos_geologicos_importantes": "Formación de los Alpes, los Pirineos y el Himalaya debido a la orogenia Alpina. Apertura del Pasaje de Drake entre Sudamérica y la Antártida, lo que tuvo un impacto significativo en las corrientes oceánicas y el clima global."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Angiospermas (plantas con flores, que dominaron y se diversificaron enormemente)",
+      "Bosques tropicales y subtropicales (especialmente en el Eoceno cálido)",
+      "Pastizales (aparición y expansión en el Oligoceno, a medida que el clima se enfriaba y se volvía más seco)",
+      "Coníferas y helechos (en menor medida, adaptándose a nuevos nichos)"
+    ],
+    "nuevas_apariciones": "La expansión de los pastizales fue un evento clave, cambiando los ecosistemas y favoreciendo la evolución de herbívoros adaptados al pastoreo."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Mamíferos (radiación adaptativa masiva, llenando los nichos dejados por los dinosaurios)",
+      "Grandes herbívoros y carnívoros mamíferos (ej. ungulados, carnívoros primitivos)",
+      "Primeros primates, roedores, murciélagos y cetáceos (ballenas y delfines primitivos)",
+      "Aves (diversificación, incluyendo 'aves del terror')",
+      "Reptiles (cocodrilos, serpientes, tortugas)"
+    ],
+    "fauna_marina_clave": [
+      "Foraminíferos y cocolitofóridos (microorganismos marinos)",
+      "Tiburones (gran diversificación)",
+      "Ballenas y delfines primitivos (basilosáuridos)",
+      "Peces óseos (continuaron diversificándose)",
+      "Pingüinos (aparición y diversificación)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves (diversificación, incluyendo grandes aves no voladoras)",
+      "Murciélagos (primeros mamíferos voladores)",
+      "Insectos (continuaron su diversificación)"
+    ],
+    "nuevas_apariciones": "La 'Edad de los Mamíferos' comenzó con una explosión de nuevas especies y formas. Aparición de los primeros caballos, rinocerontes, camellos, primates y cetáceos."
+  },
+  "eventos_biologicos_significativos": {
+    "radiacion_de_mamiferos": "Tras la extinción del K-Pg, los mamíferos experimentaron una radiación adaptativa sin precedentes, ocupando los nichos ecológicos vacantes y diversificándose en una amplia gama de formas y tamaños.",
+    "evolucion_de_pastizales": "La expansión global de los pastizales en el Oligoceno impulsó la coevolución de los mamíferos herbívoros y sus depredadores, y cambió drásticamente los paisajes terrestres."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Gran Ruptura del Eoceno-Oligoceno (E-O)",
+    "fecha_millones_anos_atras": 33.9,
+    "causas_probables": "Un evento de enfriamiento global significativo, posiblemente causado por la apertura del Pasaje de Drake y la formación de la Corriente Circumpolar Antártica, lo que llevó a la glaciación antártica. También se ha sugerido el impacto de meteoritos.",
+    "impacto_biologico": "Provocó una extinción y un recambio faunístico importante, especialmente en Europa y Asia, con la desaparición de muchos grupos de mamíferos y la aparición de nuevas formas más adaptadas a climas más fríos y secos."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Green River (Estados Unidos)",
+    "Messel Pit (Alemania)",
+    "Formación Fayum (Egipto)",
+    "Badlands National Park (Estados Unidos)"
+  ],
+  "imagen_principal_url": "paleogeno.webp",
+  "mapa_paleogeografico_url": ""
+}

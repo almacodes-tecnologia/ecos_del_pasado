@@ -1,0 +1,68 @@
+{
+  "id": "mesosaurio",
+  "nombre": "Mesosaurus tenuidens",
+  "nombre_comun": "Mesosaurio",
+  "nombre_cientifico": "Mesosaurus tenuidens",
+  "tipo_animal": "reptil",
+  "grupo": "Mesosauridae",
+  "clasificacion": {
+    "familia": "Mesosauridae",
+    "orden": "Mesosauria"
+  },
+  "dimensiones": {
+    "longitud_m": 1.0,
+    "altura_m": 0.15,
+    "peso_t": 0.005
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Temprano",
+    "edad_millones_anios": "299–280"
+  },
+  "descubrimiento": {
+    "anio": 1844,
+    "descubridor": "Paul Gervais",
+    "lugar_original": {
+      "formacion": "Irati",
+      "region": "São Paulo",
+      "pais": "Brasil"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Brasil",
+      "regiones": ["São Paulo", "Paraná"],
+      "lat": -25.0,
+      "lon": -50.0
+    },
+    {
+      "pais": "Sudáfrica",
+      "regiones": ["Karoo Basin"],
+      "lat": -31.0,
+      "lon": 24.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Lagos y lagunas de agua dulce y salobre",
+    "zona_actual": "América del Sur y África (extinto)",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Templado a cálido"
+  },
+  "curiosidad": "La presencia de sus fósiles en Sudamérica y África fue una de las primeras y más importantes pruebas de la teoría de la deriva continental.",
+  "imagen_principal_url": "mesosaurio.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Mesosaurus fue un género de reptiles acuáticos que vivió durante el Pérmico temprano. Era un reptil relativamente pequeño y delgado, perfectamente adaptado a la vida acuática, con un cuerpo hidrodinámico, una cola larga y aplanada lateralmente para la propulsión, y patas palmeadas. Su característica más distintiva eran sus numerosos dientes finos y afilados, ideales para filtrar pequeños invertebrados acuáticos.\n\nLos fósiles de Mesosaurus son de particular importancia geológica porque se han encontrado exclusivamente en dos regiones muy específicas: el sur de Brasil y el sur de África. Esta distribución geográfica tan restringida y disjunta fue una de las primeras y más convincentes pruebas fósiles que apoyaron la teoría de la deriva continental y la existencia del supercontinente Gondwana.",
+  "estadisticas_fantasia": {
+    "agresividad": 1,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 1,
+    "defensa": 1,
+    "inteligencia": 2,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 3
+  }
+}

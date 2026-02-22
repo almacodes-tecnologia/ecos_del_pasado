@@ -1,0 +1,82 @@
+{
+  "id": "jurasico",
+  "nombre": "Jurásico",
+  "nombre_comun": "Período Jurásico",
+  "periodo_geologico": "Mesozoico",
+  "era_geologica": "Mesozoica",
+  "inicio_millones_anos_atras": 201.3,
+  "fin_millones_anos_atras": 145.0,
+  "duracion_aproximada_millones_anos": 56.3,
+  "subdivisiones": [
+    {
+      "nombre": "Jurásico Inferior",
+      "series": ["Hettangiense", "Sinemuriense", "Pliensbachiense", "Toarciense"],
+      "inicio_millones_anos_atras": 201.3,
+      "fin_millones_anos_atras": 174.1
+    },
+    {
+      "nombre": "Jurásico Medio",
+      "series": ["Aaleniense", "Bajociense", "Bathoniense", "Calloviense"],
+      "inicio_millones_anos_atras": 174.1,
+      "fin_millones_anos_atras": 163.5
+    },
+    {
+      "nombre": "Jurásico Superior",
+      "series": ["Oxfordiense", "Kimmeridgiense", "Tithoniense"],
+      "inicio_millones_anos_atras": 163.5,
+      "fin_millones_anos_atras": 145.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Pangea continuó fragmentándose, con la apertura del Océano Atlántico central y el Océano de Tetis expandiéndose. Esto llevó a la formación de nuevas masas de tierra y mares epicontinentales.",
+    "clima_general": "El clima global fue generalmente cálido y húmedo, sin evidencia de casquetes polares. Las temperaturas más suaves y la mayor humedad favorecieron la proliferación de vegetación exuberante.",
+    "eventos_geologicos_importantes": "Intensa actividad tectónica y volcánica asociada a la ruptura de Pangea. Formación de grandes cuencas sedimentarias que preservaron un rico registro fósil."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Gimnospermas (coníferas, cicadáceas, ginkgos, bennettitales)",
+      "Helechos (incluyendo helechos arborescentes)",
+      "Equisetos (colas de caballo)",
+      "Musgos y hepáticas"
+    ],
+    "nuevas_apariciones": "Las gimnospermas alcanzaron su máxima diversidad y dominancia. Las angiospermas (plantas con flores) aún no habían aparecido."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Grandes saurópodos (Diplodocus, Brachiosaurus, Apatosaurus)",
+      "Grandes terópodos (Allosaurus, Ceratosaurus)",
+      "Estegosaurios (Stegosaurus)",
+      "Primeros mamíferos (pequeños y poco diversos)",
+      "Lagartos, anfibios y cocodrilos"
+    ],
+    "fauna_marina_clave": [
+      "Ammonites y belemnites (cefalópodos abundantes)",
+      "Reptiles marinos (ictiosaurios, plesiosaurios, pliosaurios)",
+      "Peces óseos y cartilaginosos",
+      "Corales y bivalvos"
+    ],
+    "fauna_aerea_clave": [
+      "Pterosaurios (diversificación de formas y tamaños)",
+      "Primeras aves (Archaeopteryx, en el Jurásico Tardío)"
+    ],
+    "nuevas_apariciones": "La aparición de las primeras aves. Los dinosaurios se establecen como los vertebrados terrestres dominantes."
+  },
+  "eventos_biologicos_significativos": {
+    "recuperacion_y_diversificacion": "La vida se recuperó y diversificó tras la extinción del Triásico-Jurásico. Los ecosistemas terrestres y marinos se volvieron más complejos.",
+    "dominio_de_dinosaurios": "Los dinosaurios alcanzaron su apogeo en tamaño y diversidad, dominando todos los nichos ecológicos terrestres."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "No hay una extinción masiva principal",
+    "fecha_millones_anos_atras": 0.0,
+    "causas_probables": "No se registra una extinción masiva comparable a la del Triásico-Jurásico o Cretácico-Paleógeno. Hubo eventos de extinción menores y recambios faunísticos graduales.",
+    "impacto_biologico": "Impacto limitado en la biodiversidad global, con la mayoría de los grupos de vida marina y terrestre continuando su evolución."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Morrison (Estados Unidos)",
+    "Solnhofen Limestone (Alemania)",
+    "Tendaguru Beds (Tanzania)",
+    "Lourinhã Formation (Portugal)"
+  ],
+  "imagen_principal_url": "jurasico.webp",
+  "mapa_paleogeografico_url": ""
+}

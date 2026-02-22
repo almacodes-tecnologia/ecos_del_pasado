@@ -1,0 +1,68 @@
+{
+  "id": "diictodon",
+  "nombre": "Diictodon feliceps",
+  "nombre_comun": "Diictodon",
+  "nombre_cientifico": "Diictodon feliceps",
+  "tipo_animal": "reptil mamiferoide",
+  "grupo": "dicinodonte",
+  "clasificacion": {
+    "familia": "Diictodontidae",
+    "orden": "Anomodontia"
+  },
+  "dimensiones": {
+    "longitud_m": 0.5,
+    "altura_m": 0.2,
+    "peso_t": 0.002
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Tardío",
+    "edad_millones_anios": "259–254"
+  },
+  "descubrimiento": {
+    "anio": 1876,
+    "descubridor": "Richard Owen",
+    "lugar_original": {
+      "formacion": "Karoo Basin",
+      "region": "Cabo Oriental",
+      "pais": "Sudáfrica"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Sudáfrica",
+      "regiones": ["Karoo Basin"],
+      "lat": -31.0,
+      "lon": 24.0
+    },
+    {
+      "pais": "China",
+      "regiones": ["Xinjiang"],
+      "lat": 40.0,
+      "lon": 85.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras secas y semiáridas",
+    "zona_actual": "África y Asia (extinto)",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Árido a semiárido"
+  },
+  "curiosidad": "Era un excavador prolífico, creando madrigueras complejas para refugiarse del clima árido y los depredadores. Es uno de los vertebrados fósiles más abundantes.",
+  "imagen_principal_url": "diictodon.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Diictodon fue un pequeño dicinodonte, un tipo de reptil mamiferoide, que vivió durante el Pérmico tardío. Es uno de los vertebrados fósiles más abundantes encontrados en la Cuenca del Karoo en Sudáfrica. Se caracterizaba por su tamaño modesto, un pico córneo y un par de pequeños colmillos en la mandíbula superior (en los machos).\n\nDiictodon era un herbívoro que se alimentaba de plantas bajas. Se cree que era un excavador muy activo, construyendo madrigueras complejas para protegerse de las condiciones climáticas áridas y de los depredadores. Su éxito y abundancia sugieren que estaba muy bien adaptado a los entornos secos del Pérmico tardío, aunque finalmente sucumbió a la extinción masiva del Pérmico-Triásico.",
+  "estadisticas_fantasia": {
+    "agresividad": 1,
+    "velocidad": 2,
+    "rareza": 2,
+    "fuerza_estimada": 1,
+    "defensa": 2,
+    "inteligencia": 2,
+    "impacto_historico": 3,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 2
+  }
+}

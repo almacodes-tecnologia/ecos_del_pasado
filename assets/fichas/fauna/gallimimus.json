@@ -1,0 +1,62 @@
+{
+  "id": "gallimimus",
+  "nombre": "Gallimimus bullatus",
+  "nombre_comun": "Gallimimus",
+  "nombre_cientifico": "Gallimimus bullatus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "ornitomímido",
+  "clasificacion": {
+    "familia": "Ornithomimidae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 6.0,
+    "altura_m": 2.0,
+    "peso_t": 0.4
+  },
+  "alimentacion": "Omnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Campaniense-Maastrichtiense (Tardío)",
+    "edad_millones_anios": "70–66"
+  },
+  "descubrimiento": {
+    "anio": 1963,
+    "descubridor": "Zofia Kielan-Jaworowska",
+    "lugar_original": {
+      "formacion": "Nemegt",
+      "region": "Desierto de Gobi",
+      "pais": "Mongolia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Mongolia",
+      "regiones": ["Desierto de Gobi"],
+      "lat": 43.0,
+      "lon": 105.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y bosques dispersos",
+    "zona_actual": "Asia Central (extinto)",
+    "zona_paleogeografica": "Asia",
+    "clima_estimado": "Templado a cálido"
+  },
+  "curiosidad": "Su nombre significa 'imitador de gallina' debido a su parecido con las aves modernas. Era uno de los dinosaurios más rápidos, capaz de alcanzar velocidades de hasta 50 km/h.",
+  "imagen_principal_url": "gallimimus.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Gallimimus bullatus fue un género de dinosaurios ornitomímidos que vivió durante el Cretácico Tardío en lo que hoy es Mongolia. Su nombre significa 'imitador de gallina de la cresta', haciendo referencia a su parecido superficial con las aves y una pequeña protuberancia en su cráneo. Era un dinosaurio bípedo, ligero y grácil, con patas largas y fuertes, lo que lo convertía en uno de los dinosaurios más rápidos, capaz de alcanzar altas velocidades.\n\nPoseía un cuello largo, una cabeza pequeña con un pico desdentado y grandes ojos, lo que sugiere que tenía buena vista. Se cree que Gallimimus era omnívoro, alimentándose de plantas, insectos, huevos y pequeños animales. A menudo se le ha representado en grandes manadas, lo que podría indicar un comportamiento gregario. Su anatomía lo hacía un corredor excepcional, ideal para escapar de depredadores más grandes de su época.",
+  "estadisticas_fantasia": {
+    "agresividad": 2,
+    "velocidad": 5,
+    "rareza": 3,
+    "fuerza_estimada": 2,
+    "defensa": 2,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 4
+  }
+}

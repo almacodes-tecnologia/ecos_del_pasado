@@ -1,0 +1,74 @@
+{
+  "id": "hibodo",
+  "nombre": "Hybodus",
+  "nombre_comun": "Hibodo",
+  "nombre_cientifico": "Hybodus fraasi",
+  "tipo_animal": "pez",
+  "grupo": "tiburón",
+  "clasificacion": {
+    "familia": "Hybodontidae",
+    "orden": "Hybodontiformes"
+  },
+  "dimensiones": {
+    "longitud_m": 2.0,
+    "altura_m": 0.5,
+    "peso_t": 0.05
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Temprano a Tardío",
+    "edad_millones_anios": "200–66"
+  },
+  "descubrimiento": {
+    "anio": 1784,
+    "descubridor": "Ernst Heinrich Haeckel",
+    "lugar_original": {
+      "formacion": "Solnhofen Limestone",
+      "region": "Baviera",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Baviera"],
+      "lat": 48.9,
+      "lon": 11.2
+    },
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Inglaterra"],
+      "lat": 51.5,
+      "lon": -0.1
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Montana", "Texas"],
+      "lat": 31.0,
+      "lon": -100.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Costero y de aguas poco profundas",
+    "zona_actual": "Global (océanos)",
+    "zona_paleogeografica": "Mares de Tetis y Panthalassa",
+    "clima_estimado": "Cálido"
+  },
+  "curiosidad": "Tenía dos tipos de dientes: afilados para capturar presas y aplanados para triturar conchas, lo que le permitía una dieta variada.",
+  "imagen_principal_url": "hybodus.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Hybodus fue un género de tiburones prehistóricos que existió desde el Pérmico hasta el Cretácico, siendo particularmente exitoso durante el Jurásico. Se caracterizaba por su cuerpo hidrodinámico, dos aletas dorsales prominentes (una con una espina ósea afilada) y una boca equipada con dos tipos de dientes: dientes afilados y puntiagudos en la parte delantera para atrapar peces y calamares, y dientes más planos en la parte posterior para triturar moluscos y crustáceos.\n\nEsta versatilidad dental le permitía explotar una amplia gama de fuentes de alimento, lo que contribuyó a su éxito y larga supervivencia. El Hybodus habitaba en aguas costeras y poco profundas de todo el mundo, siendo un depredador adaptable en los ecosistemas marinos mesozoicos.",
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 4,
+    "rareza": 2,
+    "fuerza_estimada": 3,
+    "defensa": 3,
+    "inteligencia": 2,
+    "impacto_historico": 3,
+    "nivel_adaptacion": 5,
+    "impresionabilidad": 3
+  }
+}

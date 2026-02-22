@@ -1,0 +1,68 @@
+{
+  "id": "velociraptor",
+  "nombre": "Velociraptor mongoliensis",
+  "nombre_comun": "Velociraptor",
+  "nombre_cientifico": "Velociraptor mongoliensis",
+  "tipo_animal": "dinosaurio",
+  "grupo": "dromeosáurido",
+  "clasificacion": {
+    "familia": "Dromaeosauridae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 2.0,
+    "altura_m": 0.5,
+    "peso_t": 0.015
+  },
+  "alimentacion": "Carnívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Campaniense (Tardío)",
+    "edad_millones_anios": "75–71"
+  },
+  "descubrimiento": {
+    "anio": 1924,
+    "descubridor": "Henry Fairfield Osborn",
+    "lugar_original": {
+      "formacion": "Djadochta",
+      "region": "Desierto de Gobi",
+      "pais": "Mongolia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Mongolia",
+      "regiones": ["Desierto de Gobi"],
+      "lat": 43.0,
+      "lon": 105.0
+    },
+    {
+      "pais": "China",
+      "regiones": ["Mongolia Interior"],
+      "lat": 42.0,
+      "lon": 110.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Dunas de arena y llanuras áridas",
+    "zona_actual": "Asia Central (extinto)",
+    "zona_paleogeografica": "Asia",
+    "clima_estimado": "Árido y estacional"
+  },
+  "curiosidad": "Era mucho más pequeño que las representaciones populares, del tamaño de un pavo, y probablemente estaba cubierto de plumas.",
+  "imagen_principal_url": "velociraptor.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "Velociraptor mongoliensis fue un género de dinosaurios dromeosáuridos que vivió durante el Cretácico Tardío en Asia Central. A diferencia de su representación en la cultura popular, era un animal relativamente pequeño, del tamaño de un pavo grande, pero era un depredador ágil y feroz. Su característica más distintiva era una gran garra retráctil en forma de hoz en el segundo dedo de cada pata trasera, utilizada para someter a sus presas.\n\nLa evidencia fósil, incluyendo el famoso espécimen 'Luchando contra los dinosaurios' (Velociraptor y Protoceratops), sugiere que era un cazador activo. Se cree que Velociraptor, al igual que otros dromeosáuridos, estaba cubierto de plumas, lo que lo relaciona estrechamente con las aves modernas. Cazaba pequeños y medianos herbívoros en los ambientes desérticos de su época.",
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 5,
+    "rareza": 4,
+    "fuerza_estimada": 3,
+    "defensa": 3,
+    "inteligencia": 4,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "diplodocus",
+  "nombre": "Diplodocus",
+  "nombre_comun": "Diplodocus",
+  "nombre_cientifico": "Diplodocus longus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "saurópodo",
+  "clasificacion": {
+    "familia": "Diplodocidae",
+    "orden": "Saurischia"
+  },
+  "dimensiones": {
+    "longitud_m": 27.0,
+    "altura_m": 4.5,
+    "peso_t": 12.0
+  },
+  "alimentacion": "Herbívoro",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "edad_millones_anios": "154–152"
+  },
+  "descubrimiento": {
+    "anio": 1877,
+    "descubridor": "Samuel Wendell Williston",
+    "lugar_original": {
+      "formacion": "Morrison",
+      "region": "Colorado",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Colorado", "Utah", "Wyoming", "Montana"],
+      "lat": 39.0,
+      "lon": -106.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras ribereñas y bosques subtropicales",
+    "zona_actual": "Oeste de América del Norte",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y húmedo"
+  },
+  "curiosidad": "Su cola larga y flexible pudo haber sido usada como un látigo sónico para defensa o comunicación.",
+  "imagen_principal_url": "diplodocus.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Diplodocus fue uno de los dinosaurios más largos que han existido, con una estructura corporal altamente especializada. Vivió durante el Jurásico Tardío y sus restos se han hallado principalmente en la Formación Morrison de Norteamérica. Su cuello largo le permitía alcanzar una gran variedad de vegetación, aunque probablemente se alimentaba a baja altura.\n\nSu cola, extremadamente larga, ha sido objeto de estudio debido a su posible uso defensivo o comunicativo. Diplodocus tenía dientes solo en la parte frontal de su boca, adaptados a arrancar hojas de plantas blandas. Es uno de los dinosaurios más representados en museos y una figura icónica de la paleontología mundial.",
+  "estadisticas_fantasia": {
+    "agresividad": 1,
+    "velocidad": 2,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 2,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 5
+  }
+}

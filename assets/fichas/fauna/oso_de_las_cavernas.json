@@ -1,0 +1,62 @@
+{
+  "id": "oso_de_las_cavernas",
+  "nombre": "Ursus spelaeus",
+  "nombre_comun": "Oso de las cavernas",
+  "nombre_cientifico": "Ursus spelaeus",
+  "tipo_animal": "mamífero",
+  "grupo": "úrsido",
+  "clasificacion": {
+    "familia": "Ursidae",
+    "orden": "Carnivora"
+  },
+  "dimensiones": {
+    "longitud_m": 3.0,
+    "altura_m": 1.7,
+    "peso_t": 0.5
+  },
+  "alimentacion": "Herbívoro/Omnívoro",
+  "periodo": {
+    "era": "Cenozoico",
+    "epoca": "Cuaternario",
+    "fase": "Pleistoceno",
+    "edad_millones_anios": "0.35–0.024"
+  },
+  "descubrimiento": {
+    "anio": 1774,
+    "descubridor": "Johann Christian Rosenmüller",
+    "lugar_original": {
+      "formacion": "Cueva de Gailenreuth",
+      "region": "Baviera",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Europa",
+      "regiones": ["Alemania", "Austria", "Francia", "Rusia"],
+      "lat": 48.0,
+      "lon": 15.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques templados y fríos, estepas",
+    "zona_actual": "Europa (extinto)",
+    "zona_paleogeografica": "Eurasia",
+    "clima_estimado": "Frío a templado (glacial e interglacial)"
+  },
+  "curiosidad": "Pasaba gran parte de su vida en cuevas, no solo para hibernar, sino también para dar a luz y criar a sus crías, lo que llevó a la acumulación masiva de sus huesos.",
+  "imagen_principal_url": "oso_de_las_cavernas.webp",
+  "imagen_fosil_url": "",
+  "descripcion_cientifica": "El Oso de las cavernas (Ursus spelaeus) fue una especie de oso extinta que habitó Europa y Asia durante el Pleistoceno. Era significativamente más grande que el oso pardo moderno y se caracterizaba por su robusta constitución y un cráneo abovedado. A pesar de su tamaño imponente, la evidencia sugiere que su dieta era predominantemente herbívora, alimentándose de hierbas, bayas y raíces.\n\nEstos osos pasaban una cantidad considerable de tiempo en cuevas, utilizándolas no solo para la hibernación, sino también como lugares de nacimiento y crianza, lo que ha resultado en la acumulación de grandes depósitos de huesos en muchas cuevas europeas. Su extinción al final del Pleistoceno se ha relacionado con los cambios climáticos que afectaron su hábitat y fuentes de alimento, así como la competencia con los humanos.",
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 2,
+    "rareza": 4,
+    "fuerza_estimada": 4,
+    "defensa": 4,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 3,
+    "impresionabilidad": 4
+  }
+}
