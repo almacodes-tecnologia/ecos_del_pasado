@@ -1,0 +1,420 @@
+[
+  {
+    "id": "diplodocus",
+    "nombre": "Diplodocus",
+    "nombre_comun": "Diplodocus",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "diplodocus.webp"
+  },
+  {
+    "id": "dimetrodon",
+    "nombre": "Dimetrodon",
+    "nombre_comun": "Dimetrodon",
+    "tipo_animal": "pelicosaurio",
+    "epoca": "Pérmico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "dimetrodon.webp"
+  },
+  {
+    "id": "archaeopteryx",
+    "nombre": "Archaeopteryx",
+    "nombre_comun": "Archaeopteryx",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "archaeopteryx.webp"
+  },
+  {
+    "id": "triceratops",
+    "nombre": "Triceratops",
+    "nombre_comun": "Triceratops",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "triceratops.webp"
+  },
+  {
+    "id": "smilodon",
+    "nombre": "Smilodon",
+    "nombre_comun": "Smilodon",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "smilodon.webp"
+  },
+  {
+    "id": "albertosaurio",
+    "nombre": "Albertosaurus",
+    "nombre_comun": "Albertosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "albertosaurus.webp"
+  },
+  {
+    "id": "hybodus",
+    "nombre": "Hybodus",
+    "nombre_comun": "Hybodus",
+    "tipo_animal": "pez",
+    "epoca": "Jurásico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "hybodus.webp"
+  },
+  {
+    "id": "meganeura",
+    "nombre": "Meganeura",
+    "nombre_comun": "Meganeura",
+    "tipo_animal": "insecto",
+    "epoca": "Carbonífero",
+    "alimentacion": "Carnívoro/Insectívoro",
+    "imagen_principal_url": "meganeura.webp"
+  },
+  {
+    "id": "estegosaurio",
+    "nombre": "Stegosaurus",
+    "nombre_comun": "Estegosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "estegosaurio.webp"
+  },
+  {
+    "id": "acantodes",
+    "nombre": "Acanthodes",
+    "nombre_comun": "Acantodes",
+    "tipo_animal": "pez",
+    "epoca": "Pérmico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "acantodes.webp"
+  },
+  {
+    "id": "mesosaurio",
+    "nombre": "Mesosaurus",
+    "nombre_comun": "Mesosaurio",
+    "tipo_animal": "reptil",
+    "epoca": "Pérmico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "mesosaurio.webp"
+  },
+  {
+    "id": "escutosaurio",
+    "nombre": "Scutosaurus",
+    "nombre_comun": "Escutosaurio",
+    "tipo_animal": "reptil",
+    "epoca": "Pérmico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "escutosaurio.webp"
+  },
+  {
+    "id": "diictodon",
+    "nombre": "Diictodon",
+    "nombre_comun": "Diictodon",
+    "tipo_animal": "reptil mamiferoide",
+    "epoca": "Pérmico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "diictodon.webp"
+  },
+  {
+    "id": "tiranosaurio",
+    "nombre": "Tyrannosaurus Rex",
+    "nombre_comun": "Tiranosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "tiranosaurio.webp"
+  },
+  {
+    "id": "velociraptor",
+    "nombre": "Velociraptor",
+    "nombre_comun": "Velociraptor",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "velociraptor.webp"
+  },
+  {
+    "id": "espinosaurus",
+    "nombre": "Spinosaurus",
+    "nombre_comun": "Espinosaurus",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Piscívoro/Carnívoro",
+    "imagen_principal_url": "espinosaurus.webp"
+  },
+  {
+    "id": "alosaurio",
+    "nombre": "Allosaurus",
+    "nombre_comun": "Alosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "allosaurio.webp"
+  },
+  {
+    "id": "arqueoptérix",
+    "nombre": "Archaeopteryx",
+    "nombre_comun": "Arqueoptérix",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "archaeopteryx.webp"
+  },
+  {
+    "id": "megalosaurio",
+    "nombre": "Megalosaurus",
+    "nombre_comun": "Megalosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "megalosaurio.webp"
+  },
+  {
+    "id": "anquilosaurio",
+    "nombre": "Ankylosaurus",
+    "nombre_comun": "Anquilosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "anquilosaurio.webp"
+  },
+  {
+    "id": "gallimimus",
+    "nombre": "Gallimimus",
+    "nombre_comun": "Gallimimus",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico",
+    "alimentacion": "Omnívoro",
+    "imagen_principal_url": "gallimimus.webp",
+    "imagen_card_url": "gallimimus.webp"
+
+  },
+  {
+    "id": "mamut_lanudo",
+    "nombre": "Mammuthus primigenius",
+    "nombre_comun": "Mamut Lanudo",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "mamut_lanudo.webp"
+  },
+  {
+    "id": "perezoso_gigante",
+    "nombre": "Megatherium americanum",
+    "nombre_comun": "Perezoso Gigante",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "perezoso_gigante.webp"
+  },
+  {
+    "id": "bisonte_gigante",
+    "nombre": "Bison latifrons",
+    "nombre_comun": "Bisonte Gigante",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "bisonte_gigante.webp"
+  },
+  {
+    "id": "oso_de_las_cavernas",
+    "nombre": "Ursus spelaeus",
+    "nombre_comun": "Oso de las cavernas",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro/Omnívoro",
+    "imagen_principal_url": "oso_de_las_cavernas.webp"
+  },
+  {
+    "id": "alce_gigante",
+    "nombre": "Megaloceros giganteus",
+    "nombre_comun": "Alce_Gigante",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "megaloceros.webp"
+  },
+  {
+    "id": "león_cavernario",
+    "nombre": "Panthera spelaea",
+    "nombre_comun": "León_Cavernario",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "leon_cavernario.webp"
+  },
+  {
+    "id": "rinoceronte_lanudo",
+    "nombre": "Coelodonta antiquitatis",
+    "nombre_comun": "Rinoceronte_Lanudo",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "rinoceronte_lanudo.webp"
+  },
+  {
+    "id": "gliptodonte",
+    "nombre": "Glyptodon clavipes",
+    "nombre_comun": "Gliptodonte",
+    "tipo_animal": "mamífero",
+    "epoca": "Cuaternario",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "gliptodonte.webp"
+  },
+  {
+    "id": "ceratosaurus",
+    "nombre": "Ceratosaurus nasicornis",
+    "nombre_comun": "Ceratosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "ceratosaurus.webp"
+  },
+  {
+    "id": "cearadactylus",
+    "nombre": "Cearadactylus atrox",
+    "nombre_comun": "Cearadáctilo",
+    "tipo_animal": "pterosaurio",
+    "epoca": "Cretácico Inferior",
+    "alimentacion": "Piscívoro",
+    "imagen_principal_url": "cearadactylus.webp"
+  },
+  {
+    "id": "chasmosaurus",
+    "nombre": "Chasmosaurus belli",
+    "nombre_comun": "Casmosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "chasmosaurus.webp"
+  },
+  {
+    "id": "carnotaurus",
+    "nombre": "Carnotaurus sastrei",
+    "nombre_comun": "Carnotauro",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "carnotaurus.webp"
+  },
+  {
+    "id": "camarasaurus",
+    "nombre": "Camarasaurus supremus",
+    "nombre_comun": "Camarasaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "camarasaurus.webp"
+  },
+  {
+    "id": "carcharodontosaurus",
+    "nombre": "Carcharodontosaurus saharicus",
+    "nombre_comun": "Carcharodontosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "carcharodontosaurus.webp"
+  },
+  {
+    "id": "tylosaurus",
+    "nombre": "Tylosaurus proriger",
+    "nombre_comun": "Tilosaurio",
+    "tipo_animal": "reptil marino",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "tylosaurus.webp"
+  },
+  {
+    "id": "tarbosaurus",
+    "nombre": "Tarbosaurus bataar",
+    "nombre_comun": "Tarbosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "tarbosaurus.webp"
+  },
+  {
+    "id": "pteranodon",
+    "nombre": "Pteranodon longiceps",
+    "nombre_comun": "Pteranodon",
+    "tipo_animal": "pterosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "pteranodon.webp"
+  },
+  {
+    "id": "pachycephalosaurus",
+    "nombre": "Pachycephalosaurus wyomingensis",
+    "nombre_comun": "Paquicefalosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "pachycephalosaurus.webp"
+  },
+  {
+    "id": "kentrosaurus",
+    "nombre": "Kentrosaurus aethiopicus",
+    "nombre_comun": "Kentrosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "kentrosaurus.webp"
+  },
+  {
+    "id": "huayangosaurus",
+    "nombre": "Huayangosaurus taibaii",
+    "nombre_comun": "Huayangosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Medio",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "huayangosaurus.webp"
+  },
+  {
+    "id": "homalocephale",
+    "nombre": "Homalocephale calathocercos",
+    "nombre_comun": "Homalocéfale",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "homalocephale.webp"
+  },
+  {
+    "id": "ichthyosaurus",
+    "nombre": "Ichthyosaurus communis",
+    "nombre_comun": "Ictiosaurio",
+    "tipo_animal": "reptil marino",
+    "epoca": "Jurásico Inferior y Medio",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "ichthyosaurus.webp"
+  },
+  {
+    "id": "coelophysis",
+    "nombre": "Coelophysis bauri",
+    "nombre_comun": "Celofisis",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Triásico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "coelophysis.webp"
+  },
+  {
+    "id": "chungkingosaurus",
+    "nombre": "Chungkingosaurus jiangbeiensis",
+    "nombre_comun": "Chungkingosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "chungkingosaurus.webp"
+  },
+  {
+    "id": "compsognathus",
+    "nombre": "Compsognathus longipes",
+    "nombre_comun": "Compsognathus",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "compsognathus.webp"
+  }
+]
+
+
