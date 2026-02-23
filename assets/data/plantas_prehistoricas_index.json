@@ -9,15 +9,6 @@
     "imagen_principal_url": "archaeopteris.webp"
   },
   {
-    "id": "calamites",
-    "nombre_comun": "Calamites",
-    "nombre_cientifico": ".",
-    "tipo_vegetal": "Equisetos gigantes",
-    "grupo": "Equisetophyta",
-    "epoca": "Carbonífero",
-    "imagen_principal_url": "calamites.webp"
-  },
-  {
     "id": "glossopteris",
     "nombre_comun": "Glossopteris",
     "nombre_cientifico": ".",
@@ -34,5 +25,14 @@
     "grupo": "Bennettitales",
     "epoca": "Jurásico",
     "imagen_principal_url": "williamsonia.webp"
+  },
+    {
+    "id": "calamites",
+    "nombre_comun": "Calamites",
+    "nombre_cientifico": ".",
+    "tipo_vegetal": "Equisetos gigantes",
+    "grupo": "Equisetophyta",
+    "epoca": "Carbonífero",
+    "imagen_principal_url": "calamites.webp"
   }
 ]
