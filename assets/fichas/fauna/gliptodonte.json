@@ -1,74 +1,119 @@
 {
-  "id": "gliptodonte",
-  "nombre": "Glyptodon clavipes",
+  "id": "glyptodon",
   "nombre_comun": "Gliptodonte",
-  "nombre_cientifico": "Glyptodon clavipes",
-  "tipo_animal": "mamífero",
-  "grupo": "cingulado",
+  "nombre_cientifico": "Glyptodon reticulatus",
+  "tipo_animal": "mamífero (megafauna)",
+  "grupo": "xenartro cingulado",
+
   "clasificacion": {
-    "familia": "Chlamyphoridae",
-    "orden": "Cingulata"
+    "clase": "Mammalia",
+    "orden": "Cingulata",
+    "familia": "Chlamyphoridae"
   },
+
   "dimensiones": {
     "longitud_m": 3.3,
     "altura_m": 1.5,
-    "peso_t": 2.0
+    "peso_kg": 2000.0,
+    "descripcion_dimensiones": "Poseía un caparazón rígido y globular formado por más de mil osteodermos óseos. Su cuerpo era compacto y macizo, con extremidades cortas pero extremadamente fuertes para soportar su gran peso."
   },
-  "alimentacion": "Herbívoro",
+
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "2.58–0.01"
+    "epoca": "Pleistoceno",
+    "fase": "Lujanense",
+    "rango_edad_presentacion": "Hace entre 2 millones y 10,000 años",
+    "edad_inicio_ma": 2.0,
+    "edad_fin_ma": 0.01
   },
+
   "descubrimiento": {
-    "anio": 1837,
+    "anio": 1839,
     "descubridor": "Richard Owen",
     "lugar_original": {
-      "formacion": "Luján",
+      "formacion": "Pampas Argentinas",
       "region": "Buenos Aires",
       "pais": "Argentina"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Argentina",
-      "regiones": ["Buenos Aires", "Córdoba"],
-      "lat": -34.0,
-      "lon": -64.0
+      "regiones": ["Provincia de Buenos Aires", "Córdoba"],
+      "coordenadas": [
+        {"lat": -34.6, "lon": -58.4}
+      ]
+    },
+    {
+      "pais": "Uruguay",
+      "regiones": ["San José"],
+      "coordenadas": [
+        {"lat": -34.3, "lon": -56.7}
+      ]
     },
     {
       "pais": "Brasil",
-      "regiones": ["Minas Gerais"],
-      "lat": -18.0,
-      "lon": -44.0
-    },
-    {
-      "pais": "Estados Unidos",
-      "regiones": ["Florida", "Texas"],
-      "lat": 29.0,
-      "lon": -82.0
+      "regiones": ["Rio Grande do Sul"],
+      "coordenadas": [
+        {"lat": -30.0, "lon": -51.2}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Praderas, sabanas y bosques abiertos",
-    "zona_actual": "América del Sur (extinto)",
-    "zona_paleogeografica": "América del Sur",
-    "clima_estimado": "Cálido a templado"
+    "tipo": "Sabanas abiertas y pastizales",
+    "zona_actual": "Sudamérica (extinto)",
+    "zona_paleogeografica": "Región Pampeana y áreas del Cono Sur",
+    "clima_estimado": "Variable, desde templado hasta frío y seco durante las glaciaciones, con predominio de vegetación herbácea."
   },
-  "curiosidad": "Poseía un caparazón óseo masivo y una cola con una maza espinosa, lo que lo convertía en una 'tortuga acorazada' gigante.",
-  "imagen_principal_url": "gliptodonte.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Gliptodonte (Glyptodon clavipes) fue un género de mamíferos acorazados gigantes que vivieron en América del Sur durante el Pleistoceno. Era pariente de los armadillos modernos, pero mucho más grande, con un tamaño comparable al de un automóvil pequeño. Su característica más distintiva era un caparazón óseo masivo y abovedado, formado por cientos de placas dérmicas fusionadas, que le brindaba una protección formidable.\n\nAdemás de su caparazón, muchos gliptodontes poseían una cola con una maza ósea espinosa que probablemente utilizaban para la defensa contra depredadores como el Smilodon. Eran herbívoros que se alimentaban de pastos y plantas bajas. El Gliptodonte se extinguió al final del Pleistoceno, como parte de la extinción de la megafauna, debido a una combinación de cambios climáticos y la presión de la caza por parte de los humanos.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Pastos y plantas duras. Su mandíbula profunda y dientes de crecimiento continuo estaban especializados en triturar vegetación fibrosa a ras de suelo."
+    },
+    "socialidad": "Probablemente solitario o en grupos familiares pequeños. No hay evidencia de grandes manadas, ya que su defensa era individual y pasiva.",
+    "defensa": "Coraza ósea impenetrable que cubría el torso y la parte superior de la cabeza. A diferencia de sus parientes los Doedicurus, Glyptodon no tenía una maza de púas, pero usaba su cola blindada para dar golpes laterales.",
+    "movimiento": "Cuadrúpedo plantígrado muy lento. Su anatomía estaba diseñada para el pastoreo constante y la estabilidad, no para la carrera.",
+    "reproduccion": "Vivíparo. Como mamífero placentario, daba a luz a crías vivas que probablemente permanecían bajo la protección del caparazón materno.",
+    "actividad": "Diurna/Crepuscular"
+  },
+
+  "curiosidades_adicionales": [
+    "Es un pariente gigante de los armadillos modernos, aunque su caparazón no era flexible, sino una sola pieza rígida.",
+    "Se han encontrado evidencias de que los primeros humanos en Sudamérica utilizaron sus caparazones vacíos como refugios temporales contra el clima.",
+    "A diferencia de las tortugas, el Gliptodonte no podía esconder la cabeza dentro del caparazón; en su lugar, tenía un 'casco' óseo sobre el cráneo.",
+    "Su extinción coincide con la llegada de los humanos al continente y el cambio climático al final de la última glaciación."
+  ],
+
+  "imagen_principal_url": "glyptodon_reconstruccion.webp",
+  "galeria_imagenes": [
+    "glyptodon_coraza_detalle.webp",
+    "glyptodon_craneo_fosil.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "El Glyptodon es el género representativo de los glíptodontinos. Su característica definitoria es el caparazón dorsal compuesto por osteodermos hexagonales u octogonales fusionados, que proporcionaban una protección casi total contra depredadores como el Smilodon.",
+    "El sistema respiratorio presentaba pasajes nasales adaptados, posiblemente para filtrar el polvo de las estepas secas o para ayudar en la termorregulación.",
+    "La columna vertebral estaba fusionada en gran parte de su longitud para soportar el inmenso peso de la armadura, lo que limitaba su flexibilidad pero aumentaba su integridad estructural."
+  ],
+
   "estadisticas_fantasia": {
     "agresividad": 1,
     "velocidad": 1,
-    "rareza": 4,
+    "rareza": 3,
     "fuerza_estimada": 4,
     "defensa": 5,
     "inteligencia": 2,
-    "impacto_historico": 3,
+    "impacto_historico": 4,
     "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "impresionabilidad": 4
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2025-05-20",
+    "referencia_principal": "Fariña, R. A., & Vizcaíno, S. F. (2001)"
   }
 }
