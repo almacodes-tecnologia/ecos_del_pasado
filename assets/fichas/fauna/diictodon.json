@@ -1,68 +1,112 @@
 {
   "id": "diictodon",
-  "nombre": "Diictodon feliceps",
   "nombre_comun": "Diictodon",
   "nombre_cientifico": "Diictodon feliceps",
-  "tipo_animal": "reptil mamiferoide",
+  "tipo_animal": "terápsido (pre-mamífero)",
   "grupo": "dicinodonte",
+
   "clasificacion": {
-    "familia": "Diictodontidae",
-    "orden": "Anomodontia"
+    "clase": "Synapsida",
+    "orden": "Therapsida",
+    "familia": "Diictodontidae"
   },
+
   "dimensiones": {
-    "longitud_m": 0.5,
-    "altura_m": 0.2,
-    "peso_t": 0.002
+    "longitud_m": 0.45,
+    "altura_m": 0.15,
+    "peso_kg": 2.5,
+    "descripcion_dimensiones": "Tenía el tamaño aproximado de una marmota o un conejo grande. Su cuerpo era cilíndrico y alargado, ideal para desplazarse por túneles estrechos bajo tierra."
   },
-  "alimentacion": "Herbívoro",
+
   "periodo": {
     "era": "Paleozoico",
     "epoca": "Pérmico",
-    "fase": "Tardío",
-    "edad_millones_anios": "259–254"
+    "fase": "Lopingiense (Tardío)",
+    "rango_edad_presentacion": "Hace entre 255 y 250 millones de años",
+    "edad_inicio_ma": 255.0,
+    "edad_fin_ma": 250.0
   },
+
   "descubrimiento": {
     "anio": 1876,
     "descubridor": "Richard Owen",
     "lugar_original": {
-      "formacion": "Karoo Basin",
-      "region": "Cabo Oriental",
+      "formacion": "Grupo Beaufort",
+      "region": "Cuenca del Karoo",
       "pais": "Sudáfrica"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Sudáfrica",
-      "regiones": ["Karoo Basin"],
-      "lat": -31.0,
-      "lon": 24.0
+      "regiones": ["Karoo"],
+      "coordenadas": [
+        {"lat": -32.0, "lon": 24.0}
+      ]
     },
     {
       "pais": "China",
-      "regiones": ["Xinjiang"],
-      "lat": 40.0,
-      "lon": 85.0
+      "regiones": ["Gansu"],
+      "coordenadas": [
+        {"lat": 39.0, "lon": 97.0}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Llanuras secas y semiáridas",
-    "zona_actual": "África y Asia (extinto)",
-    "zona_paleogeografica": "Gondwana",
-    "clima_estimado": "Árido a semiárido"
+    "tipo": "Llanuras aluviales y semidesérticas",
+    "zona_actual": "Sudáfrica y China (extinto)",
+    "zona_paleogeografica": "Pangea (Gondwana y Laurasia)",
+    "clima_estimado": "Árido con estaciones extremas; dependían de sus madrigueras para termorregularse."
   },
-  "curiosidad": "Era un excavador prolífico, creando madrigueras complejas para refugiarse del clima árido y los depredadores. Es uno de los vertebrados fósiles más abundantes.",
-  "imagen_principal_url": "diictodon.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Diictodon fue un pequeño dicinodonte, un tipo de reptil mamiferoide, que vivió durante el Pérmico tardío. Es uno de los vertebrados fósiles más abundantes encontrados en la Cuenca del Karoo en Sudáfrica. Se caracterizaba por su tamaño modesto, un pico córneo y un par de pequeños colmillos en la mandíbula superior (en los machos).\n\nDiictodon era un herbívoro que se alimentaba de plantas bajas. Se cree que era un excavador muy activo, construyendo madrigueras complejas para protegerse de las condiciones climáticas áridas y de los depredadores. Su éxito y abundancia sugieren que estaba muy bien adaptado a los entornos secos del Pérmico tardío, aunque finalmente sucumbió a la extinción masiva del Pérmico-Triásico.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Raíces y tubérculos. Poseía un pico córneo similar al de una tortuga para cortar vegetación dura y dos colmillos superiores para excavar o defenderse."
+    },
+    "socialidad": "Altamente gregario. Vivían en colonias de madrigueras en forma de espiral (Daemonelix), a menudo compartiendo túneles en parejas de macho y hembra.",
+    "defensa": "Refugio subterráneo. Su principal estrategia era esconderse en sus complejas madrigueras para evitar a depredadores como los gorgonópsidos.",
+    "movimiento": "Cuadrúpedo excavador. Sus patas delanteras eran cortas y muy fuertes, dotadas de garras diseñadas para remover tierra rápidamente.",
+    "reproduccion": "Ovíparo. Se han encontrado fósiles de adultos junto a crías en madrigueras, lo que sugiere cuidado parental temprano.",
+    "actividad": "Catemeral (activo en ráfagas día y noche)"
+  },
+
+  "curiosidades_adicionales": [
+    "Sus madrigueras tenían forma de sacacorchos (espirales) para mantener una temperatura constante y evitar inundaciones rápidas.",
+    "Es uno de los vertebrados más comunes del Pérmico; se estima que representaba una gran parte de la biomasa de su ecosistema.",
+    "Presenta dimorfismo sexual claro: solo los ejemplares encontrados con cráneos ligeramente más grandes suelen tener colmillos, lo que sugiere que eran machos.",
+    "Sobrevivió a condiciones extremadamente áridas justo antes de la gran extinción masiva."
+  ],
+
+  "imagen_principal_url": "diictodon_reconstruccion.webp",
+  "galeria_imagenes": [
+    "diictodon_madriguera_espiral.webp",
+    "diictodon_fosil_pareja.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "El Diictodon es un género de terápsidos dicinodontes que destaca por su adaptación a la vida fosorial (subterránea).",
+    "Su cráneo muestra una especialización única: la pérdida de casi todos los dientes a excepción de dos colmillos permanentes en el maxilar superior y un pico de queratina. Esta estructura era sumamente eficiente para procesar vegetación desértica coriácea.",
+    "La abundancia de sus fósiles ha permitido a los paleontólogos estudiar patrones de crecimiento y comportamiento social, confirmando que eran animales resilientes capaces de excavar hasta 1.5 metros de profundidad."
+  ],
+
   "estadisticas_fantasia": {
-    "agresividad": 1,
+    "agresividad": 2,
     "velocidad": 2,
     "rareza": 2,
     "fuerza_estimada": 1,
     "defensa": 2,
-    "inteligencia": 2,
-    "impacto_historico": 3,
-    "nivel_adaptacion": 4,
+    "inteligencia": 3,
+    "impacto_historico": 4,
+    "nivel_adaptacion": 5,
     "impresionabilidad": 2
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Baja",
+    "ultima_revision": "2024-03-15",
+    "referencia_principal": "Ray, S., & Chinsamy, A. (2004)"
   }
 }
