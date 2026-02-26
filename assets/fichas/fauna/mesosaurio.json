@@ -1,68 +1,100 @@
 {
-  "id": "mesosaurio",
-  "nombre": "Mesosaurus tenuidens",
+  "id": "mesosaurus",
   "nombre_comun": "Mesosaurio",
   "nombre_cientifico": "Mesosaurus tenuidens",
-  "tipo_animal": "reptil",
-  "grupo": "Mesosauridae",
+  "tipo_animal": "reptil marino",
+  "grupo": "anápsido / procolofonomorfo",
   "clasificacion": {
-    "familia": "Mesosauridae",
-    "orden": "Mesosauria"
+    "clase": "Sauropsida",
+    "orden": "Mesosauria",
+    "familia": "Mesosauridae"
   },
   "dimensiones": {
     "longitud_m": 1.0,
-    "altura_m": 0.15,
-    "peso_t": 0.005
+    "altura_m": 0.2,
+    "peso_kg": 10.0,
+    "descripcion_dimensiones": "Reptil de tamaño pequeño a mediano. Su cuerpo era esbelto y alargado, con una cola lateralmente comprimida que representaba casi la mitad de su longitud total, ideal para la propulsión acuática."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
     "era": "Paleozoico",
     "epoca": "Pérmico",
-    "fase": "Temprano",
-    "edad_millones_anios": "299–280"
+    "fase": "Cisuraliense (Inferior)",
+    "rango_edad_presentacion": "Hace entre 299 y 270 millones de años",
+    "edad_inicio_ma": 299.0,
+    "edad_fin_ma": 270.0
   },
   "descubrimiento": {
-    "anio": 1844,
+    "anio": 1864,
     "descubridor": "Paul Gervais",
     "lugar_original": {
-      "formacion": "Irati",
-      "region": "São Paulo",
-      "pais": "Brasil"
+      "formacion": "Irati / Whitehill",
+      "region": "Paraná / Karoo",
+      "pais": "Brasil / Sudáfrica"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Brasil",
-      "regiones": ["São Paulo", "Paraná"],
-      "lat": -25.0,
-      "lon": -50.0
+      "regiones": ["Cuenca del Paraná"],
+      "coordenadas": [
+        {"lat": -23.55, "lon": -46.63}
+      ]
     },
     {
       "pais": "Sudáfrica",
-      "regiones": ["Karoo Basin"],
-      "lat": -31.0,
-      "lon": 24.0
+      "regiones": ["Cuenca del Karoo"],
+      "coordenadas": [
+        {"lat": -32.29, "lon": 22.58}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Lagos y lagunas de agua dulce y salobre",
-    "zona_actual": "América del Sur y África (extinto)",
+    "tipo": "Mares interiores poco profundos y lagos salobres",
+    "zona_actual": "Sudamérica y África (extinto)",
     "zona_paleogeografica": "Gondwana",
-    "clima_estimado": "Templado a cálido"
+    "clima_estimado": "Templado a cálido, en cuencas restringidas con alta salinidad."
   },
-  "curiosidad": "La presencia de sus fósiles en Sudamérica y África fue una de las primeras y más importantes pruebas de la teoría de la deriva continental.",
-  "imagen_principal_url": "mesosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Mesosaurus fue un género de reptiles acuáticos que vivió durante el Pérmico temprano. Era un reptil relativamente pequeño y delgado, perfectamente adaptado a la vida acuática, con un cuerpo hidrodinámico, una cola larga y aplanada lateralmente para la propulsión, y patas palmeadas. Su característica más distintiva eran sus numerosos dientes finos y afilados, ideales para filtrar pequeños invertebrados acuáticos.\n\nLos fósiles de Mesosaurus son de particular importancia geológica porque se han encontrado exclusivamente en dos regiones muy específicas: el sur de Brasil y el sur de África. Esta distribución geográfica tan restringida y disjunta fue una de las primeras y más convincentes pruebas fósiles que apoyaron la teoría de la deriva continental y la existencia del supercontinente Gondwana.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro / Piscívoro",
+      "detalle": "Se alimentaba principalmente de pequeños crustáceos (como los piracáridos) y peces pequeños. Sus dientes largos, delgados y filtradores sugieren que atrapaba presas en el agua de forma similar a una trampa."
+    },
+    "socialidad": "Probablemente vivía en grandes grupos en lagos costeros, facilitando la caza y la reproducción en entornos controlados.",
+    "defensa": "Agilidad acuática y camuflaje en aguas turbias. Su pequeño tamaño lo hacía vulnerable a depredadores más grandes de la época.",
+    "movimiento": "Nadador especializado. Utilizaba su cola larga para impulsarse y sus patas traseras, que eran parcialmente palmeadas, como timones.",
+    "reproduccion": "Vivíparo o restos de huevos retenidos (se han hallado embriones avanzados dentro de adultos), lo que indica que no necesitaba volver a tierra firme para desovar.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Fue una pieza clave para la teoría de la Deriva Continental de Alfred Wegener, al hallarse fósiles idénticos en continentes hoy separados por el Atlántico.",
+    "Aunque vivía en el agua, sus ancestros eran terrestres, siendo uno de los primeros vertebrados en realizar el camino de regreso al mar.",
+    "Sus dientes eran demasiado finos para masticar; funcionaban más como una cesta para atrapar presas pequeñas.",
+    "A pesar de su apariencia de cocodrilo pequeño, no está emparentado directamente con ellos."
+  ],
+  "imagen_principal_url": "mesosaurus_reconstruction.webp",
+  "galeria_imagenes": [
+    "mesosaurus_fossil_brazil.webp",
+    "mesosaurus_skeleton_diagram.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Mesosaurus (que significa 'lagarto intermedio') es un género extinto de reptiles anápsidos que vivieron durante el Pérmico Inferior.",
+    "Se caracteriza por un cráneo alargado con mandíbulas llenas de dientes muy finos y largos que no se encontraban en alvéolos profundos. Sus huesos eran paquostóticos (densos), una adaptación común en animales acuáticos para controlar la flotabilidad.",
+    "Su importancia histórica radica en la paleontología biogeográfica, ya que su distribución restringida a las cuencas del sur de África y el este de Sudamérica demostró que ambos continentes estuvieron unidos en el supercontinente Gondwana."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 1,
-    "velocidad": 3,
-    "rareza": 4,
+    "agresividad": 2,
+    "velocidad": 4,
+    "rareza": 3,
     "fuerza_estimada": 1,
-    "defensa": 1,
+    "defensa": 2,
     "inteligencia": 2,
     "impacto_historico": 5,
-    "nivel_adaptacion": 3,
+    "nivel_adaptacion": 4,
     "impresionabilidad": 3
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-26",
+    "referencia_principal": "Gervais, P. (1864)"
   }
 }

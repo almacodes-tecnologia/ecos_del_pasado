@@ -1,62 +1,105 @@
 {
-  "id": "escutosaurio",
-  "nombre": "Scutosaurus karpinskii",
+  "id": "scutosaurus",
   "nombre_comun": "Escutosaurio",
   "nombre_cientifico": "Scutosaurus karpinskii",
-  "tipo_animal": "reptil",
-  "grupo": "pareiasaurio",
+  "tipo_animal": "pararreptil (anápsido)",
+  "grupo": "pareiasáurido",
+
   "clasificacion": {
-    "familia": "Pareiasauridae",
-    "orden": "Procolophonomorpha"
+    "clase": "Reptilia",
+    "orden": "Procolophonomorpha",
+    "familia": "Pareiasauridae"
   },
+
   "dimensiones": {
     "longitud_m": 3.0,
     "altura_m": 1.5,
-    "peso_t": 1.0
+    "peso_kg": 1100.0,
+    "descripcion_dimensiones": "Cuerpo robusto y achaparrado. Aunque no era muy largo (máximo 3 metros), su masa corporal era considerable. Poseía extremidades poderosas situadas bajo el cuerpo para soportar su gran peso, a diferencia de otros reptiles de patas abiertas."
   },
-  "alimentacion": "Herbívoro",
+
   "periodo": {
     "era": "Paleozoico",
     "epoca": "Pérmico",
-    "fase": "Tardío",
-    "edad_millones_anios": "254–252"
+    "fase": "Lopingiense (Tardío)",
+    "rango_edad_presentacion": "Hace entre 260 y 252 millones de años",
+    "edad_inicio_ma": 260.0,
+    "edad_fin_ma": 252.0
   },
+
   "descubrimiento": {
-    "anio": 1922,
-    "descubridor": "Vladimir P. Amalitsky",
+    "anio": 1899,
+    "descubridor": "Vladimir Prokhorovich Amalitskii",
     "lugar_original": {
       "formacion": "Sokolki",
       "region": "Óblast de Arcángel",
       "pais": "Rusia"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Rusia",
-      "regiones": ["Óblast de Arcángel", "Óblast de Vologda"],
-      "lat": 64.0,
-      "lon": 40.0
+      "regiones": ["Cuenca del río Dvina Septentrional"],
+      "coordenadas": [
+        {"lat": 61.25, "lon": 46.63}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Llanuras secas y semiáridas",
-    "zona_actual": "Europa del Este (extinto)",
-    "zona_paleogeografica": "Laurasia",
-    "clima_estimado": "Árido a semiárido"
+    "tipo": "Llanuras semiáridas y zonas de inundación",
+    "zona_actual": "Rusia europea (extinto)",
+    "zona_paleogeografica": "Pangea (Siberia)",
+    "clima_estimado": "Continental extremo, con periodos de sequía prolongados y escasez de agua."
   },
-  "curiosidad": "Su nombre significa 'reptil con escudo', refiriéndose a las numerosas placas óseas (osteodermos) que cubrían su cuerpo como armadura.",
-  "imagen_principal_url": "escutosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Scutosaurus karpinskii fue un gran reptil herbívoro del grupo de los pareiasaurios, que vivió durante el Pérmico tardío en lo que hoy es Rusia. Era un animal robusto y de constitución pesada, con patas cortas y fuertes. Su característica más notable era la extensa armadura corporal, compuesta por numerosas placas óseas (osteodermos) incrustadas en su piel, que le proporcionaban protección contra depredadores.\n\nSu cráneo era ancho y estaba adornado con protuberancias y cuernos óseos. Scutosaurus habitaba en ambientes terrestres secos y semiáridos, y se alimentaba de vegetación dura. Fue uno de los últimos grandes pareiasaurios antes de la extinción masiva del Pérmico-Triásico, a la que no sobrevivió.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detail": "Vegetación dura y fibrosa. Poseía dientes en forma de hoja con bordes aserrados ideales para triturar materia vegetal resistente en las áridas llanuras del Pérmico."
+    },
+    "socialidad": "Probablemente gregario. Se cree que migraban en grupos buscando fuentes de agua y pastos frescos durante las estaciones secas.",
+    "defensa": "Acorazamiento pasivo. Su piel estaba cubierta de osteodermos (placas óseas) incrustados que actuaban como una armadura contra depredadores como el Inostrancevia.",
+    "movimiento": "Cuadrúpedo lento. Su postura era más erecta que la de los reptiles primitivos, optimizada para caminar largas distancias, no para la velocidad.",
+    "reproduccion": "Ovíparo. Se asume que ponía huevos en tierra firme, similar a otros reptiles terrestres de la época.",
+    "actividad": "Diurna"
+  },
+
+  "curiosidades_adicionales": [
+    "Su nombre significa 'reptil con escudo', debido a las placas óseas que cubrían su cuerpo.",
+    "A diferencia de los dinosaurios, sus patas estaban situadas casi directamente debajo de su cuerpo, una adaptación avanzada para su época.",
+    "Sus mejillas presentaban grandes protuberancias óseas que podrían haber servido para exhibición sexual o comunicación sonora al golpearlas.",
+    "Se extinguió durante la extinción masiva del Pérmico-Triásico, la mayor extinción en la historia de la Tierra."
+  ],
+
+  "imagen_principal_url": "scutosaurus_reconstruccion.webp",
+  "galeria_imagenes": [
+    "scutosaurus_craneo_fosil.webp",
+    "scutosaurus_comparacion_tamaño.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "El Scutosaurus fue uno de los mayores pareiasáuridos, un grupo de pararreptiles que floreció durante el Pérmico Superior.",
+    "Su cráneo era masivo y presentaba una textura rugosa con múltiples protuberancias y espinas óseas. Los osteodermos que cubrían su dorso no estaban fusionados, lo que le permitía cierta flexibilidad a pesar de su pesada armadura.",
+    "Paleontológicamente es clave para entender la evolución de la locomoción en los tetrápodos, ya que muestra una transición hacia una postura más eficiente para soportar el peso fuera del agua."
+  ],
+
   "estadisticas_fantasia": {
-    "agresividad": 1,
+    "agresividad": 2,
     "velocidad": 1,
     "rareza": 3,
     "fuerza_estimada": 3,
     "defensa": 5,
-    "inteligencia": 1,
-    "impacto_historico": 2,
-    "nivel_adaptacion": 3,
+    "inteligencia": 2,
+    "impacto_historico": 3,
+    "nivel_adaptacion": 2,
     "impresionabilidad": 4
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Hartmann-Weinberg, A. P. (1930)"
   }
 }

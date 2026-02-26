@@ -1,25 +1,27 @@
 {
-  "id": "estegosaurio",
-  "nombre": "Stegosaurus stenops",
+  "id": "stegosaurus",
   "nombre_comun": "Estegosaurio",
   "nombre_cientifico": "Stegosaurus stenops",
   "tipo_animal": "dinosaurio",
   "grupo": "tireóforo",
   "clasificacion": {
-    "familia": "Stegosauridae",
-    "orden": "Ornithischia"
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Stegosauridae"
   },
   "dimensiones": {
     "longitud_m": 9.0,
     "altura_m": 4.0,
-    "peso_t": 5.0
+    "peso_kg": 6000.0,
+    "descripcion_dimensiones": "Longitud promedio de 9 metros. La altura a la placa más alta podía alcanzar los 4 metros. A pesar de su gran cuerpo, su cráneo era notablemente pequeño, del tamaño aproximado del de un perro."
   },
-  "alimentacion": "Herbívoro",
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Jurásico",
     "fase": "Tardío",
-    "edad_millones_anios": "155–150"
+    "rango_edad_presentacion": "Hace entre 155 y 150 millones de años",
+    "edad_inicio_ma": 155.0,
+    "edad_fin_ma": 150.0
   },
   "descubrimiento": {
     "anio": 1877,
@@ -30,33 +32,75 @@
       "pais": "Estados Unidos"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Estados Unidos",
-      "regiones": ["Colorado", "Wyoming", "Utah"],
-      "lat": 39.0,
-      "lon": -106.0
+      "regiones": ["Colorado", "Utah", "Wyoming"],
+      "coordenadas": [
+        {
+          "lat": 37.25,
+          "lon": -109.05
+        }
+      ]
+    },
+    {
+      "pais": "Portugal",
+      "regiones": ["Batalha"],
+      "coordenadas": [
+        {
+          "lat": 39.65,
+          "lon": -8.82
+        }
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Llanuras y bosques con vegetación baja",
-    "zona_actual": "Oeste de América del Norte",
+    "tipo": "Sabanas arboladas y llanuras aluviales",
+    "zona_actual": "Oeste de América del Norte y Europa (extinto)",
     "zona_paleogeografica": "Laurasia",
-    "clima_estimado": "Cálido y húmedo"
+    "clima_estimado": "Semiárido a húmedo con estacionalidad marcada."
   },
-  "curiosidad": "A pesar de su gran tamaño, su cerebro era del tamaño de una nuez, lo que lo convierte en uno de los dinosaurios con la relación cerebro-cuerpo más pequeña.",
-  "imagen_principal_url": "estegosaurio.webp",
-  "imagen_fosil_url": "h",
-  "descripcion_cientifica": "El Estegosaurio fue un gran dinosaurio herbívoro que vivió durante el Jurásico Tardío en lo que hoy es América del Norte. Es fácilmente reconocible por sus distintivas placas óseas en forma de cometa a lo largo de su espalda y las cuatro púas afiladas en la punta de su cola, conocidas como 'thagomizer', que probablemente utilizaba para la defensa contra depredadores.\n\nSu dieta consistía en plantas bajas, que arrancaba con su pico desdentado. A pesar de su imponente tamaño, su cerebro era notablemente pequeño en proporción a su cuerpo. Las placas dorsales del Estegosaurio han sido objeto de mucho debate, con teorías que sugieren que servían para la termorregulación, exhibición o incluso defensa pasiva.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Consumía plantas bajas como musgos, helechos, colas de caballo y frutos caídos. Al carecer de dientes frontales, usaba un pico córneo para cortar la vegetación y pequeños dientes molares para un procesamiento limitado."
+    },
+    "socialidad": "Probablemente solitario o en grupos muy pequeños, a diferencia de los grandes saurópodos.",
+    "defensa": "Poseía cuatro púas óseas en la cola (thagomizer) que podían medir hasta 90 cm, capaces de atravesar el hueso de depredadores como el Allosaurus.",
+    "movimiento": "Cuadrúpedo lento y pesado. Sus patas delanteras eran mucho más cortas que las traseras, lo que le daba una postura encorvada con la cabeza cerca del suelo.",
+    "reproduccion": "Ovíparo. Se cree que no cuidaban extensamente de sus crías tras la eclosión.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "El nombre Stegosaurus significa 'lagarto con tejado', debido a la creencia inicial de que sus placas yacían planas sobre su espalda.",
+    "Su cerebro era del tamaño de una nuez, pesando apenas 80 gramos para un cuerpo de 6 toneladas.",
+    "Se debatió durante años si las placas servían para defensa, pero hoy se cree que funcionaban para termorregulación o exhibición visual.",
+    "El término 'thagomizer' para sus púas de la cola fue inventado en una tira cómica de 'The Far Side' y luego adoptado por paleontólogos reales."
+  ],
+  "imagen_principal_url": "stegosaurus.webp",
+  "galeria_imagenes": [
+    "stegosaurus_placas_detalle.webp",
+    "stegosaurus_esqueleto_fosil.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Stegosaurus es el género más representativo de los dinosaurios tireóforos estegosáuridos, caracterizado por una doble hilera de placas romboidales en su dorso.",
+    "Presenta una morfología única con extremidades anteriores muy cortas, lo que limitaba su velocidad y mantenía su centro de gravedad bajo. Las placas dorsales, formadas por osteodermos, no estaban unidas directamente al esqueleto sino ancladas en la piel.",
+    "Su principal arma ofensiva era el thagomizer, un conjunto de cuatro púas en el extremo de su cola flexible, que utilizaba mediante movimientos laterales violentos para disuadir a los terópodos contemporáneos."
+  ],
   "estadisticas_fantasia": {
     "agresividad": 2,
-    "velocidad": 2,
-    "rareza": 4,
-    "fuerza_estimada": 4,
+    "velocidad": 1,
+    "rareza": 3,
+    "fuerza_estimada": 3,
     "defensa": 5,
     "inteligencia": 1,
     "impacto_historico": 5,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "level_adaptacion": 3,
+    "impresionabilidad": 4
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-26",
+    "referencia_principal": "Marsh, O. C. (1877)"
   }
 }

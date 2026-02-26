@@ -1,68 +1,100 @@
 {
-  "id": "megaunera",
-  "nombre": "Meganeura",
+  "id": "meganeura",
   "nombre_comun": "Meganeura",
   "nombre_cientifico": "Meganeura monyi",
-  "tipo_animal": "insecto",
-  "grupo": "Protodonata",
+  "tipo_animal": "insecto prehistórico",
+  "grupo": "grifoflebióptero (emparentado con libélulas)",
   "clasificacion": {
-    "familia": "Meganeuridae",
-    "orden": "Meganisoptera"
+    "clase": "Insecta",
+    "orden": "Meganisoptera",
+    "familia": "Meganeuridae"
   },
   "dimensiones": {
-    "longitud_m": 0.3,
-    "altura_m": 0.05,
-    "peso_t": 0.00001
+    "envergadura_m": 0.7,
+    "longitud_m": 0.45,
+    "peso_kg": 0.15,
+    "descripcion_dimensiones": "Con una envergadura de hasta 70 centímetros, es uno de los insectos voladores más grandes que han existido. Su cuerpo era robusto y sus alas, aunque similares a las de las libélulas modernas, tenían una venación mucho más compleja."
   },
-  "alimentacion": "Carnívoro/Insectívoro",
   "periodo": {
     "era": "Paleozoico",
     "epoca": "Carbonífero",
-    "fase": "Superior",
-    "edad_millones_anios": "305–299"
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace aproximadamente 300 millones de años",
+    "edad_inicio_ma": 305.0,
+    "edad_fin_ma": 299.0
   },
   "descubrimiento": {
-    "anio": 1884,
+    "anio": 1880,
     "descubridor": "Charles Brongniart",
     "lugar_original": {
       "formacion": "Commentry",
-      "region": "Auvernia",
+      "region": "Allier",
       "pais": "Francia"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Francia",
-      "regiones": ["Auvernia"],
-      "lat": 46.2,
-      "lon": 3.0
+      "regiones": ["Commentry"],
+      "coordenadas": [
+        { "lat": 46.28, "lon": 2.74 }
+      ]
     },
     {
       "pais": "Reino Unido",
-      "regiones": ["Derbyshire"],
-      "lat": 53.0,
-      "lon": -1.5
+      "regiones": ["Bolsover"],
+      "coordenadas": [
+        { "lat": 53.23, "lon": -1.29 }
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Bosques húmedos y pantanosos",
-    "zona_actual": "Europa y América del Norte",
-    "zona_paleogeografica": "Euramérica",
-    "clima_estimado": "Cálido y muy húmedo"
+    "tipo": "Bosques tropicales pantanosos y densos",
+    "zona_actual": "Europa y América del Norte (extinto)",
+    "zona_paleogeografica": "Euramérica (Pangea en formación)",
+    "clima_estimado": "Muy cálido y extremadamente húmedo, con niveles de oxígeno atmosférico cercanos al 35%."
   },
-  "curiosidad": "Fue uno de los insectos voladores más grandes de la historia, con una envergadura de alas de hasta 75 cm, gracias a los altos niveles de oxígeno atmosférico del Carbonífero.",
-  "imagen_principal_url": "meganeura.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Meganeura fue un género de insectos protodonatos gigantes que vivieron durante el período Carbonífero. Es notable por ser uno de los insectos voladores más grandes conocidos en la historia de la Tierra, con una envergadura de alas que podía alcanzar hasta 75 centímetros. Su gran tamaño se atribuye a los altos niveles de oxígeno atmosférico presentes durante el Carbonífero, que permitían un sistema respiratorio más eficiente para insectos tan grandes.\n\nAunque a menudo se la confunde con una libélula gigante, Meganeura no era una libélula verdadera, sino un pariente cercano. Era un depredador aéreo, probablemente cazando otros insectos y pequeños anfibios en los densos bosques pantanosos que caracterizaban el paisaje del Carbonífero.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro / Insectívoro",
+      "detalle": "Depredador aéreo dominante. Se alimentaba de otros insectos de gran tamaño e incluso de pequeños anfibios primitivos. Utilizaba sus fuertes mandíbulas dentadas para atrapar y desmembrar a sus presas en pleno vuelo."
+    },
+    "socialidad": "Probablemente solitaria y territorial, similar a las libélulas actuales.",
+    "defensa": "Agilidad aérea superior y gran tamaño. Sus enormes ojos compuestos le proporcionaban una visión de casi 360 grados para detectar amenazas.",
+    "movimiento": "Vuelo activo y potente. Sus alas no podían plegarse sobre el abdomen, lo que la obligaba a posarse con las alas extendidas.",
+    "reproduccion": "Ovípara. Las ninfas (larvas) eran acuáticas y también depredadoras, viviendo en charcas y pantanos antes de su metamorfosis.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su gran tamaño fue posible gracias a la alta concentración de oxígeno en la atmósfera del Carbonífero, que facilitaba la difusión de gases a través de su sistema traqueal.",
+    "Aunque parece una libélula gigante, pertenece al orden extinto Meganisoptera, conocidos como 'grifoflebiópteros'.",
+    "Sus ojos compuestos contenían miles de omatidios, lo que la convertía en uno de los cazadores más eficientes de su tiempo.",
+    "Es un icono de la fauna del Carbonífero, apareciendo frecuentemente en documentales sobre la evolución de los artrópodos."
+  ],
+  "imagen_principal_url": "meganeura_reconstruccion.webp",
+  "galeria_imagenes": [
+    "meganeura_fosil_ala.webp",
+    "meganeura_habitat_pantano.webp"
+  ],
+  "descripcion_cientifica": [
+    "La Meganeura es el género de insectos más famoso del Paleozoico, destacando por su envergadura excepcional que desafía las limitaciones fisiológicas de los insectos modernos.",
+    "Morfológicamente presentaba un tórax robusto donde se anclaban potentes músculos de vuelo. Sus alas presentaban una red de venas cuticulares que le otorgaban rigidez y flexibilidad, permitiéndole maniobras rápidas en los densos bosques de licopodios.",
+    "La extinción de estos gigantes se vincula a la caída de los niveles de oxígeno atmosférico a finales del Pérmico y a los cambios climáticos que redujeron sus hábitats pantanosos."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 2,
+    "agresividad": 4,
     "velocidad": 5,
-    "rareza": 4,
+    "rareza": 3,
     "fuerza_estimada": 2,
-    "defensa": 1,
-    "inteligencia": 1,
+    "defensa": 2,
+    "inteligencia": 2,
     "impacto_historico": 4,
     "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "impresionabilidad": 4
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-26",
+    "referencia_principal": "Brongniart, C. (1885)"
   }
 }

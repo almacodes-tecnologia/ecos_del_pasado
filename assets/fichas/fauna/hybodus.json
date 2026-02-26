@@ -1,74 +1,96 @@
 {
-  "id": "hibodo",
-  "nombre": "Hybodus",
-  "nombre_comun": "Hibodo",
-  "nombre_cientifico": "Hybodus fraasi",
-  "tipo_animal": "pez",
-  "grupo": "tiburón",
+  "id": "hybodus",
+  "nombre_comun": "Hybodus",
+  "nombre_cientifico": "Hybodus basanus",
+  "tipo_animal": "tiburón prehistórico",
+  "grupo": "hibodontiformes",
   "clasificacion": {
-    "familia": "Hybodontidae",
-    "orden": "Hybodontiformes"
+    "clase": "Chondrichthyes",
+    "orden": "Hybodontiformes",
+    "familia": "Hybodontidae"
   },
   "dimensiones": {
     "longitud_m": 2.0,
     "altura_m": 0.5,
-    "peso_t": 0.05
+    "peso_kg": 90.0,
+    "descripcion_dimensiones": "Longitud promedio de 2 metros. Cuerpo hidrodinámico y robusto, similar al de los tiburones modernos pero con una estructura ósea y de cartílago distintiva. Poseía dos aletas dorsales, cada una precedida por una espina ósea afilada."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
-    "era": "Mesozoico",
-    "epoca": "Jurásico",
-    "fase": "Temprano a Tardío",
-    "edad_millones_anios": "200–66"
+    "era": "Paleozoico a Mesozoico",
+    "epoca": "Triásico al Cretácico",
+    "fase": "Extensión global",
+    "rango_edad_presentacion": "Hace entre 250 y 66 millones de años",
+    "edad_inicio_ma": 250.0,
+    "edad_fin_ma": 66.0
   },
   "descubrimiento": {
-    "anio": 1784,
-    "descubridor": "Ernst Heinrich Haeckel",
+    "anio": 1837,
+    "descubridor": "Louis Agassiz",
     "lugar_original": {
-      "formacion": "Solnhofen Limestone",
-      "region": "Baviera",
-      "pais": "Alemania"
+      "formacion": "Desconocida (varios hallazgos tempranos)",
+      "region": "Europa",
+      "pais": "Reino Unido / Alemania"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
-      "pais": "Alemania",
-      "regiones": ["Baviera"],
-      "lat": 48.9,
-      "lon": 11.2
-    },
-    {
-      "pais": "Reino Unido",
-      "regiones": ["Inglaterra"],
-      "lat": 51.5,
-      "lon": -0.1
-    },
-    {
-      "pais": "Estados Unidos",
-      "regiones": ["Montana", "Texas"],
-      "lat": 31.0,
-      "lon": -100.0
+      "pais": "Global",
+      "regiones": ["Europa", "América del Norte", "Asia", "África"],
+      "coordenadas": [
+        {
+          "lat": 50.72,
+          "lon": -2.93
+        }
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Costero y de aguas poco profundas",
-    "zona_actual": "Global (océanos)",
-    "zona_paleogeografica": "Mares de Tetis y Panthalassa",
-    "clima_estimado": "Cálido"
+    "tipo": "Océanos poco profundos, estuarios y ocasionalmente agua dulce",
+    "zona_actual": "Global (extinto)",
+    "zona_paleogeografica": "Tethys y mares epicontinentales",
+    "clima_estimado": "Variable, desde templado hasta tropical."
   },
-  "curiosidad": "Tenía dos tipos de dientes: afilados para capturar presas y aplanados para triturar conchas, lo que le permitía una dieta variada.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro oportunista",
+      "detalle": "Poseía una dentadura heterodonta: dientes afilados en la parte delantera para atrapar presas resbaladizas (peces) y dientes planos en la parte posterior para triturar caparazones de moluscos y crustáceos."
+    },
+    "socialidad": "Probablemente solitario o en grupos pequeños de caza.",
+    "defensa": "Dos espinas óseas en las aletas dorsales que servían para disuadir a depredadores más grandes, como reptiles marinos.",
+    "movimiento": "Nadador ágil pero no tan rápido como los tiburones modernos de mar abierto. Su cuerpo era más versátil para maniobrar en arrecifes y zonas costeras.",
+    "reproduccion": "Ovíparo. Se han encontrado cápsulas de huevos (pursed) fosilizadas asociadas a su grupo.",
+    "actividad": "Cazador activo"
+  },
+  "curiosidades_adicionales": [
+    "Fue uno de los géneros de tiburones más exitosos de la historia, sobreviviendo a varias extinciones masivas.",
+    "A diferencia de los tiburones modernos, su esqueleto estaba parcialmente osificado, lo que ha permitido una mejor preservación de sus fósiles.",
+    "Las espinas de sus aletas dorsales se usaban a veces como defensa 'pasiva' contra los grandes pliosaurios.",
+    "Es el tiburón 'clásico' que suele aparecer en representaciones de la era de los dinosaurios."
+  ],
   "imagen_principal_url": "hybodus.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Hybodus fue un género de tiburones prehistóricos que existió desde el Pérmico hasta el Cretácico, siendo particularmente exitoso durante el Jurásico. Se caracterizaba por su cuerpo hidrodinámico, dos aletas dorsales prominentes (una con una espina ósea afilada) y una boca equipada con dos tipos de dientes: dientes afilados y puntiagudos en la parte delantera para atrapar peces y calamares, y dientes más planos en la parte posterior para triturar moluscos y crustáceos.\n\nEsta versatilidad dental le permitía explotar una amplia gama de fuentes de alimento, lo que contribuyó a su éxito y larga supervivencia. El Hybodus habitaba en aguas costeras y poco profundas de todo el mundo, siendo un depredador adaptable en los ecosistemas marinos mesozoicos.",
+  "galeria_imagenes": [
+    "hybodus_fosil_dientes.webp",
+    "hybodus_espina_dorsal.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Hybodus es un género extinto de tiburón que representa el linaje de los hibodontiformes, un grupo hermano de los tiburones modernos (Neoselachii).",
+    "Se distingue por su dentición única (heterodoncia), que le permitía explotar múltiples fuentes de alimento, desde peces rápidos hasta presas con concha dura. Sus aletas pectorales y dorsales le daban una estabilidad superior en aguas poco profundas.",
+    "Aunque desapareció junto con los dinosaurios al final del Cretácico, su registro fósil es uno de los más completos entre los condrictios debido a la mineralización de ciertas partes de su esqueleto y sus espinas defensivas."
+  ],
   "estadisticas_fantasia": {
     "agresividad": 3,
-    "velocidad": 4,
+    "velocidad": 3,
     "rareza": 2,
-    "fuerza_estimada": 3,
+    "fuerza_estimada": 2,
     "defensa": 3,
     "inteligencia": 2,
-    "impacto_historico": 3,
+    "impacto_historico": 4,
     "nivel_adaptacion": 5,
     "impresionabilidad": 3
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-26",
+    "referencia_principal": "Agassiz, L. (1837)"
   }
 }

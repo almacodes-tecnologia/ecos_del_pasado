@@ -1,68 +1,100 @@
 {
-  "id": "acantodes",
-  "nombre": "Acanthodes bronni",
+  "id": "acanthodes",
   "nombre_comun": "Acantodes",
   "nombre_cientifico": "Acanthodes bronni",
-  "tipo_animal": "pez",
-  "grupo": "acantodio",
+  "tipo_animal": "pez prehistórico",
+  "grupo": "acantodio (tiburón espinoso)",
   "clasificacion": {
-    "familia": "Acanthodidae",
-    "orden": "Acanthodiformes"
+    "clase": "Acanthodii",
+    "orden": "Acanthodiformes",
+    "familia": "Acanthodidae"
   },
   "dimensiones": {
     "longitud_m": 0.3,
     "altura_m": 0.05,
-    "peso_t": 0.0001
+    "peso_kg": 0.5,
+    "descripcion_dimensiones": "Cuerpo hidrodinámico y alargado. La mayoría de los ejemplares medían unos 30 cm, aunque algunas especies del género podían variar ligeramente. Se caracteriza por tener una sola aleta dorsal, a diferencia de otros acantodios más primitivos."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
     "era": "Paleozoico",
-    "epoca": "Pérmico",
-    "fase": "Temprano",
-    "edad_millones_anios": "290–270"
+    "epoca": "Carbonífero - Pérmico",
+    "fase": "Cisuraliense",
+    "rango_edad_presentacion": "Hace entre 298 y 290 millones de años",
+    "edad_inicio_ma": 298.0,
+    "edad_fin_ma": 251.0
   },
   "descubrimiento": {
     "anio": 1833,
     "descubridor": "Louis Agassiz",
     "lugar_original": {
-      "formacion": "Saar-Nahe Basin",
-      "region": "Renania-Palatinado",
+      "formacion": "Varias (incluyendo Lebach)",
+      "region": "Sarre",
       "pais": "Alemania"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Alemania",
-      "regiones": ["Saar-Nahe"],
-      "lat": 49.5,
-      "lon": 7.5
+      "regiones": ["Sarre", "Renania-Palatinado"],
+      "coordenadas": [
+        { "lat": 49.38, "lon": 6.91 }
+      ]
     },
     {
-      "pais": "Estados Unidos",
-      "regiones": ["Texas", "Oklahoma"],
-      "lat": 33.0,
-      "lon": -98.0
+      "pais": "República Checa",
+      "regiones": ["Bohemia"],
+      "coordenadas": [
+        { "lat": 49.81, "lon": 15.47 }
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Aguas dulces (lagos y ríos) y estuarios",
-    "zona_actual": "Europa y América del Norte (extinto)",
-    "zona_paleogeografica": "Euramérica",
-    "clima_estimado": "Templado a cálido"
+    "tipo": "Aguas dulces y estuarios",
+    "zona_actual": "Europa, América del Norte y Australia (extinto)",
+    "zona_paleogeografica": "Pangea",
+    "clima_estimado": "Variable, desde tropical húmedo hasta templado."
   },
-  "curiosidad": "Eran 'tiburones espinosos', un grupo extinto de peces que combinaban características de tiburones y peces óseos, con una espina delante de cada aleta.",
-  "imagen_principal_url": "acantodes.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Acanthodes fue un género de peces acantodios, un grupo extinto de peces que a menudo se les denomina 'tiburones espinosos' debido a las prominentes espinas que precedían a cada una de sus aletas. Vivieron durante el Pérmico temprano y habitaban principalmente en ambientes de agua dulce, como lagos y ríos, así como estuarios.\n\nEran depredadores pequeños, con un cuerpo alargado y aerodinámico, adaptado para la natación rápida. Sus branquias estaban cubiertas por un opérculo, una característica más común en los peces óseos que en los tiburones. Los acantodios representan un grupo clave en la evolución de los vertebrados, mostrando una mezcla de rasgos primitivos y avanzados que los sitúan en una posición importante en el árbol filogenético de los peces.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Filtrador / Omnívoro",
+      "detalle": "A diferencia de sus ancestros, carecía de dientes. Utilizaba rastrillos branquiales largos y delgados para filtrar zooplancton y pequeños organismos del agua, similar a los arenques modernos."
+    },
+    "socialidad": "Probablemente formaba bancos o cardúmenes para protegerse de depredadores de mayor tamaño.",
+    "defensa": "Poseía espinas rígidas en las aletas que dificultaban que fuera engullido por depredadores. Su velocidad y maniobrabilidad eran sus mejores bazas.",
+    "movimiento": "Nadador activo y rápido, con una cola heterocerca (lobo superior más largo) que proporcionaba gran propulsión.",
+    "reproduccion": "Ovíparo. Se han encontrado fósiles que sugieren un desarrollo larval complejo.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Aunque se les llama 'tiburones espinosos', tenían un esqueleto compuesto en gran parte por hueso real, no solo cartílago.",
+    "El Acanthodes fue uno de los últimos miembros de su clase antes de la gran extinción del Pérmico-Triásico.",
+    "A diferencia de otros acantodios, el Acanthodes perdió casi todas las espinas pares de la zona ventral, conservando solo las principales.",
+    "Sus ojos eran notablemente grandes, lo que sugiere que dependía mucho de la vista para localizar nubes de plancton."
+  ],
+  "imagen_principal_url": "acanthodes.webp",
+  "galeria_imagenes": [
+    "acanthodes_fosil_detalle.webp",
+    "acanthodes_reconstruccion_vida.webp"
+  ],
+  "descripcion_cientifica": [
+    "Acanthodes es el género tipo de los acantodios, un grupo de peces que presenta una mezcla única de rasgos de peces cartilaginosos (Chondrichthyes) y óseos (Osteichthyes).",
+    "Se distingue por su cuerpo cubierto de pequeñas escamas ganoideas de forma romboidal y por la presencia de una espina robusta al frente de cada aleta (excepto la caudal). Su mandíbula es un punto de gran interés evolutivo, mostrando una transición hacia estructuras más modernas.",
+    "El estudio de sus branquias ha revelado que era un filtrador altamente especializado, lo que indica una clara diferenciación de nicho respecto a otros peces carnívoros de su época."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 2,
+    "agresividad": 1,
     "velocidad": 4,
     "rareza": 3,
     "fuerza_estimada": 1,
     "defensa": 2,
-    "inteligencia": 1,
-    "impacto_historico": 2,
+    "inteligencia": 2,
+    "impacto_historico": 3,
     "nivel_adaptacion": 3,
     "impresionabilidad": 2
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-26",
+    "referencia_principal": "Agassiz, L. (1833-1843)"
   }
 }
