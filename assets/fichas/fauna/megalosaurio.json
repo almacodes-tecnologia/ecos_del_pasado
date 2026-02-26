@@ -1,62 +1,105 @@
 {
-  "id": "megalosaurio",
-  "nombre": "Megalosaurus bucklandii",
+  "id": "megalosaurus",
   "nombre_comun": "Megalosaurio",
   "nombre_cientifico": "Megalosaurus bucklandii",
   "tipo_animal": "dinosaurio",
-  "grupo": "megalosáurido",
+  "grupo": "terópodo megalosáurido",
+
   "clasificacion": {
-    "familia": "Megalosauridae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Megalosauridae"
   },
+
   "dimensiones": {
     "longitud_m": 7.0,
     "altura_m": 2.5,
-    "peso_t": 1.0
+    "peso_kg": 1100.0,
+    "descripcion_dimensiones": "Un terópodo de tamaño medio-grande para su época. Medía unos 7 metros de largo. Su estructura era robusta y musculosa, con extremidades posteriores potentes y brazos relativamente cortos pero fuertes."
   },
-  "alimentacion": "Carnívoro",
+
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Jurásico",
-    "fase": "Bathoniense (Medio)",
-    "edad_millones_anios": "167–164"
+    "fase": "Medio (Bathoniense)",
+    "rango_edad_presentacion": "Hace entre 168 y 166 millones de años",
+    "edad_inicio_ma": 168.0,
+    "edad_fin_ma": 166.0
   },
+
   "descubrimiento": {
     "anio": 1824,
     "descubridor": "William Buckland",
     "lugar_original": {
-      "formacion": "Stonesfield Slate",
+      "formacion": "Taynton Limestone",
       "region": "Oxfordshire",
       "pais": "Reino Unido"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Reino Unido",
-      "regiones": ["Oxfordshire"],
-      "lat": 51.8,
-      "lon": -1.5
+      "regiones": ["Stonesfield", "Oxfordshire"],
+      "coordenadas": [
+        {"lat": 51.85, "lon": -1.45}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Bosques y llanuras costeras",
+    "tipo": "Áreas costeras y bosques abiertos",
     "zona_actual": "Europa (extinto)",
-    "zona_paleogeografica": "Laurasia",
-    "clima_estimado": "Cálido y húmedo"
+    "zona_paleogeografica": "Laurasia (archipiélago europeo)",
+    "clima_estimado": "Cálido y subtropical, con abundantes lagunas y zonas de vegetación densa."
   },
-  "curiosidad": "Fue el primer dinosaurio no aviano en ser descrito científicamente, aunque en su momento no se le reconoció como tal.",
-  "imagen_principal_url": "megalosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Megalosaurus bucklandii fue un género de dinosaurios terópodos carnívoros que vivió durante el Jurásico Medio en lo que hoy es Europa. Es históricamente significativo por ser el primer dinosaurio no aviano en ser descrito científicamente, aunque el término 'dinosaurio' no se acuñaría hasta más tarde. Era un depredador bípedo con dientes afilados y aserrados, adaptados para desgarrar carne.\n\nAunque inicialmente se le asignaron muchos fósiles fragmentarios de terópodos de diferentes épocas y lugares, la investigación moderna ha refinado su clasificación, reconociéndolo como un megalosáurido típico de su tiempo. Megalosaurus era un cazador activo en los bosques y llanuras costeras del Jurásico, alimentándose de otros dinosaurios y animales de su entorno. Su descubrimiento fue un hito en la paleontología y sentó las bases para el estudio de los dinosaurios.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Depredador alfa de su entorno. Se alimentaba probablemente de estegosaurios y saurópodos jóvenes. Sus dientes eran curvos y aserrados, diseñados para desgarrar carne."
+    },
+    "socialidad": "Probablemente solitario. Como muchos grandes terópodos, se cree que era un cazador de emboscada que defendía un territorio específico.",
+    "defensa": "Mandíbulas poderosas y garras en las manos. Al ser el mayor depredador de su ecosistema, su principal defensa era su propio tamaño y fuerza.",
+    "movimiento": "Bípedo. Caminaba de forma erguida con la cola horizontal para equilibrar el peso de su gran cabeza.",
+    "reproduccion": "Ovíparo. No hay evidencia directa de nidos de esta especie, pero se asume un comportamiento similar a otros megalosauroideos.",
+    "actividad": "Diurna/Crepuscular"
+  },
+
+  "curiosidades_adicionales": [
+    "Es el primer dinosaurio nombrado oficialmente en la historia (1824).",
+    "Originalmente, Buckland pensó que era un lagarto gigante de 12 metros que caminaba a cuatro patas (como un cocodrilo).",
+    "Su nombre significa 'Gran lagarto'.",
+    "Un fragmento de fémur de Megalosaurus fue ilustrado en 1677, pero en ese entonces se creyó que pertenecía a un gigante humano bíblico."
+  ],
+
+  "imagen_principal_url": "megalosaurus_reconstruccion_moderna.webp",
+  "galeria_imagenes": [
+    "megalosaurus_mandibula_buckland.webp",
+    "megalosaurus_comparacion_evolucion_historica.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "Megalosaurus es un género de dinosaurio terópodo megalosáurido que vivió durante el Jurásico Medio. Su descripción marcó el inicio de la dinosaurología moderna.",
+    "Presentaba un cráneo alargado con fenestras grandes para reducir el peso, albergando dientes comprimidos lateralmente y recurvados. Sus vértebras cervicales eran fuertes, sugiriendo una musculatura del cuello potente para someter presas grandes.",
+    "Históricamente es un taxón 'cajón de sastre' (wastebasket taxon), ya que durante el siglo XIX casi cualquier terópodo encontrado en Europa era clasificado erróneamente como Megalosaurus."
+  ],
+
   "estadisticas_fantasia": {
     "agresividad": 4,
     "velocidad": 3,
-    "rareza": 3,
-    "fuerza_estimada": 3,
-    "defensa": 2,
-    "inteligencia": 2,
-    "impacto_historico": 4,
+    "rareza": 2,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 3,
+    "impacto_historico": 5,
     "nivel_adaptacion": 3,
     "impresionabilidad": 4
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2024-08-10",
+    "referencia_principal": "Buckland, W. (1824)"
   }
 }

@@ -1,68 +1,112 @@
 {
   "id": "velociraptor",
-  "nombre": "Velociraptor mongoliensis",
   "nombre_comun": "Velociraptor",
   "nombre_cientifico": "Velociraptor mongoliensis",
   "tipo_animal": "dinosaurio",
-  "grupo": "dromeosáurido",
+  "group": "terópodo dromeosáurido",
+
   "clasificacion": {
-    "familia": "Dromaeosauridae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Dromaeosauridae"
   },
+
   "dimensiones": {
     "longitud_m": 2.0,
     "altura_m": 0.5,
-    "peso_t": 0.015
+    "peso_kg": 15.0,
+    "descripcion_dimensiones": "Aproximadamente del tamaño de un pavo grande o un lobo pequeño. Su altura a la cadera era de apenas medio metro. Era mucho más pequeño de lo que muestran las películas, pero extremadamente ágil."
   },
-  "alimentacion": "Carnívoro",
+
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Cretácico",
-    "fase": "Campaniense (Tardío)",
-    "edad_millones_anios": "75–71"
+    "fase": "Superior (Campaniense)",
+    "rango_edad_presentacion": "Hace entre 75 y 71 millones de años",
+    "edad_inicio_ma": 75.0,
+    "edad_fin_ma": 71.0
   },
+
   "descubrimiento": {
-    "anio": 1924,
-    "descubridor": "Henry Fairfield Osborn",
+    "anio": 1923,
+    "descubridor": "Peter Kaisen",
     "lugar_original": {
       "formacion": "Djadochta",
       "region": "Desierto de Gobi",
       "pais": "Mongolia"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Mongolia",
-      "regiones": ["Desierto de Gobi"],
-      "lat": 43.0,
-      "lon": 105.0
+      "regiones": ["Ömnögovi"],
+      "coordenadas": [
+        {"lat": 44.0, "lon": 103.0}
+      ]
     },
     {
       "pais": "China",
       "regiones": ["Mongolia Interior"],
-      "lat": 42.0,
-      "lon": 110.0
+      "coordenadas": [
+        {"lat": 42.0, "lon": 105.0}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Dunas de arena y llanuras áridas",
+    "tipo": "Campos de dunas áridos y zonas con matorrales",
     "zona_actual": "Asia Central (extinto)",
-    "zona_paleogeografica": "Asia",
-    "clima_estimado": "Árido y estacional"
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Árido y caluroso, con fuentes de agua estacionales."
   },
-  "curiosidad": "Era mucho más pequeño que las representaciones populares, del tamaño de un pavo, y probablemente estaba cubierto de plumas.",
-  "imagen_principal_url": "velociraptor.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Velociraptor mongoliensis fue un género de dinosaurios dromeosáuridos que vivió durante el Cretácico Tardío en Asia Central. A diferencia de su representación en la cultura popular, era un animal relativamente pequeño, del tamaño de un pavo grande, pero era un depredador ágil y feroz. Su característica más distintiva era una gran garra retráctil en forma de hoz en el segundo dedo de cada pata trasera, utilizada para someter a sus presas.\n\nLa evidencia fósil, incluyendo el famoso espécimen 'Luchando contra los dinosaurios' (Velociraptor y Protoceratops), sugiere que era un cazador activo. Se cree que Velociraptor, al igual que otros dromeosáuridos, estaba cubierto de plumas, lo que lo relaciona estrechamente con las aves modernas. Cazaba pequeños y medianos herbívoros en los ambientes desérticos de su época.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Pequeños reptiles, mamíferos y dinosaurios herbívoros como el Protoceratops. Usaba su garra retráctil para perforar puntos vitales de sus presas."
+    },
+    "socialidad": "Debatida. Aunque popularmente se cree que cazaban en manadas organizadas, la evidencia fósil sugiere que podrían haber sido cazadores solitarios o en grupos oportunistas.",
+    "defensa": "Agilidad y garras. Su segunda garra del pie era una hoz afilada que mantenía levantada al caminar para no perder el filo.",
+    "movimiento": "Bípedo veloz. Capaz de alcanzar altas velocidades en distancias cortas, utilizando su cola rígida para mantener el equilibrio en giros cerrados.",
+    "reproduccion": "Ovíparo. Al igual que otros dromeosáuridos, probablemente protegía sus nidos y presentaba un comportamiento reproductivo complejo similar al de las aves.",
+    "actividad": "Nocturna (según estudios de sus anillos escleróticos)"
+  },
+
+  "curiosidades_adicionales": [
+    "Tenía el cuerpo cubierto de plumas, incluyendo remiges (plumas de vuelo) en sus antebrazos, aunque no podía volar.",
+    "El famoso fósil de 'Dinosaurios en lucha' muestra a un Velociraptor y un Protoceratops enzarzados en combate mortal, enterrados por una duna de arena repentina.",
+    "Su nombre significa 'ladrón veloz'.",
+    "A diferencia del cine, su hocico era largo, chato y respingón."
+  ],
+
+  "imagen_principal_url": "velociraptor_plumado.webp",
+  "galeria_imagenes": [
+    "velociraptor_vs_protoceratops.webp",
+    "garra_velociraptor_detalle.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "El Velociraptor es un género de dinosaurios terópodos dromeosáuridos que vivieron en el Cretácico Superior. Es un ejemplo clásico de la estrecha relación entre los dinosaurios y las aves modernas.",
+    "Poseía un cráneo de unos 25 cm con una hilera de dientes aserrados. Su característica más distintiva es la garra en forma de hoz en el segundo dedo del pie, que podía medir hasta 6.5 cm de largo.",
+    "El hallazgo de puntos de inserción de plumas (ulnar papillae) en el cúbito de especímenes mongoles confirmó definitivamente que poseía un plumaje complejo, probablemente utilizado para exhibición y termorregulación."
+  ],
+
   "estadisticas_fantasia": {
-    "agresividad": 4,
+    "agresividad": 5,
     "velocidad": 5,
-    "rareza": 4,
-    "fuerza_estimada": 3,
-    "defensa": 3,
-    "inteligencia": 4,
+    "rareza": 2,
+    "fuerza_estimada": 2,
+    "defensa": 2,
+    "inteligencia": 5,
     "impacto_historico": 5,
     "nivel_adaptacion": 4,
     "impresionabilidad": 5
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2024-12-01",
+    "referencia_principal": "Osborn, H. F. (1924)"
   }
 }

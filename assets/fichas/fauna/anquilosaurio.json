@@ -1,28 +1,34 @@
 {
-  "id": "anquilosaurio",
-  "nombre": "Ankylosaurus magniventris",
+  "id": "ankylosaurus",
   "nombre_comun": "Anquilosaurio",
   "nombre_cientifico": "Ankylosaurus magniventris",
   "tipo_animal": "dinosaurio",
-  "grupo": "anquilosáurido",
+  "grupo": "tireóforo anquilosáurido",
+
   "clasificacion": {
-    "familia": "Ankylosauridae",
-    "orden": "Ornithischia"
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Ankylosauridae"
   },
+
   "dimensiones": {
     "longitud_m": 8.0,
-    "altura_m": 2.0,
-    "peso_t": 6.0
+    "altura_m": 1.7,
+    "peso_kg": 6000.0,
+    "descripcion_dimensiones": "Cuerpo extremadamente ancho y bajo, lo que le otorgaba un centro de gravedad muy estable. Su anchura podía alcanzar los 1.5 metros, dándole una apariencia aplanada pero masiva."
   },
-  "alimentacion": "Herbívoro",
+
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Cretácico",
-    "fase": "Maastrichtiense (Tardío)",
-    "edad_millones_anios": "68–66"
+    "fase": "Superior (Maastrichtiense)",
+    "rango_edad_presentacion": "Hace entre 68 y 66 millones de años",
+    "edad_inicio_ma": 68.0,
+    "edad_fin_ma": 66.0
   },
+
   "descubrimiento": {
-    "anio": 1908,
+    "anio": 1906,
     "descubridor": "Barnum Brown",
     "lugar_original": {
       "formacion": "Hell Creek",
@@ -30,39 +36,77 @@
       "pais": "Estados Unidos"
     }
   },
-  "ubicaciones_fosiles": [
+
+  "yacimientos_clave": [
     {
       "pais": "Estados Unidos",
       "regiones": ["Montana", "Wyoming"],
-      "lat": 45.0,
-      "lon": -105.0
+      "coordenadas": [
+        {"lat": 47.5, "lon": -106.5}
+      ]
     },
     {
       "pais": "Canadá",
-      "regiones": ["Alberta", "Saskatchewan"],
-      "lat": 53.0,
-      "lon": -110.0
+      "regiones": ["Alberta"],
+      "coordenadas": [
+        {"lat": 51.5, "lon": -112.8}
+      ]
     }
   ],
+
   "habitat_aproximado": {
-    "tipo": "Bosques y llanuras costeras",
-    "zona_actual": "Oeste de América del Norte (extinto)",
-    "zona_paleogeografica": "Laramidia",
-    "clima_estimado": "Cálido y húmedo"
+    "tipo": "Llanuras costeras y bosques abiertos",
+    "zona_actual": "Norteamérica (extinto)",
+    "zona_paleogeografica": "Laramidia (Oeste de Norteamérica)",
+    "clima_estimado": "Cálido y húmedo, con una vegetación exuberante y estacionalidad moderada."
   },
-  "curiosidad": "Era un 'tanque' viviente, cubierto de armadura ósea y con una gran maza en la cola que podía usar para defenderse de depredadores como el T. rex.",
-  "imagen_principal_url": "anquilosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Ankylosaurus magniventris fue un género de dinosaurios anquilosáuridos que vivió en el oeste de América del Norte durante el Cretácico Tardío. Es uno de los dinosaurios más reconocibles por su impresionante armadura corporal. Su cuerpo estaba cubierto de placas óseas (osteodermos) y púas, formando una defensa casi impenetrable. Además, poseía una gran maza ósea en la punta de su cola, que podía usar como arma defensiva contra grandes depredadores como el Tyrannosaurus rex.\n\nEra un herbívoro de movimiento lento, que se alimentaba de plantas bajas. Su robusta constitución y su armadura lo hacían prácticamente invulnerable a los ataques frontales. El Anquilosaurio representa el pináculo de la evolución de los dinosaurios acorazados, siendo uno de los últimos grandes herbívoros de la era de los dinosaurios antes de la extinción masiva del K-Pg.",
+
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Plantas bajas, helechos y frutos. Su hocico ancho indica que era un ramoneador poco selectivo, capaz de procesar grandes cantidades de vegetación de bajo crecimiento."
+    },
+    "socialidad": "Generalmente solitario o en grupos muy pequeños. Su armadura sugiere que no dependía de la seguridad de la manada tanto como otros herbívoros.",
+    "defensa": "Armadura pasiva (osteodermos) y contraataque activo. Poseía una maza ósea al final de la cola capaz de romper huesos de depredadores como el Tyrannosaurus rex.",
+    "movimiento": "Cuadrúpedo lento y pesado. Sus extremidades eran cortas y robustas, diseñadas para la estabilidad más que para la velocidad.",
+    "reproduccion": "Ovíparo. Aunque no se han encontrado nidos confirmados de Ankylosaurus, se asume un comportamiento de nidificación terrestre.",
+    "actividad": "Diurna"
+  },
+
+  "curiosidades_adicionales": [
+    "Tenía párpados óseos, lo que significa que incluso sus ojos estaban protegidos cuando los cerraba.",
+    "La maza de su cola estaba formada por osteodermos fusionados y podía generar una fuerza de impacto devastadora.",
+    "Su nombre significa 'Lagarto acorazado' o 'Lagarto tieso'.",
+    "Fue uno de los últimos dinosaurios no avianos en existir antes del evento de extinción del Cretácico-Paleógeno."
+  ],
+
+  "imagen_principal_url": "ankylosaurus_reconstruccion.webp",
+  "galeria_imagenes": [
+    "ankylosaurus_cola_maza.webp",
+    "ankylosaurus_craneo_blindado.webp"
+  ],
+
+  "descripcion_cientifica": [
+    "El Ankylosaurus es el género tipo de la familia Ankylosauridae. Su característica más notable es la armadura cutánea, compuesta por grandes placas y protuberancias óseas llamadas osteodermos, incrustadas directamente en la piel.",
+    "El cráneo estaba completamente osificado, con los huesos fusionados para maximizar la resistencia. Presentaba fosas nasales complejas y enrolladas, lo que sugiere un sentido del olfato muy desarrollado o un sistema de termorregulación del aire inspirado.",
+    "La maza caudal se sostenía por vértebras caudales modificadas que se entrelazaban para formar un 'mango' rígido, permitiendo que los músculos de la base de la cola balancearan el extremo pesado como un arma de impacto."
+  ],
+
   "estadisticas_fantasia": {
-    "agresividad": 1,
+    "agresividad": 2,
     "velocidad": 1,
-    "rareza": 4,
-    "fuerza_estimada": 4,
+    "rareza": 3,
+    "fuerza_estimada": 5,
     "defensa": 5,
     "inteligencia": 2,
     "impacto_historico": 4,
-    "nivel_adaptacion": 3,
+    "nivel_adaptacion": 4,
     "impresionabilidad": 5
+  },
+
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2025-02-10",
+    "referencia_principal": "Carpenter, K. (2004)"
   }
 }
