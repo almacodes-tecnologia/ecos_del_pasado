@@ -1,209 +1,97 @@
 {
 
 "id": "diplodocus",
-
 "nombre_comun": "Diplodocus",
-
 "nombre_cientifico": "Diplodocus longus",
-
 "tipo_animal": "dinosaurio",
-
 "grupo": "saurópodo",
-
-
-
 "clasificacion": {
-
   "clase": "Reptilia",
-
   "orden": "Saurischia",
-
   "familia": "Diplodocidae"
-
 },
-
-
-
 "dimensiones": {
-
   "longitud_m": 26.0,
-
   "altura_m": 4.5,
-
   "peso_kg": 14500.0,
-
   "descripcion_dimensiones": "Longitud medida desde la cabeza hasta la cola. Altura estimada a la cadera (unos 4.5 m) y hasta la cabeza (unos 9 m) cuando mantenía el cuello erguido. La cola podía medir hasta 14 metros, representando más de la mitad de su longitud total."
-
 },
-
-
-
 "periodo": {
-
   "era": "Mesozoico",
-
   "epoca": "Jurásico",
-
   "fase": "Tardío",
-
   "rango_edad_presentacion": "Hace entre 154 y 152 millones de años",
-
   "edad_inicio_ma": 154.0,
-
   "edad_fin_ma": 152.0
-
 },
-
-
-
 "descubrimiento": {
-
   "anio": 1877,
-
   "descubridor": "Samuel Wendell Williston",
-
   "lugar_original": {
-
     "formacion": "Morrison",
-
     "region": "Colorado",
-
     "pais": "Estados Unidos"
-
   }
-
 },
-
-
 
 "yacimientos_clave": [
-
   {
-
     "pais": "Estados Unidos",
-
     "regiones": ["Colorado", "Utah", "Wyoming", "Montana"],
-
     "coordenadas": [
-
       {"lat": 39.03, "lon": -108.77}
-
     ]
-
   }
-
 ],
-
-
-
 "habitat_aproximado": {
-
   "tipo": "Llanuras ribereñas y bosques subtropicales",
-
   "zona_actual": "Oeste de América del Norte (extinto)",
-
   "zona_paleogeografica": "Laurasia",
-
   "clima_estimado": "Cálido y húmedo, con estaciones secas."
-
 },
-
-
 
 "informacion_comportamiento": {
-
   "dieta": {
-
     "general": "Herbívoro",
-
     "detalle": "Hojas de coníferas, cícadas y helechos. Su cuello largo y horizontal le permitía barrer grandes áreas de vegetación baja. Usaba sus dientes en forma de clavija para arrancar hojas blandas sin masticarlas, que luego eran digeridas con ayuda de gastrolitos."
-
   },
-
   "socialidad": "Probablemente gregario; se desplazaba en manadas, lo que ofrecía protección y facilitaba la búsqueda de alimento.",
-
   "defensa": "Tamaño colosal; la cola flexible y muscular (usada como látigo sónico) era su principal mecanismo de defensa contra depredadores como *Allosaurus*.",
-
   "movimiento": "Cuadrúpedo, capaz de un trote moderado. Postura horizontal, con el cuello y la cola paralelos al suelo para contrabalancear.",
-
   "reproduccion": "Ovíparo (ponía huevos). Los nidos eran probablemente comunales y poco profundos.",
-
   "actividad": "Diurna"
-
 },
-
-
-
 "curiosidades_adicionales": [
-
   "El *Diplodocus* significa 'doble viga', en referencia a los huesos que protegen los vasos sanguíneos bajo su cola.",
-
   "El 'látigo' de su cola pudo haber alcanzado o roto la barrera del sonido al ser agitada, usándose para disuadir depredadores.",
-
   "Se especula que, como otros saurópodos, tragaba piedras (gastrolitos) para ayudar a triturar la vegetación en su estómago.",
-
   "Es uno de los dinosaurios más famosos y representado en museos gracias al esqueleto donado por Andrew Carnegie."
-
 ],
-
-
-
 "imagen_principal_url": "diplodocus.webp",
-
 "galeria_imagenes": [
-
   "diplodocus_fosil.webp",
-
   "diplodocus_esqueleto_museo.webp"
-
 ],
-
-
 
 "descripcion_cientifica": [
-
   "El Diplodocus (que significa 'doble viga') fue uno de los dinosaurios saurópodos más largos y emblemáticos del Jurásico Superior, perteneciente a la familia Diplodocidae.",
-
   "Su nombre hace referencia a los huesos en forma de 'doble viga' que se encuentran en la parte inferior de su cola, destinados a proteger los vasos sanguíneos. Su cuello, compuesto por solo 15 vértebras, estaba posicionado de forma casi horizontal, permitiéndole alimentarse de vegetación baja. Poseía dientes delgados y parecidos a clavijas solo en la parte frontal de su boca, usados para arrancar hojas sin masticar.",
-
   "Su cola excepcionalmente larga, con hasta 80 vértebras, ha sido objeto de estudio. La teoría del 'látigo sónico' sugiere que podría haberla movido a velocidades supersónicas para defensa o como una fuerte señal acústica."
-
 ],
-
-
-
 "estadisticas_fantasia": {
-
   "agresividad": 1,
-
   "velocidad": 2,
-
   "rareza": 4,
-
   "fuerza_estimada": 4,
-
   "defensa": 3,
-
   "inteligencia": 2,
-
   "impacto_historico": 4,
-
   "nivel_adaptacion": 4,
-
   "impresionabilidad": 5
-
 },
-
-
-
 "metadatos_personalizados": {
-
   "prioridad_ui": "Alta",
-
   "ultima_revision": "2025-11-11",
-
   "referencia_principal": "Marsh, O. C. (1878)"
-
 }
-
 }
