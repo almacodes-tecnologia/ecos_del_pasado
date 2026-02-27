@@ -81,17 +81,17 @@
     "Se distingue por su cuerpo cubierto de pequeñas escamas ganoideas de forma romboidal y por la presencia de una espina robusta al frente de cada aleta (excepto la caudal). Su mandíbula es un punto de gran interés evolutivo, mostrando una transición hacia estructuras más modernas.",
     "El estudio de sus branquias ha revelado que era un filtrador altamente especializado, lo que indica una clara diferenciación de nicho respecto a otros peces carnívoros de su época."
   ],
-  "estadisticas_fantasia": {
-    "agresividad": 1,
-    "velocidad": 4,
-    "rareza": 3,
-    "fuerza_estimada": 1,
-    "defensa": 2,
-    "inteligencia": 2,
-    "impacto_historico": 3,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 2
-  },
+"estadisticas_fantasia": {
+  "agresividad": 3,
+  "velocidad": 7,
+  "rareza": 6,
+  "fuerza_estimada": 2,
+  "defensa": 5,
+  "inteligencia": 3,
+  "impacto_historico": 7,
+  "nivel_adaptacion": 6,
+  "impresionabilidad": 4
+},
   "metadatos_personalizados": {
     "prioridad_ui": "Media",
     "ultima_revision": "2026-02-26",

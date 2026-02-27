@@ -79,17 +79,17 @@
     "Se caracteriza por un cráneo alargado con mandíbulas llenas de dientes muy finos y largos que no se encontraban en alvéolos profundos. Sus huesos eran paquostóticos (densos), una adaptación común en animales acuáticos para controlar la flotabilidad.",
     "Su importancia histórica radica en la paleontología biogeográfica, ya que su distribución restringida a las cuencas del sur de África y el este de Sudamérica demostró que ambos continentes estuvieron unidos en el supercontinente Gondwana."
   ],
-  "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 4,
-    "rareza": 3,
-    "fuerza_estimada": 1,
-    "defensa": 2,
-    "inteligencia": 2,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 3
-  },
+"estadisticas_fantasia": {
+  "agresividad": 4,
+  "velocidad": 7,
+  "rareza": 6,
+  "fuerza_estimada": 2,
+  "defensa": 4,
+  "inteligencia": 4,
+  "impacto_historico": 10,
+  "nivel_adaptacion": 8,
+  "impresionabilidad": 6
+},
   "metadatos_personalizados": {
     "prioridad_ui": "Media-Alta",
     "ultima_revision": "2026-02-26",

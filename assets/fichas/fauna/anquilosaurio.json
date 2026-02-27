@@ -90,17 +90,17 @@
     "La maza caudal se sostenía por vértebras caudales modificadas que se entrelazaban para formar un 'mango' rígido, permitiendo que los músculos de la base de la cola balancearan el extremo pesado como un arma de impacto."
   ],
 
-  "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 1,
-    "rareza": 3,
-    "fuerza_estimada": 5,
-    "defensa": 5,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
-  },
+"estadisticas_fantasia": {
+  "agresividad": 6,
+  "velocidad": 2,
+  "rareza": 7,
+  "fuerza_estimada": 9,
+  "defensa": 10,
+  "inteligencia": 3,
+  "impacto_historico": 9,
+  "nivel_adaptacion": 7,
+  "impresionabilidad": 10
+},
 
   "metadatos_personalizados": {
     "prioridad_ui": "Alta",

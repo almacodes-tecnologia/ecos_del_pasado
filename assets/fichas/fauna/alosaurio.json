@@ -1,25 +1,27 @@
 {
-  "id": "alosaurio",
-  "nombre": "Allosaurus fragilis",
+  "id": "allosaurus",
   "nombre_comun": "Alosaurio",
   "nombre_cientifico": "Allosaurus fragilis",
   "tipo_animal": "dinosaurio",
-  "grupo": "alosaurio",
+  "groupo": "terópodo",
   "clasificacion": {
-    "familia": "Allosauridae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Allosauridae"
   },
   "dimensiones": {
     "longitud_m": 8.5,
-    "altura_m": 3.5,
-    "peso_t": 2.0
+    "altura_m": 2.5,
+    "peso_kg": 2300.0,
+    "descripcion_dimensiones": "Longitud promedio de 8.5 metros, aunque algunos ejemplares como 'Saurophaganax' (si se considera la misma especie) podrían alcanzar los 12 metros. Era más esbelto y atlético que los tiranosáuridos posteriores."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Jurásico",
-    "fase": "Tardío",
-    "edad_millones_anios": "155–145"
+    "fase": "Tardío (Kimmeridgiense - Titoniense)",
+    "rango_edad_presentacion": "Hace entre 155 y 145 millones de años",
+    "edad_inicio_ma": 155.0,
+    "edad_fin_ma": 145.0
   },
   "descubrimiento": {
     "anio": 1877,
@@ -30,39 +32,70 @@
       "pais": "Estados Unidos"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Estados Unidos",
-      "regiones": ["Colorado", "Utah", "Wyoming"],
-      "lat": 39.0,
-      "lon": -106.0
+      "regiones": ["Utah (Cleveland-Lloyd Quarry)", "Colorado", "Wyoming"],
+      "coordenadas": [
+        {"lat": 39.32, "lon": -110.41}
+      ]
     },
     {
       "pais": "Portugal",
-      "regiones": ["Lourinhã Formation"],
-      "lat": 39.0,
-      "lon": -9.0
+      "regiones": ["Formación Lourinhã"],
+      "coordenadas": [
+        {"lat": 39.24, "lon": -9.31}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Llanuras aluviales y bosques abiertos",
-    "zona_actual": "América del Norte y Europa (extinto)",
+    "tipo": "Llanuras aluviales, bosques abiertos y sabanas jurásicas",
+    "zona_actual": "Oeste de América del Norte y Europa occidental",
     "zona_paleogeografica": "Laurasia",
-    "clima_estimado": "Cálido y húmedo"
+    "clima_estimado": "Semiárido con marcadas estaciones secas y húmedas."
   },
-  "curiosidad": "Era el depredador ápice de su ecosistema en el Jurásico Tardío, cazando grandes saurópodos y estegosaurios.",
-  "imagen_principal_url": "allosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Allosaurus fragilis fue un gran dinosaurio terópodo carnívoro que dominó los ecosistemas de América del Norte durante el Jurásico Tardío. Era un depredador formidable, con un cráneo grande y robusto, dientes aserrados y garras afiladas en sus manos de tres dedos. Se le considera el 'león del Jurásico' por su posición como depredador ápice.\n\nLa evidencia fósil, incluyendo marcas de mordeduras en huesos de presas como Estegosaurio y saurópodos, sugiere que Allosaurus era un cazador activo. Aunque no era tan grande como algunos tiranosáuridos posteriores, era ágil y rápido, capaz de cazar presas grandes. Se han encontrado múltiples esqueletos juntos, lo que ha llevado a debatir si cazaban en manada o si los sitios eran trampas de depredadores.",
-  "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 4,
-    "rareza": 4,
-    "fuerza_estimada": 4,
-    "defensa": 3,
-    "inteligencia": 3,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 4
-  }
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Cazador activo de ornitópodos, estegosáuridos y saurópodos jóvenes. Se cree que utilizaba su mandíbula superior como un hacha, golpeando a sus presas para causar grandes hemorragias en lugar de simplemente morder con fuerza bruta."
+    },
+    "socialidad": "Posiblemente gregario. El hallazgo de numerosos individuos en un mismo yacimiento sugiere que podrían cazar en grupos para abatir presas gigantescas como el Diplodocus."
+  },
+  "defensa": "Cazador alfa en su entorno. Poseía garras curvas y afiladas en sus tres dedos delanteros, ideales para aferrarse a presas en movimiento.",
+  "movimiento": "Bípedo veloz. Estructura ósea ligera que le permitía gran maniobrabilidad y una velocidad estimada de hasta 30-55 km/h.",
+  "reproduccion": "Ovíparo. Estrategia de crecimiento rápido durante los primeros años de vida.",
+  "actividad": "Diurna / Crepuscular"
+},
+"curiosidades_adicionales": [
+  "Su nombre significa 'Lagarto extraño', debido a que sus vértebras eran diferentes a las de cualquier dinosaurio conocido en su época.",
+  "Es el fósil estatal de Utah, donde se han encontrado miles de sus huesos en la cantera Cleveland-Lloyd.",
+  "Muchos ejemplares muestran heridas de combate curadas, incluyendo marcas de colas de estegosaurio, lo que demuestra su vida altamente agresiva.",
+  "A diferencia del T-Rex, el Alosaurio tenía brazos funcionales y poderosos con garras de hasta 15 cm."
+],
+"imagen_principal_url": "allosaurio.webp",
+"galeria_imagenes": [
+  "allosaurio_caza.webp",
+  "allosaurio_craneo.webp"
+],
+"descripcion_cientifica": [
+  "El Allosaurus fue el depredador más común y exitoso del Jurásico Superior en lo que hoy es la Formación Morrison.",
+  "Su cráneo poseía un par de crestas óseas bajas sobre los ojos, cuya función exacta se desconoce, aunque se especula que servían para exhibición o protección ocular. Su técnica de caza, denominada 'punción por impacto', sugiere que abría la boca en ángulos extremos para golpear a la presa.",
+  "A pesar de tener una fuerza de mordida menor a la de un león moderno, el diseño de su cuello y cráneo le permitía absorber impactos masivos, convirtiéndolo en un cazador de resistencia y trauma."
+],
+"estadisticas_fantasia": {
+  "agresividad": 9,
+  "velocidad": 8,
+  "rareza": 6,
+  "fuerza_estimada": 7,
+  "defensa": 5,
+  "inteligencia": 6,
+  "impacto_historico": 8,
+  "nivel_adaptacion": 8,
+  "impresionabilidad": 8
+},
+"metadatos_personalizados": {
+  "prioridad_ui": "Media-Alta",
+  "ultima_revision": "2026-02-27",
+  "referencia_principal": "Marsh, O. C. (1877)"
+}
 }

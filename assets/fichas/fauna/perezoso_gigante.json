@@ -1,74 +1,98 @@
 {
   "id": "perezoso_gigante",
-  "nombre": "Megatherium americanum",
-  "nombre_comun": "Perezoso gigante",
+  "nombre_comun": "Perezoso Gigante",
   "nombre_cientifico": "Megatherium americanum",
   "tipo_animal": "mamífero",
-  "grupo": "folívoro terrestre",
+  "grupo": "xenartro",
   "clasificacion": {
-    "familia": "Megatheriidae",
-    "orden": "Pilosa"
+    "clase": "Mammalia",
+    "orden": "Pilosa",
+    "familia": "Megatheriidae"
   },
   "dimensiones": {
     "longitud_m": 6.0,
-    "altura_m": 3.5,
-    "peso_t": 4.0
+    "altura_m": 2.1,
+    "peso_kg": 4000.0,
+    "descripcion_dimensiones": "Alcanzaba el tamaño de un elefante moderno. Cuando se erguía sobre sus patas traseras, podía llegar a los 6 metros de altura, permitiéndole alcanzar las copas de los árboles que otros herbívoros no podían."
   },
-  "alimentacion": "Herbívoro",
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "2.58–0.008"
+    "epoca": "Plioceno - Holoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 5 millones y 10,000 años",
+    "edad_inicio_ma": 5.0,
+    "edad_fin_ma": 0.01
   },
   "descubrimiento": {
     "anio": 1787,
-    "descubridor": "Manuel Torres (fósil), Georges Cuvier (descripción)",
+    "descubridor": "Manuel Torres",
     "lugar_original": {
-      "formacion": "Luján",
+      "formacion": "Cuenca del Río Luján",
       "region": "Buenos Aires",
       "pais": "Argentina"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Argentina",
-      "regiones": ["Buenos Aires", "Córdoba"],
-      "lat": -34.0,
-      "lon": -64.0
+      "regiones": ["Pampa Húmeda", "Patagonia"],
+      "coordenadas": [
+        {"lat": -34.58, "lon": -59.10}
+      ]
     },
     {
-      "pais": "Brasil",
-      "regiones": ["Minas Gerais"],
-      "lat": -18.0,
-      "lon": -44.0
-    },
-    {
-      "pais": "Estados Unidos",
-      "regiones": ["Florida", "Texas"],
-      "lat": 29.0,
-      "lon": -82.0
+      "pais": "Bolivia",
+      "regiones": ["Altiplano"],
+      "coordenadas": [
+        {"lat": -17.9, "lon": -67.1}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Bosques, sabanas y zonas semiáridas",
-    "zona_actual": "América del Sur (extinto)",
-    "zona_paleogeografica": "América del Sur",
-    "clima_estimado": "Cálido a templado"
+    "tipo": "Sabanas abiertas, matorrales y bosques templados",
+    "zona_actual": "América del Sur",
+    "zona_paleogeografica": "Sudamérica (Neotrópico)",
+    "clima_estimado": "Templado a cálido, con variaciones estacionales."
   },
-  "curiosidad": "Podía erguirse sobre sus patas traseras y cola para alcanzar las hojas de los árboles más altos, usando sus grandes garras para arrancar ramas.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro (posible omnívoro)",
+      "detalle": "Consumía grandes cantidades de hojas, ramitas y arbustos. Algunos estudios sugieren que podría haber complementado su dieta con carroña, usando sus garras para espantar a otros depredadores."
+    },
+    "socialidad": "Probablemente solitario o en grupos familiares muy pequeños.",
+    "defensa": "Sus garras de hasta 30 cm eran armas letales. Poseía osteodermos (pequeños huesos bajo la piel) que actuaban como una armadura natural contra ataques de depredadores como el *Smilodon*.",
+    "movimiento": "Principalmente cuadrúpedo, pero con una capacidad única para bipedestación (mantenerse en dos patas) utilizando su cola masiva como un tercer apoyo (trípode).",
+    "reproduccion": "Vivíparo. Se estima que su tasa reproductiva era baja debido a su gran tamaño.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Es uno de los pocos animales que Darwin estudió personalmente durante su viaje en el HMS Beagle.",
+    "A diferencia de los perezosos modernos, el Megaterio no vivía en los árboles; era estrictamente terrestre.",
+    "Se han encontrado huellas fosilizadas que confirman que podía caminar erguido sobre sus patas traseras durante tramos cortos.",
+    "Sus garras no eran retráctiles y le obligaban a caminar apoyando los nudillos o el lateral de sus pies."
+  ],
   "imagen_principal_url": "perezoso_gigante.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Megatherium americanum, o perezoso gigante, fue uno de los mamíferos terrestres más grandes que jamás haya existido, rivalizando en tamaño con los elefantes. Vivió en América del Sur durante el Pleistoceno. A pesar de su nombre, no estaba directamente relacionado con los perezosos arbóreos modernos, aunque compartían ancestros comunes.\n\nEra un herbívoro masivo con garras enormes que probablemente usaba para arrancar vegetación y defenderse. Se cree que era capaz de pararse sobre sus patas traseras y su robusta cola para alcanzar hojas de árboles altos. Su extinción, junto con gran parte de la megafauna pleistocénica, se atribuye a una combinación de cambios climáticos y la llegada de los humanos.",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Megatherium fue el miembro más grande de la orden Pilosa. Su anatomía robusta incluía una pelvis extremadamente ancha y una cola musculosa que le proporcionaba una estabilidad sin igual para alimentarse en vertical.",
+    "Su mandíbula albergaba dientes de crecimiento continuo con forma de prisma, diseñados para procesar materia vegetal muy fibrosa.",
+    "Su extinción está vinculada a los cambios climáticos al final de la última glaciación y, muy posiblemente, a la presión cinegética por parte de los primeros humanos que llegaron a Sudamérica."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 1,
-    "rareza": 4,
-    "fuerza_estimada": 5,
-    "defensa": 5,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "agresividad": 5,
+    "velocidad": 2,
+    "rareza": 8,
+    "fuerza_estimada": 10,
+    "defensa": 9,
+    "inteligencia": 5,
+    "impacto_historico": 9,
+    "nivel_adaptacion": 7,
+    "impresionabilidad": 9
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Cuvier, G. (1796)"
   }
 }

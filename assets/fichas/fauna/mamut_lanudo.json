@@ -1,74 +1,98 @@
- {
+{
   "id": "mammut_lanudo",
-  "nombre": "Mammuthus primigenius",
-  "nombre_comun": "Mamut lanudo",
+  "nombre_comun": "Mamut Lanudo",
   "nombre_cientifico": "Mammuthus primigenius",
   "tipo_animal": "mamífero",
   "grupo": "proboscídeo",
   "clasificacion": {
-    "familia": "Elephantidae",
-    "orden": "Proboscidea"
+    "clase": "Mammalia",
+    "orden": "Proboscidea",
+    "familia": "Elephantidae"
   },
   "dimensiones": {
     "longitud_m": 5.5,
     "altura_m": 3.4,
-    "peso_t": 6.0
+    "peso_kg": 6000.0,
+    "descripcion_dimensiones": "Similar en tamaño al elefante africano moderno. Su altura a los hombros oscilaba entre 2.7 y 3.4 metros. Estaba cubierto por una capa de pelo que podía llegar a medir 90 cm de largo."
   },
-  "alimentacion": "Herbívoro",
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "0.3–0.004"
+    "epoca": "Pleistoceno - Holoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 400,000 y 4,000 años",
+    "edad_inicio_ma": 0.4,
+    "edad_fin_ma": 0.004
   },
   "descubrimiento": {
     "anio": 1799,
-    "descubridor": "Johann Friedrich Blumenbach (descripción formal)",
+    "descubridor": "Johann Friedrich Blumenbach",
     "lugar_original": {
-      "formacion": "Siberia",
+      "formacion": "Depósitos fluviales",
       "region": "Siberia",
       "pais": "Rusia"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Rusia",
-      "regiones": ["Siberia"],
-      "lat": 60.0,
-      "lon": 105.0
+      "regiones": ["Siberia (Isla de Wrangel)"],
+      "coordenadas": [
+        {"lat": 71.23, "lon": 179.9}
+      ]
     },
     {
       "pais": "Estados Unidos",
-      "regiones": ["Alaska", "Grandes Llanuras"],
-      "lat": 64.0,
-      "lon": -150.0
-    },
-    {
-      "pais": "Europa",
-      "regiones": ["Francia", "Alemania", "Reino Unido"],
-      "lat": 50.0,
-      "lon": 10.0
+      "regiones": ["Alaska", "Dakota del Sur"],
+      "coordenadas": [
+        {"lat": 64.2, "lon": -149.4}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Estepa de mamut (tundra-estepa fría)",
-    "zona_actual": "Hemisferio Norte (extinto)",
-    "zona_paleogeografica": "Eurasia y América del Norte",
-    "clima_estimado": "Frío y seco (glacial)"
+    "tipo": "Tundra-estepa (estepa de los mamuts)",
+    "zona_actual": "Eurasia y América del Norte",
+    "zona_paleogeografica": "Holoártico",
+    "clima_estimado": "Frío glacial, seco y con vientos fuertes."
   },
-  "curiosidad": "Estaban adaptados al frío extremo con una gruesa capa de pelo, una capa de grasa aislante y orejas más pequeñas que los elefantes modernos.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Consumía principalmente gramíneas y ciperáceas. Usaba sus colmillos curvados para apartar la nieve y alcanzar la vegetación enterrada."
+    },
+    "socialidad": "Altamente social. Vivían en manadas matriarcales similares a las de los elefantes actuales, con una estructura jerárquica compleja.",
+    "defensa": "Colmillos masivos que podían superar los 4 metros de largo y un tamaño intimidante. Su piel gruesa y una capa de grasa de hasta 8 cm servían de protección térmica y física.",
+    "movimiento": "Cuadrúpedo. Capaz de realizar largas migraciones estacionales para encontrar pastos frescos.",
+    "reproduccion": "Vivíparo. Periodo de gestación estimado en 22 meses, con una sola cría por parto.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Sus orejas eran mucho más pequeñas que las de los elefantes actuales para minimizar la pérdida de calor y evitar la congelación.",
+    "Es uno de los animales prehistóricos mejor conocidos gracias al hallazgo de ejemplares congelados casi intactos en el permafrost.",
+    "La última población de mamuts sobrevivió en la Isla de Wrangel hasta hace solo 4,000 años, coincidiendo con la construcción de las pirámides de Giza.",
+    "Se está investigando la posibilidad de 'des-extinción' mediante ingeniería genética usando ADN recuperado."
+  ],
   "imagen_principal_url": "mamut_lanudo.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Mamut lanudo (Mammuthus primigenius) fue una especie de mamut que vivió durante el Pleistoceno en el hemisferio norte. Era un herbívoro adaptado a los climas fríos de la Edad de Hielo, caracterizado por su denso pelaje lanudo, una capa de grasa subcutánea y orejas más pequeñas que las de los elefantes actuales para minimizar la pérdida de calor.\n\nSe alimentaba principalmente de hierbas y juncos de la 'estepa de mamut', un bioma frío y árido que se extendía por gran parte de Eurasia y América del Norte durante las glaciaciones. Sus colmillos curvados y largos eran utilizados para remover la nieve y el hielo en busca de vegetación. El Mamut lanudo se extinguió al final del Pleistoceno, probablemente debido a una combinación de cambio climático y la presión de la caza por parte de los humanos primitivos.",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Mammuthus primigenius fue la especie más especializada de su linaje para sobrevivir en climas extremos. Evolucionó a partir del mamut estepario para adaptarse al enfriamiento global del Pleistoceno.",
+    "Su morfología destaca por una joroba de grasa sobre los hombros que servía como reserva de energía durante los inviernos escasez de comida, y unos molares complejos con crestas de esmalte ideales para triturar vegetación dura y abrasiva.",
+    "La interacción con los humanos primitivos fue constante; existen numerosas evidencias de caza y uso de sus huesos para construir refugios y fabricar herramientas y arte paleolítico."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 2,
-    "rareza": 4,
-    "fuerza_estimada": 5,
-    "defensa": 4,
-    "inteligencia": 3,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
+    "agresividad": 4,
+    "velocidad": 4,
+    "rareza": 8,
+    "fuerza_estimada": 9,
+    "defensa": 9,
+    "inteligencia": 8,
+    "impacto_historico": 10,
+    "level_adaptacion": 9,
+    "impresionabilidad": 9
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Lister, A., & Bahn, P. (2007)"
   }
 }

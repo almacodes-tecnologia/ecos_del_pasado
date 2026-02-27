@@ -1,68 +1,100 @@
 {
   "id": "bisonte_gigante",
-  "nombre": "Bison latifrons",
-  "nombre_comun": "Bisonte gigante",
+  "nombre_comun": "Bisonte Gigante",
   "nombre_cientifico": "Bison latifrons",
   "tipo_animal": "mamífero",
-  "grupo": "bóvido",
+  "grupo": "artiodáctilo",
   "clasificacion": {
-    "familia": "Bovidae",
-    "orden": "Artiodactyla"
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Bovidae"
   },
   "dimensiones": {
-    "longitud_m": 4.6,
+    "longitud_m": 4.7,
     "altura_m": 2.5,
-    "peso_t": 2.0
+    "peso_kg": 2000.0,
+    "descripcion_dimensiones": "Superaba en un 25-30% el tamaño del bisonte americano moderno. Sus cuernos eran su rasgo más imponente, con una envergadura de punta a punta que podía alcanzar los 2.13 metros."
   },
-  "alimentacion": "Herbívoro",
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "0.2–0.009"
+    "epoca": "Pleistoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 200,000 y 20,000 años",
+    "edad_inicio_ma": 0.2,
+    "edad_fin_ma": 0.02
   },
   "descubrimiento": {
-    "anio": 1852,
-    "descubridor": "Richard Harlan",
+    "anio": 1803,
+    "descubridor": "Remains analyzed by Harlan/Leidy",
     "lugar_original": {
-      "formacion": "Big Bone Lick",
+      "formacion": "Depósitos fluviales de Big Bone Lick",
       "region": "Kentucky",
       "pais": "Estados Unidos"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Estados Unidos",
-      "regiones": ["California", "Florida", "Grandes Llanuras"],
-      "lat": 37.0,
-      "lon": -95.0
+      "regiones": ["California (Rancho La Brea)", "Florida", "Texas", "Idaho"],
+      "coordenadas": [
+        {"lat": 34.06, "lon": -118.35}
+      ]
     },
     {
-      "pais": "Canadá",
-      "regiones": ["Yukón", "Alberta"],
-      "lat": 60.0,
-      "lon": -135.0
+      "pais": "México",
+      "regiones": ["Valsequillo", "Puebla"],
+      "coordenadas": [
+        {"lat": 19.04, "lon": -98.20}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Praderas y sabanas abiertas",
-    "zona_actual": "América del Norte (extinto)",
-    "zona_paleogeografica": "América del Norte",
-    "clima_estimado": "Templado a frío"
+    "tipo": "Bosques abiertos y praderas arboladas",
+    "zona_actual": "América del Norte",
+    "zona_paleogeografica": "Neártico",
+    "clima_estimado": "Templado a frío, con abundante vegetación de pastizal y matorral."
   },
-  "curiosidad": "Poseía los cuernos más grandes de cualquier bóvido conocido, con una envergadura que podía superar los 2.5 metros.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Pastoreador y ramoneador. A diferencia de sus parientes modernos que prefieren llanuras abiertas, el bisonte gigante habitaba áreas más boscosas, alimentándose de hierbas y hojas de arbustos."
+    },
+    "socialidad": "Se cree que vivía en grupos pequeños o manadas familiares, a diferencia de las inmensas congregaciones de los bisontes modernos.",
+    "defensa": "Sus masivos cuernos curvados eran herramientas defensivas contra depredadores como el león americano o el lobo gigante. Un solo movimiento de cabeza podía ser fatal.",
+    "movimiento": "Cuadrúpedo robusto. Capaz de realizar cargas explosivas de corta distancia.",
+    "reproduccion": "Vivíparo. Probablemente estacional, con un fuerte instinto de protección de la prole.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Sus cuernos eran tan grandes que probablemente le impedían moverse con facilidad a través de bosques muy densos, prefiriendo claros y arboledas abiertas.",
+    "Es el ancestro directo o pariente cercano de especies más pequeñas que lograron sobrevivir a la extinción del Pleistoceno.",
+    "A menudo se encuentran sus fósiles junto a los de perezosos gigantes y mamuts en los pozos de asfalto de California.",
+    "Su nombre 'latifrons' significa literalmente 'frente ancha', haciendo referencia al espacio entre sus cuernos."
+  ],
   "imagen_principal_url": "bisonte_gigante.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Bison latifrons, o bisonte gigante de cuernos largos, fue una especie de bisonte extinta que habitó América del Norte durante el Pleistoceno. Se distinguía por su tamaño imponente y, sobre todo, por sus cuernos masivos, que podían extenderse hasta 2.5 metros de punta a punta, los más grandes de cualquier bóvido conocido.\n\nEstos cuernos probablemente se usaban para la defensa contra depredadores como el Smilodon y el León americano, así como en combates intraespecíficos por el dominio. Se alimentaba de pastos en las vastas praderas de la Edad de Hielo. Su extinción, al final del Pleistoceno, se asocia con el cambio climático y la presión de la caza por parte de los humanos primitivos.",
+  "galeria_imagenes": [
+    "bisonte_comparativa_tamaño.webp",
+    "bisonte_fosil_craneo.webp"
+  ],
+  "descripcion_scientific": [
+    "El Bison latifrons fue el exponente máximo de los bóvidos en América. Evolucionó para llenar un nicho de megaherbívoro capaz de defenderse de los grandes carnívoros de la Edad del Hielo.",
+    "La estructura de su cráneo muestra inserciones musculares extremadamente poderosas en el cuello, necesarias para sostener y utilizar sus cuernos de dos metros como palancas en combates intraespecíficos o defensa.",
+    "Se extinguió hace unos 20,000 años, posiblemente debido a la competencia con el Bison antiquus (más pequeño y eficiente) y a los cambios en la densidad de la vegetación al final del Pleistoceno."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 3,
-    "velocidad": 3,
-    "rareza": 4,
-    "fuerza_estimada": 4,
-    "defensa": 5,
-    "inteligencia": 2,
-    "impacto_historico": 3,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 4
+    "agresividad": 7,
+    "velocidad": 6,
+    "rareza": 7,
+    "fuerza_estimada": 8,
+    "defensa": 8,
+    "inteligencia": 5,
+    "impacto_historico": 7,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "McDonald, J. N. (1981)"
   }
 }

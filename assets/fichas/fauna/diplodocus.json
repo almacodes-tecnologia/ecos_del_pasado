@@ -79,15 +79,15 @@
   "Su cola excepcionalmente larga, con hasta 80 vértebras, ha sido objeto de estudio. La teoría del 'látigo sónico' sugiere que podría haberla movido a velocidades supersónicas para defensa o como una fuerte señal acústica."
 ],
 "estadisticas_fantasia": {
-  "agresividad": 1,
-  "velocidad": 2,
-  "rareza": 4,
-  "fuerza_estimada": 4,
-  "defensa": 3,
-  "inteligencia": 2,
-  "impacto_historico": 4,
-  "nivel_adaptacion": 4,
-  "impresionabilidad": 5
+  "agresividad": 2,
+  "velocidad": 4,
+  "rareza": 7,
+  "fuerza_estimada": 9,
+  "defensa": 8,
+  "inteligencia": 3,
+  "impacto_historico": 10,
+  "nivel_adaptacion": 7,
+  "impresionabilidad": 9
 },
 "metadatos_personalizados": {
   "prioridad_ui": "Alta",

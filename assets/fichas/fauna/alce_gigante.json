@@ -1,74 +1,100 @@
 {
   "id": "alce_gigante",
-  "nombre": "Megaloceros giganteus",
-  "nombre_comun": "Alce gigante",
+  "nombre_comun": "Alce Gigante (Megaloceros)",
   "nombre_cientifico": "Megaloceros giganteus",
   "tipo_animal": "mamífero",
-  "grupo": "cérvido",
+  "grupo": "artiodáctilo",
   "clasificacion": {
-    "familia": "Cervidae",
-    "orden": "Artiodactyla"
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Cervidae"
   },
   "dimensiones": {
-    "longitud_m": 2.7,
+    "longitud_m": 3.1,
     "altura_m": 2.1,
-    "peso_t": 0.7
+    "peso_kg": 700.0,
+    "descripcion_dimensiones": "Aunque su altura a los hombros era similar a la de un alce moderno, su cornamenta era única: podía medir hasta 3.65 metros de punta a punta y pesar 40 kg."
   },
-  "alimentacion": "Herbívoro",
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "0.4–0.007"
+    "epoca": "Pleistoceno - Holoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 400,000 y 7,000 años",
+    "edad_inicio_ma": 0.4,
+    "edad_fin_ma": 0.007
   },
   "descubrimiento": {
-    "anio": 1697,
-    "descubridor": "Thomas Molyneux",
+    "anio": 1799,
+    "descubridor": "Georges Cuvier (descripción formal)",
     "lugar_original": {
-      "formacion": "Irlanda",
+      "formacion": "Turberas",
       "region": "Irlanda",
       "pais": "Irlanda"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Irlanda",
-      "regiones": ["Todo el país"],
-      "lat": 53.0,
-      "lon": -8.0
+      "regiones": ["Ballybetagh Bog"],
+      "coordenadas": [
+        {"lat": 53.3, "lon": -6.2}
+      ]
     },
     {
-      "pais": "Europa",
-      "regiones": ["Alemania", "Francia", "Rusia"],
-      "lat": 50.0,
-      "lon": 10.0
-    },
-    {
-      "pais": "Asia",
-      "regiones": ["Siberia", "China"],
-      "lat": 60.0,
-      "lon": 100.0
+      "pais": "Rusia",
+      "regiones": ["Montes Urales", "Siberia"],
+      "coordenadas": [
+        {"lat": 60.0, "lon": 60.0}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Praderas abiertas, estepas y bosques dispersos",
-    "zona_actual": "Eurasia (extinto)",
-    "zona_paleogeografica": "Eurasia",
-    "clima_estimado": "Frío a templado"
+    "tipo": "Estepas arboladas y praderas abiertas",
+    "zona_actual": "Eurasia (desde Irlanda hasta China)",
+    "zona_paleogeografica": "Paleártico",
+    "clima_estimado": "Continental frío, pero con veranos lo suficientemente productivos para permitir el crecimiento de sus astas."
   },
-  "curiosidad": "Sus cuernos podían medir hasta 3.65 metros de punta a punta, los más grandes de cualquier cérvido conocido, y se mudaban anualmente.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Consumía grandes cantidades de gramíneas y hierbas ricas en minerales (calcio y fosfato), necesarios para regenerar su enorme cornamenta cada año."
+    },
+    "socialidad": "Probablemente vivía en manadas segregadas por sexo durante gran parte del año, reuniéndose en la época de celo para exhibiciones de fuerza.",
+    "defensa": "Principalmente visual y mediante el uso de sus astas para forcejeos. Su gran tamaño y velocidad lo protegían de depredadores menores.",
+    "movimiento": "Cuadrúpedo ágil. A pesar del peso de sus astas, era un corredor veloz en espacios abiertos.",
+    "reproduccion": "Vivíparo. Los machos competían intensamente por el acceso a las hembras durante la brama.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "A menudo se le llama 'Ciervo Irlandés' porque se han encontrado esqueletos perfectamente conservados en las turberas de Irlanda.",
+    "Sus astas no eran para peleas a muerte, sino principalmente para exhibición ritual y disuasión.",
+    "Tenían que ingerir cantidades masivas de minerales en poco tiempo para que sus astas crecieran, lo que los hacía vulnerables a cambios en la calidad del pasto.",
+    "Aparece representado con gran detalle en pinturas rupestres de la cueva de Lascaux, confirmando su interacción con los humanos."
+  ],
   "imagen_principal_url": "megaloceros.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El Alce gigante (Megaloceros giganteus), también conocido como 'ciervo irlandés', fue una especie de cérvido extinta que vivió en Eurasia durante el Pleistoceno. Es famoso por sus enormes cuernos, que podían alcanzar una envergadura de hasta 3.65 metros, los más grandes de cualquier cérvido conocido. A pesar de su nombre común, no estaba estrechamente relacionado con el alce moderno.\n\nHabitaba en praderas abiertas y estepas, alimentándose de una variedad de vegetación. Sus cuernos, que mudaba anualmente, eran probablemente utilizados para exhibición sexual y competencia entre machos. La extinción del Alce gigante al final de la última Edad de Hielo se ha vinculado a la reducción de su hábitat preferido (pastizales abiertos) y posiblemente a la presión de la caza humana.",
+  "galeria_imagenes": [
+    "megaloceros_esqueleto.webp",
+    "comparativa_astas.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Megaloceros giganteus es el ejemplo más extremo de selección sexual en la familia de los cérvidos. Sus astas palmeadas son el resultado de una evolución hacia la exhibición visual masiva.",
+    "Estudios óseos indican que sufría de una forma de osteoporosis temporal mientras crecían sus astas, ya que el animal extraía minerales de su propio esqueleto para depositarlos en la cornamenta.",
+    "Su extinción se debió a una combinación del cierre de los bosques (que dificultaba el movimiento de machos con astas grandes) y la falta de minerales en la vegetación debido al cambio climático post-glacial."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 3,
-    "rareza": 4,
-    "fuerza_estimada": 3,
-    "defensa": 4,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "agresividad": 4,
+    "velocidad": 7,
+    "rareza": 7,
+    "fuerza_estimada": 8,
+    "defensa": 7,
+    "inteligencia": 6,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 4,
+    "impresionabilidad": 10
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Lister, A. M. (1994)"
   }
 }

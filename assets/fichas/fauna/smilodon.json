@@ -88,16 +88,16 @@
     "Los yacimientos de La Brea han proporcionado una cantidad de fósiles excepcional que ha permitido estudiar su edad, salud, lesiones, alimentación y comportamiento potencialmente social."
   ],
   
-  "estadisticas_fantasia": {
-    "agresividad": 5,
-    "velocidad": 3,
-    "rareza": 4,
-    "fuerza_estimada": 5,
-    "defensa": 4,
-    "inteligencia": 4,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
+"estadisticas_fantasia": {
+    "agresividad": 9,
+    "velocidad": 6,
+    "rareza": 8,
+    "fuerza_estimada": 10,
+    "defensa": 6,
+    "inteligencia": 8,
+    "impacto_historico": 10,
+    "level_adaptacion": 7,
+    "impresionabilidad": 10
   },
   
   "metadatos_personalizados": {

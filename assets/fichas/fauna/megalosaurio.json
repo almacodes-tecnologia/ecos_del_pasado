@@ -82,18 +82,17 @@
     "Presentaba un cráneo alargado con fenestras grandes para reducir el peso, albergando dientes comprimidos lateralmente y recurvados. Sus vértebras cervicales eran fuertes, sugiriendo una musculatura del cuello potente para someter presas grandes.",
     "Históricamente es un taxón 'cajón de sastre' (wastebasket taxon), ya que durante el siglo XIX casi cualquier terópodo encontrado en Europa era clasificado erróneamente como Megalosaurus."
   ],
-
-  "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 3,
-    "rareza": 2,
-    "fuerza_estimada": 4,
-    "defensa": 3,
-    "inteligencia": 3,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 4
-  },
+"estadisticas_fantasia": {
+  "agresividad": 8,
+  "velocidad": 6,
+  "rareza": 6,
+  "fuerza_estimada": 8,
+  "defensa": 7,
+  "inteligencia": 6,
+  "impacto_historico": 10,
+  "nivel_adaptacion": 7,
+  "impresionabilidad": 8
+},
 
   "metadatos_personalizados": {
     "prioridad_ui": "Alta",

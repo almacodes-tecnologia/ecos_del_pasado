@@ -89,17 +89,17 @@
     "La abundancia de sus fósiles ha permitido a los paleontólogos estudiar patrones de crecimiento y comportamiento social, confirmando que eran animales resilientes capaces de excavar hasta 1.5 metros de profundidad."
   ],
 
-  "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 2,
-    "rareza": 2,
-    "fuerza_estimada": 1,
-    "defensa": 2,
-    "inteligencia": 3,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 5,
-    "impresionabilidad": 2
-  },
+"estadisticas_fantasia": {
+  "agresividad": 3,
+  "velocidad": 4,
+  "rareza": 5,
+  "fuerza_estimada": 2,
+  "defensa": 5,
+  "inteligencia": 6,
+  "impacto_historico": 8,
+  "nivel_adaptacion": 9,
+  "impresionabilidad": 5
+},
 
   "metadatos_personalizados": {
     "prioridad_ui": "Baja",

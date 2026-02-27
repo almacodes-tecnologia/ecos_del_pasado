@@ -153,15 +153,6 @@
     "imagen_principal_url": "allosaurio.webp"
   },
   {
-    "id": "arqueoptérix",
-    "nombre": "Archaeopteryx",
-    "nombre_comun": "Arqueoptérix",
-    "tipo_animal": "dinosaurio",
-    "epoca": "Jurásico",
-    "alimentacion": "Carnívoro",
-    "imagen_principal_url": "archaeopteryx.webp"
-  },
-  {
     "id": "megalosaurio",
     "nombre": "Megalosaurus",
     "nombre_comun": "Megalosaurio",

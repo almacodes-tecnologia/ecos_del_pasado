@@ -85,16 +85,16 @@
     "Presenta una morfología única con extremidades anteriores muy cortas, lo que limitaba su velocidad y mantenía su centro de gravedad bajo. Las placas dorsales, formadas por osteodermos, no estaban unidas directamente al esqueleto sino ancladas en la piel.",
     "Su principal arma ofensiva era el thagomizer, un conjunto de cuatro púas en el extremo de su cola flexible, que utilizaba mediante movimientos laterales violentos para disuadir a los terópodos contemporáneos."
   ],
-  "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 1,
-    "rareza": 3,
-    "fuerza_estimada": 3,
-    "defensa": 5,
-    "inteligencia": 1,
-    "impacto_historico": 5,
-    "level_adaptacion": 3,
-    "impresionabilidad": 4
+"estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 3,
+    "rareza": 6,
+    "fuerza_estimada": 8,
+    "defensa": 9,
+    "inteligencia": 2,
+    "impacto_historico": 10,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 9
   },
   "metadatos_personalizados": {
     "prioridad_ui": "Alta",

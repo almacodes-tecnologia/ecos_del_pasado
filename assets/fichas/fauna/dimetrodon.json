@@ -85,17 +85,17 @@
     "Su cráneo alargado con dientes de distinto tamaño (heterodoncia) le permitía cortar carne con eficiencia. Su diseño corporal muestra una transición evolutiva temprana hacia características mamaliformes."
   ],
   
-  "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 3,
-    "rareza": 4,
-    "fuerza_estimada": 4,
-    "defensa": 3,
-    "inteligencia": 3,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
-  },
+"estadisticas_fantasia": {
+  "agresividad": 9,
+  "velocidad": 5,
+  "rareza": 6,
+  "fuerza_estimada": 8,
+  "defensa": 6,
+  "inteligencia": 5,
+  "impacto_historico": 10,
+  "nivel_adaptacion": 9,
+  "impresionabilidad": 10
+},
   
   "metadatos_personalizados": {
     "prioridad_ui": "Alta",

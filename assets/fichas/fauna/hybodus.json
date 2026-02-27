@@ -77,17 +77,17 @@
     "Se distingue por su dentición única (heterodoncia), que le permitía explotar múltiples fuentes de alimento, desde peces rápidos hasta presas con concha dura. Sus aletas pectorales y dorsales le daban una estabilidad superior en aguas poco profundas.",
     "Aunque desapareció junto con los dinosaurios al final del Cretácico, su registro fósil es uno de los más completos entre los condrictios debido a la mineralización de ciertas partes de su esqueleto y sus espinas defensivas."
   ],
-  "estadisticas_fantasia": {
-    "agresividad": 3,
-    "velocidad": 3,
-    "rareza": 2,
-    "fuerza_estimada": 2,
-    "defensa": 3,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 5,
-    "impresionabilidad": 3
-  },
+"estadisticas_fantasia": {
+  "agresividad": 7,
+  "velocidad": 7,
+  "rareza": 5,
+  "fuerza_estimada": 5,
+  "defensa": 6,
+  "inteligencia": 4,
+  "impacto_historico": 8,
+  "nivel_adaptacion": 10,
+  "impresionabilidad": 6
+},
   "metadatos_personalizados": {
     "prioridad_ui": "Media",
     "ultima_revision": "2026-02-26",

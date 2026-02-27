@@ -1,25 +1,27 @@
 {
-  "id": "tiranosaurio",
-  "nombre": "Tyrannosaurus Rex",
+  "id": "tyrannosaurus_rex",
   "nombre_comun": "Tiranosaurio Rex",
   "nombre_cientifico": "Tyrannosaurus rex",
   "tipo_animal": "dinosaurio",
-  "grupo": "tiranosáurido",
+  "grupo": "terópodo",
   "clasificacion": {
-    "familia": "Tyrannosauridae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Tyrannosauridae"
   },
   "dimensiones": {
-    "longitud_m": 12.0,
-    "altura_m": 4.0,
-    "peso_t": 9.0
+    "longitud_m": 12.3,
+    "altura_m": 3.8,
+    "peso_kg": 8400.0,
+    "descripcion_dimensiones": "Longitud medida desde el hocico hasta la punta de la cola. Altura medida hasta la cadera. Es uno de los carnívoros terrestres más grandes conocidos, con un cráneo de 1.5 metros de largo diseñado para triturar huesos."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Cretácico",
-    "fase": "Maastrichtiense (Tardío)",
-    "edad_millones_anios": "68–66"
+    "fase": "Tardío (Maastrichtiense)",
+    "rango_edad_presentacion": "Hace entre 68 y 66 millones de años",
+    "edad_inicio_ma": 68.0,
+    "edad_fin_ma": 66.0
   },
   "descubrimiento": {
     "anio": 1902,
@@ -30,39 +32,67 @@
       "pais": "Estados Unidos"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Estados Unidos",
-      "regiones": ["Montana", "Wyoming", "Dakota del Sur"],
-      "lat": 45.0,
-      "lon": -105.0
+      "regiones": ["Montana", "South Dakota", "Wyoming", "Texas"],
+      "coordenadas": [
+        {"lat": 45.0, "lon": -106.0}
+      ]
     },
     {
       "pais": "Canadá",
       "regiones": ["Alberta", "Saskatchewan"],
-      "lat": 53.0,
-      "lon": -110.0
+      "coordenadas": [
+        {"lat": 51.0, "lon": -112.0}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Bosques subtropicales y llanuras costeras",
-    "zona_actual": "Oeste de América del Norte (extinto)",
-    "zona_paleogeografica": "Laramidia",
-    "clima_estimado": "Cálido y húmedo"
+    "tipo": "Valles fluviales, bosques abiertos y llanuras costeras",
+    "zona_actual": "Oeste de América del Norte (Laramidia)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Húmedo y semitropical."
   },
-  "curiosidad": "Con una de las fuerzas de mordida más potentes de cualquier animal terrestre conocido, el T. rex podía aplastar huesos con facilidad.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Superdepredador y carroñero oportunista. Se alimentaba de ceratópsidos y hadrosáuridos. Poseía la fuerza de mordida más potente de cualquier animal terrestre (aprox. 35,000 a 57,000 Newtons), capaz de pulverizar huesos para extraer el tuétano."
+    },
+    "socialidad": "Debatida; posiblemente solitario o en pequeños grupos familiares (unidades de caza territoriales).",
+    "defensa": "Depredador alfa; su tamaño, sentidos hiperdesarrollados y mandíbulas letales eran su mejor defensa y ataque.",
+    "movimiento": "Bípedo obligado. Velocidad máxima estimada de 20-30 km/h. Poseía un gran sentido del equilibrio gracias a su pesada cola.",
+    "reproduccion": "Ovíparo. Se estima que tenían un crecimiento acelerado durante la adolescencia.",
+    "actividad": "Catemeral (activo tanto de día como de noche en intervalos)."
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Rey de los lagartos tiranos'.",
+    "Tenía una visión binocular superior a la de un halcón moderno, lo que le otorgaba una excelente percepción de la profundidad.",
+    "Sus brazos eran pequeños pero extremadamente fuertes, capaces de levantar más de 200 kg cada uno.",
+    "El ejemplar 'Sue' es uno de los esqueletos más completos y famosos del mundo."
+  ],
   "imagen_principal_url": "tiranosaurio.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Tyrannosaurus rex fue uno de los dinosaurios terópodos más grandes y conocidos, viviendo en el oeste de América del Norte durante el Cretácico Tardío. Era un depredador ápice, caracterizado por su enorme cráneo, dientes aserrados en forma de plátano y una mordida increíblemente potente, capaz de ejercer una de las fuerzas de mordida más grandes entre los animales terrestres.\n\nAunque sus brazos eran diminutos en proporción a su cuerpo, eran sorprendentemente musculosos. La dieta del T. rex incluía grandes herbívoros como Triceratops y Edmontosaurus. A pesar de su fama como depredador, la comunidad científica aún debate si era un cazador activo, un carroñero, o una combinación de ambos. Su reinado terminó con el evento de extinción masiva del Cretácico-Paleógeno.",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Tyrannosaurus rex fue el depredador terrestre dominante en América del Norte justo antes de la extinción masiva del Cretácico-Paleógeno.",
+    "Destaca por su cráneo masivo reforzado para resistir grandes presiones de mordida y sus dientes aserrados como cuchillos de carne. A diferencia de otros terópodos, el T. rex tenía un cerebro proporcionalmente grande, lo que sugiere una inteligencia y sentidos (olfato y vista) muy agudos.",
+    "Estudios recientes sugieren que los juveniles podrían haber tenido plumas, aunque los adultos parecen haber tenido piel escamosa según las impresiones de piel encontradas."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 5,
-    "velocidad": 3,
-    "rareza": 5,
-    "fuerza_estimada": 5,
-    "defensa": 4,
-    "inteligencia": 4,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
+    "agresividad": 10,
+    "velocidad": 6,
+    "rareza": 9,
+    "fuerza_estimada": 10,
+    "defensa": 8,
+    "inteligencia": 7,
+    "impacto_historico": 10,
+    "nivel_adaptacion": 7,
+    "impresionabilidad": 10
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Crítica",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Osborn, H. F. (1905)"
   }
 }

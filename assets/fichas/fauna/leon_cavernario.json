@@ -1,74 +1,100 @@
 {
   "id": "leon_cavernario",
-  "nombre": "Panthera spelaea",
-  "nombre_comun": "León cavernario",
+  "nombre_comun": "León Cavernario",
   "nombre_cientifico": "Panthera spelaea",
   "tipo_animal": "mamífero",
-  "grupo": "felino",
+  "grupo": "félido",
   "clasificacion": {
-    "familia": "Felidae",
-    "orden": "Carnivora"
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Felidae"
   },
   "dimensiones": {
     "longitud_m": 2.5,
     "altura_m": 1.2,
-    "peso_t": 0.3
+    "peso_kg": 350.0,
+    "descripcion_dimensiones": "Era aproximadamente un 10-15% más grande que los leones modernos. Poseía patas más largas y una musculatura adaptada para la persecución en terrenos abiertos y nevados."
   },
-  "alimentacion": "Carnívoro",
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Cuaternario",
-    "fase": "Pleistoceno",
-    "edad_millones_anios": "0.37–0.012"
+    "epoca": "Pleistoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 370,000 y 12,000 años",
+    "edad_inicio_ma": 0.37,
+    "edad_fin_ma": 0.012
   },
   "descubrimiento": {
     "anio": 1810,
     "descubridor": "Georg August Goldfuss",
     "lugar_original": {
-      "formacion": "Cueva de Zoolithen",
-      "region": "Baviera",
+      "formacion": "Cuevas calizas",
+      "region": "Franconia",
       "pais": "Alemania"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
-      "pais": "Europa",
-      "regiones": ["Alemania", "Francia", "Rusia", "España"],
-      "lat": 50.0,
-      "lon": 10.0
+      "pais": "Rusia",
+      "regiones": ["Siberia (Yakutia)"],
+      "coordenadas": [
+        {"lat": 67.5, "lon": 133.4}
+      ]
     },
     {
-      "pais": "Asia",
-      "regiones": ["Siberia", "China"],
-      "lat": 60.0,
-      "lon": 100.0
-    },
-    {
-      "pais": "América del Norte",
-      "regiones": ["Alaska", "Yukón"],
-      "lat": 65.0,
-      "lon": -140.0
+      "pais": "Francia",
+      "regiones": ["Cueva de Chauvet"],
+      "coordenadas": [
+        {"lat": 44.38, "lon": 4.41}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Estepas frías, tundra y bosques abiertos",
-    "zona_actual": "Eurasia y América del Norte (extinto)",
-    "zona_paleogeografica": "Eurasia y Beringia",
-    "clima_estimado": "Frío (glacial)"
+    "tipo": "Estepas de mamuts, bosques de coníferas y tundras",
+    "zona_actual": "Eurasia y Alaska",
+    "zona_paleogeografica": "Holoártico",
+    "clima_estimado": "Boreal y templado frío."
   },
-  "curiosidad": "Era uno de los felinos más grandes de la Edad de Hielo, superando en tamaño al león africano moderno, y se representó en el arte rupestre paleolítico.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Especialista en grandes presas. Se alimentaba de crías de mamut, renos, bisontes y caballos salvajes. El análisis de isótopos indica que también competía con los osos de las cavernas por las presas."
+    },
+    "socialidad": "Probablemente vivía en manadas o grupos pequeños, aunque algunos investigadores sugieren que podría haber sido más solitario que el león africano debido a la baja densidad de presas.",
+    "defensa": "Garras retráctiles masivas y una mordida potente. Su mayor defensa era su agilidad y su posición como depredador alfa.",
+    "movimiento": "Bípedo cursor. Excelente corredor de distancias cortas y saltador potente.",
+    "reproduccion": "Vivíparo. Se han hallado cachorros momificados en el permafrost que sugieren cuidados maternos en cubiles protegidos.",
+    "actividad": "Catemeral (activo día y noche)"
+  },
+  "curiosidades_adicionales": [
+    "A diferencia de los leones actuales, las pinturas rupestres sugieren que los machos no tenían melenas o eran muy escasas.",
+    "En 2015 y 2017 se hallaron en Siberia cachorros de león cavernario (Uyan y Dina) perfectamente conservados en el hielo, con pelo y órganos intactos.",
+    "Su nombre 'cavernario' es algo engañoso; no vivían en cuevas, sino que entraban en ellas para cazar cachorros de oso de las cavernas durante la hibernación.",
+    "Eran los felinos más grandes del hemisferio norte durante la Edad del Hielo."
+  ],
   "imagen_principal_url": "leon_cavernario.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "El León cavernario (Panthera spelaea) fue una subespecie extinta de león que habitó Europa y Asia durante el Pleistoceno. Era uno de los felinos más grandes de su tiempo, superando en tamaño al león africano moderno. A pesar de su nombre, no vivía exclusivamente en cuevas, sino que las usaba para refugio y guarida, especialmente durante el invierno.\n\nSe alimentaba de grandes herbívoros de la megafauna de la Edad de Hielo, como bisontes, caballos y ciervos. A menudo se le representa en el arte rupestre paleolítico, lo que indica su coexistencia con los humanos primitivos. Su extinción al final del Pleistoceno se atribuye a los cambios climáticos que alteraron su hábitat y las poblaciones de sus presas, así como a la competencia con los humanos.",
+  "galeria_imagenes": [
+    "cachorro_momificado_siberia.webp",
+    "arte_rupestre_chauvet.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Panthera spelaea fue una especie distinta del león africano moderno, adaptada evolutivamente a la estepa del Pleistoceno. Su cuerpo era más robusto y poseía una capa de grasa aislante más gruesa.",
+    "El descubrimiento de especímenes momificados en Yakutia ha permitido confirmar que su pelaje era de un tono amarillento-grisáceo, ideal para el camuflaje en la tundra seca o la nieve.",
+    "Se extinguió debido a la desaparición de sus presas principales (la megafauna) y a la expansión de los bosques densos al final de la glaciación Würm."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 4,
-    "rareza": 4,
-    "fuerza_estimada": 4,
-    "defensa": 3,
-    "inteligencia": 3,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 5
+    "agresividad": 9,
+    "velocidad": 8,
+    "rareza": 8,
+    "fuerza_estimada": 8,
+    "defensa": 5,
+    "inteligencia": 7,
+    "impacto_historico": 9,
+    "nivel_adaptacion": 7,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Barnett et al. (2016)"
   }
 }

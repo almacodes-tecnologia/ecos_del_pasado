@@ -79,17 +79,17 @@
     "Morfológicamente presentaba un tórax robusto donde se anclaban potentes músculos de vuelo. Sus alas presentaban una red de venas cuticulares que le otorgaban rigidez y flexibilidad, permitiéndole maniobras rápidas en los densos bosques de licopodios.",
     "La extinción de estos gigantes se vincula a la caída de los niveles de oxígeno atmosférico a finales del Pérmico y a los cambios climáticos que redujeron sus hábitats pantanosos."
   ],
-  "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 5,
-    "rareza": 3,
-    "fuerza_estimada": 2,
-    "defensa": 2,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 4
-  },
+"estadisticas_fantasia": {
+  "agresividad": 9,
+  "velocidad": 10,
+  "rareza": 7,
+  "fuerza_estimada": 3,
+  "defensa": 2,
+  "inteligencia": 4,
+  "impacto_historico": 9,
+  "nivel_adaptacion": 8,
+  "impresionabilidad": 8
+},
   "metadatos_personalizados": {
     "prioridad_ui": "Media-Alta",
     "ultima_revision": "2026-02-26",

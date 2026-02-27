@@ -90,17 +90,17 @@
     "El hallazgo de puntos de inserción de plumas (ulnar papillae) en el cúbito de especímenes mongoles confirmó definitivamente que poseía un plumaje complejo, probablemente utilizado para exhibición y termorregulación."
   ],
 
-  "estadisticas_fantasia": {
-    "agresividad": 5,
-    "velocidad": 5,
-    "rareza": 2,
-    "fuerza_estimada": 2,
-    "defensa": 2,
-    "inteligencia": 5,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 5
-  },
+"estadisticas_fantasia": {
+  "agresividad": 9,
+  "velocidad": 10,
+  "rareza": 5,
+  "fuerza_estimada": 4,
+  "defensa": 3,
+  "inteligencia": 10,
+  "impacto_historico": 10,
+  "nivel_adaptacion": 8,
+  "impresionabilidad": 9
+},
 
   "metadatos_personalizados": {
     "prioridad_ui": "Alta",

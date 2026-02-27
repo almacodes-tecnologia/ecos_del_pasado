@@ -1,55 +1,43 @@
 {
-  "id": "glyptodon",
+  "id": "gliptodonte",
   "nombre_comun": "Gliptodonte",
   "nombre_cientifico": "Glyptodon reticulatus",
-  "tipo_animal": "mamífero (megafauna)",
-  "grupo": "xenartro cingulado",
-
+  "tipo_animal": "mamífero",
+  "grupo": "xenartro",
   "clasificacion": {
     "clase": "Mammalia",
     "orden": "Cingulata",
-    "familia": "Chlamyphoridae"
+    "familia": "Glyptodontidae"
   },
-
   "dimensiones": {
     "longitud_m": 3.3,
     "altura_m": 1.5,
     "peso_kg": 2000.0,
-    "descripcion_dimensiones": "Poseía un caparazón rígido y globular formado por más de mil osteodermos óseos. Su cuerpo era compacto y macizo, con extremidades cortas pero extremadamente fuertes para soportar su gran peso."
+    "descripcion_dimensiones": "Tenía el tamaño y el peso de un coche utilitario moderno. Su rasgo más característico era su caparazón rígido compuesto por más de mil placas óseas de un centímetro de espesor."
   },
-
   "periodo": {
     "era": "Cenozoico",
-    "epoca": "Pleistoceno",
-    "fase": "Lujanense",
-    "rango_edad_presentacion": "Hace entre 2 millones y 10,000 años",
-    "edad_inicio_ma": 2.0,
+    "epoca": "Plioceno - Holoceno",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 2.5 millones y 10,000 años",
+    "edad_inicio_ma": 2.5,
     "edad_fin_ma": 0.01
   },
-
   "descubrimiento": {
     "anio": 1839,
     "descubridor": "Richard Owen",
     "lugar_original": {
-      "formacion": "Pampas Argentinas",
+      "formacion": "Pampas",
       "region": "Buenos Aires",
       "pais": "Argentina"
     }
   },
-
   "yacimientos_clave": [
     {
       "pais": "Argentina",
-      "regiones": ["Provincia de Buenos Aires", "Córdoba"],
+      "regiones": ["Región Pampeana"],
       "coordenadas": [
         {"lat": -34.6, "lon": -58.4}
-      ]
-    },
-    {
-      "pais": "Uruguay",
-      "regiones": ["San José"],
-      "coordenadas": [
-        {"lat": -34.3, "lon": -56.7}
       ]
     },
     {
@@ -60,60 +48,53 @@
       ]
     }
   ],
-
   "habitat_aproximado": {
-    "tipo": "Sabanas abiertas y pastizales",
-    "zona_actual": "Sudamérica (extinto)",
-    "zona_paleogeografica": "Región Pampeana y áreas del Cono Sur",
-    "clima_estimado": "Variable, desde templado hasta frío y seco durante las glaciaciones, con predominio de vegetación herbácea."
+    "tipo": "Sabanas, praderas y zonas pantanosas",
+    "zona_actual": "América del Sur",
+    "zona_paleogeografica": "Sudamérica",
+    "clima_estimado": "Templado a cálido y húmedo."
   },
-
   "informacion_comportamiento": {
     "dieta": {
       "general": "Herbívoro",
-      "detalle": "Pastos y plantas duras. Su mandíbula profunda y dientes de crecimiento continuo estaban especializados en triturar vegetación fibrosa a ras de suelo."
+      "detalle": "Se alimentaba de pastos, raíces y plantas resistentes de las riberas. Su mandíbula era extremadamente profunda para alojar músculos potentes capaces de triturar vegetación dura."
     },
-    "socialidad": "Probablemente solitario o en grupos familiares pequeños. No hay evidencia de grandes manadas, ya que su defensa era individual y pasiva.",
-    "defensa": "Coraza ósea impenetrable que cubría el torso y la parte superior de la cabeza. A diferencia de sus parientes los Doedicurus, Glyptodon no tenía una maza de púas, pero usaba su cola blindada para dar golpes laterales.",
-    "movimiento": "Cuadrúpedo plantígrado muy lento. Su anatomía estaba diseñada para el pastoreo constante y la estabilidad, no para la carrera.",
-    "reproduccion": "Vivíparo. Como mamífero placentario, daba a luz a crías vivas que probablemente permanecían bajo la protección del caparazón materno.",
-    "actividad": "Diurna/Crepuscular"
+    "socialidad": "Probablemente solitario o en grupos muy pequeños. Su protección era tan efectiva que no necesitaba la seguridad de una manada numerosa.",
+    "defensa": "Inexpugnable. Además de su caparazón corporal, tenía un casquete óseo en la cabeza y una cola protegida por anillos óseos que, en algunas especies parientes, terminaba en una maza de púas.",
+    "movimiento": "Cuadrúpedo muy lento. Debido al peso de su armadura, se desplazaba con pasos cortos y firmes.",
+    "reproduccion": "Vivíparo. Probablemente tenían periodos de gestación largos y crías que ya nacían con un caparazón blando que se endurecía con el tiempo.",
+    "actividad": "Diurna"
   },
-
   "curiosidades_adicionales": [
-    "Es un pariente gigante de los armadillos modernos, aunque su caparazón no era flexible, sino una sola pieza rígida.",
-    "Se han encontrado evidencias de que los primeros humanos en Sudamérica utilizaron sus caparazones vacíos como refugios temporales contra el clima.",
-    "A diferencia de las tortugas, el Gliptodonte no podía esconder la cabeza dentro del caparazón; en su lugar, tenía un 'casco' óseo sobre el cráneo.",
-    "Su extinción coincide con la llegada de los humanos al continente y el cambio climático al final de la última glaciación."
+    "Aunque parece un armadillo gigante, el caparazón del Gliptodonte era una sola pieza rígida, por lo que no podía enrollarse como una bola.",
+    "Se han hallado restos arqueológicos que sugieren que los primeros humanos en Sudamérica utilizaban sus caparazones vacíos como refugios o cobertizos contra la lluvia.",
+    "A diferencia de las tortugas, el Gliptodonte no podía retraer su cabeza dentro del caparazón; en su lugar, tenía un casco de hueso sobre el cráneo.",
+    "Cada placa de su armadura tenía un patrón único, casi como una huella dactilar de hueso."
   ],
-
-  "imagen_principal_url": "glyptodon_reconstruccion.webp",
+  "imagen_principal_url": "gliptodonte.webp",
   "galeria_imagenes": [
-    "glyptodon_coraza_detalle.webp",
-    "glyptodon_craneo_fosil.webp"
+    "gliptodonte_esqueleto_museo.webp",
+    "comparativa_caparazones.webp"
   ],
-
   "descripcion_cientifica": [
-    "El Glyptodon es el género representativo de los glíptodontinos. Su característica definitoria es el caparazón dorsal compuesto por osteodermos hexagonales u octogonales fusionados, que proporcionaban una protección casi total contra depredadores como el Smilodon.",
-    "El sistema respiratorio presentaba pasajes nasales adaptados, posiblemente para filtrar el polvo de las estepas secas o para ayudar en la termorregulación.",
-    "La columna vertebral estaba fusionada en gran parte de su longitud para soportar el inmenso peso de la armadura, lo que limitaba su flexibilidad pero aumentaba su integridad estructural."
+    "El Glyptodon es un ejemplo extraordinario de evolución convergente, desarrollando una armadura similar a la de las tortugas o los anquilosaurios pero en un linaje de mamíferos edentados.",
+    "Su anatomía estaba tan condicionada por el peso del caparazón que sus vértebras cervicales y lumbares estaban fusionadas para proporcionar un soporte estructural rígido.",
+    "La extinción de la especie ocurrió al final de la última edad de hielo, probablemente por una combinación de cambios en la flora de la pampa y la presión de caza de los humanos recién llegados al continente."
   ],
-
   "estadisticas_fantasia": {
-    "agresividad": 1,
+    "agresividad": 2,
     "velocidad": 1,
-    "rareza": 3,
-    "fuerza_estimada": 4,
-    "defensa": 5,
-    "inteligencia": 2,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 3,
-    "impresionabilidad": 4
+    "rareza": 7,
+    "fuerza_estimada": 7,
+    "defensa": 10,
+    "inteligencia": 3,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 9
   },
-
   "metadatos_personalizados": {
-    "prioridad_ui": "Media-Alta",
-    "ultima_revision": "2025-05-20",
-    "referencia_principal": "Fariña, R. A., & Vizcaíno, S. F. (2001)"
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Owen, R. (1839)"
   }
 }

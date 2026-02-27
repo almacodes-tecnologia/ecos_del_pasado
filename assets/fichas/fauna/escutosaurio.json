@@ -83,17 +83,17 @@
     "Paleontológicamente es clave para entender la evolución de la locomoción en los tetrápodos, ya que muestra una transición hacia una postura más eficiente para soportar el peso fuera del agua."
   ],
 
-  "estadisticas_fantasia": {
-    "agresividad": 2,
-    "velocidad": 1,
-    "rareza": 3,
-    "fuerza_estimada": 3,
-    "defensa": 5,
-    "inteligencia": 2,
-    "impacto_historico": 3,
-    "nivel_adaptacion": 2,
-    "impresionabilidad": 4
-  },
+"estadisticas_fantasia": {
+  "agresividad": 4,
+  "velocidad": 2,
+  "rareance": 7,
+  "fuerza_estimada": 6,
+  "defensa": 8,
+  "inteligencia": 3,
+  "impacto_historico": 7,
+  "nivel_adaptacion": 5,
+  "impresionabilidad": 7
+},
 
   "metadatos_personalizados": {
     "prioridad_ui": "Media",

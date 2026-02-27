@@ -1,74 +1,98 @@
 {
-  "id": "espinosaurus",
-  "nombre": "Spinosaurus aegyptiacus",
-  "nombre_comun": "Espinosaurus",
+  "id": "spinosaurus",
+  "nombre_comun": "Espinosaurio",
   "nombre_cientifico": "Spinosaurus aegyptiacus",
   "tipo_animal": "dinosaurio",
-  "grupo": "espinosáurido",
+  "grupo": "terópodo",
   "clasificacion": {
-    "familia": "Spinosauridae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Spinosauridae"
   },
   "dimensiones": {
     "longitud_m": 15.0,
-    "altura_m": 6.0,
-    "peso_t": 7.0
+    "altura_m": 4.2,
+    "peso_kg": 7000.0,
+    "descripcion_dimensiones": "Es el dinosaurio carnívoro más largo conocido, superando incluso al T-Rex. Su característica más distintiva es la 'vela' dorsal, que podía alcanzar los 1.65 metros de altura."
   },
-  "alimentacion": "Piscívoro/Carnívoro",
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Cretácico",
-    "fase": "Albiense-Cenomaniense (Temprano a Medio)",
-    "edad_millones_anios": "112–93.5"
+    "fase": "Albiense - Cenomaniense",
+    "rango_edad_presentacion": "Hace entre 112 y 93.5 millones de años",
+    "edad_inicio_ma": 112.0,
+    "edad_fin_ma": 93.5
   },
   "descubrimiento": {
     "anio": 1912,
     "descubridor": "Ernst Stromer",
     "lugar_original": {
       "formacion": "Bahariya",
-      "region": "Desierto Occidental",
+      "region": "Desierto del Sáhara",
       "pais": "Egipto"
     }
   },
-  "ubicaciones_fosiles": [
-    {
-      "pais": "Egipto",
-      "regiones": ["Desierto Occidental"],
-      "lat": 28.0,
-      "lon": 29.0
-    },
+  "yacimientos_clave": [
     {
       "pais": "Marruecos",
       "regiones": ["Kem Kem Beds"],
-      "lat": 30.0,
-      "lon": -5.0
+      "coordenadas": [
+        {"lat": 31.2, "lon": -4.0}
+      ]
     },
     {
-      "pais": "Níger",
-      "regiones": ["Gadoufao"],
-      "lat": 17.0,
-      "lon": 10.0
+      "pais": "Egipto",
+      "regiones": ["Oasis de Bahariya"],
+      "coordenadas": [
+        {"lat": 28.3, "lon": 28.9}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Ríos y pantanos costeros, deltas",
-    "zona_actual": "Norte de África (extinto)",
-    "zona_paleogeografica": "África del Norte",
-    "clima_estimado": "Cálido y húmedo"
+    "tipo": "Sistemas fluviales, deltas y pantanos",
+    "zona_actual": "Norte de África",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Tropical, con extensos manglares y redes fluviales."
   },
-  "curiosidad": "Fue el dinosaurio carnívoro más grande conocido, y se cree que pasaba gran parte de su vida en el agua, cazando peces con sus mandíbulas alargadas y dientes cónicos.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Piscívoro / Carnívoro",
+      "detalle": "Especializado en la caza de grandes peces (como el pez sierra *Onchopristis*) y presas terrestres ocasionales. Su hocico alargado con receptores de presión le permitía detectar presas bajo el agua."
+    },
+    "socialidad": "Solitario o en competencia directa por recursos hídricos.",
+    "defensa": "Garras enormes en las extremidades delanteras y una cola diseñada para la propulsión acuática que podía usarse como un potente látigo.",
+    "movimiento": "Semicuadrúpedo en tierra y excelente nadador. Estudios recientes muestran una cola ancha similar a la de un tritón para desplazarse por el agua.",
+    "reproduccion": "Ovíparo. Anidaba probablemente cerca de las orillas de los ríos.",
+    "actividad": "Diurna / Crepuscular"
+  },
+  "curiosidades_adicionales": [
+    "Fue el primer dinosaurio del que se tiene evidencia clara de un estilo de vida semiacuático.",
+    "Los fósiles originales descubiertos en 1912 fueron destruidos durante un bombardeo aliado en Múnich en 1944.",
+    "La función de su vela es aún objeto de debate: termorregulación, exhibición sexual o almacenamiento de grasa.",
+    "Sus dientes eran cónicos y lisos, ideales para sujetar presas resbaladizas como peces, en lugar de cortar carne."
+  ],
   "imagen_principal_url": "espinosaurus.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Spinosaurus aegyptiacus fue un género de dinosaurios terópodos que vivió en lo que hoy es el norte de África durante el Cretácico. Es notable por ser el dinosaurio carnívoro más grande conocido, superando incluso al Tyrannosaurus rex en longitud. Su característica más distintiva era una enorme 'vela' dorsal, formada por espinas neurales alargadas que podían alcanzar hasta 1.8 metros de altura.\n\nInvestigaciones recientes sugieren que Spinosaurus era el primer dinosaurio no aviano semi-acuático conocido, con adaptaciones para la vida en el agua, como patas traseras cortas, pies palmeados y una cola en forma de remo. Se cree que su dieta consistía principalmente en peces grandes, que capturaba con sus mandíbulas alargadas y dientes cónicos, aunque también pudo haber cazado otros animales terrestres. Habitaba en vastos sistemas fluviales y deltas.",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Spinosaurus representó una evolución radical dentro de los terópodos, adaptándose a un nicho ecológico fluvial único en el norte de África.",
+    "Su morfología incluía fosas nasales situadas hacia atrás en el cráneo para permitirle respirar mientras parte del hocico estaba sumergido, y huesos densos (osteosclerosis) que le ayudaban con la flotabilidad, similar a los pingüinos o hipopótamos actuales.",
+    "La reconstrucción moderna de su cola como un órgano de propulsión similar a una aleta ha cambiado por completo la visión que se tenía de él como un simple 'T-Rex con vela'."
+  ],
   "estadisticas_fantasia": {
-    "agresividad": 4,
-    "velocidad": 3,
-    "rareza": 5,
-    "fuerza_estimada": 5,
-    "defensa": 4,
-    "inteligencia": 3,
-    "impacto_historico": 5,
-    "nivel_adaptacion": 5,
-    "impresionabilidad": 5
+    "agresividad": 9,
+    "velocidad": 8,
+    "rareza": 9,
+    "fuerza_estimada": 10,
+    "defensa": 7,
+    "inteligencia": 6,
+    "impacto_historico": 9,
+    "nivel_adaptacion": 10,
+    "impresionabilidad": 10
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Ibrahim et al. (2014/2020)"
   }
 }

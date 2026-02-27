@@ -1,25 +1,27 @@
 {
   "id": "gallimimus",
-  "nombre": "Gallimimus bullatus",
   "nombre_comun": "Gallimimus",
   "nombre_cientifico": "Gallimimus bullatus",
   "tipo_animal": "dinosaurio",
-  "grupo": "ornitomímido",
+  "grupo": "ornitomimosaurio",
   "clasificacion": {
-    "familia": "Ornithomimidae",
-    "orden": "Saurischia"
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Ornithomimidae"
   },
   "dimensiones": {
     "longitud_m": 6.0,
     "altura_m": 2.0,
-    "peso_t": 0.4
+    "peso_kg": 450.0,
+    "descripcion_dimensiones": "A pesar de su nombre, era de gran tamaño, similar a un avestruz gigante. Su estructura era extremadamente ligera para favorecer la velocidad punta."
   },
-  "alimentacion": "Omnívoro",
   "periodo": {
     "era": "Mesozoico",
     "epoca": "Cretácico",
-    "fase": "Campaniense-Maastrichtiense (Tardío)",
-    "edad_millones_anios": "70–66"
+    "fase": "Tardío (Maastrichtiense)",
+    "rango_edad_presentacion": "Hace entre 70 y 66 millones de años",
+    "edad_inicio_ma": 70.0,
+    "edad_fin_ma": 66.0
   },
   "descubrimiento": {
     "anio": 1963,
@@ -30,33 +32,62 @@
       "pais": "Mongolia"
     }
   },
-  "ubicaciones_fosiles": [
+  "yacimientos_clave": [
     {
       "pais": "Mongolia",
       "regiones": ["Desierto de Gobi"],
-      "lat": 43.0,
-      "lon": 105.0
+      "coordenadas": [
+        {"lat": 43.5, "lon": 101.0}
+      ]
     }
   ],
   "habitat_aproximado": {
-    "tipo": "Llanuras aluviales y bosques dispersos",
-    "zona_actual": "Asia Central (extinto)",
-    "zona_paleogeografica": "Asia",
-    "clima_estimado": "Templado a cálido"
+    "tipo": "Llanuras aluviales y cuencas fluviales",
+    "zona_actual": "Mongolia",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido con estaciones marcadas y disponibilidad de agua estacional."
   },
-  "curiosidad": "Su nombre significa 'imitador de gallina' debido a su parecido con las aves modernas. Era uno de los dinosaurios más rápidos, capaz de alcanzar velocidades de hasta 50 km/h.",
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Omnívoro",
+      "detalle": "Se alimentaba de plantas, insectos, pequeños vertebrados y posiblemente huevos. Su pico carecía de dientes y funcionaba de forma similar al de las aves modernas."
+    },
+    "socialidad": "Muy gregario. Vivían en grandes manadas que se desplazaban juntas para minimizar el riesgo ante depredadores como el *Tarbosaurus*.",
+    "defensa": "Su principal defensa era la huida. Poseía ojos situados lateralmente que le daban un campo de visión de casi 360 grados.",
+    "movimiento": "Bípedo cursor. Sus patas traseras eran proporcionalmente muy largas, con metatarsos diseñados para carreras de alta velocidad (aprox. 50-60 km/h).",
+    "reproduccion": "Ovíparo. Se cree que anidaban en colonias.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Imitador de gallina', aunque por tamaño se parece más a un avestruz moderno.",
+    "Es uno de los dinosaurios más rápidos que han existido.",
+    "Saltó a la fama mundial por la escena de la estampida en la película Jurassic Park (1933).",
+    "Tenía huesos neumáticos (huecos) para reducir el peso corporal sin perder resistencia estructural."
+  ],
   "imagen_principal_url": "gallimimus.webp",
-  "imagen_fosil_url": "",
-  "descripcion_cientifica": "Gallimimus bullatus fue un género de dinosaurios ornitomímidos que vivió durante el Cretácico Tardío en lo que hoy es Mongolia. Su nombre significa 'imitador de gallina de la cresta', haciendo referencia a su parecido superficial con las aves y una pequeña protuberancia en su cráneo. Era un dinosaurio bípedo, ligero y grácil, con patas largas y fuertes, lo que lo convertía en uno de los dinosaurios más rápidos, capaz de alcanzar altas velocidades.\n\nPoseía un cuello largo, una cabeza pequeña con un pico desdentado y grandes ojos, lo que sugiere que tenía buena vista. Se cree que Gallimimus era omnívoro, alimentándose de plantas, insectos, huevos y pequeños animales. A menudo se le ha representado en grandes manadas, lo que podría indicar un comportamiento gregario. Su anatomía lo hacía un corredor excepcional, ideal para escapar de depredadores más grandes de su época.",
+  "galeria_imagenes": [
+    "gallimimus_manada.webp",
+    "gallimimus_esqueleto.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Gallimimus es el representante más grande y conocido de la familia Ornithomimidae. Su anatomía está altamente especializada para la carrera, con manos largas que, aunque no eran prensiles como las de otros terópodos, podrían haber servido para hurgar en la tierra o atraer ramas.",
+    "Su cráneo era pequeño y estrecho, con un cerebro relativamente grande para un dinosaurio de su tipo, lo que sugiere una buena coordinación y sentidos agudos.",
+    "A diferencia de los carnívoros contemporáneos, el Gallimimus ocupaba un nicho ecológico más versátil, aprovechando múltiples fuentes de alimento en los ecosistemas de Asia Central."
+  ],
   "estadisticas_fantasia": {
     "agresividad": 2,
-    "velocidad": 5,
-    "rareza": 3,
-    "fuerza_estimada": 2,
-    "defensa": 2,
-    "inteligencia": 3,
-    "impacto_historico": 4,
-    "nivel_adaptacion": 4,
-    "impresionabilidad": 4
+    "velocidad": 10,
+    "rareza": 5,
+    "fuerza_estimada": 3,
+    "defensa": 4,
+    "inteligencia": 6,
+    "impacto_historico": 7,
+    "nivel_adaptacion": 9,
+    "impresionabilidad": 6
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-27",
+    "referencia_principal": "Halszka Osmólska et al. (1972)"
   }
 }
