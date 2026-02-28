@@ -169,14 +169,5 @@
     "fin_millones_anos_atras": 0.0,
     "descripcion_corta": "Periodo post-glacial en el que se desarrolla la civilización humana.",
     "imagen_url": "holoceno.webp"
-  },
-  {
-    "id": "antropoceno",
-    "nombre": "Antropoceno",
-    "periodo_geologico": "Cuaternario",
-    "inicio_millones_anos_atras": 0.000075,
-    "fin_millones_anos_atras": 0.0,
-    "descripcion_corta": "Época propuesta marcada por el impacto global de la humanidad.",
-    "imagen_url": "antropoceno.webp"
   }
 ]
