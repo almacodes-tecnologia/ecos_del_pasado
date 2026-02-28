@@ -1,5 +1,86 @@
 [
   {
+    "id": "hadico",
+    "nombre": "Hádico",
+    "periodo_geologico": "Precámbrico",
+    "inicio_millones_anos_atras": 4600.0,
+    "fin_millones_anos_atras": 4000.0,
+    "descripcion_corta": "Formación de la Tierra, bombardeo de meteoritos y océanos de magma.",
+    "imagen_url": "hadico.webp"
+  },
+  {
+    "id": "arcaico",
+    "nombre": "Arcaico",
+    "periodo_geologico": "Precámbrico",
+    "inicio_millones_anos_atras": 4000.0,
+    "fin_millones_anos_atras": 2500.0,
+    "descripcion_corta": "Aparición de las primeras células procariotas y formación de la corteza terrestre.",
+    "imagen_url": "arcaico.webp"
+  },
+  {
+    "id": "proterozoico",
+    "nombre": "Proterozoico",
+    "periodo_geologico": "Precámbrico",
+    "inicio_millones_anos_atras": 2500.0,
+    "fin_millones_anos_atras": 538.8,
+    "descripcion_corta": "Oxigenación de la atmósfera y surgimiento de la fauna de Ediacara.",
+    "imagen_url": "proterozoico.webp"
+  },
+  {
+    "id": "cambrico",
+    "nombre": "Cámbrico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 538.8,
+    "fin_millones_anos_atras": 485.4,
+    "descripcion_corta": "Explosión de vida multicelular y aparición de los trilobites.",
+    "imagen_url": "cambrico.webp"
+  },
+  {
+    "id": "ordovicico",
+    "nombre": "Ordovícico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 485.4,
+    "fin_millones_anos_atras": 443.8,
+    "descripcion_corta": "Diversificación marina y aparición de los primeros peces.",
+    "imagen_url": "ordovicico.webp"
+  },
+  {
+    "id": "silurico",
+    "nombre": "Silúrico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 443.8,
+    "fin_millones_anos_atras": 419.2,
+    "descripcion_corta": "Primeras plantas terrestres y peces con mandíbulas.",
+    "imagen_url": "silurico.webp"
+  },
+  {
+    "id": "devonico",
+    "nombre": "Devónico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 419.2,
+    "fin_millones_anos_atras": 358.9,
+    "descripcion_corta": "La era de los peces y el origen de los primeros anfibios.",
+    "imagen_url": "devonico.webp"
+  },
+  {
+    "id": "carbonifero",
+    "nombre": "Carbonífero",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 358.9,
+    "fin_millones_anos_atras": 298.9,
+    "descripcion_corta": "Vastas selvas de helechos y anfibios gigantes.",
+    "imagen_url": "carbonifero.webp"
+  },
+  {
+    "id": "permico",
+    "nombre": "Pérmico",
+    "periodo_geologico": "Paleozoico",
+    "inicio_millones_anos_atras": 298.9,
+    "fin_millones_anos_atras": 252.2,
+    "descripcion_corta": "Grandes reptiles y la mayor extinción masiva.",
+    "imagen_url": "permico.webp"
+  },
+  {
     "id": "triasico",
     "nombre": "Triásico",
     "periodo_geologico": "Mesozoico",
@@ -27,48 +108,75 @@
     "imagen_url": "cretacico.webp"
   },
   {
-    "id": "paleogeno",
-    "nombre": "Paleógeno",
-    "periodo_geologico": "Cenozoico",
+    "id": "paleoceno",
+    "nombre": "Paleoceno",
+    "periodo_geologico": "Paleógeno",
     "inicio_millones_anos_atras": 66.0,
+    "fin_millones_anos_atras": 56.0,
+    "descripcion_corta": "Recuperación de la biosfera tras la extinción de los dinosaurios.",
+    "imagen_url": "paleoceno.webp"
+  },
+  {
+    "id": "eoceno",
+    "nombre": "Eoceno",
+    "periodo_geologico": "Paleógeno",
+    "inicio_millones_anos_atras": 56.0,
+    "fin_millones_anos_atras": 33.9,
+    "descripcion_corta": "Máximo térmico y aparición de los ancestros de ballenas y caballos.",
+    "imagen_url": "eoceno.webp"
+  },
+  {
+    "id": "oligoceno",
+    "nombre": "Oligoceno",
+    "periodo_geologico": "Paleógeno",
+    "inicio_millones_anos_atras": 33.9,
     "fin_millones_anos_atras": 23.03,
-    "descripcion_corta": "Periodo posterior a la extinción de los dinosaurios.",
-    "imagen_url": "paleogeno.webp"
+    "descripcion_corta": "Expansión de los pastizales y evolución de grandes mamíferos terrestres.",
+    "imagen_url": "oligoceno.webp"
   },
   {
-    "id": "neogeno",
-    "nombre": "Neógeno",
-    "periodo_geologico": "Cenozoico",
+    "id": "mioceno",
+    "nombre": "Mioceno",
+    "periodo_geologico": "Neógeno",
     "inicio_millones_anos_atras": 23.03,
+    "fin_millones_anos_atras": 5.33,
+    "descripcion_corta": "Clima más seco, formación de los Alpes y diversificación de simios.",
+    "imagen_url": "mioceno.webp"
+  },
+  {
+    "id": "plioceno",
+    "nombre": "Plioceno",
+    "periodo_geologico": "Neógeno",
+    "inicio_millones_anos_atras": 5.33,
     "fin_millones_anos_atras": 2.58,
-    "descripcion_corta": "Grandes cambios climáticos y evolución de primates.",
-    "imagen_url": "neogeno.webp"
+    "descripcion_corta": "Aparición de los primeros homínidos y cierre del istmo de Panamá.",
+    "imagen_url": "plioceno.webp"
   },
   {
-    "id": "cuaternario",
-    "nombre": "Cuaternario",
-    "periodo_geologico": "Cenozoico",
+    "id": "pleistoceno",
+    "nombre": "Pleistoceno",
+    "periodo_geologico": "Cuaternario",
     "inicio_millones_anos_atras": 2.58,
+    "fin_millones_anos_atras": 0.0117,
+    "descripcion_corta": "La era de las glaciaciones y la megafauna como el mamut.",
+    "imagen_url": "pleistoceno.webp"
+  },
+  {
+    "id": "holoceno",
+    "nombre": "Holoceno",
+    "periodo_geologico": "Cuaternario",
+    "inicio_millones_anos_atras": 0.0117,
     "fin_millones_anos_atras": 0.0,
-    "descripcion_corta": "Edad de hielo y aparición de los humanos modernos.",
-    "imagen_url": "cuaternario.webp"
+    "descripcion_corta": "Periodo post-glacial en el que se desarrolla la civilización humana.",
+    "imagen_url": "holoceno.webp"
   },
   {
-    "id": "permico",
-    "nombre": "Pérmico",
-    "periodo_geologico": "Paleozoico",
-    "inicio_millones_anos_atras": 298.9,
-    "fin_millones_anos_atras": 252.2,
-    "descripcion_corta": "Grandes reptiles y la mayor extinción masiva.",
-    "imagen_url": "permico.webp"
-  },
-  {
-    "id": "carbonifero",
-    "nombre": "Carbonífero",
-    "periodo_geologico": "Paleozoico",
-    "inicio_millones_anos_atras": 358.9,
-    "fin_millones_anos_atras": 298.9,
-    "descripcion_corta": "Vastas selvas de helechos y anfibios gigantes.",
-    "imagen_url": "carbonifero.webp"
+    "id": "antropoceno",
+    "nombre": "Antropoceno",
+    "periodo_geologico": "Cuaternario",
+    "inicio_millones_anos_atras": 0.000075,
+    "fin_millones_anos_atras": 0.0,
+    "descripcion_corta": "Época propuesta marcada por el impacto global de la humanidad.",
+    "imagen_url": "antropoceno.webp"
   }
 ]
