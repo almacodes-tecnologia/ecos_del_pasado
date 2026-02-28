@@ -1,0 +1,98 @@
+{
+  "id": "ichthyosaurus",
+  "nombre_comun": "Ictiosaurio",
+  "nombre_cientifico": "Ichthyosaurus communis",
+  "tipo_animal": "reptil marino",
+  "grupo": "ictiosaurio",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Ichthyosauria",
+    "familia": "Ichthyosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 3.3,
+    "altura_m": 0.8,
+    "peso_kg": 150.0,
+    "descripcion_dimensiones": "Longitud promedio de entre 2 y 3.3 metros. Su cuerpo era hidrodinámico, similar al de un delfín moderno, con una aleta dorsal y una cola caudal bilobulada que le proporcionaba una gran propulsión."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Temprano",
+    "rango_edad_presentacion": "Hace entre 200 y 190 millones de años",
+    "edad_inicio_ma": 200.0,
+    "edad_fin_ma": 190.0
+  },
+  "descubrimiento": {
+    "anio": 1811,
+    "descubridor": "Mary Anning",
+    "lugar_original": {
+      "formacion": "Blue Lias",
+      "region": "Lyme Regis",
+      "pais": "Reino Unido"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Dorset", "Somerset"],
+      "coordenadas": [
+        { "lat": 50.72, "lon": -2.93 }
+      ]
+    },
+    {
+      "pais": "Alemania",
+      "regiones": ["Holzmaden"],
+      "coordenadas": [
+        { "lat": 48.63, "lon": 9.52 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Océanos abiertos y mares epicontinentales",
+    "zona_actual": "Europa (extinto)",
+    "zona_paleogeografica": "Océano Tetis",
+    "clima_estimado": "Templado a cálido, aguas marinas estables."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro (Piscívoro)",
+      "detalle": "Se alimentaba principalmente de peces y cefalópodos (como belemnites). Sus mandíbulas largas estaban repletas de dientes cónicos afilados ideales para atrapar presas resbaladizas en el agua."
+    },
+    "socialidad": "Posiblemente gregario; se cree que cazaban en grupos pequeños para acorralar bancos de peces, similar a los cetáceos actuales.",
+    "defensa": "Velocidad y agilidad; su principal defensa era su capacidad de nado rápido para escapar de depredadores mayores como los pliosaurios.",
+    "movimiento": "Nado ondulatorio; utilizaba su cola para la propulsión y sus aletas pectorales y pélvicas para maniobrar y estabilizarse.",
+    "reproduccion": "Ovovivíparo (vivíparo); no ponía huevos en tierra, sino que las crías nacían directamente en el agua (se han hallado fósiles de madres con embriones en su interior).",
+    "actividad": "Diurna / Crepuscular"
+  },
+  "curiosidades_adicionales": [
+    "Fue uno de los primeros reptiles fósiles en ser descubierto y correctamente identificado a principios del siglo XIX.",
+    "Aunque parece un pez o un delfín, es un reptil que evolucionó de ancestros terrestres que regresaron al mar.",
+    "Sus ojos eran desproporcionadamente grandes y estaban protegidos por un anillo esclerótico óseo, lo que le permitía ver en profundidades oscuras.",
+    "A diferencia de otros reptiles, el Ichthyosaurus era probablemente homeotermo (sangre caliente), lo que le permitía mantener un metabolismo alto para nadar activamente."
+  ],
+  "imagen_principal_url": "ichthyosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Ichthyosaurus (del griego 'pez lagarto') es el género tipo de los ictiosaurios, un orden de reptiles marinos que dominaron los océanos durante gran parte del Mesozoico.",
+    "Su morfología representa uno de los mejores ejemplos de evolución convergente, desarrollando una forma corporal casi idéntica a la de los tiburones y delfines para maximizar la eficiencia hidrodinámica. Poseía un hocico alargado y una dentición homodonta.",
+    "La evidencia fósil confirma que eran vivíparos, naciendo las crías de cola para evitar que se ahogaran antes de salir completamente. Su columna vertebral se curvaba hacia abajo para dar soporte al lóbulo inferior de su cola carnosa."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 9,
+    "rareza": 6,
+    "fuerza_estimada": 5,
+    "defensa": 4,
+    "inteligencia": 6,
+    "impacto_historico": 10,
+    "nivel_adaptacion": 9,
+    "impresionabilidad": 7
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "De la Beche & Conybeare (1821)"
+  }
+}

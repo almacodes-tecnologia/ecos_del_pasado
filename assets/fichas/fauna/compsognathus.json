@@ -1,0 +1,100 @@
+{
+  "id": "compsognathus",
+  "nombre_comun": "Compsognathus",
+  "nombre_cientifico": "Compsognathus longipes",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Compsognathidae"
+  },
+  "dimensiones": {
+    "longitud_m": 1.0,
+    "altura_m": 0.3,
+    "peso_kg": 3.0,
+    "descripcion_dimensiones": "Aproximadamente del tamaño de un pavo o un gato doméstico. Su cuerpo era ligero y estilizado, con una cola larga que ayudaba a mantener el equilibrio mientras corría a altas velocidades."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 150 y 145 millones de años",
+    "edad_inicio_ma": 150.0,
+    "edad_fin_ma": 145.0
+  },
+  "descubrimiento": {
+    "anio": 1859,
+    "descubridor": "Joseph Oberndorfer",
+    "lugar_original": {
+      "formacion": "Solnhofen",
+      "region": "Baviera",
+      "country": "Alemania"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Baviera"],
+      "coordenadas": [
+        { "lat": 48.89, "lon": 11.0 }
+      ]
+    },
+    {
+      "pais": "Francia",
+      "regiones": ["Cajarc", "Canjuers"],
+      "coordenadas": [
+        { "lat": 44.48, "lon": 1.84 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Archipiélagos tropicales, lagunas y zonas costeras",
+    "zona_actual": "Europa (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido, seco y tropical, con vegetación baja cerca de masas de agua."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro / Insectívoro",
+      "detalle": "Pequeños vertebrados, lagartos e insectos. Se han encontrado restos del lagarto *Bavarisaurus* dentro de la cavidad estomacal de un espécimen fósil, lo que demuestra su dieta carnívora."
+    },
+    "socialidad": "Posiblemente solitario o en pequeños grupos familiares para la caza de presas rápidas.",
+    "defensa": "Agilidad extrema y velocidad. Su pequeño tamaño le permitía esconderse fácilmente entre la maleza y las grietas de las rocas.",
+    "movimiento": "Bípedo, corredor muy rápido. Poseía extremidades posteriores largas y huesos huecos para reducir el peso.",
+    "reproduccion": "Ovíparo. Se cree que depositaba nidos pequeños y protegidos.",
+    "actividad": "Diurna / Crepuscular"
+  },
+  "curiosidades_adicionales": [
+    "Durante décadas fue considerado el dinosaurio más pequeño conocido, hasta el descubrimiento de ejemplares como *Microraptor*.",
+    "Su nombre significa 'mandíbula elegante' o 'mandíbula bonita'.",
+    "Se conserva un espécimen tan perfecto en Alemania que incluso se puede ver su última comida en el estómago.",
+    "En la cultura popular (como Jurassic Park), se les suele representar atacando en grandes grupos, aunque no hay evidencia fósil clara de este comportamiento social complejo."
+  ],
+  "imagen_principal_url": "compsognathus.webp",
+  "galeria_imagenes": [
+    "compsognathus_fosil.webp",
+    "compsognathus_caza.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Compsognathus es un género de pequeños dinosaurios terópodos celurosaurios que vivieron a finales del período Jurásico. Es uno de los pocos dinosaurios cuya dieta se conoce con total certeza gracias a contenidos estomacales preservados.",
+    "Anatómicamente, destaca por sus manos con tres dedos (aunque históricamente se creyó que tenía dos) y sus patas traseras adaptadas para la carrera. Su estrecha relación con las aves es evidente en su estructura ósea, aunque no se han hallado pruebas directas de plumas en sus fósiles, a diferencia de sus parientes cercanos.",
+    "El descubrimiento de especímenes en las calizas de Solnhofen permitió una preservación excepcional, ayudando a los paleontólogos a entender la biodiversidad de las islas europeas durante el Mesozoico."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 5,
+    "velocidad": 9,
+    "rareza": 6,
+    "fuerza_estimada": 2,
+    "defensa": 3,
+    "inteligencia": 6,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 4
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Wagner, A. (1859)"
+  }
+}

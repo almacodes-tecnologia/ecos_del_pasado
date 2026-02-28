@@ -1,0 +1,91 @@
+{
+  "id": "cearadactylus",
+  "nombre_comun": "Cearadactylus",
+  "nombre_cientifico": "Cearadactylus atrox",
+  "tipo_animal": "pterosaurio",
+  "grupo": "pterodactiloide",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Pterosauria",
+    "familia": "Ctenochasmatidae (disputada)"
+  },
+  "dimensiones": {
+    "longitud_m": 1.5,
+    "altura_m": 0.8,
+    "peso_kg": 15.0,
+    "descripcion_dimensiones": "Envergadura estimada entre 4 y 5.5 metros. El cuerpo era relativamente pequeño y ligero para permitir el vuelo, con una cabeza alargada que alcanzaba los 57 centímetros de longitud."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Temprano",
+    "rango_edad_presentacion": "Hace entre 112 y 108 millones de años",
+    "edad_inicio_ma": 112.0,
+    "edad_fin_ma": 108.0
+  },
+  "descubrimiento": {
+    "anio": 1985,
+    "descubridor": "Leonardi y Borgomanero",
+    "lugar_original": {
+      "formacion": "Santana (Miembro Romualdo)",
+      "region": "Meseta de Araripe",
+      "pais": "Brasil"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Brasil",
+      "regiones": ["Ceará"],
+      "coordenadas": [
+        {"lat": -7.23, "lon": -39.41}
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Lagunas costeras y mares interiores",
+    "zona_actual": "Noreste de Brasil (extinto)",
+    "zona_paleogeografica": "Gondwana (norte)",
+    "clima_estimado": "Tropical, cálido y árido con influencia marina."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Piscívoro",
+      "detalle": "Especialista en capturar peces en la superficie del agua. Sus mandíbulas presentan un ensanchamiento en la punta (roseta) con dientes entrelazados que funcionaban como una trampa mortal para presas resbaladizas."
+    },
+    "socialidad": "Posiblemente colonial en zonas de anidación costeras, similar a las aves marinas modernas.",
+    "defensa": "Agilidad aérea y capacidad de despegue rápido; el tamaño de su envergadura intimidaría a pequeños depredadores terrestres.",
+    "movimiento": "Vuelo activo y planeo eficiente. En tierra, era probablemente cuadrúpedo, utilizando sus extremidades anteriores (alas plegadas) para caminar.",
+    "reproduccion": "Ovíparo; los huevos de pterosaurio tenían cáscaras correosas y eran enterrados en arena o sedimentos.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Dedo de Ceará', en honor al estado brasileño donde fue hallado.",
+    "El epíteto 'atrox' se debe a su aterradora dentadura, que parece diseñada para no dejar escapar nada.",
+    "Durante años hubo confusión sobre si tenía cresta o no, debido a que el cráneo original estaba dañado y fue mal reconstruido inicialmente.",
+    "Se cree que cazaba volando a ras de agua y sumergiendo solo el pico, sin necesidad de aterrizar."
+  ],
+  "imagen_principal_url": "cearadactylus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Cearadactylus es un género de pterosaurio pterodactiloide de gran tamaño que habitó las costas de la antigua Gondwana durante el Albiense.",
+    "Se caracteriza por un cráneo largo y estrecho con una expansión espatulada en el extremo anterior de las mandíbulas. Esta 'roseta' dental albergaba dientes largos y afilados que se cruzaban entre sí, una adaptación perfecta para la captura de peces en ambientes lagunares.",
+    "Históricamente, su posición taxonómica ha sido inestable; aunque inicialmente se le agrupó con los Anhangueridae, estudios más recientes sugieren afinidades con los Ctenochasmatidae basándose en la estructura del hocico y la disposición dental."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 6,
+    "velocidad": 8,
+    "rareza": 6,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 5,
+    "impacto_historico": 6,
+    "nivel_adaptacion": 7,
+    "impresionabilidad": 7
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Leonardi, G. & Borgomanero, G. (1985)"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "coelophysis",
+  "nombre_comun": "Coelophysis",
+  "nombre_cientifico": "Coelophysis bauri",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Coelophysidae"
+  },
+  "dimensiones": {
+    "longitud_m": 3.0,
+    "altura_m": 0.9,
+    "peso_kg": 27.0,
+    "descripcion_dimensiones": "Dinosaurio de complexión muy ligera y estilizada. Su altura a la cadera era de aproximadamente 0.8 a 1 metro. Poseía huesos huecos que le permitían una gran agilidad a pesar de su longitud."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Triásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 216 y 196 millones de años",
+    "edad_inicio_ma": 216.0,
+    "edad_fin_ma": 196.0
+  },
+  "descubrimiento": {
+    "anio": 1881,
+    "descubridor": "David Baldwin",
+    "lugar_original": {
+      "formacion": "Chinle",
+      "region": "Nuevo México",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Nuevo México (Ghost Ranch)", "Arizona"],
+      "coordenadas": [
+        { "lat": 36.33, "lon": -106.47 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y zonas semiáridas",
+    "zona_actual": "Suroeste de Estados Unidos (extinto)",
+    "zona_paleogeografica": "Pangea",
+    "clima_estimado": "Cálido con estaciones marcadamente secas y húmedas."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detail": "Pequeños reptiles, mamiferoides tempranos e insectos. Sus dientes aserrados y curvados hacia atrás eran ideales para sujetar presas escurridizas. Antiguamente se creía que era caníbal, pero estudios recientes sugieren que los restos en sus estómagos eran de crocodilomorfos primitivos."
+    },
+    "socialidad": "Altamente gregario; el hallazgo de cientos de esqueletos juntos en Ghost Ranch sugiere que vivían y cazaban en grandes grupos.",
+    "defensa": "Velocidad y agilidad. Su estructura liviana le permitía superar en carrera a la mayoría de los depredadores contemporáneos.",
+    "movimiento": "Bípedo obligado, corredor veloz. Utilizaba su cola larga y delgada como contrapeso para realizar giros rápidos durante la caza.",
+    "reproduccion": "Ovíparo. Se cree que tenían un crecimiento rápido en las primeras etapas de vida.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'forma hueca' debido a sus huesos neumáticos, una característica que más tarde heredarían las aves.",
+    "Es el fósil estatal de Nuevo México.",
+    "En 1998, un cráneo de Coelophysis viajó al espacio a bordo del transbordador Endeavour hacia la estación espacial Mir.",
+    "Fue uno de los primeros dinosaurios en presentar una fúrcula (hueso de la suerte), clave en la evolución del vuelo."
+  ],
+  "imagen_principal_url": "coelophysis.webp",
+  "galeria_imagenes": [
+    "coelophysis_fosil.webp",
+    "coelophysis_reconstruccion.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Coelophysis es uno de los terópodos más primitivos y mejor conocidos por el registro fósil, fundamental para entender la radiación temprana de los dinosaurios.",
+    "Su anatomía destaca por un cráneo alargado con grandes fenestras que reducían el peso y ojos grandes con anillos escleróticos, lo que sugiere una excelente visión. Sus extremidades anteriores tenían tres dedos funcionales con garras afiladas para manipular presas.",
+    "El yacimiento de Ghost Ranch ha permitido identificar variaciones intraespecíficas (dimorfismo), diferenciando formas 'robustas' y 'gráciles' que podrían corresponder a diferencias de género o edad."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 7,
+    "velocidad": 9,
+    "rareza": 5,
+    "fuerza_estimada": 3,
+    "defensa": 3,
+    "inteligencia": 6,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 6
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Cope, E. D. (1889)"
+  }
+}

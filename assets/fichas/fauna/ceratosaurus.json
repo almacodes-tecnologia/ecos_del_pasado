@@ -1,0 +1,98 @@
+{
+  "id": "ceratosaurus",
+  "nombre_comun": "Ceratosaurus",
+  "nombre_cientifico": "Ceratosaurus nasicornis",
+  "tipo_animal": "dinosaurio",
+  "group": "terópodo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Ceratosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 6.5,
+    "altura_m": 2.5,
+    "peso_kg": 900.0,
+    "descripcion_dimensiones": "Aunque más pequeño que sus contemporáneos Allosaurus, era un depredador robusto. Su longitud media oscilaba entre los 5.5 y 7 metros. Destaca por tener un cuerpo proporcionalmente más profundo y una cola larga y flexible, similar a la de un cocodrilo."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 153 y 148 millones de años",
+    "edad_inicio_ma": 153.0,
+    "edad_fin_ma": 148.0
+  },
+  "descubrimiento": {
+    "anio": 1884,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Morrison",
+      "region": "Colorado",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Colorado", "Utah", "Wyoming"],
+      "coordenadas": [
+        { "lat": 38.4, "lon": -109.1 }
+      ]
+    },
+    {
+      "pais": "Portugal",
+      "regiones": ["Formación Lourinhã"],
+      "coordenadas": [
+        { "lat": 39.2, "lon": -9.3 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sistemas fluviales, llanuras aluviales y zonas boscosas",
+    "zona_actual": "Oeste de América del Norte y Europa (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Semiarido a húmedo estacional, con fuerte presencia de cursos de agua."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Se alimentaba de dinosaurios herbívoros pequeños y medianos como Dryosaurus. Debido a su morfología de cola y osteodermos, algunos paleontólogos sugieren que pudo haber cazado presas acuáticas como peces o cocodrilos en los márgenes de los ríos."
+    },
+    "socialidad": "Generalmente solitario. No hay evidencia clara de caza en manada, a diferencia de otros terópodos más grandes de su época.",
+    "defensa": "Mandíbulas poderosas con dientes excepcionalmente largos y un cuerno nasal que, aunque frágil para el combate, servía de señalización visual.",
+    "movimiento": "Bípedo ágil. Su estructura ósea sugiere que era un corredor eficiente en distancias cortas.",
+    "reproduccion": "Ovíparo. Se asume un comportamiento de anidación similar a otros terópodos basales.",
+    "actividad": "Catemeral (activo en periodos intermitentes día/noche)"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'lagarto con cuerno' debido a la prominencia ósea sobre su hocico.",
+    "Tenía cuatro dedos en sus manos, un rasgo primitivo en comparación con los tres dedos de los alosáuridos.",
+    "Es el único terópodo conocido con una hilera de pequeñas placas óseas (osteodermos) recorriendo su espalda.",
+    "Sus dientes superiores eran tan largos que sobresalían de la mandíbula inferior, dándole un aspecto de 'dientes de sable'."
+  ],
+  "imagen_principal_url": "ceratosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Ceratosaurus es un género de dinosaurio terópodo ceratosáurido que vivió a finales del periodo Jurásico. Se caracteriza por un cuerno prominente en el hueso nasal y un par de crestas sobre los ojos.",
+    "A diferencia del Allosaurus, con quien compartía hábitat, el Ceratosaurus poseía un cuerpo más flexible y una cola apta para la natación, lo que sugiere una especialización en nichos ecológicos cercanos al agua para evitar la competencia directa.",
+    "El hallazgo de restos en Portugal indica que este género tuvo una distribución transatlántica exitosa durante la fragmentación de Pangea."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 8,
+    "velocidad": 7,
+    "rareza": 6,
+    "fuerza_estimada": 7,
+    "defensa": 5,
+    "inteligencia": 4,
+    "impacto_historico": 7,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Marsh, O. C. (1884), Gilmore, C. W. (1920)"
+  }
+}

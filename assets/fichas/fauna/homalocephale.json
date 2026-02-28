@@ -1,0 +1,93 @@
+{
+  "id": "homalocephale",
+  "nombre_comun": "Homalocephale",
+  "nombre_cientifico": "Homalocephale calathocercos",
+  "tipo_animal": "dinosaurio",
+  "grupo": "paquicefalosaurio",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Pachycephalosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 1.8,
+    "altura_m": 0.6,
+    "peso_kg": 40.0,
+    "descripcion_dimensiones": "Dinosaurio de tamaño pequeño, similar al de una oveja o un perro grande. Su estructura era ligera pero con una pelvis inusualmente ancha. A diferencia de sus parientes con 'cúpula', su cráneo era notablemente plano y grueso."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Tardío (Campaniense)",
+    "rango_edad_presentacion": "Hace entre 80 y 70 millones de años",
+    "edad_inicio_ma": 80.0,
+    "edad_fin_ma": 70.0
+  },
+  "descubrimiento": {
+    "anio": 1974,
+    "descubridor": "Halszka Osmólska y Teresa Maryańska",
+    "lugar_original": {
+      "formacion": "Nemegt",
+      "region": "Desierto de Gobi",
+      "pais": "Mongolia"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Mongolia",
+      "regiones": ["Omnogovi"],
+      "coordenadas": [
+        { "lat": 43.5, "lon": 101.0 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y zonas boscosas abiertas",
+    "zona_actual": "Asia Central (Mongolia)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Semiárido con estaciones marcadas y presencia de ríos estacionales."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro / Posible Omnívoro",
+      "detalle": "Se alimentaba de hojas, semillas y frutas. Sus dientes pequeños y serrados sugieren una dieta vegetal blanda, aunque algunos paleontólogos no descartan que pudiera ingerir insectos ocasionalmente."
+    },
+    "socialidad": "Probablemente social; se cree que vivían en pequeños grupos donde la estructura jerárquica era importante.",
+    "defensa": "Agilidad y camuflaje. Aunque se debate el uso del cráneo para embestidas, su principal defensa era la huida rápida gracias a sus patas traseras largas.",
+    "movimiento": "Bípedo obligado. Su cola era rígida para mantener el equilibrio mientras corría a velocidades considerables.",
+    "reproduccion": "Ovíparo. La pelvis ancha sugiere que podía poner huevos de tamaño considerable o que tenía un sistema reproductivo especializado.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'cabeza aplanada', derivado del griego 'homalos' (nivelado) y 'kephale' (cabeza).",
+    "Existe un debate científico activo: algunos expertos sugieren que el Homalocephale podría ser en realidad una forma juvenil del Prenocephale.",
+    "A diferencia de otros paquicefalosaurios, conservaba aberturas en la parte superior del cráneo (fenestras supratemporales).",
+    "Su pelvis es una de las más anchas en relación a su tamaño entre los dinosaurios ornitópodos."
+  ],
+  "imagen_principal_url": "homalocephale.webp",
+  "galeria_imagenes": [
+    "homalocephale_cranio.webp",
+    "homalocephale_reconstruccion.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Homalocephale es un género de dinosaurio paquicefalosauriano que habitó en lo que hoy es Asia a finales del período Cretácico.",
+    "Se distingue de otros miembros de su familia por tener un techo craneal plano, grueso y con pequeñas protuberancias óseas, en lugar de la cúpula prominente vista en el Pachycephalosaurus. Esta característica ha llevado a teorías sobre combates rituales de flanco en lugar de choques frontales de cabeza.",
+    "El espécimen tipo destaca por la preservación de su pelvis y extremidades posteriores, lo que ha permitido entender mejor la locomoción y la anatomía reproductiva de este linaje de dinosaurios marginocéfalos."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 7,
+    "rareza": 6,
+    "fuerza_estimada": 3,
+    "defensa": 5,
+    "inteligencia": 4,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 6
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Maryańska & Osmólska (1974)"
+  }
+}

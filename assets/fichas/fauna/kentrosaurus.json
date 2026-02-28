@@ -1,0 +1,91 @@
+{
+  "id": "kentrosaurus",
+  "nombre_comun": "Kentrosaurus",
+  "nombre_cientifico": "Kentrosaurus aethiopicus",
+  "tipo_animal": "dinosaurio",
+  "group": "tireóforo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Stegosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 4.5,
+    "altura_m": 1.5,
+    "peso_kg": 1100.0,
+    "descripcion_dimensiones": "Mucho más pequeño que el Stegosaurus. La altura de 1.5 metros se refiere a la cadera. Aunque era robusto, su tamaño compacto le permitía una mayor maniobrabilidad para pivotar sobre sus patas traseras y defenderse."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 155 y 150 millones de años",
+    "edad_inicio_ma": 155.0,
+    "edad_fin_ma": 150.0
+  },
+  "descubrimiento": {
+    "anio": 1909,
+    "descubridor": "Werner Janensch",
+    "lugar_original": {
+      "formacion": "Tendaguru",
+      "region": "Lindi",
+      "pais": "Tanzania"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Tanzania",
+      "regiones": ["Colina de Tendaguru"],
+      "coordenadas": [
+        { "lat": -9.23, "lon": 39.34 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras costeras y entornos boscosos fluviales",
+    "zona_actual": "África Oriental (extinto)",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Tropical a subtropical, con vegetación exuberante cerca de deltas."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Consumidor de vegetación baja. Su cabeza pequeña y situada a poca altura sugiere que se alimentaba de helechos, musgos y plantas de crecimiento terrestre. Al carecer de una batería dental compleja, probablemente dependía de la fermentación intestinal."
+    },
+    "socialidad": "Se han encontrado numerosos individuos en los mismos estratos, lo que sugiere que vivían en grupos o manadas pequeñas para aumentar la seguridad.",
+    "defensa": "Pasivo-agresiva. Poseía placas en la parte anterior del cuerpo y espinas largas (púas) desde la mitad de la espalda hasta la punta de la cola, además de un par de espinas en los hombros. Golpeaba lateralmente con su cola espinosa (thagomizer) para herir los flancos de depredadores como Allosaurus tendagurensis.",
+    "movimiento": "Cuadrúpedo lento. Su centro de gravedad estaba desplazado hacia las caderas, lo que le permitía girar rápidamente sobre sus patas traseras para mantener sus púas orientadas hacia el atacante.",
+    "reproduccion": "Ovíparo. Se asume un comportamiento de anidación similar a otros tireóforos, aunque no se han hallado nidos específicos.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'lagarto de puntas', derivado del griego 'kentron' (púa/aguijón).",
+    "A diferencia del Stegosaurus, el Kentrosaurus tenía espinas laterales en los hombros (espinas parascapulares) para proteger sus costados.",
+    "Fue descubierto durante la famosa expedición alemana a Tendaguru, una de las misiones paleontológicas más exitosas de la historia.",
+    "Se estima que su cola era extremadamente flexible, pudiendo cubrir un arco de barrido muy amplio para impactar a sus enemigos."
+  ],
+  "imagen_principal_url": "kentrosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Kentrosaurus fue un dinosaurio estegosáurido de tamaño mediano que habitó el Jurásico Superior en lo que hoy es África. Se distingue por una transición gradual de placas óseas en el cuello y hombros a largas espinas defensivas en la espalda y cola.",
+    "Paleobiológicamente, destaca por su armadura dérmica. Las placas de la parte superior probablemente servían para termorregulación o exhibición, mientras que las espinas caudales eran armas defensivas activas. Su anatomía sugiere una postura baja y una dieta especializada en flora del sotobosque.",
+    "El análisis de sus vértebras caudales indica una musculatura poderosa en la base de la cola, lo que confirma que el 'thagomizer' no era solo ornamental, sino una herramienta de impacto letal."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 5,
+    "velocidad": 3,
+    "rareza": 6,
+    "fuerza_estimada": 6,
+    "defensa": 10,
+    "inteligencia": 2,
+    "impacto_historico": 7,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Hennig, E. (1915)"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "huayangosaurus",
+  "nombre_comun": "Huayangosaurus",
+  "nombre_cientifico": "Huayangosaurus taibaii",
+  "tipo_animal": "dinosaurio",
+  "grupo": "tireóforo (estegosaurio)",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Huayangosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 4.5,
+    "altura_m": 1.7,
+    "peso_kg": 1500.0,
+    "descripcion_dimensiones": "Dinosaurio de tamaño mediano para su grupo. Su altura se mide hasta la parte superior de las placas de la espalda. Era significativamente más pequeño y bajo que los estegosaurios posteriores del Jurásico Tardío."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Medio",
+    "rango_edad_presentacion": "Hace entre 165 y 162 millones de años",
+    "edad_inicio_ma": 165.0,
+    "edad_fin_ma": 162.0
+  },
+  "descubrimiento": {
+    "anio": 1979,
+    "descubridor": "Dong Zhiming",
+    "lugar_original": {
+      "formacion": "Lower Shaximiao",
+      "region": "Sichuan",
+      "pais": "China"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "China",
+      "regiones": ["Sichuan (Dashanpu)"],
+      "coordenadas": [
+        {"lat": 29.35, "lon": 104.77}
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques frondosos y llanuras aluviales",
+    "zona_actual": "Asia Oriental (China)",
+    "zona_paleogeografica": "Lauralasia",
+    "clima_estimado": "Cálido y subtropical, con abundante vegetación baja y cursos de agua permanentes."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detail": "Se alimentaba de vegetación baja como helechos y cícadas. A diferencia de estegosaurios posteriores, poseía dientes premaxilares (en la punta del hocico), lo que sugiere una capacidad de corte más generalista."
+    },
+    "socialidad": "Posiblemente solitario o en pequeños grupos familiares; los fósiles encontrados en Dashanpu sugieren una coexistencia cercana con otros herbívoros.",
+    "defensa": "Doble fila de placas óseas (osteodermos) que recorrían su lomo y un 'thagomizer' (cuatro púas largas en el extremo de la cola) para golpear depredadores laterales.",
+    "movimiento": "Cuadrúpedo lento. Sus patas delanteras y traseras eran de longitud similar, a diferencia del Stegosaurus, lo que indica una postura más equilibrada.",
+    "reproduccion": "Ovíparo. Se estima que, como otros tireóforos, excavaba nidos simples en el suelo.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Es uno de los estegosaurios más primitivos conocidos, lo que ayuda a entender cómo evolucionaron las placas y púas en este grupo.",
+    "Su nombre 'Huayang' es el antiguo nombre de la provincia de Sichuan en China.",
+    "Tenía un cráneo más ancho y corto que sus parientes posteriores, y sus ojos estaban situados más hacia los lados.",
+    "A diferencia del Stegosaurus, el Huayangosaurus tenía espinas adicionales sobre los hombros (espinas parascapulares) para protección lateral."
+  ],
+  "imagen_principal_url": "huayangosaurus.webp",
+  "galeria_imagenes": [
+    "huayangosaurus_esqueleto.webp",
+    "huayangosaurus_reconstruccion.webp"
+  ],
+  "descripcion_cientifica": [
+    "Huayangosaurus es el género tipo de la familia Huayangosauridae, representando una de las ramas más tempranas y basales de los estegosaurios.",
+    "Anatómicamente destaca por conservar dientes en el premaxilar y por tener extremidades anteriores casi tan largas como las posteriores, lo que sugiere una locomoción menos especializada que la de los miembros de la familia Stegosauridae.",
+    "Las placas que recorren su espalda son más pequeñas y puntiagudas que las del Stegosaurus, funcionando probablemente más como una armadura defensiva activa que como reguladores térmicos o señales visuales."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 3,
+    "rareza": 6,
+    "fuerza_estimada": 6,
+    "defensa": 7,
+    "inteligencia": 3,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 7
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Dong, Z., Tang, Z., & Zhou, S. (1982)"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "carnotaurus",
+  "nombre_comun": "Carnotaurus",
+  "nombre_cientifico": "Carnotaurus sastrei",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Saurischia",
+    "familia": "Abelisauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 7.8,
+    "altura_m": 3.0,
+    "peso_kg": 13500.0,
+    "descripcion_dimensiones": "Longitud estimada entre 7.5 y 9 metros. Altura hasta la cadera de unos 2.5 a 3 metros. Aunque era más ligero que otros grandes terópodos, su constitución era robusta y atlética, diseñada para la velocidad punta."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Superior",
+    "rango_edad_presentacion": "Hace entre 72 y 69 millones de años",
+    "edad_inicio_ma": 72.0,
+    "edad_fin_ma": 69.0
+  },
+  "descubrimiento": {
+    "anio": 1984,
+    "descubridor": "José Fernando Bonaparte",
+    "lugar_original": {
+      "formacion": "La Colonia",
+      "region": "Chubut",
+      "pais": "Argentina"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Argentina",
+      "regiones": ["Provincia de Chubut", "Patagonia"],
+      "coordenadas": [
+        {"lat": -43.58, "lon": -68.85}
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y estuarios",
+    "zona_actual": "Sur de Sudamérica (extinto)",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Semiárido a húmedo con estacionalidad marcada."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Especialista en presas pequeñas y medianas. Su mandíbula estaba diseñada para mordiscos rápidos y repetidos (tipo 'golpe de hacha') más que para una presión sostenida de trituración ósea. Podía abrir la boca de forma extremadamente amplia."
+    },
+    "socialidad": "Incierta; posiblemente un cazador solitario o en parejas temporales. No hay evidencia de gregarismo como en los dromeosáuridos.",
+    "defensa": "Sus cuernos frontales, únicos entre los terópodos, podrían haber servido para combates rituales entre machos o para proteger sus ojos durante la caza.",
+    "movimiento": "Bípede. Es considerado uno de los grandes terópodos más rápidos (hasta 50 km/h) gracias a sus poderosos músculos caudofemorales unidos a las vértebras de la cola.",
+    "reproduccion": "Ovíparo. Se especula que, como otros abelisáuridos, tenían comportamientos de exhibición visual para el cortejo.",
+    "actividad": "Crepúscular/Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'toro carnívoro', debido a los prominentes cuernos sobre sus ojos.",
+    "Sus brazos son los más cortos de cualquier dinosaurio carnívoro grande; eran vestigiales y carecían de garras funcionales.",
+    "Se conservaron impresiones de su piel casi completas, revelando que no tenía plumas, sino escamas pequeñas y filas de protuberancias óseas (osteodermos).",
+    "A diferencia de otros dinosaurios, sus ojos apuntaban ligeramente hacia adelante, lo que le otorgaba una visión binocular parcial."
+  ],
+  "imagen_principal_url": "carnotaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Carnotaurus fue un terópodo de tamaño medio-grande que habitó Sudamérica a finales del Cretácico. Es el representante más famoso de la familia Abelisauridae.",
+    "Anatómicamente destaca por su cráneo muy corto y alto, coronado por dos cuernos óseos. Su columna vertebral muestra adaptaciones para una rigidez que favorecía la carrera, pero limitaba su capacidad de giro a alta velocidad.",
+    "El descubrimiento del espécimen holotipo fue revolucionario por incluir impresiones de piel tegumentaria, permitiendo descartar la presencia de plumaje en esta especie y confirmando una piel rugosa y coriácea."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 9,
+    "velocidad": 10,
+    "rareza": 6,
+    "fuerza_estimada": 7,
+    "defensa": 5,
+    "inteligencia": 6,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 9
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Bonaparte (1985)"
+  }
+}

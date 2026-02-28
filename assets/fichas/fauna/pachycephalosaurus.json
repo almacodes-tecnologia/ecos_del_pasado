@@ -1,0 +1,91 @@
+{
+  "id": "pachycephalosaurus",
+  "nombre_comun": "Paquicefalosaurio",
+  "nombre_cientifico": "Pachycephalosaurus wyomingensis",
+  "tipo_animal": "dinosaurio",
+  "group": "marginocéfalo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Pachycephalosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 4.5,
+    "altura_m": 1.5,
+    "peso_kg": 450.0,
+    "descripcion_dimensiones": "Aunque en la cultura popular se le ha retratado como un animal gigante, las estimaciones actuales basadas en restos fragmentarios sugieren un tamaño similar al de un coche compacto. La altura está medida hasta la cadera. Su cráneo podía tener un grosor óseo de hasta 25 centímetros."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Tardío (Maastrichtiense)",
+    "rango_edad_presentacion": "Hace entre 70 y 66 millones de años",
+    "edad_inicio_ma": 70.0,
+    "edad_fin_ma": 66.0
+  },
+  "descubrimiento": {
+    "anio": 1931,
+    "descubridor": "Charles W. Gilmore",
+    "lugar_original": {
+      "formacion": "Hell Creek",
+      "region": "Montana",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Montana", "Dakota del Sur", "Wyoming"],
+      "coordenadas": [
+        { "lat": 47.61, "lon": -106.52 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras costeras y bosques abiertos",
+    "zona_actual": "Norteamérica (extinto)",
+    "zona_paleogeografica": "Laramidia",
+    "clima_estimado": "Templado a cálido, con influencia marina."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Omnívoro / Herbívoro",
+      "detalle": "Aunque tradicionalmente herbívoro, la forma de sus dientes frontales sugiere que podría haber comido insectos o pequeños mamíferos ocasionalmente. Consumía mayormente hojas, semillas y frutas."
+    },
+    "socialidad": "Probablemente vivía en grupos pequeños segregados por edad. Existe la teoría de que los ejemplares jóvenes (Stygimoloch) y crías (Dracorex) cambiaban drásticamente de apariencia al madurar.",
+    "defensa": "Uso del cráneo reforzado. A diferencia de los carneros, el golpe directo 'cabeza contra cabeza' es debatido; es más probable que se golpearan en los flancos o costados para evitar fracturas cervicales.",
+    "movimiento": "Bípedo obligado. Poseía una cola rígida por tendones osificados que le servía de balancín mientras corría.",
+    "reproduccion": "Ovíparo. Se cree que el domo craneal también servía como exhibición sexual (dimorfismo) para atraer parejas.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Lagarto de cabeza gruesa'.",
+    "Existe un debate paleontológico que sugiere que *Dracorex* y *Stygimoloch* no son especies distintas, sino versiones juveniles del Pachycephalosaurus.",
+    "Su cráneo no era una 'bola de billar' sólida; el tejido óseo era esponjoso por dentro para permitir la irrigación sanguínea, lo que debilita la teoría del choque frontal violento.",
+    "Fue uno de los últimos dinosaurios no avianos en existir antes del evento de extinción masiva."
+  ],
+  "imagen_principal_url": "pachycephalosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "Pachycephalosaurus es el género tipo de una familia de dinosaurios ornitisquios caracterizados por un cráneo extremadamente engrosado en forma de domo.",
+    "La biomecánica de su cuello y cráneo indica que, si bien podían resistir impactos, un choque frontal repetitivo a alta velocidad habría sido letal. El domo funcionaba probablemente como una estructura de reconocimiento de especie y combate ritualizado de baja intensidad.",
+    "Sus restos son escasos, consistiendo mayormente en domos craneales aislados, debido a que el grosor del hueso permitía una mejor preservación que el resto del esqueleto más ligero."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 7,
+    "velocidad": 6,
+    "rareza": 8,
+    "fuerza_estimada": 5,
+    "defensa": 9,
+    "inteligencia": 4,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Gilmore, C. W. (1931)"
+  }
+}

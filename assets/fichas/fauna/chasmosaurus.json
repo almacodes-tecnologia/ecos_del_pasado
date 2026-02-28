@@ -1,0 +1,91 @@
+{
+  "id": "chasmosaurus",
+  "nombre_comun": "Chasmosaurus",
+  "nombre_cientifico": "Chasmosaurus belli",
+  "tipo_animal": "dinosaurio",
+  "grupo": "ceratópsido",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Ceratopsidae"
+  },
+  "dimensiones": {
+    "longitud_m": 4.8,
+    "altura_m": 2.1,
+    "peso_kg": 2000.0,
+    "descripcion_dimensiones": "Longitud media para un ceratópsido. Su característica más notable es el volante óseo del cuello, que es más largo que el resto del cráneo. Presentaba una constitución más ligera y patas algo más largas en proporción que otros parientes más masivos como el Triceratops."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Tardío (Campaniense)",
+    "rango_edad_presentacion": "Hace entre 76 y 75 millones de años",
+    "edad_inicio_ma": 76.0,
+    "edad_fin_ma": 75.0
+  },
+  "descubrimiento": {
+    "anio": 1898,
+    "descubridor": "Lawrence Lambe",
+    "lugar_original": {
+      "formacion": "Dinosaur Park",
+      "region": "Alberta",
+      "pais": "Canadá"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Canadá",
+      "regiones": ["Alberta"],
+      "coordenadas": [
+        { "lat": 50.74, "lon": -111.48 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras costeras y deltas fluviales",
+    "zona_actual": "América del Norte (extinto)",
+    "zona_paleogeografica": "Laramidia",
+    "clima_estimado": "Templado-cálido con marcada estacionalidad y proximidad al Mar Interior Occidental."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Plantas de bajo crecimiento, helechos y posiblemente angiospermas. Su pico ganchudo era ideal para cortar vegetación fibrosa, la cual era procesada por hileras de dientes (baterías dentales) especializadas en triturar."
+    },
+    "socialidad": "Altamente gregario; se han encontrado lechos de huesos que sugieren que se desplazaban en manadas numerosas para protegerse de los tiranosáuridos.",
+    "defensa": "Principalmente visual. Aunque poseía cuernos cortos sobre los ojos y el hocico, su enorme volante probablemente servía más para intimidación o exhibición que para defensa física, debido a sus grandes aberturas óseas.",
+    "movimiento": "Cuadrúpedo obligado. Capaz de realizar cargas cortas, aunque no era un corredor de larga distancia. Su postura era más ágil que la de los ceratópsidos posteriores.",
+    "reproduccion": "Ovíparo. Se cree que cuidaban de sus crías en nidos protegidos dentro del grupo social.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'lagarto abierto', debido a las grandes aberturas (fenestras) en su volante óseo.",
+    "A pesar de su gran gola, esta era muy ligera porque estaba cubierta de piel y probablemente colores brillantes para el apareamiento.",
+    "Se han encontrado impresiones de piel de Chasmosaurus que muestran escamas grandes rodeadas de otras más pequeñas, similares a rosetas.",
+    "Es el representante tipo de la subfamilia Chasmosaurinae, que incluye a los ceratópsidos de golas largas."
+  ],
+  "imagen_principal_url": "chasmosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Chasmosaurus fue un dinosaurio ornitisquio ceratópsido que vivió a finales del período Cretácico en lo que hoy es Norteamérica.",
+    "Se distingue de otros ceratópsidos por la forma rectangular y el tamaño desproporcionado de su gola, la cual presentaba grandes ventanas óseas que reducían su peso. Estudios biomecánicos sugieren que esta estructura era demasiado frágil para el combate directo, reforzando la hipótesis de su función en la termorregulación o la selección sexual.",
+    "Presentaba un cuerno nasal pequeño y dos cuernos supraorbitales que variaban en tamaño según la especie, siendo *C. belli* el que poseía los cuernos más cortos."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 6,
+    "rareza": 5,
+    "fuerza_estimada": 6,
+    "defensa": 7,
+    "inteligencia": 4,
+    "impacto_historico": 7,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Lambe, L. M. (1914)"
+  }
+}

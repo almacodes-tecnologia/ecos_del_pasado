@@ -1,0 +1,93 @@
+{
+  "id": "chungkingosaurus",
+  "nombre_comun": "Chungkingosaurus",
+  "nombre_cientifico": "Chungkingosaurus jiangbeiensis",
+  "tipo_animal": "dinosaurio",
+  "groupo": "tireóforo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Ornithischia",
+    "familia": "Huayangosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 4.0,
+    "altura_m": 1.5,
+    "peso_kg": 900.0,
+    "descripcion_dimensiones": "Era uno de los estegosáuridos más pequeños. Su longitud oscilaba entre los 3 y 4 metros. La altura indicada es hasta la parte más alta del lomo (sin contar las placas). Tenía una complexión robusta y extremidades anteriores notablemente más cortas que las posteriores."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 160 y 155 millones de años",
+    "edad_inicio_ma": 160.0,
+    "edad_fin_ma": 155.0
+  },
+  "descubrimiento": {
+    "anio": 1977,
+    "descubridor": "Dong Zhiming",
+    "lugar_original": {
+      "formacion": "Upper Shaximiao",
+      "region": "Chongqing",
+      "pais": "China"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "China",
+      "regiones": ["Chongqing", "Sichuan"],
+      "coordenadas": [
+        { "lat": 29.56, "lon": 106.59 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques densos y llanuras aluviales",
+    "zona_actual": "Asia (China)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y estacional, con abundante vegetación de ribera."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Se alimentaba de vegetación baja como helechos, cícadas y musgos. Al tener la cabeza cerca del suelo, era un ramoneador especializado en plantas de poca altura."
+    },
+    "socialidad": "Probablemente solitario o en grupos muy pequeños. No hay evidencia clara de grandes manadas como en los saurópodos.",
+    "defensa": "Poseía un 'thagomizer' en la cola con dos o tres pares de púas óseas afiladas y placas dorsales que, aunque pequeñas, podían intimidar o proteger su columna.",
+    "movimiento": "Cuadrúpedo lento. Su anatomía sugiere que no era un corredor, confiando en su armadura y cola para sobrevivir.",
+    "reproduccion": "Ovíparo. Se cree que enterraba sus huevos en nidos protegidos por la vegetación.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Lagarto de Chongqing', la ciudad china donde se hallaron sus restos.",
+    "A diferencia del Stegosaurus, el Chungkingosaurus tenía púas bastante largas y afiladas en lugar de solo placas anchas.",
+    "Es uno de los estegosáuridos más antiguos que se conocen, lo que ayuda a entender la evolución de las placas dorsales.",
+    "Se han encontrado varios esqueletos juntos, lo que sugiere que podrían haber convivido en el mismo ecosistema con el gigante Tuojiangosaurus."
+  ],
+  "imagen_principal_url": "chungkingosaurus.webp",
+  "galeria_imagenes": [
+    "chungkingosaurus_fosil.webp",
+    "chungkingosaurus_esqueleto_museo.webp"
+  ],
+  "descripcion_cientifica": [
+    "El Chungkingosaurus fue un dinosaurio tireóforo basal que habitó en lo que hoy es China durante el Jurásico Superior. Fue un miembro pequeño pero distintivo de la familia de los estegosaurios.",
+    "Se caracteriza por tener un cráneo estrecho y alto, y una armadura dérmica compuesta por placas óseas y espinas que recorrían su lomo en dos filas paralelas. Su cola terminaba en un conjunto de púas defensivas muy desarrolladas.",
+    "El estudio de sus extremidades muestra una clara adaptación a la vida terrestre lenta, con un centro de gravedad bajo que le otorgaba estabilidad mientras se defendía de depredadores como el Yangchuanosaurus."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 3,
+    "rareza": 6,
+    "fuerza_estimada": 5,
+    "defensa": 7,
+    "inteligencia": 2,
+    "impacto_historico": 5,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 6
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Dong, Z. et al. (1983)"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pteranodon",
+  "nombre_comun": "Pteranodon",
+  "nombre_cientifico": "Pteranodon longiceps",
+  "tipo_animal": "pterosaurio",
+  "grupo": "pterodactiloide",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Pterosauria",
+    "familia": "Pteranodontidae"
+  },
+  "dimensiones": {
+    "longitud_m": 1.8,
+    "altura_m": 1.5,
+    "peso_kg": 35.0,
+    "descripcion_dimensiones": "Envergadura de alas de hasta 7 metros en machos (las hembras eran más pequeñas, unos 4 metros). Aunque imponente en tamaño, era extremadamente ligero para poder volar; su cuerpo era apenas del tamaño de un pavo grande."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Superior",
+    "rango_edad_presentacion": "Hace entre 88 y 80 millones de años",
+    "edad_inicio_ma": 88.0,
+    "edad_fin_ma": 80.0
+  },
+  "descubrimiento": {
+    "anio": 1870,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Niobrara Chalk",
+      "region": "Kansas",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Kansas", "Alabama", "Nebraska", "Wyoming"],
+      "coordenadas": [
+        { "lat": 38.0, "lon": -100.0 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Mar interior y zonas costeras",
+    "zona_actual": "Centro de América del Norte (antiguo Mar de Niobrara)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido, subtropical con fuertes corrientes de aire marino."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Piscívoro",
+      "detalle": "Se alimentaba principalmente de peces y crustáceos. No tenía dientes; atrapaba a sus presas en vuelo o mediante inmersiones superficiales, tragándolas enteras de forma similar a un pelícano moderno."
+    },
+    "socialidad": "Altamente gregario; se cree que anidaban en grandes colonias costeras y volaban en grupos buscando bancos de peces.",
+    "defensa": "Huida aérea. Su gran capacidad de maniobra y velocidad en el aire eran sus mejores bazas, ya que en tierra era vulnerable y torpe.",
+    "movimiento": "Vuelo planeado de larga distancia aprovechando térmicas. En tierra, se desplazaba de forma cuadrúpeda usando sus extremidades anteriores (alas plegadas) como apoyo.",
+    "reproduccion": "Ovíparo. Presentaban un dimorfismo sexual muy marcado: los machos tenían crestas mucho más grandes y llamativas para el cortejo.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "A diferencia de lo que muestran las películas, el Pteranodon NO tenía dientes; su nombre significa 'ala sin dientes'.",
+    "Su famosa cresta craneal servía como timón para el vuelo y como un indicador visual de madurez sexual.",
+    "No eran dinosaurios, sino reptiles voladores que evolucionaron de forma paralela.",
+    "Se han encontrado restos de Pteranodon a cientos de kilómetros de las costas antiguas, lo que sugiere que podían pasar días volando sobre el océano abierto."
+  ],
+  "imagen_principal_url": "pteranodon.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Pteranodon es uno de los géneros de pterosaurios más conocidos, caracterizado por su gran envergadura y su carencia de dientes, una evolución avanzada dentro de su linaje.",
+    "Sus alas estaban formadas por una membrana de piel (patagio) que se extendía desde un cuarto dedo extremadamente alargado hasta las patas traseras. Su estructura ósea era neumática, es decir, hueca y llena de aire, lo que minimizaba el peso sin perder resistencia estructural.",
+    "El estudio de sus huesos sugiere que eran expertos planeadores, similares a los albatros modernos, capaces de recorrer enormes distancias sobre el Mar Interior Occidental que dividía Norteamérica en dos."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 4,
+    "velocidad": 9,
+    "rareza": 6,
+    "fuerza_estimada": 4,
+    "defensa": 3,
+    "inteligencia": 6,
+    "impacto_historico": 9,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 8
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Marsh, O. C. (1876)"
+  }
+}

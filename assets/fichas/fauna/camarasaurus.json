@@ -1,0 +1,91 @@
+{
+  "id": "camarasaurus",
+  "nombre_comun": "Camarasaurus",
+  "nombre_cientifico": "Camarasaurus supremus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "saurópodo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Camarasauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 18.0,
+    "altura_m": 6.5,
+    "peso_kg": 20000.0,
+    "descripcion_dimensiones": "Aunque más corto que el Diplodocus, era mucho más pesado y robusto. Su altura a la cruz era considerable, y su cabeza era proporcionalmente más grande y fuerte que la de otros saurópodos de su época."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 155 y 145 millones de años",
+    "edad_inicio_ma": 155.0,
+    "edad_fin_ma": 145.0
+  },
+  "descubrimiento": {
+    "anio": 1877,
+    "descubridor": "Edward Drinker Cope",
+    "lugar_original": {
+      "formacion": "Morrison",
+      "region": "Colorado",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Colorado", "Utah", "Wyoming", "Nuevo México"],
+      "coordenadas": [
+        { "lat": 40.44, "lon": -109.30 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales, sabanas boscosas y zonas de vegetación densa",
+    "zona_actual": "Oeste de América del Norte (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Semiárido con marcadas estaciones secas y húmedas."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Herbívoro",
+      "detalle": "Capaz de comer vegetación más dura que el Diplodocus. Sus dientes en forma de cuchara (espatulados) y sus fuertes mandíbulas le permitían procesar ramas y material fibroso que otros saurópodos ignoraban."
+    },
+    "socialidad": "Altamente gregario; se han encontrado grupos de diferentes edades juntos, lo que sugiere un cuidado parental o estructura de manada familiar.",
+    "defensa": "Su principal defensa era su masa corporal y el comportamiento de grupo. Poseía garras en las patas delanteras que podrían haber sido usadas de forma defensiva.",
+    "movimiento": "Cuadrúpedo lento y pesado. Su estructura ósea era más compacta, lo que le confería una estabilidad mayor que a los diplodócidos.",
+    "reproduccion": "Ovíparo. Se han hallado alineaciones de huevos que sugieren que no los enterraban profundamente, sino que los depositaban en hileras.",
+    "actividad": "Diurna"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'lagarto de cámaras', debido a las cámaras huecas (pleurocelos) en sus vértebras que servían para reducir el peso de su esqueleto.",
+    "A diferencia de otros saurópodos, sus orificios nasales eran enormes y estaban situados frente a los ojos, lo que ha llevado a teorías (hoy descartadas) sobre una posible trompa.",
+    "Es el dinosaurio saurópodo del que se conservan los esqueletos más completos, incluyendo cráneos perfectos.",
+    "Sus dientes eran tan resistentes que se han encontrado con un desgaste que indica que masticaba comida mucho más dura que sus parientes de cuello largo."
+  ],
+  "imagen_principal_url": "camarasaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "El Camarasaurus es el representante más común y mejor conocido de los saurópodos de la Formación Morrison. Su anatomía robusta lo diferencia claramente de los diplodócidos contemporáneos.",
+    "Se caracteriza por un cráneo corto y alto, con ventanas craneales grandes y dientes espatulados que ocupaban toda la línea de la mandíbula. Sus vértebras presentaban una neumatización avanzada para aligerar el peso sin perder resistencia estructural.",
+    "El hallazgo de individuos juveniles junto a adultos ha convertido al Camarasaurus en un espécimen clave para entender la ontogenia y el comportamiento social en dinosaurios gigantes."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 3,
+    "velocidad": 3,
+    "rareza": 4,
+    "fuerza_estimada": 8,
+    "defensa": 7,
+    "inteligencia": 4,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 9,
+    "impresionabilidad": 7
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Media-Alta",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Cope, E. D. (1877)"
+  }
+}

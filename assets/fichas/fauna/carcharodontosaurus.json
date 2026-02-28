@@ -1,0 +1,98 @@
+{
+  "id": "carcharodontosaurus",
+  "nombre_comun": "Carcharodontosaurio",
+  "nombre_cientifico": "Carcharodontosaurus saharicus",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Saurischia",
+    "familia": "Carcharodontosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 12.5,
+    "altura_m": 3.8,
+    "peso_kg": 7500.0,
+    "descripcion_dimensiones": "Uno de los terópodos más grandes conocidos. Su cráneo podía medir hasta 1.6 metros de largo. Aunque era más largo que un T. rex promedio, era más ligero y estilizado, diseñado para la velocidad y cortes rápidos en lugar de una mordida trituradora de huesos."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Superior / Tardío",
+    "rango_edad_presentacion": "Hace entre 100 y 93 millones de años",
+    "edad_inicio_ma": 100.0,
+    "edad_fin_ma": 93.0
+  },
+  "descubrimiento": {
+    "anio": 1927,
+    "descubridor": "Charles Depéret y J. Savornin",
+    "lugar_original": {
+      "formacion": "Continental Intercalaire",
+      "region": "Argelia",
+      "pais": "Argelia"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Marruecos",
+      "regiones": ["Formación Kem Kem"],
+      "coordenadas": [
+        {"lat": 31.25, "lon": -4.01}
+      ]
+    },
+    {
+      "pais": "Egipto",
+      "regiones": ["Formación Bahariya"],
+      "coordenadas": [
+        {"lat": 28.35, "lon": 28.85}
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sistemas fluviales extensos, deltas y llanuras inundables",
+    "zona_actual": "Norte de África (Egipto, Marruecos, Argelia, Níger)",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Cálido y tropical, con abundantes cursos de agua y vegetación densa."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Especialista en cazar grandes saurópodos. Sus dientes serrados, similares a los de un gran tiburón blanco, estaban diseñados para causar hemorragias masivas. A diferencia del T. rex, no buscaba triturar, sino desangrar a su presa mediante cortes profundos."
+    },
+    "socialidad": "Probablemente solitario o en parejas territoriales. La competencia por el alimento en el ecosistema de Kem Kem (donde coexistía con Spinosaurus) sugiere una agresividad intraespecífica alta.",
+    "defensa": "Su enorme tamaño y cráneo masivo eran sus mejores armas. Poseía una visión binocular limitada, lo que sugiere que confiaba más en su olfato para rastrear presas a grandes distancias.",
+    "movimiento": "Bípedo obligado. A pesar de su tamaño, sus patas eran potentes y le permitían alcanzar velocidades de carrera estimadas en 30-35 km/h, superando a muchos de los herbívoros de su entorno.",
+    "reproduccion": "Ovíparo. Se cree que, como otros carcarodontosáuridos, tenían un crecimiento rápido durante la etapa juvenil.",
+    "actividad": "Principalmente diurna o crepuscular."
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'Lagarto con dientes de tiburón', debido a la forma y el aserramiento de sus piezas dentales.",
+    "Los fósiles originales (holotipo) fueron destruidos en un bombardeo aliado sobre Múnich durante la Segunda Guerra Mundial en 1944.",
+    "Convivió en el mismo tiempo y lugar con el *Spinosaurus*, lo que lo convierte en uno de los ecosistemas con depredadores más letales de la historia de la Tierra.",
+    "Su cerebro, aunque grande, era proporcionalmente más pequeño que el del Tyrannosaurus rex, centrándose más en el procesamiento sensorial del olfato."
+  ],
+  "imagen_principal_url": "carcharodontosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_cientifica": [
+    "Carcharodontosaurus fue un género de dinosaurios terópodos carcarodontosáuridos que dominó el norte de África durante el Cenomaniense. Es el género tipo de su familia, caracterizada por cráneos alargados y dientes comprimidos lateralmente.",
+    "La morfología de su cuello indica una musculatura poderosa capaz de mover la cabeza con rapidez para lanzar ataques laterales. Los análisis biomecánicos sugieren que su mordida, aunque menos potente que la de un tiranosáurido en términos de presión por cm², era mucho más efectiva para desgarrar tejidos blandos.",
+    "El descubrimiento de la especie C. iguidensis en 2007 confirmó que el género estaba diversificado y ocupaba diferentes nichos en el continente africano."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 10,
+    "velocidad": 7,
+    "rareza": 8,
+    "fuerza_estimada": 9,
+    "defensa": 6,
+    "inteligencia": 5,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 6,
+    "impresionabilidad": 10
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Crítica",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Sereno et al. (1996)"
+  }
+}

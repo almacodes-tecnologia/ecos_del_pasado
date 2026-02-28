@@ -1,0 +1,98 @@
+{
+  "id": "tylosaurus",
+  "nombre_comun": "Tylosaurus",
+  "nombre_cientifico": "Tylosaurus proriger",
+  "tipo_animal": "reptil marino",
+  "grupo": "mosasaurio",
+  "clasificacion": {
+    "clase": "Sauropsida",
+    "orden": "Squamata",
+    "familia": "Mosasauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 13.0,
+    "altura_m": 1.8,
+    "peso_kg": 7500.0,
+    "descripcion_dimensiones": "Aunque en la ficción se muestra mucho más grande, los ejemplares más masivos alcanzaban los 13 metros. Su cuerpo era esbelto y serpentiforme, diseñado para la emboscada rápida. Poseía una aleta caudal bilobulada, similar a la de un tiburón invertido, que le daba un empuje masivo."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Superior",
+    "rango_edad_presentacion": "Hace entre 86 y 75 millones de años",
+    "edad_inicio_ma": 86.0,
+    "edad_fin_ma": 75.0
+  },
+  "descubrimiento": {
+    "anio": 1872,
+    "descubridor": "Othniel Charles Marsh",
+    "lugar_original": {
+      "formacion": "Niobrara Chalk",
+      "region": "Kansas",
+      "pais": "Estados Unidos"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Kansas", "Dakota del Sur", "Texas"],
+      "coordenadas": [
+        { "lat": 38.8, "lon": -100.5 }
+      ]
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Saskatchewan"],
+      "coordenadas": [
+        { "lat": 50.6, "lon": -107.4 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Mares epicontinentales poco profundos",
+    "zona_actual": "América del Norte (Vía Marítima Interior Occidental)",
+    "zona_paleogeografica": "Laurasia / Océano Tetis",
+    "clima_estimado": "Templado a cálido; aguas costeras ricas en biodiversidad."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro hipercarnívoro",
+      "detalle": "Depredador alfa oportunista. Se alimentaba de peces, tiburones, aves marinas (Hesperornis), otros mosasaurios menores y plesiosaurios. Poseía una doble hilera de dientes en el paladar (pterigoideos) para sujetar presas mientras las tragaba enteras."
+    },
+    "socialidad": "Solitario y altamente territorial; los restos fósiles muestran marcas de mordeduras infligidas por otros Tylosaurus.",
+    "defensa": "Su propio tamaño y velocidad. Su hocico óseo y alargado (rostro) era una estructura sólida que podía usar como un ariete para embestir y aturdir a sus presas o rivales.",
+    "movimiento": "Nadador especializado mediante ondulación lateral de la cola. Las extremidades se habían transformado en aletas hidrodinámicas usadas principalmente para la dirección, no para la propulsión.",
+    "reproduccion": "Vivíparo. A diferencia de las tortugas marinas, no salían a tierra a poner huevos; daban a luz crías vivas directamente en el mar.",
+    "actividad": "Diurna / Crepuscular"
+  },
+  "curiosidades_adicionales": [
+    "Su nombre significa 'lagarto con protuberancia', debido a su hocico cilíndrico y duro que carecía de dientes en el extremo.",
+    "Era un pariente cercano de los actuales lagartos monitores y varanos, no un dinosaurio.",
+    "Tenía una lengua bífida, similar a la de las serpientes, que utilizaba para 'olfatear' rastros químicos en el agua.",
+    "Se han encontrado contenidos estomacales que incluyen desde tiburones hasta mosasaurios más pequeños, confirmando su estatus de rey de los mares cretácicos."
+  ],
+  "imagen_principal_url": "tylosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_ वैज्ञानिक": [
+    "El Tylosaurus es uno de los géneros más grandes y conocidos de la familia Mosasauridae, reptiles escamosos que se adaptaron totalmente a la vida marina durante el Cretácico Superior.",
+    "Se distingue de otros mosasaurios por su rostro alargado y desdentado en la punta, que probablemente servía para embestir. Su cráneo era cinético (flexible), lo que le permitía expandir sus mandíbulas para engullir presas de gran tamaño, apoyado por dientes recurvados y afilados.",
+    "A diferencia de las representaciones antiguas que le daban una cresta dorsal, las impresiones de piel actuales sugieren una textura escamosa uniforme y una cola potente dividida en dos lóbulos, optimizada para ráfagas de velocidad explosiva en la emboscada."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 10,
+    "velocidad": 8,
+    "rareza": 6,
+    "fuerza_estimada": 8,
+    "defensa": 5,
+    "inteligencia": 5,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 9,
+    "impresionabilidad": 10
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Alta",
+    "ultima_revision": "2024-05-20",
+    "referencia_principal": "Marsh, O. C. (1872)"
+  }
+}

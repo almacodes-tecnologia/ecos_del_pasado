@@ -1,0 +1,98 @@
+{
+  "id": "tarbosaurus",
+  "nombre_comun": "Tarbosaurus",
+  "nombre_cientifico": "Tarbosaurus bataar",
+  "tipo_animal": "dinosaurio",
+  "grupo": "terópodo",
+  "clasificacion": {
+    "clase": "Reptilia",
+    "orden": "Saurischia",
+    "familia": "Tyrannosauridae"
+  },
+  "dimensiones": {
+    "longitud_m": 12.0,
+    "altura_m": 3.5,
+    "peso_kg": 5000.0,
+    "descripcion_dimensiones": "Aunque ligeramente más pequeño y esbelto que su primo el T. rex, era un gigante masivo. Su altura se mide hasta la cadera. Poseía un cráneo de más de 1.3 metros diseñado para soportar fuerzas de mordida brutales, aunque mecánicamente distinto al de los tiranos americanos."
+  },
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Tardío",
+    "rango_edad_presentacion": "Hace entre 70 y 66 millones de años",
+    "edad_inicio_ma": 70.0,
+    "edad_fin_ma": 66.0
+  },
+  "descubrimiento": {
+    "anio": 1946,
+    "descubridor": "Expedición soviético-mongola",
+    "lugar_original": {
+      "formacion": "Nemegt",
+      "region": "Desierto de Gobi",
+      "pais": "Mongolia"
+    }
+  },
+  "yacimientos_clave": [
+    {
+      "pais": "Mongolia",
+      "regiones": ["Desierto de Gobi", "Ömnögovi"],
+      "coordenadas": [
+        { "lat": 43.5, "lon": 103.5 }
+      ]
+    },
+    {
+      "pais": "China",
+      "regiones": ["Subashi"],
+      "coordenadas": [
+        { "lat": 42.9, "lon": 89.2 }
+      ]
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales húmedas y canales de ríos",
+    "zona_actual": "Asia Central (extinto)",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Templado a cálido, con estaciones marcadas y presencia de grandes masas de agua estacionales."
+  },
+  "informacion_comportamiento": {
+    "dieta": {
+      "general": "Carnívoro",
+      "detalle": "Superdepredador alfa. Se alimentaba de grandes herbívoros como el hadrosaurio *Saurolophus* o el titanosaurio *Nemegtosaurus*. Su mordida no solo cortaba carne, sino que trituraba hueso, permitiéndole aprovechar canales enteros."
+    },
+    "socialidad": "Debatido; posiblemente solitario o en grupos familiares pequeños. No hay evidencia directa de gregarismo como en otros tiranosáuridos.",
+    "defensa": "Ofensiva pura. Sus mandíbulas eran su mejor defensa. A diferencia del T. rex, su cráneo era más rígido, lo que sugiere que distribuía el estrés de la mordida de forma diferente, ideal para cazar presas masivas pero menos ágiles.",
+    "movimiento": "Bípedo obligado. A pesar de su tamaño, era un corredor eficiente en distancias cortas, aunque los adultos probablemente dependían de la emboscada más que de la persecución prolongada.",
+    "reproduccion": "Ovíparo. Se han encontrado nidos en la formación Nemegt que sugieren un cuidado parental mínimo o sitios de anidación recurrentes.",
+    "actividad": "Catemeral (activo en diferentes momentos del día y la noche)."
+  },
+  "curiosidades_adicionales": [
+    "Es considerado el equivalente asiático del *Tyrannosaurus rex*, hasta el punto de que algunos paleontólogos lo clasificaron erróneamente como *Tyrannosaurus bataar*.",
+    "Sus brazos eran proporcionalmente los más pequeños de todos los tiranosáuridos, incluso más cortos que los del T. rex.",
+    "A diferencia del T. rex, el Tarbosaurus no tenía una visión binocular tan desarrollada; sus ojos miraban más hacia los lados, lo que sugiere que dependía más del olfato y el oído para cazar.",
+    "Muchos especímenes de Tarbosaurus han sido objeto de tráfico ilegal de fósiles, incluyendo un famoso esqueleto subastado en Nueva York y repatriado a Mongolia en 2013."
+  ],
+  "imagen_principal_url": "tarbosaurus.webp",
+  "galeria_imagenes": [
+  ],
+  "descripcion_scientific": [
+    "El Tarbosaurus fue el mayor depredador de su ecosistema en el Cretácico Superior de Asia. Aunque estrechamente emparentado con el Tyrannosaurus, presenta adaptaciones craneales únicas para lidiar con la resistencia de los saurópodos titanosaurios de su entorno.",
+    "Su estructura ósea indica que el cráneo era más estrecho que el de su pariente americano, limitando su campo de visión frontal pero aumentando la resistencia mecánica ante presas que luchaban violentamente.",
+    "El análisis de sus moldes endocraneales revela bulbos olfatorios masivos, lo que indica un sentido del olfato hiperdesarrollado, vital para localizar carroña o rastrear presas a grandes distancias en las llanuras de Mongolia."
+  ],
+  "estadisticas_fantasia": {
+    "agresividad": 9,
+    "velocidad": 6,
+    "rareza": 6,
+    "fuerza_estimada": 9,
+    "defensa": 7,
+    "inteligencia": 7,
+    "impacto_historico": 8,
+    "nivel_adaptacion": 8,
+    "impresionabilidad": 9
+  },
+  "metadatos_personalizados": {
+    "prioridad_ui": "Crítica",
+    "ultima_revision": "2026-02-28",
+    "referencia_principal": "Maleev (1955)"
+  }
+}
