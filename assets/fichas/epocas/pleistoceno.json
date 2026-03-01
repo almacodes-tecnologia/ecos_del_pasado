@@ -1,0 +1,85 @@
+{
+  "id": "pleistoceno",
+  "nombre": "Pleistoceno",
+  "nombre_comun": "Época del Pleistoceno (La Era del Hielo)",
+  "periodo_geologico": "Cuaternario",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 2.58,
+  "fin_millones_anos_atras": 0.0117,
+  "duracion_aproximada_millones_anos": 2.5683,
+  "subdivisiones": [
+    {
+      "nombre": "Pleistoceno Inferior (Gelasiense y Calabriense)",
+      "series": ["Gelasiense", "Calabriense"],
+      "inicio_millones_anos_atras": 2.58,
+      "fin_millones_anos_atras": 0.774
+    },
+    {
+      "nombre": "Pleistoceno Medio (Chibaniense)",
+      "series": ["Chibaniense"],
+      "inicio_millones_anos_atras": 0.774,
+      "fin_millones_anos_atras": 0.129
+    },
+    {
+      "nombre": "Pleistoceno Superior (Tarantiense)",
+      "series": ["Tarantiense"],
+      "inicio_millones_anos_atras": 0.129,
+      "fin_millones_anos_atras": 0.0117
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes estaban prácticamente en sus posiciones actuales. El evento geológico clave fue el cierre definitivo del Istmo de Panamá, lo que alteró las corrientes oceánicas y facilitó el Gran Intercambio Biótico Americano. Se formaron puentes terrestres temporales debido al descenso del nivel del mar, como Beringia (entre Siberia y Alaska) y Doggerland (en el Mar del Norte).",
+    "clima_general": "Se caracterizó por ciclos repetidos de glaciaciones e interglaciares. En los máximos glaciales, hasta el 30% de la superficie terrestre estaba cubierta por hielo. El clima era extremadamente variable; los niveles del mar bajaban hasta 120 metros durante las glaciaciones, exponiendo plataformas continentales, y subían drásticamente durante los breves periodos interglaciares cálidos.",
+    "eventos_geologicos_importantes": "Ciclos de Milankovitch (variaciones orbitales que dictaron los avances del hielo). Formación de Grandes Lagos en Norteamérica por el retroceso de los glaciares de Laurentia. Intensa erosión glacial que esculpió valles en forma de U en todo el mundo. Elevación continua de los Himalayas y los Andes."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Tundra alpina y ártica (dominante en latitudes altas)",
+      "Estepa-tundra (extensos pastizales secos y fríos)",
+      "Bosques de coníferas (taiga que se desplazaba al sur durante los avances del hielo)",
+      "Bosques caducifolios (reducidos a refugios en latitudes bajas durante glaciaciones)",
+      "Praderas y sabanas (expandidas en regiones tropicales y subtropicales)"
+    ],
+    "nuevas_apariciones": "No hubo grandes extinciones de plantas, pero sí una redistribución masiva. Las comunidades vegetales aprendieron a 'migrar' rápidamente siguiendo el ritmo de los glaciares. Los pastos C4 se volvieron dominantes en muchas regiones, favoreciendo a los grandes herbívoros."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Megafauna (Mamuts lanudos, Mastodontes, Megaterios o perezosos gigantes)",
+      "Carnívoros icónicos (Tigre de dientes de sable, León de las cavernas, Lobo gigante)",
+      "Género Homo (Habilis, Erectus, Neanderthalensis y finalmente Sapiens)",
+      "Ungulados masivos (Elasmoterio o unicornio siberiano, ciervos gigantes)"
+    ],
+    "fauna_marina_clave": [
+      "Ballenas modernas (alcanzaron sus tamaños actuales)",
+      "Megalodón (se extinguió a principios del Pleistoceno, hace aprox. 3.6 - 2.6 Ma)",
+      "Pinnípedos (focas y morsas diversificadas en aguas frías)",
+      "Moluscos y corales (sensibles a los cambios de temperatura y nivel del mar)"
+    ],
+    "fauna_aerea_clave": [
+      "Teratornítidos (aves rapaces gigantes como Teratornis)",
+      "Cóndores y buitres (abundantes debido a la gran cantidad de carroña de megafauna)",
+      "Aves modernas (totalmente establecidas en sus nichos actuales)"
+    ],
+    "nuevas_apariciones": "Evolución y dispersión global del Homo sapiens. Aparición de adaptaciones específicas al frío extremo en mamíferos, como pelajes lanudos espesos y depósitos de grasa masivos."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_antropogenica": "El desarrollo de herramientas complejas, el control del fuego y el lenguaje por parte de los homínidos cambió las reglas del juego ecológico por primera vez en la historia de la Tierra.",
+    "el_gran_intercambio_biotico_americano": "La conexión de las Américas permitió que animales del norte (pumas, osos, caballos) bajaran al sur y animales del sur (armadillos gigantes, perezosos) subieran al norte.",
+    "Image of Great American Biotic Interchange map": ""
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción de la Megafauna del Cuaternario",
+    "fecha_millones_anos_atras": 0.012,
+    "causas_probables": "Combinación del cambio climático rápido al final de la última glaciación (Dryas Reciente) y la presión de caza excesiva ('Overkill hypothesis') por parte de los seres humanos en expansión.",
+    "impacto_biologico": "Desaparición de casi todos los mamíferos terrestres de más de 45 kg en América y Australia, y muchos en Eurasia. Esto alteró profundamente los ecosistemas terrestres al desaparecer los grandes arquitectos del paisaje (herbívoros masivos)."
+  },
+  "sitios_fosiles_clave": [
+    "Rancho La Brea Tar Pits (Estados Unidos)",
+    "Yacimientos de Atapuerca (España)",
+    "Cueva de Denisova (Rusia)",
+    "Olduvai Gorge (Tanzania)",
+    "Cueva de Blombos (Sudáfrica)"
+  ],
+  "imagen_principal_url": "pleistoceno_megafauna.webp",
+  "mapa_paleogeografico_url": "mapa_glaciacion_maxima.png"
+}

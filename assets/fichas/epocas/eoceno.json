@@ -1,0 +1,84 @@
+{
+  "id": "eoceno",
+  "nombre": "Eoceno",
+  "nombre_comun": "Época del Eoceno",
+  "periodo_geologico": "Paleógeno",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 56.0,
+  "fin_millones_anos_atras": 33.9,
+  "duracion_aproximada_millones_anos": 22.1,
+  "subdivisiones": [
+    {
+      "nombre": "Eoceno Inferior (Ypresiense)",
+      "series": ["Ypresiense"],
+      "inicio_millones_anos_atras": 56.0,
+      "fin_millones_anos_atras": 47.8
+    },
+    {
+      "nombre": "Eoceno Medio (Luteciense y Bartoniense)",
+      "series": ["Luteciense", "Bartoniense"],
+      "inicio_millones_anos_atras": 47.8,
+      "fin_millones_anos_atras": 37.8
+    },
+    {
+      "nombre": "Eoceno Superior (Priaboniense)",
+      "series": ["Priaboniense"],
+      "inicio_millones_anos_atras": 37.8,
+      "fin_millones_anos_atras": 33.9
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron desplazándose hacia sus posiciones actuales. Australia y la Antártida se separaron definitivamente, lo que eventualmente permitiría la formación de la Corriente Circumpolar Antártica. América del Norte y Europa seguían conectadas intermitentemente por puentes terrestres en el Atlántico Norte. La India continuó su colisión con Asia, elevando los primeros sedimentos de lo que sería el Himalaya.",
+    "clima_general": "Comenzó con el Máximo Térmico del Paleoceno-Eoceno, el período más caluroso de la era Cenozoica. El clima era globalmente cálido y húmedo; los bosques tropicales se extendían hasta los polos. Hacia el final de la época, el clima inició un enfriamiento gradual y una desecación conocida como 'la gran ruptura' o 'Grande Coupure', que culminó en la primera glaciación antártica importante al final del período.",
+    "eventos_geologicos_importantes": "Orogenia Alpina en pleno desarrollo. Formación de grandes depósitos de esquistos bituminosos (como en Messel, Alemania). Aislamiento progresivo de la Antártida. Cierre parcial del mar de Tetis debido al avance de África hacia Europa."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Bosques templados y tropicales (extendiéndose hasta latitudes polares)",
+      "Palmeras (presentes en Alaska y el norte de Europa)",
+      "Nypa (manglares primitivos muy extendidos)",
+      "Coníferas (Metasequoia)",
+      "Helechos flotantes (Azolla)"
+    ],
+    "nuevas_apariciones": "Expansión masiva de las angiospermas. Al final del período, debido al enfriamiento, empezaron a aparecer las primeras extensiones de gramíneas (pastos), aunque todavía no formaban praderas abiertas como las actuales."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Hyracotherium (ancestro primitivo del caballo, del tamaño de un perro)",
+      "Andrewsarchus (gigantesco mamífero carnívoro/omnívoro ungulado)",
+      "Brontotéridos (mamíferos herbívoros masivos con cuernos óseos en el hocico)",
+      "Gastornis (aves gigantes no voladoras depredadoras)",
+      "Primates primitivos (Adapiformes y Omomyiformes)"
+    ],
+    "fauna_marina_clave": [
+      "Basilosaurus (ballena primitiva de cuerpo alargado y restos de patas traseras)",
+      "Dorudon (cetáceo prehistórico más pequeño y compacto)",
+      "Carcharocles auriculatus (ancestro del Megalodón)",
+      "Abundancia de bivalvos, gasterópodos y nummulites (foraminíferos gigantes)"
+    ],
+    "fauna_aerea_clave": [
+      "Murciélagos (Icaronycteris, ya completamente evolucionados para el vuelo y la ecolocalización)",
+      "Aves modernas (proliferación de ancestros de búhos, halcones y pelícanos)",
+      "Pingüinos gigantes (en el hemisferio sur)"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros ancestros de los elefantes (Moeritherium), cetáceos totalmente acuáticos y los primeros primates de aspecto moderno."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_de_los_mamiferos": "Tras la extinción de los dinosaurios, los mamíferos ocuparon todos los nichos ecológicos, experimentando un aumento drástico de tamaño y especialización.",
+    "evento_azolla": "Un crecimiento masivo del helecho de agua dulce Azolla en el Océano Ártico secuestró enormes cantidades de CO2, contribuyendo al enfriamiento global a largo plazo."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Grande Coupure (Gran Ruptura de Stehlin)",
+    "fecha_millones_anos_atras": 33.9,
+    "causas_probables": "Cambio climático global de invernadero a 'nevera' (icehouse). La formación de la corriente circumpolar antártica aisló el continente, provocando su glaciación y un descenso del nivel del mar y de las temperaturas globales.",
+    "impacto_biologico": "Extinción masiva de fauna europea y asiática. Muchos mamíferos primitivos fueron reemplazados por grupos más modernos (emigración desde Asia). Desaparición de los primates en latitudes altas y reducción drástica de reptiles adaptados al calor."
+  },
+  "sitios_fosiles_clave": [
+    "Sitio fosilífero de Messel (Alemania)",
+    "Formación Green River (Estados Unidos)",
+    "Valle de las Ballenas (Wadi Al-Hitan, Egipto)",
+    "Formación Murgon (Australia)"
+  ],
+  "imagen_principal_url": "eoceno.webp",
+  "mapa_paleogeografico_url": "mapa_eoceno.png"
+}

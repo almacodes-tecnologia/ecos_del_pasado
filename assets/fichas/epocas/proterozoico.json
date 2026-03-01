@@ -1,0 +1,77 @@
+{
+  "id": "proterozoico",
+  "nombre": "Proterozoico",
+  "nombre_comun": "Eón Proterozoico",
+  "periodo_geologico": "Precámbrico",
+  "era_geologica": "Eón Proterozoico (Paleoproterozoico, Mesoproterozoico, Neoproterozoico)",
+  "inicio_millones_anos_atras": 2500.0,
+  "fin_millones_anos_atras": 541.0,
+  "duracion_aproximada_millones_anos": 1959.0,
+  "subdivisiones": [
+    {
+      "nombre": "Paleoproterozoico",
+      "series": ["Sidérico", "Riásico", "Orosírico", "Eustásico"],
+      "inicio_millones_anos_atras": 2500.0,
+      "fin_millones_anos_atras": 1600.0
+    },
+    {
+      "nombre": "Mesoproterozoico",
+      "series": ["Calímico", "Ectásico", "Esténico"],
+      "inicio_millones_anos_atras": 1600.0,
+      "fin_millones_anos_atras": 1000.0
+    },
+    {
+      "nombre": "Neoproterozoico",
+      "series": ["Tónico", "Criogénico", "Ediacárico"],
+      "inicio_millones_anos_atras": 1000.0,
+      "fin_millones_anos_atras": 541.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Se estabilizaron los primeros cratones y se formaron supercontinentes masivos como Columbia (nuna), Rodinia y, finalmente, Pannotia. La tectónica de placas moderna se volvió plenamente operativa, permitiendo la orogenia a gran escala.",
+    "clima_general": "Experimentó fluctuaciones extremas. Pasó de la Gran Oxidación a periodos de frío absoluto conocidos como 'Tierra Bola de Nieve' (Snowball Earth), donde los glaciares alcanzaron el ecuador, alternando con periodos de intenso calor tras las desglaciaciones.",
+    "eventos_geologicos_importantes": "La Gran Oxidación (GOE) transformó la atmósfera. Formación de las Grandes Formaciones de Hierro Bandeado (BIF). Actividad tectónica que dio lugar a la Orogenia Grenville, uno de los eventos de colisión continental más masivos de la historia terrestre."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Tapetes microbianos (cianobacterias colonizando zonas húmedas)",
+      "Líquenes primitivos (hacia el final del eón)",
+      "Algas verdes multicelulares (en entornos acuáticos someros)",
+      "Estromatolitos (estructuras minerales creadas por colonias de bacterias)"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros eucariotas fotosintéticos (algas rojas y verdes) que sentaron las bases para el futuro reino plantae."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Inexistente (la superficie terrestre era un desierto biológico de roca y microbios)"
+    ],
+    "fauna_marina_clave": [
+      "Fauna de Ediacara (organismos de cuerpo blando como Dickinsonia y Charnia)",
+      "Acritarcos (microfósiles de pared orgánica)",
+      "Eucariotas unicelulares y los primeros metazoos (animales)",
+      "Esponjas primitivas y cnidarios simples"
+    ],
+    "fauna_aerea_clave": [
+      "Inexistente"
+    ],
+    "nuevas_apariciones": "Surgimiento de la multicelularidad compleja y la reproducción sexual. Al final del eón, aparece la Fauna de Ediacara, el primer experimento de la naturaleza con organismos macroscópicos complejos."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_del_oxigeno": "Las cianobacterias inundaron la atmósfera de oxígeno, lo que fue un veneno para los organismos anaerobios pero permitió el desarrollo del metabolismo aeróbico, mucho más eficiente.",
+    "endosimbiosis": "Un hito crítico donde células simples absorbieron bacterias para formar mitocondrias y cloroplastos, dando origen a la célula eucariota."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Catástrofe del Oxígeno / Extinción del Ediacárico",
+    "fecha_millones_anos_atras": 2400.0,
+    "causas_probables": "La acumulación de oxígeno libre fue tóxica para la vida anaerobia dominante. Más tarde, al final del eón, cambios químicos en los océanos y la competencia biológica diezmaron la biota de Ediacara.",
+    "impacto_biologico": "Eliminó a la gran mayoría de las especies de arqueas y bacterias anaerobias, forzando a la vida a evolucionar hacia formas que toleraran o usaran el oxígeno. La extinción de Ediacara despejó el camino para la 'Explosión Cámbrica'."
+  },
+  "sitios_fosiles_clave": [
+    "Colinas de Ediacara (Australia)",
+    "Formación Gunflint (Canadá)",
+    "Esquistos de Franceville (Gabón)",
+    "Grupo Nama (Namibia)"
+  ],
+  "imagen_principal_url": "proterozoico.webp",
+  "mapa_paleogeografico_url": "rodinia_supercontinent.png"
+}

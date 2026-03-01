@@ -1,0 +1,77 @@
+{
+  "id": "oligoceno",
+  "nombre": "Oligoceno",
+  "nombre_comun": "Época del Oligoceno",
+  "periodo_geologico": "Paleógeno",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 33.9,
+  "fin_millones_anos_atras": 23.03,
+  "duracion_aproximada_millones_anos": 10.87,
+  "subdivisiones": [
+    {
+      "nombre": "Rupeliense",
+      "series": ["Estampiense"],
+      "inicio_millones_anos_atras": 33.9,
+      "fin_millones_anos_atras": 28.1
+    },
+    {
+      "nombre": "Chattiense",
+      "series": ["Dobergiense"],
+      "inicio_millones_anos_atras": 28.1,
+      "fin_millones_anos_atras": 23.03
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron derivando hacia sus posiciones actuales. La separación final de la Antártida de América del Sur (apertura del Pasaje de Drake) y de Australia fue crucial, permitiendo la formación de la Corriente Circumpolar Antártica. En el hemisferio norte, la colisión de la placa africana con la euroasiática continuó elevando los Alpes, mientras que la placa india seguía presionando contra Asia para formar el Himalaya.",
+    "clima_general": "Marcó la transición de un mundo 'Greenhouse' (invernadero) a uno 'Icehouse' (nevera). El enfriamiento global fue drástico, provocando la formación de la primera gran capa de hielo sobre la Antártida. Los niveles del mar descendieron y el clima se volvió más estacional y árido en muchas regiones, reduciendo las selvas tropicales a una banda ecuatorial estrecha.",
+    "eventos_geologicos_importantes": "Apertura definitiva del Pasaje de Drake, aislando térmicamente a la Antártida. Intensa actividad orogénica en el oeste de América del Norte (Orogenia Laramide tardía). Formación de importantes yacimientos de petróleo y gas en cuencas sedimentarias marinas."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Gramíneas (pastos y hierbas, que comenzaron su expansión global)",
+      "Bosques templados de hoja caduca (sustituyendo a las selvas en latitudes altas)",
+      "Coníferas (Pinos y Cedros en expansión)",
+      "Matorrales xerófilos (adaptados a la creciente aridez)"
+    ],
+    "nuevas_apariciones": "La expansión de las praderas (pastizales) es el evento botánico más relevante, lo que forzó una evolución drástica en los herbívoros que pasaron de ramonear hojas a pastar hierba dura."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Paraceratherium (el mamífero terrestre más grande de la historia)",
+      "Hyaenodontidos (depredadores creodontos en declive)",
+      "Entelodontos (los llamados 'cerdos del infierno')",
+      "Hesperocyon (cánidos primitivos)",
+      "Primates antropoides (evolución temprana en África)"
+    ],
+    "fauna_marina_clave": [
+      "Cetáceos misticetos (primeras ballenas con barbas)",
+      "Carcharocles angustidens (tiburón megadentado antecesor del Megalodón)",
+      "Sirénidos (manatíes y dugongos)",
+      "Pinnípedos (primeros ancestros de focas y morsas)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves del terror (Phorusrhacidae, dominantes en Sudamérica)",
+      "Pelagornithidae (aves marinas gigantes con pseudodientes)",
+      "Aves canoras (Passeriformes, expansión inicial)"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros ancestros directos de los perros, gatos, caballos modernos (Miohippus) y rinocerontes sin cuernos. Los primates superiores comenzaron a diferenciarse claramente en Egipto (Fayum)."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_de_los_pastizales": "El enfriamiento global favoreció a las plantas C3 y la expansión de espacios abiertos, cambiando la dieta de los mamíferos y favoreciendo el desarrollo de dientes con coronas altas (hipsodoncia).",
+    "la_gran_ruptura_de_steblin": "Un evento de extinción y recambio faunístico en Europa (Grande Coupure) debido a la llegada de especies migratorias desde Asia y cambios climáticos bruscos."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción de la Grande Coupure (Gran Ruptura)",
+    "fecha_millones_anos_atras": 33.9,
+    "causas_probables": "Enfriamiento global repentino al inicio de la época, vinculado a cambios en las corrientes oceánicas y posiblemente a impactos de meteoritos menores (Campo de meteoritos de Chesapeake).",
+    "impacto_biologico": "Sustitución masiva de fauna endémica europea por linajes asiáticos. Desaparición de muchas familias de mamíferos primitivos que dependían de climas tropicales y densos bosques boscosos."
+  },
+  "sitios_fosiles_clave": [
+    "Depresión de Fayum (Egipto)",
+    "White River Badlands (Dakota del Sur, EE. UU.)",
+    "Yacimiento de Salla (Bolivia)",
+    "Riversleigh (Australia)"
+  ],
+  "imagen_principal_url": "oligoceno.webp",
+  "mapa_paleogeografico_url": "mapa_oligoceno.png"
+}

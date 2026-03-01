@@ -1,0 +1,81 @@
+{
+  "id": "devonico",
+  "nombre": "Devónico",
+  "nombre_comun": "Período Devónico",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 419.2,
+  "fin_millones_anos_atras": 358.9,
+  "duracion_aproximada_millones_anos": 60.3,
+  "subdivisiones": [
+    {
+      "nombre": "Devónico Inferior",
+      "series": ["Lochkoviense", "Praguiense", "Emsiense"],
+      "inicio_millones_anos_atras": 419.2,
+      "fin_millones_anos_atras": 393.3
+    },
+    {
+      "nombre": "Devónico Medio",
+      "series": ["Eifeliense", "Givetiense"],
+      "inicio_millones_anos_atras": 393.3,
+      "fin_millones_anos_atras": 382.7
+    },
+    {
+      "nombre": "Devónico Superior",
+      "series": ["Frasniense", "Fameniense"],
+      "inicio_millones_anos_atras": 382.7,
+      "fin_millones_anos_atras": 358.9
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Las masas de tierra se agruparon en dos supercontinentes: Gondwana al sur y Euramérica (o Laurasia) en el ecuador. La colisión de estos formó las primeras etapas de Pangea. Se produjo la Orogenia Acadiense, levantando grandes cordilleras en lo que hoy es América del Norte y Europa.",
+    "clima_general": "Fue un período cálido y seco, especialmente en las zonas ecuatoriales. No había glaciares y las temperaturas oceánicas eran elevadas. Sin embargo, hacia el final del período, el clima se volvió más frío, lo que pudo contribuir a las crisis biológicas.",
+    "eventos_geologicos_importantes": "Formación de la 'Vieja Arenisca Roja' en Euramérica. Intensa actividad tectónica que cerró el océano Iapetus. El nivel del mar era alto, creando vastos mares epicontinentales someros que favorecieron la vida marina de arrecife."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Progimnospermas (como Archaeopteris, los primeros árboles verdaderos)",
+      "Licófitos (plantas con raíces y hojas simples)",
+      "Helechos y plantas vasculares primitivas",
+      "Zosterophyllopsida"
+    ],
+    "nuevas_apariciones": "La 'Explosión Devónica' de las plantas: aparecen las primeras semillas, los primeros bosques con sistemas radiculares profundos y la madera, lo que alteró drásticamente el ciclo del carbono y el suelo del planeta."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Tetrapodomorfos (peces que empezaron a desarrollar extremidades, como Tiktaalik y Ichthyostega)",
+      "Artrópodos (primeros milpiés, ciempiés y ácaros)",
+      "Insectos primitivos (sin alas aún)",
+      "Arácnidos tempranos"
+    ],
+    "fauna_marina_clave": [
+      "Placodermos (peces acorazados gigantes como el Dunkleosteus)",
+      "Sarcopterigios (peces de aletas lobuladas, ancestros de los tetrápodos)",
+      "Tiburones primitivos (Cladoselache)",
+      "Ammonoideos (aparición de los primeros ammonites)",
+      "Braquiópodos y corales tabulados/rugosos"
+    ],
+    "fauna_aerea_clave": [
+      "No hay evidencia de fauna aérea en este período (el cielo estaba vacío de vertebrados e insectos voladores)"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros vertebrados tetrápodos que caminaron sobre tierra firme. Gran diversificación de los peces mandibulados y condrictios."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_de_los_tetrapodos": "La transición agua-tierra fue el hito del período, con la evolución de pulmones y extremidades funcionales a partir de aletas de peces.",
+    "formacion_de_bosques": "La aparición de los primeros bosques cambió la atmósfera al aumentar el oxígeno y reducir el CO2, lo que eventualmente provocó un enfriamiento global."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción masiva del Devónico Superior",
+    "fecha_millones_anos_atras": 372.2,
+    "causas_probables": "Enfriamiento global drástico, anoxia (falta de oxígeno) en los océanos causada por el exceso de nutrientes de las nuevas plantas terrestres, e impactos de meteoritos (Evento Kellwasser y Evento Hangenberg).",
+    "impacto_biologico": "Afectó principalmente a la vida marina; los arrecifes de coral desaparecieron casi por completo. Los placodermos se extinguieron totalmente. Desaparecieron el 70% de las especies de invertebrados marinos."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Gogo (Australia)",
+    "Yacimiento de Miguasha (Canadá)",
+    "Cantera de Canowindra (Australia)",
+    "Rhynie Chert (Escocia - excelente para plantas y artrópodos preservados en sílice)"
+  ],
+  "imagen_principal_url": "devonico_landscape.webp",
+  "mapa_paleogeografico_url": "mapa_devonico.png"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "cambrico",
+  "nombre": "Cámbrico",
+  "nombre_comun": "Período Cámbrico",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 538.8,
+  "fin_millones_anos_atras": 485.4,
+  "duracion_aproximada_millones_anos": 53.4,
+  "subdivisiones": [
+    {
+      "nombre": "Terreneuviense",
+      "series": ["Fortuniense", "Estratotipo 2"],
+      "inicio_millones_anos_atras": 538.8,
+      "fin_millones_anos_atras": 521.0
+    },
+    {
+      "nombre": "Serie 2",
+      "series": ["Estratotipo 3", "Estratotipo 4"],
+      "inicio_millones_anos_atras": 521.0,
+      "fin_millones_anos_atras": 509.0
+    },
+    {
+      "nombre": "Miaolinguiense",
+      "series": ["Wuliuense", "Drumiense", "Guzhangiense"],
+      "inicio_millones_anos_atras": 509.0,
+      "fin_millones_anos_atras": 497.0
+    },
+    {
+      "nombre": "Furongiense",
+      "series": ["Paibiense", "Jiangshaniense", "Estratotipo 10"],
+      "inicio_millones_anos_atras": 497.0,
+      "fin_millones_anos_atras": 485.4
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes eran drásticamente diferentes. El supercontinente Pannotia se fragmentó a inicios del período. La mayor parte de la masa continental se agrupaba en el sur, formando el supercontinente Gondwana. Laurentia (Norteamérica), Baltica y Siberia se encontraban aisladas y desplazándose hacia el ecuador.",
+    "clima_general": "Clima global cálido y estable. Al inicio no había glaciares en los polos. El nivel del mar era muy elevado, lo que inundó grandes áreas continentales creando mares epicontinentales someros, ideales para la proliferación de la vida marina.",
+    "eventos_geologicos_importantes": "Fragmentación post-Pannotia y expansión del océano Jápeto. Gran transgresión marina que cubrió las plataformas continentales de sedimentos. Ciclos geoquímicos alterados por la oxigenación progresiva de los océanos profundos."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "No existen plantas terrestres vasculares",
+      "Tapices microbianos (cianobacterias y algas verdes en zonas húmedas costeras)",
+      "Líquenes primitivos (posible presencia incipiente)",
+      "Hongos microscópicos"
+    ],
+    "nuevas_apariciones": "Aparición de algas verdes multicelulares complejas en ambientes marinos, precursoras lejanas de las plantas terrestres."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Inexistente (la tierra firme era un desierto biológico)",
+      "Posibles incursiones temporales de artrópodos primitivos en zonas intermareales"
+    ],
+    "fauna_marina_clave": [
+      "Trilobites (los artrópodos más icónicos y diversos del período)",
+      "Anomalocaris (superdepredador con apéndices frontales espinosos)",
+      "Opabinia (extraño organismo con cinco ojos y una trompa)",
+      "Braquiópodos y arqueociátidos (formadores de los primeros arrecifes)",
+      "Pikaia (uno de los primeros cordados conocidos, nuestro ancestro lejano)"
+    ],
+    "fauna_aerea_clave": [
+      "Inexistente"
+    ],
+    "nuevas_apariciones": "Explosión Cámbrica: aparición de casi todos los filos (phyla) de animales modernos en un breve lapso geológico. Desarrollo de los primeros esqueletos mineralizados (conchas y caparazones) y sistemas visuales complejos."
+  },
+  "eventos_biologicos_significativos": {
+    "explosion_cambrica": "Un fenómeno de radiación evolutiva sin precedentes donde surgieron organismos complejos con simetría bilateral, extremidades y órganos sensoriales.",
+    "carrera_armamentista_biologica": "La aparición de la depredación activa obligó a las especies a evolucionar defensas como espinas, caparazones calcáreos y una mayor velocidad de desplazamiento."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinciones del Cámbrico-Ordovícico",
+    "fecha_millones_anos_atras": 485.4,
+    "causas_probables": "Enfriamiento global, caída de los niveles de oxígeno en los océanos (anoxia) y cambios en el nivel del mar que eliminaron hábitats en plataformas someras.",
+    "impacto_biologico": "Eliminó a muchos braquiópodos, conodontos y redujo drásticamente el número de especies de trilobites, aunque el grupo sobrevivió. Marcó la transición hacia el ecosistema más estable del Ordovícico."
+  },
+  "sitios_fosiles_clave": [
+    "Lutitas de Burgess (Burgess Shale, Canadá)",
+    "Biota de Chengjiang (China)",
+    "Esquistos de Emu Bay (Australia)",
+    "Sirius Passet (Groenlandia)"
+  ],
+  "imagen_principal_url": "cambrico_explosion.webp",
+  "mapa_paleogeografico_url": "mapa_cambrico_gondwana.png"
+}

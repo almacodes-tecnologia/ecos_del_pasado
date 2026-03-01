@@ -1,0 +1,80 @@
+{
+  "id": "ordovicico",
+  "nombre": "Ordovícico",
+  "nombre_comun": "Período Ordovícico",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 485.4,
+  "fin_millones_anos_atras": 443.8,
+  "duracion_aproximada_millones_anos": 41.6,
+  "subdivisiones": [
+    {
+      "nombre": "Ordovícico Inferior",
+      "series": ["Tremadociense", "Floiense"],
+      "inicio_millones_anos_atras": 485.4,
+      "fin_millones_anos_atras": 470.0
+    },
+    {
+      "nombre": "Ordovícico Medio",
+      "series": ["Dapingiense", "Darriwiliense"],
+      "inicio_millones_anos_atras": 470.0,
+      "fin_millones_anos_atras": 458.4
+    },
+    {
+      "nombre": "Ordovícico Superior",
+      "series": ["Sandbiense", "Katiense", "Hirnantiense"],
+      "inicio_millones_anos_atras": 458.4,
+      "fin_millones_anos_atras": 443.8
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes se situaban mayoritariamente en el hemisferio sur. Gondwana, el supercontinente más grande, se desplazó hacia el Polo Sur. Laurentia, Siberia y Báltica eran continentes independientes. La actividad tectónica fue intensa debido a la orogenia Tacónica, que comenzó a levantar los Apalaches primitivos.",
+    "clima_general": "Inicialmente el clima era muy cálido y húmedo, con una atmósfera rica en CO2 que generaba un fuerte efecto invernadero. Sin embargo, hacia el final del período, el desplazamiento de Gondwana sobre el Polo Sur provocó una glaciación masiva (Glaciación del Hirnantiense), lo que causó una caída drástica del nivel del mar.",
+    "eventos_geologicos_importantes": "Gran radiación de la biodiversidad marina. El nivel del mar alcanzó los puntos más altos de todo el Fanerozoico, inundando gran parte de los continentes y creando mares epicontinentales someros. Formación de depósitos masivos de caliza y esquistos bituminosos."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Briofitas primitivas (musgos y hepáticas)",
+      "Algas verdes multicelulares (en ambientes de agua dulce y costas)",
+      "Hongos terrestres",
+      "Criptoesporas (evidencia fósil de las primeras plantas terrestres)"
+    ],
+    "nuevas_apariciones": "Aparecen las primeras plantas no vasculares que colonizan las orillas de los cuerpos de agua, marcando el inicio de la transición de la vida vegetal hacia la tierra firme."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Artrópodos primitivos (milpiés y escorpiones primitivos, evidencias escasas)",
+      "Microorganismos del suelo"
+    ],
+    "fauna_marina_clave": [
+      "Cefalópodos nautiloideos (ortoconos gigantes como Endoceras)",
+      "Trilobites (alcanzaron su máxima diversidad)",
+      "Braquiópodos y Briozoos (formadores de arrecifes)",
+      "Graptolitos (organismos coloniales planctónicos)",
+      "Conodontos (vertebrados primitivos con aparatos dentales complejos)",
+      "Ostracodermos (peces sin mandíbula con armadura ósea)"
+    ],
+    "fauna_aerea_clave": [
+      "No se conoce fauna aérea durante este período."
+    ],
+    "nuevas_apariciones": "Aparición de los primeros peces con indicios de mandíbulas primitivas y una explosión masiva de invertebrados filtradores. Surgimiento de los grandes depredadores marinos como los escorpiones de mar (Euriptéridos)."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_ordovicica": "Conocida como la Gran Biodiversificación del Ordovícico (GOBE), donde el número de géneros marinos se triplicó en apenas 25 millones de años, estableciendo ecosistemas marinos modernos.",
+    "colonizacion_de_tierra_firme": "Las primeras evidencias de esporas sugieren que las plantas y posiblemente algunos artrópodos comenzaron a explorar los ambientes terrestres húmedos."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción masiva del Ordovícico-Silúrico",
+    "fecha_millones_anos_atras": 443.8,
+    "causas_probables": "Una combinación de una glaciación severa en Gondwana y la posterior caída del nivel del mar, seguida por un rápido calentamiento y falta de oxígeno en los océanos (anoxia). Se especula también con una posible explosión de rayos gamma cercana, aunque la teoría glaciar es la más aceptada.",
+    "impacto_biologico": "Fue la segunda extinción más masiva de la historia de la Tierra. Desaparecieron el 85% de las especies marinas, incluyendo muchas familias de trilobites, braquiópodos, conodontos y graptolitos."
+  },
+  "sitios_fosiles_clave": [
+    "Formación Soom Shale (Sudáfrica)",
+    "Esquistos de Fezouata (Marruecos)",
+    "Beecher's Trilobite Bed (Estados Unidos)",
+    "Isla de Anticosti (Canadá)"
+  ],
+  "imagen_principal_url": "ordovicico.webp",
+  "mapa_paleogeografico_url": ""
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arcaico",
+  "nombre": "Arcaico",
+  "nombre_comun": "Eón Arcaico",
+  "periodo_geologico": "Precámbrico",
+  "era_geologica": "Eón Arcaico (compuesto por las eras Eoarcaica, Paleoarcaica, Mesoarcaica y Neoarcaica)",
+  "inicio_millones_anos_atras": 4000.0,
+  "fin_millones_anos_atras": 2500.0,
+  "duracion_aproximada_millones_anos": 1500.0,
+  "subdivisiones": [
+    {
+      "nombre": "Eoarcaico / Paleoarcaico",
+      "series": ["Formación de los primeros protocontinentes", "Aparición de la vida (biomarcadores)", "Bombardeo intenso tardío (finalización)"],
+      "inicio_millones_anos_atras": 4000.0,
+      "fin_millones_anos_atras": 3200.0
+    },
+    {
+      "nombre": "Mesoarcaico / Neoarcaico",
+      "series": ["Expansión de estromatolitos", "Formación del supercontinente Kenorland", "Inicio de la fotosíntesis oxigénica"],
+      "inicio_millones_anos_atras": 3200.0,
+      "fin_millones_anos_atras": 2500.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "La corteza terrestre aún estaba muy caliente y fragmentada. Se formaron los primeros núcleos continentales estables llamados 'cratones' (como el Escudo Canadiense o el Cratón de Kaapvaal). Al final del eón, estos microcontinentes se unieron para formar el primer supercontinente hipotético: Vaalbará, y posteriormente Kenorland.",
+    "clima_general": "Un mundo extremo. El Sol era un 25% más tenue, pero la atmósfera era densa en gases de efecto invernadero (metano y CO2), lo que evitó que la Tierra se congelara. El cielo no era azul, sino de un tono anaranjado neblinoso. Los océanos eran ricos en hierro, dándoles un color verdoso, y eran mucho más ácidos y calientes que hoy.",
+    "eventos_geologicos_importantes": "Solidificación definitiva de la corteza terrestre. El flujo de calor interno era hasta 3 veces superior al actual, provocando un tectonismo de placas primitivo y ultraveloz. Formación de los 'Greenstone Belts' (cinturones de rocas verdes) y las grandes formaciones de hierro bandeado (BIF) debido a la interacción del oxígeno con el hierro oceánico."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Inexistente (superficie estéril y sometida a alta radiación UV)",
+      "Tapetes microbianos en zonas intermareales",
+      "Cianobacterias (en medios acuáticos)"
+    ],
+    "nuevas_apariciones": "No existe la flora como tal. La 'revolución' fue la aparición de los primeros organismos fotoautótrofos (cianobacterias) que empezaron a transformar la luz solar en energía química."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Ninguna (la vida era exclusivamente microscópica y acuática)"
+    ],
+    "fauna_marina_clave": [
+      "Arqueas (extremófilos que vivían en fuentes hidrotermales)",
+      "Bacterias anaerobias",
+      "Estromatolitos (colonias masivas de cianobacterias que formaban estructuras rocosas)",
+      "Microorganismos quimiosintéticos"
+    ],
+    "fauna_aerea_clave": [
+      "Ninguna"
+    ],
+    "nuevas_apariciones": "LUCA (Último Ancestro Común Universal). Surgimiento de los dominios Bacteria y Archaea. Hacia finales del eón, aparece la fotosíntesis oxigénica, el evento biológico más disruptivo de la historia."
+  },
+  "eventos_biologicos_significativos": {
+    "origen_de_la_vida": "La transición de la química orgánica compleja a los primeros sistemas autorreplicantes (ARN/ADN) en las profundidades oceánicas.",
+    "bioconstruccion": "Los estromatolitos se convierten en las primeras 'arrecifes' de la historia, alterando la química de los océanos y capturando carbono a escala global."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "La Catástrofe del Oxígeno (u Holocausto de Oxígeno)",
+    "fecha_millones_anos_atras": 2500.0,
+    "causas_probables": "La acumulación de oxígeno libre producido por las cianobacterias. Para la vida anaerobia de la época, el oxígeno era un veneno altamente corrosivo y mortal.",
+    "impacto_biologico": "Extinción masiva de la mayoría de las especies de bacterias anaerobias que dominaban el planeta. Este evento cambió la atmósfera para siempre y permitió, mucho después, el desarrollo de la vida compleja respiradora de oxígeno."
+  },
+  "sitios_fosiles_clave": [
+    "Cratón de Pilbara (Australia Occidental)",
+    "Cinturón supracortical de Isua (Groenlandia)",
+    "Cinturón de rocas verdes de Barberton (Sudáfrica)",
+    "Formación Gunflint (Canadá/EE.UU.)"
+  ],
+  "imagen_principal_url": "arcaico.webp",
+  "mapa_paleogeografico_url": "vaalbara_supercontinent.png"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "holoceno",
+  "nombre": "Holoceno",
+  "nombre_comun": "Época Reciente",
+  "periodo_geologico": "Cuaternario",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 0.0117,
+  "fin_millones_anos_atras": 0.0,
+  "duracion_aproximada_millones_anos": 0.0117,
+  "subdivisiones": [
+    {
+      "nombre": "Groenlandiense",
+      "series": ["Fase de calentamiento inicial post-glaciación"],
+      "inicio_millones_anos_atras": 0.0117,
+      "fin_millones_anos_atras": 0.0082
+    },
+    {
+      "nombre": "Norgripiense",
+      "series": ["Holoceno Medio", "Optimo climático"],
+      "inicio_millones_anos_atras": 0.0082,
+      "fin_millones_anos_atras": 0.0042
+    },
+    {
+      "nombre": "Megalayense",
+      "series": ["Holoceno Superior", "Edad actual marcada por megasequías iniciales"],
+      "inicio_millones_anos_atras": 0.0042,
+      "fin_millones_anos_atras": 0.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes ocupan sus posiciones actuales. El cambio geológico más drástico fue la subida del nivel del mar (eustatismo) de unos 120 metros tras el deshielo, inundando puentes terrestres como Beringia y Doggerland, y aislando islas como Gran Bretaña, Japón y Tasmania.",
+    "clima_general": "Periodo interglaciar relativamente estable y cálido conocido como el 'Óptimo Climático del Holoceno'. Sin embargo, esta estabilidad se ha roto en el último siglo debido al calentamiento global antropogénico, alcanzando concentraciones de CO2 no vistas en millones de años.",
+    "eventos_geologicos_importantes": "Retroceso total de las capas de hielo de Laurentia y Fenoscandia. Formación del Mar Negro por inundación del Mediterráneo. En el periodo reciente, la actividad humana se ha convertido en una fuerza geológica dominante (propuesta del Antropoceno), alterando los ciclos del nitrógeno, carbono y sedimentación global."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Bosques templados y tropicales (expansión post-glacial)",
+      "Praderas y estepas modernas",
+      "Plantas cultivadas (cereales, leguminosas, frutales)",
+      "Flora cosmopolita (especies invasoras transportadas por humanos)"
+    ],
+    "nuevas_apariciones": "No hay nuevas familias botánicas significativas, pero sí una domesticación masiva de especies que ha alterado la genética vegetal y una pérdida drástica de biodiversidad forestal por deforestación."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Homo sapiens (especie dominante global)",
+      "Animales domesticados (ganado vacuno, ovino, porcino, perros)",
+      "Pequeños mamíferos y aves adaptadas a entornos urbanos",
+      "Especies en peligro crítico (felinos, primates, elefantes)"
+    ],
+    "fauna_marina_clave": [
+      "Mamíferos marinos actuales (ballenas, delfines, focas)",
+      "Arrecifes de coral modernos (actualmente en grave riesgo de blanqueamiento)",
+      "Peces óseos comerciales (atunes, bacalaos, salmones)",
+      "Cefalópodos (pulpos y calamares, en expansión en algunos nichos)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves migratorias modernas",
+      "Murciélagos (gran diversificación en nichos nocturnos)",
+      "Insectos polinizadores (abejas, mariposas, vitales para la biosfera)"
+    ],
+    "nuevas_apariciones": "Evolución de razas domésticas mediante selección artificial. Desplazamiento masivo de biomasa: hoy en día, los humanos y su ganado representan el 96% de la biomasa de mamíferos terrestres."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_neolitica": "El paso de sociedades cazadoras-recolectoras a la agricultura y ganadería, transformando la superficie del planeta para siempre.",
+    "intercambio_colombino": "La unificación biológica de los hemisferios tras 1492, mezclando especies de Eurasia, África y América."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Sexta Extinción Masiva (Extinción del Holoceno)",
+    "fecha_millones_anos_atras": 0.0,
+    "causas_probables": "Acción humana directa: destrucción de hábitats, sobreexplotación de recursos, contaminación, introducción de especies exóticas y cambio climático acelerado.",
+    "impacto_biologico": "Ritmo de extinción entre 100 y 1000 veces superior a la tasa natural de fondo. Desaparición de especies icónicas como el dodo, el lobo de Tasmania, el bucardo y miles de especies de invertebrados y plantas aún no catalogadas."
+  },
+  "sitios_fosiles_clave": [
+    "Cueva de Altamira (España)",
+    "Göbekli Tepe (Turquía)",
+    "Yacimientos de La Brea (etapa final, EE.UU.)",
+    "Ciénagas de turba en el norte de Europa (preservación de cuerpos orgánicos)"
+  ],
+  "imagen_principal_url": "holoceno.webp",
+  "mapa_paleogeografico_url": "mundo_actual.png"
+}

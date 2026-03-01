@@ -1,0 +1,88 @@
+{
+  "id": "silurico",
+  "nombre": "Silúrico",
+  "nombre_comun": "Período Silúrico",
+  "periodo_geologico": "Paleozoico",
+  "era_geologica": "Paleozoica",
+  "inicio_millones_anos_atras": 443.8,
+  "fin_millones_anos_atras": 419.2,
+  "duracion_aproximada_millones_anos": 24.6,
+  "subdivisiones": [
+    {
+      "nombre": "Llandovery",
+      "series": ["Rhuddaniense", "Aeroniense", "Telychiense"],
+      "inicio_millones_anos_atras": 443.8,
+      "fin_millones_anos_atras": 433.4
+    },
+    {
+      "nombre": "Wenlock",
+      "series": ["Sheinwoodiense", "Homeriense"],
+      "inicio_millones_anos_atras": 433.4,
+      "fin_millones_anos_atras": 427.4
+    },
+    {
+      "nombre": "Ludlow",
+      "series": ["Gorstiense", "Ludfordiense"],
+      "inicio_millones_anos_atras": 427.4,
+      "fin_millones_anos_atras": 423.0
+    },
+    {
+      "nombre": "Pridoli",
+      "series": ["Época final sin divisiones formales de piso"],
+      "inicio_millones_anos_atras": 423.0,
+      "fin_millones_anos_atras": 419.2
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Gondwana continuó su deriva hacia el sur, pero el evento clave fue la colisión de Laurentia, Baltica y Avalonia, iniciando la Orogenia Caledoniana y formando el supercontinente de Euramérica (o Continente de las Areniscas Rojas Antiguas). El océano Iapetus se cerró casi por completo.",
+    "clima_general": "Tras la glaciación del Ordovícico, el clima se estabilizó volviéndose mucho más cálido y húmedo (efecto invernadero). Los niveles del mar subieron drásticamente (transgresión marina), creando vastos mares epicontinentales poco profundos, ideales para la vida coralina.",
+    "eventos_geologicos_importantes": "Formación de grandes arrecifes de barrera compuestos por corales tabulados y rugosos. Intensa actividad de erosión en las nuevas cordilleras caledonianas. Estabilización de los niveles de oxígeno atmosférico."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Cooksonia (la primera planta vascular conocida con tallos ramificados)",
+      "Briófitas (musgos y hepáticas primitivas)",
+      "Psilophyton (plantas vasculares tempranas)",
+      "Hongos terrestres (incluyendo el gigante Prototaxites)"
+    ],
+    "nuevas_apariciones": "La aparición de los tejidos vasculares (xilema y floema) permitió a las plantas erguirse y transportar agua, marcando el inicio de la colonización vegetal de los continentes."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Miriápodos (primeros milpiés como Pneumodesmus newmani)",
+      "Arácnidos primitivos (escorpiones terrestres tempranos)",
+      "Trigonotárbidos (arácnidos extintos similares a arañas)",
+      "Colémbolos primigenios"
+    ],
+    "fauna_marina_clave": [
+      "Eurípteridos (escorpiones marinos gigantes como Pterygotus)",
+      "Peces Gnatóstomos (primeros peces con mandíbulas)",
+      "Peces Ostracodermos (peces acorazados sin mandíbula)",
+      "Corales Tabulados y Rugosos (formadores de arrecifes)",
+      "Braquiópodos, Trilobites (en recuperación) y Graptolitos"
+    ],
+    "fauna_aerea_clave": [
+      "No existen evidencias de fauna aérea en este período."
+    ],
+    "nuevas_apariciones": "Aparición de las mandíbulas en los vertebrados, lo que revolucionó la alimentación y la depredación. Primeros animales (artrópodos) en respirar aire fuera del agua."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_de_las_mandibulas": "La evolución de los arcos branquiales en mandíbulas permitió a los peces pasar de filtrar sedimento a ser cazadores activos, cambiando las cadenas tróficas marinas para siempre.",
+    "conquista_de_la_tierra": "Por primera vez, la vida compleja (plantas vasculares y artrópodos) se establece permanentemente en tierra firme, transformando superficies rocosas en ecosistemas biológicos."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Eventos de Extinción Menores (Ireviken, Mulde y Lau)",
+    "fecha_millones_anos_atras": 420.0,
+    "causas_probables": "Cambios en el nivel del mar y fluctuaciones en la química del océano (anoxia). No se considera una de las 'Cinco Grandes', pero afectó severamente a los graptolitos y conodontos.",
+    "impacto_biologico": "Reducción temporal de la biodiversidad en los arrecifes y cambios en las comunidades de microorganismos marinos, aunque la vida terrestre continuó su expansión sin grandes retrocesos."
+  },
+  "sitios_fosiles_clave": [
+    "Rhynie Chert (Escocia - frontera con Devónico)",
+    "Formación Wenlock (Inglaterra)",
+    "Gotland (Suecia)",
+    "Esquistos de Fezouata (Marruecos)",
+    "Formación San Juan (Argentina)"
+  ],
+  "imagen_principal_url": "silurico_paisaje.webp",
+  "mapa_paleogeografico_url": "mapa_silurico.webp"
+}

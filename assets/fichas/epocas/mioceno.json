@@ -1,0 +1,84 @@
+{
+  "id": "mioceno",
+  "nombre": "Mioceno",
+  "nombre_comun": "Época del Mioceno",
+  "periodo_geologico": "Neógeno",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 23.03,
+  "fin_millones_anos_atras": 5.33,
+  "duracion_aproximada_millones_anos": 17.7,
+  "subdivisiones": [
+    {
+      "nombre": "Mioceno Inferior",
+      "series": ["Aquitaniense", "Burdigaliense"],
+      "inicio_millones_anos_atras": 23.03,
+      "fin_millones_anos_atras": 15.97
+    },
+    {
+      "nombre": "Mioceno Medio",
+      "series": ["Langhiense", "Serravalliense"],
+      "inicio_millones_anos_atras": 15.97,
+      "fin_millones_anos_atras": 11.63
+    },
+    {
+      "nombre": "Mioceno Superior",
+      "series": ["Tortoniense", "Messiniense"],
+      "inicio_millones_anos_atras": 11.63,
+      "fin_millones_anos_atras": 5.33
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron derivando hacia sus posiciones actuales. El evento más crítico fue el cierre del paso marítimo de Tetis y la colisión de África con Eurasia, creando el Mediterráneo. Sudamérica y Norteamérica seguían separadas por el mar, aunque se acercaban. La elevación de los Andes y el Himalaya continuó, alterando drásticamente los patrones de viento globales.",
+    "clima_general": "Se produjo un enfriamiento global gradual y una tendencia a la aridez. Aunque hubo un 'Óptimo Climático del Mioceno Medio', el final de la época vio la formación de la capa de hielo de la Antártida Oriental. Esta aridez provocó la retirada de las selvas tropicales y la expansión masiva de praderas y sabanas en latitudes medias.",
+    "eventos_geologicos_importantes": "Crisis de Salinidad del Messiniense: el Mediterráneo se cerró y se evaporó casi por completo, dejando vastos depósitos de sal. Formación definitiva de la cordillera del Himalaya debido a la presión de la placa Índica. Apertura del Mar Rojo y formación del Gran Valle del Rift en África."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Gramíneas (pastos y hierbas que revolucionaron el paisaje)",
+      "Bosques de hoja caduca en zonas templadas",
+      "Kelp (bosques de algas marinas gigantes)",
+      "Asteráceas (margaritas, girasoles y sus parientes)"
+    ],
+    "nuevas_apariciones": "La expansión de las gramíneas (hierba) creó el bioma de la pradera. Esto forzó a los herbívoros a evolucionar dientes más resistentes (hipsodoncia) para masticar sílice y sobrevivir en espacios abiertos."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Grandes mamíferos herbívoros (Gomphotherium, parientes de elefantes)",
+      "Homininos tempranos (Sahelanthropus tchadensis en África)",
+      "Carnívoros icónicos (Dientes de sable primitivos, perros-oso como Amphicyon)",
+      "Megatheriidae (perezosos terrestres gigantes)",
+      "Aves del terror (Phorusrhacidae) en Sudamérica"
+    ],
+    "fauna_marina_clave": [
+      "Otodus megalodon (el tiburón más grande de la historia)",
+      "Livyatan melvillei (ballena cachalote depredadora)",
+      "Cetáceos modernos (primeros delfines y ballenas barbadas)",
+      "Pinnípedos (focas y morsas primitivas)"
+    ],
+    "fauna_aerea_clave": [
+      "Argentavis magnificens (una de las aves voladoras más grandes registradas)",
+      "Paseriformes (pájaros cantores, que experimentaron una gran radiación)",
+      "Búhos y rapaces modernas"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros ancestros directos del ser humano tras la separación del linaje de los chimpancés. Los félidos (gatos) se diversifican y se extienden por el mundo."
+  },
+  "eventos_biologicos_significativos": {
+    "expansion_de_las_praderas": "El cambio de bosques cerrados a llanuras abiertas dictó la evolución de caballos, camellos y rinocerontes hacia formas corredoras y de mayor tamaño.",
+    "gigantismo_marino": "La abundancia de nutrientes en los océanos fríos permitió que algunos depredadores marinos alcanzaran tamaños colosales, como el Megalodón."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción del Mioceno Medio / Recambio Faunístico",
+    "fecha_millones_anos_atras": 14.0,
+    "causas_probables": "Enfriamiento global drástico relacionado con cambios en las corrientes oceánicas y la expansión de los hielos antárticos. Esto redujo drásticamente la diversidad de especies que dependían de climas cálidos y húmedos.",
+    "impacto_biologico": "Desaparición de muchas formas arcaicas de mamíferos y una transición hacia faunas más modernas y adaptadas a espacios abiertos. Reducción de la diversidad de los primates en Eurasia."
+  },
+  "sitios_fosiles_clave": [
+    "La Venta (Colombia)",
+    "Riversleigh (Australia)",
+    "Siwaliks (Pakistán/India)",
+    "Yacimiento de Cerro de los Batallones (España)",
+    "Formación Santa Cruz (Argentina)"
+  ],
+  "imagen_principal_url": "mioceno_paisaje.webp",
+  "mapa_paleogeografico_url": "mapa_mioceno_mundo.png"
+}

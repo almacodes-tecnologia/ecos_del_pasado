@@ -1,0 +1,84 @@
+{
+  "id": "paleoceno",
+  "nombre": "Paleoceno",
+  "nombre_comun": "Época del Paleoceno",
+  "periodo_geologico": "Paleógeno",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 66.0,
+  "fin_millones_anos_atras": 56.0,
+  "duracion_aproximada_millones_anos": 10.0,
+  "subdivisiones": [
+    {
+      "nombre": "Paleoceno Inferior (Daniense)",
+      "series": ["Fase de recuperación post-extinción", "Inicio de la radiación de mamíferos"],
+      "inicio_millones_anos_atras": 66.0,
+      "fin_millones_anos_atras": 61.6
+    },
+    {
+      "nombre": "Paleoceno Medio (Selandiense)",
+      "series": ["Transgresión marina", "Expansión de bosques tropicales"],
+      "inicio_millones_anos_atras": 61.6,
+      "fin_millones_anos_atras": 59.2
+    },
+    {
+      "nombre": "Paleoceno Superior (Thanetiense)",
+      "series": ["Aparición de órdenes modernos de mamíferos", "Transición al Máximo Térmico"],
+      "inicio_millones_anos_atras": 59.2,
+      "fin_millones_anos_atras": 56.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes continuaron su deriva hacia las posiciones actuales. Laramidia y Appalachia permanecieron separadas por mares epicontinentales en retirada. Sudamérica, la Antártida y Australia seguían unidas, mientras que la India continuaba su rápida migración hacia el norte para colisionar con Asia. El Atlántico Norte comenzó a abrirse de forma más pronunciada entre Groenlandia y Europa.",
+    "clima_general": "Clima predominantemente cálido y húmedo, con una tendencia al calentamiento global que culminó al final de la época. No había glaciares en los polos; las regiones polares disfrutaban de un clima templado o sub-tropical, permitiendo la existencia de bosques de coníferas y caducifolios en latitudes muy altas. Los niveles de CO2 eran significativamente más altos que hoy.",
+    "eventos_geologicos_importantes": "Levantamiento final de las Montañas Rocosas (Orogenia Laramide). Actividad volcánica intensa en el Atlántico Norte asociada a la ruptura de la placa tectónica. El evento final fue el Máximo Térmico del Paleoceno-Eoceno (PETM), una liberación masiva de carbono que disparó las temperaturas globales."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Angiospermas (dominio absoluto tras la recuperación de la extinción K-Pg)",
+      "Bosques de helechos (colonizadores iniciales tras el impacto)",
+      "Cactus y plantas suculentas (en zonas específicas)",
+      "Árboles de hoja ancha (como laureles y robles primitivos)",
+      "Palmeras (presentes incluso en latitudes altas como Wyoming)"
+    ],
+    "nuevas_apariciones": "Los bosques modernos de dosel cerrado se establecieron por primera vez, reemplazando los paisajes abiertos dominados por dinosaurios. Las selvas tropicales densas comenzaron a extenderse por gran parte del globo."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Mamíferos multituberculados (supervivientes del Cretácico)",
+      "Condilartros (ancestros ungulados de aspecto generalista)",
+      "Pantodontes (como Coryphodon, los primeros mamíferos de gran tamaño)",
+      "Aves del terror (Gastornis, depredadores terrestres gigantes)",
+      "Primeros primates (Plesiadapis y similares)"
+    ],
+    "fauna_marina_clave": [
+      "Tiburones modernos (incluyendo ancestros del Otodus)",
+      "Peces teleósteos (rápida radiación ocupando nichos de reptiles marinos)",
+      "Gasterópodos y bivalvos modernos",
+      "Corales escleractinios (recuperación lenta de los arrecifes)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves modernas (Neornithes, diversificación rápida de órdenes actuales)",
+      "Búhos primitivos",
+      "Aves acuáticas similares a los actuales patos y garzas"
+    ],
+    "nuevas_apariciones": "Aparición de la Titanoboa (la serpiente más grande registrada) en Sudamérica. Los mamíferos placentarios se diversificaron de formas pequeñas a animales del tamaño de un buey en apenas 10 millones de años."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_de_los_mamiferos": "Tras la desaparición de los dinosaurios, los mamíferos pasaron de ser pequeños insectívoros nocturnos a ocupar todos los nichos ecológicos terrestres disponibles.",
+    "gigantismo_de_sangre_fria": "Debido a las altas temperaturas, reptiles como las serpientes y cocodrilos alcanzaron tamaños colosales (Titanoboa) en las zonas tropicales."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Recuperación post K-Pg / Transición al PETM",
+    "fecha_millones_anos_atras": 56.0,
+    "causas_probables": "Al final del Paleoceno, una liberación masiva de hidratos de metano en el lecho marino provocó un calentamiento global extremo y una acidificación oceánica.",
+    "impacto_biologico": "Extinción de muchos foraminíferos bentónicos en el océano profundo. En tierra, provocó migraciones masivas y la aparición de los órdenes modernos de mamíferos (primates, artiodáctilos y perisodáctilos) al inicio del Eoceno."
+  },
+  "sitios_fosiles_clave": [
+    "Mina de Carbón del Cerrejón (Colombia)",
+    "Cuenca de San Juan (Nuevo México, EE.UU.)",
+    "Formación Fort Union (Wyoming, EE.UU.)",
+    "Sitio Fósil de Messel (capas base del Paleoceno tardío, Alemania)"
+  ],
+  "imagen_principal_url": "paleoceno_bosque.webp",
+  "mapa_paleogeografico_url": "paleogeografia_paleoceno.png"
+}

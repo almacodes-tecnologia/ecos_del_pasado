@@ -1,0 +1,76 @@
+{
+  "id": "plioceno",
+  "nombre": "Plioceno",
+  "nombre_comun": "Época Pliocena",
+  "periodo_geologico": "Neógeno",
+  "era_geologica": "Cenozoica",
+  "inicio_millones_anos_atras": 5.33,
+  "fin_millones_anos_atras": 2.58,
+  "duracion_aproximada_millones_anos": 2.75,
+  "subdivisiones": [
+    {
+      "nombre": "Zancliense",
+      "series": ["Piacenziense"],
+      "inicio_millones_anos_atras": 5.33,
+      "fin_millones_anos_atras": 3.6
+    },
+    {
+      "nombre": "Piacenziense",
+      "series": ["Gelasiense (disputado/transición)"],
+      "inicio_millones_anos_atras": 3.6,
+      "fin_millones_anos_atras": 2.58
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "Los continentes se encontraban a menos de 150 km de sus posiciones actuales. El evento geológico más trascendental fue la formación del Istmo de Panamá, uniendo América del Norte y del Sur. Esto alteró las corrientes oceánicas globales, separando el Atlántico del Pacífico y fortaleciendo la Corriente del Golfo. África colisionó con Europa, cerrando el Mar de Tetis y dejando el Mediterráneo como un mar interior.",
+    "clima_general": "Fue un período de enfriamiento y aridez gradual. Al principio, las temperaturas eran 2-3°C superiores a las actuales y el nivel del mar 25 metros más alto. Sin embargo, el cierre del Istmo de Panamá provocó un enfriamiento en el hemisferio norte, acumulando hielo en el Ártico y Groenlandia, marcando el preludio de las glaciaciones del Pleistoceno.",
+    "eventos_geologicos_importantes": "Formación definitiva del Istmo de Panamá. Elevación continua de los Andes y el Himalaya, lo que alteró los patrones de viento globales. Formación de las cascadas del Niágara primitivas. El Mar Mediterráneo se rellenó tras la Crisis de Salinidad del Messiniense (Inundación Zancliense)."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Praderas y sabanas (expansión masiva a nivel global)",
+      "Bosques caducifolios (limitados a latitudes altas)",
+      "Coníferas y tundras (comienzan a dominar el norte)",
+      "Cactus y plantas suculentas (en zonas áridas en expansión)"
+    ],
+    "nuevas_apariciones": "La proliferación de las gramíneas (pastos) C4, más resistentes a la sequía y bajos niveles de CO2, cambió la dieta de los herbívoros en todo el mundo."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Homínidos (Australopithecus, Kenyanthropus)",
+      "Megafauna (Mamuts primitivos, Mastodontes, Deinotherium)",
+      "Carnívoros (Dientes de sable como Smilodon y Megantereon)",
+      "Ungulados (Caballos de tres dedos Hipparion, camellos gigantes)"
+    ],
+    "fauna_marina_clave": [
+      "Megalodón (Otodus megalodon, alcanzando su fin hacia el final de la época)",
+      "Ballenas barbadas (diversificación y aumento de tamaño)",
+      "Delfines y marsopas modernas",
+      "Grandes tiburones blancos (aparecen como competidores)"
+    ],
+    "fauna_aerea_clave": [
+      "Aves del terror (Phorusrhacidae, cruzando de Sur a Norteamérica)",
+      "Pelagornis (aves marinas gigantes con pseudodientes)",
+      "Aves rapaces modernas y paseriformes"
+    ],
+    "nuevas_apariciones": "Aparición de los primeros ancestros directos del género Homo. Gran Intercambio Biótico Americano tras la unión de las Américas."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_hominida": "Los Australopithecus se establecen en África, perfeccionando el bipedismo. Este es el 'punto de inflexión' en la evolución humana.",
+    "gran_intercambio_biotico_americano": "La unión de las Américas permitió que animales del norte (pumas, osos, caballos) bajaran al sur, y los del sur (armadillos gigantes, perezosos terrestres) subieran al norte, causando extinciones masivas en las formas endémicas de Sudamérica."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Extinción de la Megafauna Marina del Plioceno",
+    "fecha_millones_anos_atras": 2.6,
+    "causas_probables": "Enfriamiento global y caída drástica del nivel del mar debido a la glaciación. Esto destruyó los hábitats costeros y las áreas de cría en aguas someras. Posible influencia de una supernova cercana (hipótesis en estudio).",
+    "impacto_biologico": "Desaparición del Megalodón y aproximadamente el 36% de las especies de megafauna marina (ballenas pequeñas, sirenios, tortugas marinas gigantes). En tierra, muchas especies de 'caballos antiguos' y ramoneadores de bosque se extinguieron por la expansión de las estepas frías."
+  },
+  "sitios_fosiles_clave": [
+    "Hadar (Etiopía - donde se encontró a Lucy)",
+    "Laetoli (Tanzania - huellas de homínidos)",
+    "Puntos fóticos de la Formación Pisco (Perú)",
+    "Langebaanweg (Sudáfrica)"
+  ],
+  "imagen_principal_url": "plioceno_savanna.webp",
+  "mapa_paleogeografico_url": "plioceno_map.webp"
+}

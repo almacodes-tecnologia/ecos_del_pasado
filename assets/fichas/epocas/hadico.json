@@ -1,0 +1,69 @@
+{
+  "id": "hadico",
+  "nombre": "Hádico",
+  "nombre_comun": "Eón Hádico",
+  "periodo_geologico": "Preámbrico",
+  "era_geologica": "Ninguna (Eón inicial)",
+  "inicio_millones_anos_atras": 4600.0,
+  "fin_millones_anos_atras": 4000.0,
+  "duracion_aproximada_millones_anos": 600.0,
+  "subdivisiones": [
+    {
+      "nombre": "Era Críptica",
+      "series": ["Formación del Sistema Solar", "Acreción de la Tierra", "Impacto de Theia"],
+      "inicio_millones_anos_atras": 4600.0,
+      "fin_millones_anos_atras": 4533.0
+    },
+    {
+      "nombre": "Grupos de Grupos Nectárico e Imbrico",
+      "series": ["Solidificación de la corteza", "Formación de la Luna", "Bombardeo Intenso Tardío"],
+      "inicio_millones_anos_atras": 4533.0,
+      "fin_millones_anos_atras": 4000.0
+    }
+  ],
+  "geologia_y_clima": {
+    "configuracion_continental": "No existían continentes como tal. La Tierra era una esfera de roca fundida (océano de magma) que comenzó a enfriarse. Se formó una protocorteza inestable de basalto y komatita que se reciclaba constantemente debido a una tectónica de placas extremadamente vigorosa y caótica.",
+    "clima_general": "Condiciones infernales. La atmósfera era densa, oscura y compuesta de hidrógeno, helio, amoníaco, metano y vapor de agua. No había oxígeno libre. Al final del eón, al enfriarse la superficie por debajo de los 100°C, el vapor se condensó dando lugar a lluvias torrenciales que duraron milenios, formando los primeros océanos ácidos.",
+    "eventos_geologicos_importantes": "Diferenciación del núcleo metálico y el manto. El Gran Impacto de un protoplaneta del tamaño de Marte (Theia) que expulsó material para formar la Luna. El Bombardeo Intenso Tardío (LHB) de asteroides que re-fundió partes de la corteza y trajo agua y compuestos orgánicos adicionales."
+  },
+  "flora": {
+    "flora_terrestre_predominante": [
+      "Inexistente (Ambiente abiótico)",
+      "Ausencia de capa de ozono (Radiación UV extrema)",
+      "Superficie estéril de roca ígnea"
+    ],
+    "nuevas_apariciones": "No hay registro de flora. La química prebiótica estaba en proceso, pero el entorno era hostil para cualquier estructura celular vegetal."
+  },
+  "fauna": {
+    "fauna_terrestre_clave": [
+      "Ninguna"
+    ],
+    "fauna_marina_clave": [
+      "Protobiontes (posibles precursores de la vida)",
+      "Moléculas autorreplicantes de ARN (hipótesis del mundo de ARN)",
+      "Primeros indicios químicos de actividad biológica (isótopos de carbono en circones)"
+    ],
+    "fauna_aerea_clave": [
+      "Ninguna"
+    ],
+    "nuevas_apariciones": "Hacia el final del Hádico (hace 4100-4000 Ma), podrían haber aparecido los primeros organismos unicelulares extremófilos cerca de fuentes hidrotermales, aunque el registro fósil oficial comienza en el Arcaico."
+  },
+  "eventos_biologicos_significativos": {
+    "revolucion_prebiotica": "La transición de la química inorgánica a la orgánica compleja en los océanos primitivos (sopa primordial).",
+    "estabilización_del_ciclo_del_agua": "La formación de la hidrosfera permitió un medio estable para que los aminoácidos y nucleótidos comenzaran a interactuar sin ser destruidos por el calor extremo."
+  },
+  "extinciones_masivas": {
+    "nombre_extincion": "Esterilización por Impacto",
+    "fecha_millones_anos_atras": 4480.0,
+    "causas_probables": "Impactos planetarios masivos post-acreción que pudieron haber vaporizado los océanos incipientes varias veces.",
+    "impacto_biologico": "Cualquier intento de vida temprana probablemente fue aniquilado repetidamente hasta que la frecuencia de impactos de asteroides disminuyó lo suficiente como para permitir la persistencia biológica."
+  },
+  "sitios_fosiles_clave": [
+    "Jack Hills (Australia) - Circones de 4400 Ma",
+    "Cinturón supracortical de Isua (Groenlandia)",
+    "Complejo gnéisico de Acasta (Canadá)",
+    "Nuvvuagittuq Greenstone Belt (Canadá)"
+  ],
+  "imagen_principal_url": "hadico.webp",
+  "mapa_paleogeografico_url": "no_disponible_corteza_inestable.png"
+}
