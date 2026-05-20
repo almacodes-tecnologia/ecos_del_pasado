@@ -405,7 +405,167 @@
     "epoca": "Jurásico Superior",
     "alimentacion": "Carnívoro",
     "imagen_principal_url": "compsognathus.webp"
+  },
+  {
+    "id": "andrewsarchus",
+    "nombre": "Andrewsarchus mongoliensis",
+    "nombre_comun": "Andrewsarchus",
+    "tipo_animal": "mamífero",
+    "epoca": "Eoceno",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "andrewsarchus.webp"
+  },
+  {
+    "id": "anomalocaris",
+    "nombre": "Anomalocaris canadensis",
+    "nombre_comun": "Anomalocaris",
+    "tipo_animal": "artrópodo",
+    "epoca": "Cámbrico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "anomalocaris.webp"
+  },
+  {
+    "id": "archelon",
+    "nombre": "Archelon ischyros",
+    "nombre_comun": "Archelon",
+    "tipo_animal": "reptil",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "archelon.webp"
+  },
+  {
+    "id": "basilosaurus",
+    "nombre": "Basilosaurus cetoides",
+    "nombre_comun": "Basilosaurio",
+    "tipo_animal": "mamífero",
+    "epoca": "Eoceno",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "basilosaurus.webp"
+  },
+  {
+    "id": "bothriolepis",
+    "nombre": "Bothriolepis canadensis",
+    "nombre_comun": "Bothriolepis",
+    "tipo_animal": "pez",
+    "epoca": "Devónico Superior",
+    "alimentacion": "Omnívoro",
+    "imagen_principal_url": "bothriolepis.webp"
+  },
+  {
+    "id": "brachiosaurus",
+    "nombre": "Brachiosaurus altithorax",
+    "nombre_comun": "Brachiosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Jurásico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "brachiosaurus.webp"
+  },
+  {
+    "id": "caeradactilo",
+    "nombre": "Caeradactylus",
+    "nombre_comun": "Caeradáctilo",
+    "tipo_animal": "pterosaurio",
+    "epoca": "Cretácico Inferior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "caeradactilo.webp"
+  },
+  {
+    "id": "cladoselache",
+    "nombre": "Cladoselache fyleri",
+    "nombre_comun": "Cladoselache",
+    "tipo_animal": "tiburón",
+    "epoca": "Devónico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "cladoselache.webp"
+  },
+  {
+    "id": "dunkleosteus",
+    "nombre": "Dunkleosteus terrelli",
+    "nombre_comun": "Dunkleosteus",
+    "tipo_animal": "pez",
+    "epoca": "Devónico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "dunkleosterus.webp"
+  },
+  {
+    "id": "edaphosaurus",
+    "nombre": "Edaphosaurus boanerges",
+    "nombre_comun": "Edaphosaurio",
+    "tipo_animal": "sinápsido",
+    "epoca": "Pérmico Inferior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "edaphosaurus.webp"
+  },
+  {
+    "id": "edmontonia",
+    "nombre": "Edmontonia longiceps",
+    "nombre_comun": "Edmontonia",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "edmontonia.webp"
+  },
+  {
+    "id": "hallucigenia",
+    "nombre": "Hallucigenia sparsa",
+    "nombre_comun": "Hallucigenia",
+    "tipo_animal": "lobópodo",
+    "epoca": "Cámbrico",
+    "alimentacion": "Omnívoro",
+    "imagen_principal_url": "halluciegenia.webp"
+  },
+  {
+    "id": "parasaurolophus",
+    "nombre": "Parasaurolophus walkeri",
+    "nombre_comun": "Parasaurolophus",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "parasaurolophus.webp"
+  },
+  {
+    "id": "plateosaurus",
+    "nombre": "Plateosaurus engelhardti",
+    "nombre_comun": "Plateosaurio",
+    "tipo_animal": "dinosaurio",
+    "epoca": "Triásico Superior",
+    "alimentacion": "Herbívoro",
+    "imagen_principal_url": "plateosaurus.webp"
+  },
+  {
+    "id": "quetzalcoatlus",
+    "nombre": "Quetzalcoatlus northropi",
+    "nombre_comun": "Quetzalcóatlus",
+    "tipo_animal": "pterosaurio",
+    "epoca": "Cretácico Superior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "quetzalcoatlus.webp"
+  },
+  {
+    "id": "seymouria",
+    "nombre": "Seymouria baylorensis",
+    "nombre_comun": "Seymouria",
+    "tipo_animal": "reptiliomorfo",
+    "epoca": "Pérmico Inferior",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "seymouria.webp"
+  },
+  {
+    "id": "sidneyia",
+    "nombre": "Sidneyia inexpectans",
+    "nombre_comun": "Sidneyia",
+    "tipo_animal": "artrópodo",
+    "epoca": "Cámbrico",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "sidneyia.webp"
+  },
+  {
+    "id": "tanystropheus",
+    "nombre": "Tanystropheus conspicuus",
+    "nombre_comun": "Tanystropheus",
+    "tipo_animal": "reptil",
+    "epoca": "Triásico Medio",
+    "alimentacion": "Carnívoro",
+    "imagen_principal_url": "tanystropheus.webp"
   }
 ]
-
-
