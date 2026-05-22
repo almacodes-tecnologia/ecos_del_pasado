@@ -11,7 +11,7 @@
   {
     "id": "glossopteris",
     "nombre_comun": "Glossopteris",
-    "nombre_cientifico": ".",
+    "nombre_cientifico": "Glossopteris spp.",
     "tipo_vegetal": "Árbol prehistórico",
     "grupo": "Glossopteridales",
     "epoca": "Pérmico",
@@ -20,19 +20,199 @@
   {
     "id": "williamsonia",
     "nombre_comun": "Williamsonia",
-    "nombre_cientifico": ".",
+    "nombre_cientifico": "Williamsonia spp.",
     "tipo_vegetal": "Cícada",
     "grupo": "Bennettitales",
     "epoca": "Jurásico",
     "imagen_principal_url": "williamsonia.webp"
   },
-    {
+  {
     "id": "calamites",
     "nombre_comun": "Calamites",
-    "nombre_cientifico": ".",
+    "nombre_cientifico": "Calamites spp.",
     "tipo_vegetal": "Equisetos gigantes",
     "grupo": "Equisetophyta",
     "epoca": "Carbonífero",
     "imagen_principal_url": "calamites.webp"
+  },
+  {
+    "id": "cooksonia",
+    "nombre_comun": "Cooksonia",
+    "nombre_cientifico": "Cooksonia spp.",
+    "tipo_vegetal": "Planta terrestre primitiva",
+    "grupo": "Rhyniophyte",
+    "epoca": "Silúrico - Devónico",
+    "imagen_principal_url": "cooksonia.webp"
+  },
+  {
+    "id": "lepidodendron",
+    "nombre_comun": "Lepidodendron (Árbol de escamas)",
+    "nombre_cientifico": "Lepidodendron spp.",
+    "tipo_vegetal": "Licófita gigante",
+    "grupo": "Lepidodendrales",
+    "epoca": "Carbonífero",
+    "imagen_principal_url": "lepidodendron.webp"
+  },
+  {
+    "id": " ",
+    "nombre_comun": "Sigillaria",
+    "nombre_cientifico": "Sigillaria spp.",
+    "tipo_vegetal": "Licófita gigante",
+    "grupo": "Lepidodendrales",
+    "epoca": "Carbonífero - Pérmico",
+    "imagen_principal_url": "sigillaria.webp"
+  },
+  {
+    "id": "psilophyton",
+    "nombre_comun": "Psilophyton",
+    "nombre_cientifico": "Psilophyton spp.",
+    "tipo_vegetal": "Planta vascular primitiva",
+    "grupo": "Trimerophytina",
+    "epoca": "Devónico",
+    "imagen_principal_url": "psilophyton.webp"
+  },
+  {
+    "id": "rhynia",
+    "nombre_comun": "Rhynia",
+    "nombre_cientifico": "Rhynia gwynne-vaughanii",
+    "tipo_vegetal": "Planta terrestre primitiva",
+    "grupo": "Rhyniophyte",
+    "epoca": "Devónico",
+    "imagen_principal_url": "rhynia.webp"
+  },
+  {
+    "id": "baragwanathia",
+    "nombre_comun": "Baragwanathia",
+    "nombre_cientifico": "Baragwanathia spp.",
+    "tipo_vegetal": "Licófita primitiva",
+    "grupo": "Lycopsida",
+    "epoca": "Silúrico - Devónico",
+    "imagen_principal_url": "baragwanathia.webp"
+  },
+  {
+    "id": "asteroxylon",
+    "nombre_comun": "Asteroxylon",
+    "nombre_cientifico": "Asteroxylon mackiei",
+    "tipo_vegetal": "Licófita primitiva",
+    "grupo": "Lycopsida",
+    "epoca": "Devónico",
+    "imagen_principal_url": "asteroxylon.webp"
+  },
+  {
+    "id": "medullosa",
+    "nombre_comun": "Medullosa",
+    "nombre_cientifico": "Medullosa spp.",
+    "tipo_vegetal": "Helecho con semilla",
+    "grupo": "Pteridospermatophyta",
+    "epoca": "Carbonífero - Pérmico",
+    "imagen_principal_url": "medullosa.webp"
+  },
+  {
+    "id": "cordaites",
+    "nombre_comun": "Cordaites",
+    "nombre_cientifico": "Cordaites spp.",
+    "tipo_vegetal": "Conífera primitiva",
+    "grupo": "Cordaitales",
+    "epoca": "Carbonífero - Pérmico",
+    "imagen_principal_url": "cordaites.webp"
+  },
+  {
+    "id": "walchia",
+    "nombre_comun": "Walchia",
+    "nombre_cientifico": "Walchia spp.",
+    "tipo_vegetal": "Conífera primitiva",
+    "grupo": "Voltziales",
+    "epoca": "Carbonífero - Pérmico",
+    "imagen_principal_url": "walchia.webp"
+  },
+  {
+    "id": "caytonia",
+    "nombre_comun": "Caytonia",
+    "nombre_cientifico": "Caytonia spp.",
+    "tipo_vegetal": "Helecho con semilla",
+    "grupo": "Caytoniales",
+    "epoca": "Triásico - Cretácico",
+    "imagen_principal_url": "caytonia.webp"
+  },
+  {
+    "id": "cycadeoidea",
+    "nombre_comun": "Cycadeoidea",
+    "nombre_cientifico": "Cycadeoidea spp.",
+    "tipo_vegetal": "Cícada prehistórica",
+    "grupo": "Bennettitales",
+    "epoca": "Jurásico - Cretácico",
+    "imagen_principal_url": "cycadeoidea.webp"
+  },
+  {
+    "id": "archaeamphora",
+    "nombre_comun": "Archaeamphora",
+    "nombre_cientifico": "Archaeamphora longicervia",
+    "tipo_vegetal": "Planta carnívora primitiva",
+    "grupo": "Angiospermae",
+    "epoca": "Cretácico",
+    "imagen_principal_url": "archaeamphora.webp"
+  },
+  {
+    "id": "archaefructus",
+    "nombre_comun": "Archaefructus",
+    "nombre_cientifico": "Archaefructus spp.",
+    "tipo_vegetal": "Planta con flor acuática",
+    "grupo": "Angiospermae",
+    "epoca": "Cretácico",
+    "imagen_principal_url": "archaefructus.webp"
+  },
+  {
+    "id": "montsechia",
+    "nombre_comun": "Montsechia",
+    "nombre_cientifico": "Montsechia vidalii",
+    "tipo_vegetal": "Planta con flor acuática",
+    "grupo": "Angiospermae",
+    "epoca": "Cretácico",
+    "imagen_principal_url": "montsechia.webp"
+  },
+  {
+    "id": "leclercqia",
+    "nombre_comun": "Leclercqia",
+    "nombre_cientifico": "Leclercqia spp.",
+    "tipo_vegetal": "Licófita herbácea",
+    "grupo": "Lycopsida",
+    "epoca": "Devónico",
+    "imagen_principal_url": "leclercqia.webp"
+  },
+  {
+    "id": "sphenophyllum",
+    "nombre_comun": "Sphenophyllum",
+    "nombre_cientifico": "Sphenophyllum spp.",
+    "tipo_vegetal": "Equiseto rastrero",
+    "grupo": "Equisetophyta",
+    "epoca": "Devónico - Triásico",
+    "imagen_principal_url": "sphenophyllum.webp"
+  },
+  {
+    "id": "cladoxylon",
+    "nombre_comun": "Cladoxylon",
+    "nombre_cientifico": "Cladoxylon spp.",
+    "tipo_vegetal": "Helecho primitivo",
+    "grupo": "Cladoxylopsida",
+    "epoca": "Devónico - Carbonífero",
+    "imagen_principal_url": "cladoxylon.webp"
+  },
+  {
+    "id": "zosterophyllum",
+    "nombre_comun": "Zosterophyllum",
+    "nombre_cientifico": "Zosterophyllum spp.",
+    "tipo_vegetal": "Planta terrestre primitiva",
+    "grupo": "Zosterophyllopsida",
+    "epoca": "Silúrico - Devónico",
+    "imagen_principal_url": "zosterophyllum.webp"
+  },
+  {
+    "id": "dicroidium",
+    "nombre_comun": "Dicroidium",
+    "nombre_cientifico": "Dicroidium spp.",
+    "tipo_vegetal": "Helecho con semilla",
+    "grupo": "Pteridospermatophyta",
+    "epoca": "Triásico",
+    "imagen_principal_url": "dicroidium.webp"
   }
 ]
