@@ -1,0 +1,84 @@
+{
+  "id": "medullosa",
+  "nombre_comun": "Medullosa",
+  "nombre_cientifico": "Medullosa spp.",
+  "tipo_vegetal": "Helecho con semilla",
+  "grupo": "Pteridospermatophyta",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Medullosales"
+  },
+  "dimensiones": {
+    "altura_m": 5.0,
+    "diametro_tronco_m": 0.4,
+    "extension_copa_m": 3.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero - Pérmico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "315–272",
+    "edad_inicio_millones_anios": 315,
+    "edad_fin_millones_anios": 272
+  },
+  "descubrimiento": {
+    "anio": 1832,
+    "descubridor": "Bernhard von Cotta",
+    "lugar_original": {
+      "formacion": "Depósitos pérmicos de Chemnitz",
+      "region": "Sajonia",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Sajonia (Chemnitz)"],
+      "lat": 50.83,
+      "lon": 12.92
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Illinois (Mazon Creek)", "Indiana"],
+      "lat": 41.32,
+      "lon": -88.34
+    },
+    {
+      "pais": "Francia",
+      "regiones": ["Autun"],
+      "lat": 46.95,
+      "lon": 4.3
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sotobosques de pantanos costeros, llanuras aluviales y zonas pantanosas bajas",
+    "zona_actual": "Europa y América del Norte",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Ecuatorial, cálido, húmedo y fuertemente tropical"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Aunque sus frondes eran idénticas a las de un helecho común, no se reproducía por esporas, sino que producía semillas gigantescas del tamaño de un huevo de gallina o un aguacate. Su tronco no tenía un núcleo sólido, sino que estaba formado por múltiples hilos independientes de madera rodeados por una densa red de raíces aéreas que le daban estabilidad."
+  ],
+  "imagen_principal_url": "medullosa.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Medullosa es el género más representativo de las Medullosales, un grupo extinto de pteridospermas (helechos con semilla) que prosperó en los ecosistemas húmedos del Paleozoico superior. Su anatomía interna (polistela) presentaba múltiples cilindros concéntricos de xilema secundario que crecían de forma asimétrica. Sus frondes eran enormes (géneros de hojas *Alethopteris* y *Neuropteris*) y estaban sostenidas por pecíolos robustos provistos de bandas esclerenquimáticas para soportar el peso de la copa.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 3,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 3,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Grandes frondes compuestas, pinnadas o bipinnadas (*Alethopteris* / *Neuropteris*), con folíolos densos y venación abierta",
+    "tronco": "Falso tallo erecto constituido por varios haces vasculares ramificados internamente, recubierto por las bases persistentes de las hojas y raíces adventicias adventicias apretadas",
+    "raiz": "Red masiva de raíces descendentes y adventicias que nacían directamente del tronco para apuntalar la planta en suelos blandos"
+  },
+  "reproduccion": {
+    "tipo": "Semillas grandes y carnosas (*Pachytesta*) polinizadas por el viento u organismos primitivos, complementadas por enormes órganos masculinos productores de polen (*Dolerotheca*)"
+  },
+  "extincion": "Finales del Pérmico Inferior, debido a la drástica reducción de las selvas húmedas tropicales por la formación del supercontinente Pangea y la consiguiente aridificación climática"
+}

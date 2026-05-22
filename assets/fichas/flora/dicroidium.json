@@ -1,0 +1,84 @@
+{
+  "id": "dicroidium",
+  "nombre_comun": "Dicroidium",
+  "nombre_cientifico": "Dicroidium spp.",
+  "tipo_vegetal": "Helecho con semilla",
+  "grupo": "Pteridospermatophyta",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Umkomasiales"
+  },
+  "dimensiones": {
+    "altura_m": 4.5,
+    "diametro_tronco_m": 0.18,
+    "extension_copa_m": 2.5
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Triásico",
+    "fase": "Temprano a Tardío",
+    "edad_millones_anios": "251–201",
+    "edad_inicio_millones_anios": 251,
+    "edad_fin_millones_anios": 201
+  },
+  "descubrimiento": {
+    "anio": 1845,
+    "descubridor": "James Dwight Dana",
+    "lugar_original": {
+      "formacion": "Cuenca de Sydney (Illawarra Coal Measures)",
+      "region": "Nueva Gales del Sur",
+      "pais": "Australia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Australia",
+      "regiones": ["Nueva Gales del Sur", "Queensland"],
+      "lat": -33.86,
+      "lon": 151.2
+    },
+    {
+      "pais": "Sudáfrica",
+      "regiones": ["Formación Molteno"],
+      "lat": -31.1,
+      "lon": 26.4
+    },
+    {
+      "pais": "Antártida",
+      "regiones": ["Montañas Transantárticas"],
+      "lat": -85.0,
+      "lon": 165.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques fluviales, llanuras aluviales y zonas riparias estacionales",
+    "zona_actual": "Oceanía, África, Sudamérica y Antártida",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Templado cálido a frío, con regímenes monzónicos y alta estacionalidad"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Sus fósiles son tan característicos y abundantes en el hemisferio sur que se utilizan como fósiles guía para datar estratos del Triásico. Además, el hallazgo de sus hojas en la gélida Antártida actual fue una de las pruebas definitivas para demostrar la deriva continental y la existencia del supercontinente Gondwana."
+  ],
+  "imagen_principal_url": "dicroidium.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Dicroidium es un género extinto de pteridospermas (helechos con semilla) de porte arbustivo o arbóreo pequeño que dominó la flora de latitudes altas en Gondwana durante el Triásico. Su rasgo anatómico más distintivo es que el raquis de sus frondes u hojas se bifurcaba de forma dicotómica simétrica en dos ramas principales (de ahí su nombre, que significa 'dos puntas'). Aunque sus hojas parecían las de un helecho común, presentaban cutículas gruesas adaptadas a la estacionalidad y producían semillas verdaderas.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 3,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Pinnadas o bipinnadas, coriáceas y característicamente bifurcadas en la base del raquis principal",
+    "tronco": "Leñoso, ramificado, con canales de resina y anillos de crecimiento estacionales bien marcados (morfogenénero de madera Rhexoxylon)",
+    "raiz": "Sistema radicular denso y extendido lateralmente, óptimo para suelos fluviales propensos a inundaciones periódicas"
+  },
+  "reproduccion": {
+    "tipo": "Semillas unidas a estructuras cupulares ramificadas (Umkomasia) y órganos productores de polen multiloculares (Pteruchus)"
+  },
+  "extincion": "Finales del Triásico, provocada por el evento de extinción masiva del Triásico-Jurásico, asociado a un calentamiento global severo provocado por la Provincia Magmática del Atlántico Central"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "glossopteris",
+  "nombre_comun": "Glossopteris",
+  "nombre_cientifico": "Glossopteris spp.",
+  "tipo_vegetal": "Árbol prehistórico",
+  "grupo": "Glossopteridales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Glossopteridales"
+  },
+  "dimensiones": {
+    "altura_m": 30.0,
+    "diametro_tronco_m": 1.0,
+    "extension_copa_m": 5.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Pérmico",
+    "fase": "Cisuraliense a Lopingiense",
+    "edad_millones_anios": "299–251",
+    "edad_inicio_millones_anios": 299,
+    "edad_fin_millones_anios": 251
+  },
+  "descubrimiento": {
+    "anio": 1828,
+    "descubridor": "Adolphe Theodore Brongniart",
+    "lugar_original": {
+      "formacion": "Cuenca de Raniganj",
+      "region": "Bengala Occidental",
+      "pais": "India"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "India",
+      "regiones": ["Raniganj"],
+      "lat": 23.61,
+      "lon": 87.1
+    },
+    {
+      "pais": "Sudáfrica",
+      "regiones": ["Karoo (Supergrupo Karoo)"],
+      "lat": -32.2,
+      "lon": 25.6
+    },
+    {
+      "pais": "Antártida",
+      "regiones": ["Montañas Transantárticas"],
+      "lat": -82.0,
+      "lon": 160.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Bosques pantanosos de latitudes altas y llanuras inundables postglaciares",
+    "zona_actual": "Sudamérica, África, India, Australia y Antártida",
+    "zona_paleogeografica": "Gondwana",
+    "clima_estimado": "Templado frío a boreal, con inviernos oscuros y estacionales"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Sus hojas caían en otoño de forma masiva, cubriendo el suelo y formando densas capas que dieron origen a los depósitos de carbón más grandes del hemisferio sur. El hallazgo de sus fósiles en zonas hoy separadas por océanos —e incluso en el Polo Sur— demostró que todos estos continentes estuvieron unidos en el pasado."
+  ],
+  "imagen_principal_url": "glossopteris.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Glossopteris es el género más abundante de un orden extinto de gimnospermas (helechos con semilla) arborescentes que definió el paisaje de Gondwana durante el Pérmico. Desarrollaban una madera leñosa densa similar a la de las coníferas actuales (morfogenénero Vertebraria) que presentaba anillos de crecimiento muy marcados, testimonio de la estacionalidad del clima. Su aparato reproductivo era inusual, con estructuras portadoras de semillas fusionadas directamente a la superficie superior de sus hojas modificadas.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 2,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Grandes, simples, lanceoladas o con forma de lengua (de ahí su nombre), con una nervadura central prominente y una red de venas secundarias reticuladas",
+    "tronco": "Alto y ramificado, leñoso, con una anatomía radicular y de tronco interna única (Vertebraria) provista de cámaras de aire para sobrevivir en suelos anegados",
+    "raiz": "Sistema radicular especializado y ramificado horizontalmente, adaptado a lodos de turberas saturados de agua"
+  },
+  "reproduccion": {
+    "tipo": "Semillas desnudas unidas a hojas modificadas o megasporófilos, polinizadas por el viento"
+  },
+  "extincion": "Finales del Pérmico (hace 251 millones de años), desapareciendo por completo en la extinción masiva del Pérmico-Triásico debido al colapso climático global"
+}

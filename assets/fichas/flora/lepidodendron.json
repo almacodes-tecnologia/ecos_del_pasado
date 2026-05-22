@@ -1,0 +1,84 @@
+{
+  "id": "lepidodendron",
+  "nombre_comun": "Lepidodendron (Árbol de escamas)",
+  "nombre_cientifico": "Lepidodendron spp.",
+  "tipo_vegetal": "Licófita gigante",
+  "grupo": "Lepidodendrales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Lepidodendrales"
+  },
+  "dimensiones": {
+    "altura_m": 40.0,
+    "diametro_tronco_m": 2.0,
+    "extension_copa_m": 8.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero",
+    "fase": "Tardío",
+    "edad_millones_anios": "359–299",
+    "edad_inicio_millones_anios": 359,
+    "edad_fin_millones_anios": 299
+  },
+  "descubrimiento": {
+    "anio": 1820,
+    "descubridor": "Ernst Friedrich von Schlotheim",
+    "lugar_original": {
+      "formacion": "Depósitos de carbón de Silesia",
+      "region": "Alta Silesia",
+      "pais": "Polonia / Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Escocia (Fossil Grove en Glasgow)", "Gales"],
+      "lat": 55.87,
+      "lon": -4.33
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Pensilvania", "Kentucky"],
+      "lat": 40.5,
+      "lon": -77.5
+    },
+    {
+      "pais": "China",
+      "regiones": ["Shanxi"],
+      "lat": 37.8,
+      "lon": 112.5
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Pantanos costeros de tierras bajas, marismas permanentes y turberas",
+    "zona_actual": "Europa, América del Norte y Asia",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Ecuatorial, tropical húmedo, constante y sin estaciones"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Aunque alcanzaba la altura de un edificio de 12 pisos, no era un árbol verdadero sino un pariente gigante de los actuales licopodios herbáceos. No tenía madera real; su gigantesco tronco se sostenía gracias a una corteza exterior verde y rígida que realizaba la fotosíntesis y que, al mudar sus hojas, dejaba marcas en forma de rombo que parecen escamas de caimán."
+  ],
+  "imagen_principal_url": "lepidodendron.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Lepidodendron es el género arquetípico de las licófitas arborescentes gigantes que constituyeron la mayor parte de la biomasa de las selvas tropicales del Carbonífero. Su crecimiento era vertiginoso: pasaba la mayor parte de su vida como un único poste verde vertical sin ramas y, solo al final de su ciclo vital, desarrollaba una corona dicotómica superior. Al carecer de un cámbium vascular leñoso desarrollado como el de los árboles modernos, la rigidez estructural la aportaba una densa y gruesa corteza peridérmica.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 1,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Microfilos alargados similares a cintas o agujas vivas (Lepidophloios) que brotaban directamente del tronco y caían al madurar",
+    "tronco": "Colosal y columnar, carente de xilema secundario masivo, caracterizado por un patrón geométrico regular de cojinetes foliares romboidales",
+    "raiz": "Estructuras de anclaje horizontales y bifurcadas llamadas Stigmaria, cubiertas de raíces delgadas dispuestas en espiral"
+  },
+  "reproduccion": {
+    "tipo": "Esporas heterospóreas producidas en conos colgantes masivos (Lepidostrobus) situados al final de sus ramas terminales"
+  },
+  "extincion": "Comienzos del Pérmico, debido al Colapso de las Selvas Carboníferas provocado por un cambio climático global hacia condiciones mucho más áridas y frías"
+}

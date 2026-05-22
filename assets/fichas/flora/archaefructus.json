@@ -1,0 +1,72 @@
+{
+  "id": "archaefructus",
+  "nombre_comun": "Archaefructus",
+  "nombre_cientifico": "Archaefructus spp.",
+  "tipo_vegetal": "planta con flor acuática",
+  "grupo": "Angiospermae",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Archaefructales (orden propio extinto)"
+  },
+  "dimensiones": {
+    "altura_m": 0.5,
+    "diametro_tronco_m": 0.0,
+    "extension_copa_m": 0.2
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Temprano",
+    "edad_millones_anios": "125–121",
+    "edad_inicio_millones_anios": 125,
+    "edad_fin_millones_anios": 121
+  },
+  "descubrimiento": {
+    "anio": 1998,
+    "descubridor": "Ge Sun y David Dilcher",
+    "lugar_original": {
+      "formacion": "Formación Yixian",
+      "region": "Provincia de Liaoning",
+      "pais": "China"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "China",
+      "regiones": ["Liaoning (Biota de Jehol)"],
+      "lat": 41.5,
+      "lon": 121.3
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Lagos poco profundos y estanques calmos",
+    "zona_actual": "Noreste de Asia",
+    "zona_paleogeografica": "Bloque de Amuria (Laurasia)",
+    "clima_estimado": "Templado cálido, con estaciones marcadas e intensa actividad volcánica"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Aunque carecía de pétalos y sépalos, la presencia de semillas encerradas en carpelos la convirtió en uno de los géneros de angiospermas más completos y antiguos jamás encontrados."
+  ],
+  "imagen_principal_url": "archaefructus.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Archaefructus es un género basal de angiospermas herbáceas acuáticas que vivió durante el Cretácico Inferior. Los fósiles excepcionalmente preservados muestran que sus órganos reproductores (estambres y carpelos) estaban distribuidos a lo largo de un eje alargado en lugar de agrupados en una flor típica. Su anatomía, con tallos delgados y hojas filamentosas sumergidas, sugiere una vida enteramente ligada al agua dulce, donde el agua sostenía físicamente a la planta.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 5,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Profundamente divididas, delgadas y plumosas, óptimas para el intercambio de gases bajo el agua",
+    "tronco": "Ausente (tallos herbáceos flexibles y delgados)",
+    "raiz": "Sistema radicular simple y fibroso para anclarse en el sedimento blando del fondo del lago"
+  },
+  "reproduccion": {
+    "tipo": "Semillas encerradas en frutos primitivos tipo folículo"
+  },
+  "extincion": "Desconocida, probablemente vinculada a cambios en los ecosistemas lacustres locales y el desplazamiento por angiospermas terrestres más eficientes"
+}

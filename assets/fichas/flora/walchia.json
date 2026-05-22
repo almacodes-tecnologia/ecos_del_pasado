@@ -1,0 +1,84 @@
+{
+  "id": "walchia",
+  "nombre_comun": "Walchia",
+  "nombre_cientifico": "Walchia spp.",
+  "tipo_vegetal": "Conífera primitiva",
+  "grupo": "Voltziales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Voltziales"
+  },
+  "dimensiones": {
+    "altura_m": 15.0,
+    "diametro_tronco_m": 0.4,
+    "extension_copa_m": 3.5
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero - Pérmico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "310–272",
+    "edad_inicio_millones_anios": 310,
+    "edad_fin_millones_anios": 272
+  },
+  "descubrimiento": {
+    "anio": 1825,
+    "descubridor": "Kaspar Maria von Sternberg",
+    "lugar_original": {
+      "formacion": "Depósitos pérmicos de Turingia",
+      "region": "Turingia",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Sarre", "Turingia"],
+      "lat": 50.8,
+      "lon": 11.0
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Nueva México (Abo Formation)", "Oklahoma", "Texas"],
+      "lat": 34.4,
+      "lon": -106.3
+    },
+    {
+      "pais": "Francia",
+      "regiones": ["Cuenca de Lodève"],
+      "lat": 43.73,
+      "lon": 3.32
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Tierras altas continentales, llanuras aluviales estacionales y márgenes áridos de cuencas",
+    "zona_actual": "Europa y América del Norte",
+    "zona_paleogeografica": "Euramérica (Pangea central)",
+    "clima_estimado": "Semiárido a subtropical seco, con estaciones marcadamente secas"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Su aspecto externo era prácticamente idéntico al de una conífera moderna, recordando muchísimo a la actual Araucaria o 'pino de la isla de Norfolk'. Sus ramillas fosilizadas son tan detalladas que a menudo se conservan con la forma de delicadas plumas verdes debido a la rigidez y resistencia de sus hojas a la sequía."
+  ],
+  "imagen_principal_url": "walchia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Walchia es un género extinto de coníferas primitivas pertenecientes al orden Voltziales, considerado el grupo de transición clave hacia las coníferas modernas. Desarrollaban una madera leñosa verdadera con canales de resina y una ramificación marcadamente regular y simétrica. Sus hojas poseían adaptaciones xerofíticas avanzadas, como estomas hundidos y una cutícula extremadamente gruesa, diseñadas específicamente para reducir la pérdida de agua por transpiración en entornos donde la humedad comenzaba a escasear.",
+  "estadisticas_ambientales": {
+    "belleza": 4,
+    "rareza": 2,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Pequeñas, aciculares (en forma de aguja) o escamosas, curvadas hacia adelante y densamente apretadas en espiral alrededor de las ramillas",
+    "tronco": "Erecto, leñoso, con corteza rugosa y un patrón de ramificación lateral regular y horizontal (plana)",
+    "raiz": "Sistema radicular profundo y pivotante, optimizado para buscar agua en capas subterráneas profundas durante las estaciones secas"
+  },
+  "reproduccion": {
+    "tipo": "Semillas desnudas transportadas en conos (estróbilos) unisexuales primitivos; los conos masculinos producían polen adaptado para viajar largas distancias con el viento"
+  },
+  "extincion": "Mediados del Pérmico, cuando las condiciones de aridez extrema de Pangea se intensificaron aún más, forzando su evolución y sustitución por familias de coníferas mesozoicas más avanzadas"
+}

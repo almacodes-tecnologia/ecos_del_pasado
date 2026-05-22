@@ -1,0 +1,78 @@
+{
+  "id": "calamites",
+  "nombre_comun": "Calamites",
+  "nombre_cientifico": "Calamites spp.",
+  "tipo_vegetal": "Equisetos gigantes",
+  "grupo": "Equisetophyta",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Calamitales"
+  },
+  "dimensiones": {
+    "altura_m": 30.0,
+    "diametro_tronco_m": 1.0,
+    "extension_copa_m": 3.5
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero",
+    "fase": "Tardío",
+    "edad_millones_anios": "359–299",
+    "edad_inicio_millones_anios": 359,
+    "edad_fin_millones_anios": 299
+  },
+  "descubrimiento": {
+    "anio": 1820,
+    "descubridor": "Ernst Friedrich von Schlotheim",
+    "lugar_original": {
+      "formacion": "Depósitos de carbón de Europa Central",
+      "region": "Turingia",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Pensilvania", "Virginia Occidental", "Illinois"],
+      "lat": 40.0,
+      "lon": -76.0
+    },
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Yorkshire", "Gales del Sur"],
+      "lat": 53.5,
+      "lon": -1.5
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Pantanos costeros, humedales profundos y llanuras inundables",
+    "zona_actual": "América del Norte, Europa y Asia",
+    "zona_paleogeografica": "Euramérica y Cathaysia",
+    "clima_estimado": "Ecuatorial, extremadamente cálido, húmedo y persistente"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Eran parientes gigantes de los actuales 'colas de caballo' (Equisetum), que hoy apenas miden un metro. Sus troncos eran huecos, por lo que la mayoría de sus fósiles son moldes internos de arena o lodo que rellenaron el interior del árbol al morir."
+  ],
+  "imagen_principal_url": "calamites.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Calamites es un género de equisetos arborescentes que dominó los ecosistemas de pantanos del Carbonífero. Su estructura consistía en un tronco segmentado vertical con nudos marcados de donde brotaban ramas y hojas en verticilos (patrón de rueda). Al igual que los bambúes modernos, crecían de forma masiva a partir de una red subterránea conectada, formando densos bosques monoespecíficos de rápido crecimiento en terrenos inestables o inundados.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 2,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Lineales o lanceoladas (Annularia/Asterophyllites), agrupadas en anillos apretados alrededor de las articulaciones de las ramas",
+    "tronco": "Columnar, segmentado y hueco, con una corteza exterior leñosa delgada armada por canales de aire internos",
+    "raiz": "Rizomas subterráneos masivos y horizontales de donde brotaban raíces adventicias delgadas"
+  },
+  "reproduccion": {
+    "tipo": "Esporas especializadas producidas en estróbilos (conos) articulados llamados Calamostachys o Palaeostachya"
+  },
+  "extincion": "Comienzos del Pérmico, provocada por una glaciación global y la progresiva aridificación del planeta que secó sus pantanos nativos"
+}

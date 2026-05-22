@@ -1,0 +1,78 @@
+{
+  "id": "cladoxylon",
+  "nombre_comun": "Cladoxylon",
+  "nombre_cientifico": "Cladoxylon spp.",
+  "tipo_vegetal": "helecho primitivo",
+  "grupo": "Cladoxylopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Cladoxylales"
+  },
+  "dimensiones": {
+    "altura_m": 2.5,
+    "diametro_tronco_m": 0.15,
+    "extension_copa_m": 1.2
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico - Carbonífero",
+    "fase": "Medio a Temprano",
+    "edad_millones_anios": "393–323",
+    "edad_inicio_millones_anios": 393,
+    "edad_fin_millones_anios": 323
+  },
+  "descubrimiento": {
+    "anio": 1856,
+    "descubridor": "Johann Heinrich Robert Goeppert",
+    "lugar_original": {
+      "formacion": "Depósitos devónicos de Turingia",
+      "region": "Saalfeld",
+      "pais": "Alemania"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Turingia"],
+      "lat": 50.65,
+      "lon": 11.36
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Nueva York (Formación Gilboa)"],
+      "lat": 42.4,
+      "lon": -74.4
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales húmedas y zonas deltaicas",
+    "zona_actual": "Europa y América del Norte",
+    "zona_paleogeografica": "Laurasia (Euramérica)",
+    "clima_estimado": "Cálido, templado y muy húmedo"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Su anatomía interna era tan extraña que rompía las reglas de la botánica moderna: en lugar de un único cilindro central de madera, su tronco estaba compuesto por docenas de haces vasculares individuales que se dividían y reconectaban constantemente, funcionando como una red de pequeños troncos trenzados."
+  ],
+  "imagen_principal_url": "cladoxylon.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Cladoxylon es un género extinto de plantas vasculares que pertenece a las Cladoxylopsida, un grupo considerado ancestral o muy cercano a los verdaderos helechos y colas de caballo. Su estructura anatómica (polistela) revela una compleja red de xilema que le permitía desarrollar portes arbustivos y arborescentes medianos sin tener madera concéntrica verdadera. Sus ramas superiores se dividían de forma dicotómica repetida y terminaban en pequeños apéndices fotosintéticos sin hojas planas desarrolladas.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 4,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 3,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Ausentes (sustituidas por pequeñas ramillas terminales ramificadas y modificadas para realizar la fotosíntesis)",
+    "tronco": "Falso tronco leñoso, ensanchado en la base, compuesto por una compleja red interna de filamentos vasculares independientes",
+    "raiz": "Sistema de raíces adventicias que brotaban de un bulbo basal o rizoma para anclar el peso de la planta"
+  },
+  "reproduccion": {
+    "tipo": "Esporas (producidas en esporangios especializados situados en los extremos de sus ramillas terminales)"
+  },
+  "extincion": "Mediados del Carbonífero, debido a la competencia directa con los nuevos y colosales bosques de licófitas leñosas y equisetos gigantes"
+}

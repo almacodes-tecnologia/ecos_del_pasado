@@ -1,0 +1,72 @@
+{
+  "id": "rhynia",
+  "nombre_comun": "Rhynia",
+  "nombre_cientifico": "Rhynia gwynne-vaughanii",
+  "tipo_vegetal": "Planta vascular primitiva",
+  "grupo": "Rhyniopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Rhyniales"
+  },
+  "dimensiones": {
+    "altura_m": 0.2,
+    "diametro_tronco_m": 0.003,
+    "extension_copa_m": 0.1
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico",
+    "fase": "Temprano (Pragiense - Emsiense)",
+    "edad_millones_anios": "411–408",
+    "edad_inicio_millones_anios": 411,
+    "edad_fin_millones_anios": 408
+  },
+  "descubrimiento": {
+    "anio": 1910,
+    "descubridor": "William Mackie (descubrimiento del yacimiento); descrita por Robert Kidston y William H. Lang en 1917",
+    "lugar_original": {
+      "formacion": "Chert de Rhynie",
+      "region": "Aberdeenshire (Escocia)",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Rhynie (Aberdeenshire)"],
+      "lat": 57.33,
+      "lon": -2.83
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Zonas pantanosas marginales, llanuras aluviales de baja energía y suelos de turbera calientes cercanos a fuentes termales activas",
+    "zona_actual": "Europa del Norte",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido, con actividad hidrotermal y atmósferas ricas en sílice vaporizada"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Sus fósiles se conservaron de forma tridimensional y celular perfecta gracias a que una serie de fuentes termales prehistóricas inundaron periódicamente el área con agua rica en sílice. Esto petrificó el ecosistema al instante, permitiéndonos ver hoy en día las células individuales e incluso las gotas de savia de hace más de 400 millones de años."
+  ],
+  "imagen_principal_url": "rhynia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Rhynia es el género tipo de las riniofitas, un grupo basal de plantas vasculares extintas. Su anatomía representa el diseño anatómico más simple posible para una planta con sistema vascular organizado: un eje cilíndrico sin hojas que se ramificaba dicotómicamente. Internamente poseía una protostela central muy delgada compuesta de traqueidas simples (xilema central) rodeada de floema, protegida por una epidermis con estomas funcionales idénticos a los de las plantas modernas.",
+  "estadisticas_ambientales": {
+    "belleza": 1,
+    "rareza": 5,
+    "impacto_ecologico": 2,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 3,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Ausentes (los tallos aéreos de color verde eran completamente responsables de realizar la fotosíntesis)",
+    "tronco": "Ausente (ejes aéreos delgados, cilíndricos, desnudos y dicotómicos que terminaban de forma abrupta o en estructuras fértiles)",
+    "raiz": "Ausente (la fijación al lodo y la absorción se realizaban mediante un rizoma subterráneo horizontal del que brotaban finos filamentos unicelulares o rizoides)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas homospóreas contenidas en esporangios cilíndricos solitarios y alargados, situados verticalmente en los extremos de los tallos aéreos"
+  },
+  "extincion": "Finales del Devónico Temprano, debido a la rápida competencia y exclusión ecológica por parte de plantas con hojas verdaderas y raíces complejas (como las zosterofilofitas y trimerofitas)"
+}

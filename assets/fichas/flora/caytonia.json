@@ -1,0 +1,84 @@
+{
+  "id": "caytonia",
+  "nombre_comun": "Caytonia",
+  "nombre_cientifico": "Caytonia spp.",
+  "tipo_vegetal": "Helecho con semilla",
+  "grupo": "Caytoniales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Caytoniales"
+  },
+  "dimensiones": {
+    "altura_m": 3.0,
+    "diametro_tronco_m": 0.12,
+    "extension_copa_m": 1.8
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Triásico - Cretácico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "201–100",
+    "edad_inicio_millones_anios": 201,
+    "edad_fin_millones_anios": 100
+  },
+  "descubrimiento": {
+    "anio": 1925,
+    "descubridor": "Thomas Maxwell Harris",
+    "lugar_original": {
+      "formacion": "Formación Gristhorpe Bed",
+      "region": "Cayton Bay (Yorkshire)",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Yorkshire (Cayton Bay)"],
+      "lat": 54.24,
+      "lon": -0.34
+    },
+    {
+      "pais": "Rusia",
+      "regiones": ["Siberia"],
+      "lat": 62.0,
+      "lon": 129.0
+    },
+    {
+      "pais": "Groenlandia",
+      "regiones": ["Groenlandia Oriental"],
+      "lat": 70.5,
+      "lon": -22.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras deltaicas, márgenes de ríos y sotobosques húmedos",
+    "zona_actual": "Europa, Ártico y Asia",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Templado cálido a estacional, con alta humedad disponible"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Durante mucho tiempo desconcertó a los científicos porque sus semillas estaban encerradas en una estructura carnosa parecida a un fruto (llamada cupuliforme), lo que hacía pensar que eran las primeras plantas con flores verdaderas. Sin embargo, el polen entraba directamente a la semilla, revelando que era una gimnosperma avanzada."
+  ],
+  "imagen_principal_url": "caytonia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Caytonia es un género extinto de plantas con semillas que da nombre al orden Caytoniales. Presentaban un hábito arbustivo o de pequeño árbol. Su importancia palebotánica radica en sus órganos reproductores femeninos: estructuras ramificadas que sostenían filas de cúpulas carnosas que protegían los óvulos. Sus hojas, conocidas de forma aislada como Sagenopteris, recuerdan a un trébol de cuatro hojas con venación reticulada muy vistosa.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 4,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Palmeadas compuestos (Sagenopteris), usualmente con 4 folíolos lanceolados unidos en un solo punto, con venas ramificadas",
+    "tronco": "Leñoso ramificado, de porte arbustivo o arbóreo bajo con canales de resina primitivos",
+    "raiz": "Sistema radicular típico de gimnosperma, profundo y ramificado"
+  },
+  "reproduccion": {
+    "tipo": "Semillas protegidas en cúpulas globosas polinizadas por el viento (granos de polen bisacados Caytonanthus)"
+  },
+  "extincion": "A finales del Cretácico, coincidiendo con la explosión evolutiva y dominio absoluto de las angiospermas (plantas con flores verdaderas)"
+}

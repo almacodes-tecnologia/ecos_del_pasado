@@ -1,0 +1,84 @@
+{
+  "id": "cordaites",
+  "nombre_comun": "Cordaites",
+  "nombre_cientifico": "Cordaites spp.",
+  "tipo_vegetal": "conífera primitiva",
+  "grupo": "Cordaitales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Cordaitales"
+  },
+  "dimensiones": {
+    "altura_m": 30.0,
+    "diametro_tronco_m": 1.0,
+    "extension_copa_m": 6.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero - Pérmico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "318–273",
+    "edad_inicio_millones_anios": 318,
+    "edad_fin_millones_anios": 273
+  },
+  "descubrimiento": {
+    "anio": 1850,
+    "descubridor": "François-Xavier Joseph François",
+    "lugar_original": {
+      "formacion": "Cuencas carboníferas de Francia",
+      "region": "Auvernia-Ródano-Alpes",
+      "pais": "Francia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Francia",
+      "regiones": ["Saint-Étienne"],
+      "lat": 45.43,
+      "lon": 4.38
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Ohio", "Pensilvania", "Indiana"],
+      "lat": 40.0,
+      "lon": -81.0
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Nueva Brunswick (Formación Lancaster)"],
+      "lat": 45.27,
+      "lon": -66.06
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Manglares costeros, transiciones de pantanos y tierras altas fértiles",
+    "zona_actual": "Europa, América del Norte y Asia",
+    "zona_paleogeografica": "Euramérica y Cathaysia",
+    "clima_estimado": "Tropical, cálido y húmedo, adaptándose más tarde a climas estacionales más secos"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "A diferencia de las coníferas actuales, cuyas hojas tienen forma de aguja o escama, las hojas de Cordaites eran gigantescas láminas en forma de espada que podían medir hasta un metro de largo. Algunas especies costeras tenían raíces zancudas, similares a las de los manglares modernos, para soportar las mareas."
+  ],
+  "imagen_principal_url": "cordaites.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Cordaites es un género extinto de gimnospermas arborescentes de gran porte que formó un componente fundamental de la flora forestal del Paleozoico tardío. Su tronco poseía madera leñosa verdadera de tipo gimnosperma (cono de crecimiento denso) pero con una médula central grande y tabicada (Artisia). Sus hojas alargadas presentaban venación paralela dicotómica. Sus estructuras reproductoras consistían en conos unisexuales ramificados muy primitivos (Cordaianthus) que precedieron a las coníferas modernas.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 2,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 5,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Grandes, acintadas (en forma de correa o espada), coriáceas, con nervaduras paralelas densas",
+    "tronco": "Leñoso, alto y esbelto, ramificado únicamente en la sección superior para formar una copa densa",
+    "raiz": "Sistema radicular ramificado profundo en tierras altas; raíces estancadas y adventicias (Amyelon) en entornos de marisma"
+  },
+  "reproduccion": {
+    "tipo": "Semillas desnudas (ovuladas) protegidas en estructuras estrobiliformes polinizadas por el viento"
+  },
+  "extincion": "Finales del Pérmico Inferior, debido al avance de la gran aridez global que diezmó las selvas tropicales carboníferas y dio paso a coníferas más evolucionadas"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "sphenophyllum",
+  "nombre_comun": "Sphenophyllum",
+  "nombre_cientifico": "Sphenophyllum spp.",
+  "tipo_vegetal": "planta articulada herbácea",
+  "grupo": "Sphenopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Sphenophyllales"
+  },
+  "dimensiones": {
+    "altura_m": 1.0,
+    "diametro_tronco_m": 0.01,
+    "extension_copa_m": 0.4
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico - Pérmico",
+    "fase": "Tardío a Tardío",
+    "edad_millones_anios": "360–251",
+    "edad_inicio_millones_anios": 360,
+    "edad_fin_millones_anios": 251
+  },
+  "descubrimiento": {
+    "anio": 1822,
+    "descubridor": "Kaspar Maria von Sternberg",
+    "lugar_original": {
+      "formacion": "Depósitos carboníferos de Europa Central",
+      "region": "Bohemia",
+      "pais": "República Checa"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Illinois (Mazon Creek)", "Pensilvania"],
+      "lat": 41.32,
+      "lon": -88.34
+    },
+    {
+      "pais": "Alemania",
+      "regiones": ["Sarre", "Sajonia"],
+      "lat": 49.3,
+      "lon": 7.0
+    },
+    {
+      "pais": "China",
+      "regiones": ["Guangdong"],
+      "lat": 23.3,
+      "lon": 113.3
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sotobosques densos, márgenes de pantanos y llanuras aluviales sombrías",
+    "zona_actual": "América del Norte, Europa y Asia",
+    "zona_paleogeografica": "Euramérica y Cathaysia",
+    "clima_estimado": "Ecuatorial, cálido, tropical y muy húmedo"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Su nombre significa 'hojas en forma de cuña'. Debido a sus tallos delgados y flexibles, no se sostenía erguida por sí misma, sino que utilizaba a los gigantescos *Lepidodendron* y *Calamites* como soporte, trepando sobre ellos de forma muy similar a la hiedra o las enredaderas modernas en las selvas tropicales."
+  ],
+  "imagen_principal_url": "sphenophyllum.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Sphenophyllum es un género extinto de plantas vasculares esfenópsidas (parientes de los equisetos o colas de caballo actuales). Se caracterizaba por presentar tallos delgados y articulados divididos en nudos bien definidos. De cada nudo brotaba un verticilo rígido de hojas simétricas con nervadura dicotómica ramificada. Internamente poseía una estela triangular única de xilema primario centrarco sin médula, un rasgo anatómico muy distintivo que la separaba del resto de las plantas de su época.",
+  "estadisticas_ambientales": {
+    "belleza": 4,
+    "rareza": 2,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Pequeñas, con forma de cuña o triángulo, dispuestas en verticilos compactos de 6 a 9 hojas por nudo, con bordes lisos, dentados o profundamente lobulados según la especie",
+    "tronco": "Ausente (tallos aéreos estriados, delgados, flexibles y ramificados, con un crecimiento secundario de madera muy limitado)",
+    "raiz": "Sistema radicular adventicio simple que brotaba de los nudos de los tallos postrados o rizomas horizontales"
+  },
+  "reproduccion": {
+    "tipo": "Esporas contenidas en conos o estróbilos alargados especializados (*Bowmanites* / *Sphenophyllostachys*) situados en los extremos de las ramas"
+  },
+  "extincion": "Finales del Pérmico Superior, desapareciendo en la gran extinción masiva del Pérmico-Triásico debido a la pérdida drástica y global de las selvas húmedas tropicales ecuatoriales"
+}

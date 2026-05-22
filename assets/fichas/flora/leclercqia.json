@@ -1,0 +1,84 @@
+{
+  "id": "leclercqia",
+  "nombre_comun": "Leclercqia",
+  "nombre_cientifico": "Leclercqia spp.",
+  "tipo_vegetal": "licófita herbácea",
+  "grupo": "Lycopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Protolepidodendrales"
+  },
+  "dimensiones": {
+    "altura_m": 0.5,
+    "diametro_tronco_m": 0.007,
+    "extension_copa_m": 0.2
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico",
+    "fase": "Medio",
+    "edad_millones_anios": "393–382",
+    "edad_inicio_millones_anios": 393,
+    "edad_fin_millones_anios": 382
+  },
+  "descubrimiento": {
+    "anio": 1972,
+    "descubridor": "Harlan P. Banks, Patricia M. Bonamo y James D. Grierson",
+    "lugar_original": {
+      "formacion": "Formación Panther Mountain",
+      "region": "Condado de Schoharie (Nueva York)",
+      "pais": "Estados Unidos"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Nueva York"],
+      "lat": 42.6,
+      "lon": -74.4
+    },
+    {
+      "pais": "Bélgica",
+      "regiones": ["Provincia de Lieja"],
+      "lat": 50.6,
+      "lon": 5.5
+    },
+    {
+      "pais": "Venezuela",
+      "regiones": ["Estado Zulia (Formación Campo Chico)"],
+      "lat": 10.1,
+      "lon": -72.5
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Márgenes de canales fluviales y llanuras deltaicas húmedas",
+    "zona_actual": "América del Norte, Europa y Sudamérica",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido, de tropical a subtropical muy húmedo"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "A diferencia de las hojas simples de las licófitas comunes, las de Leclercqia eran estructuras tridimensionales asombrosas que se dividían en cinco puntas curvadas independientes, dándole a la planta un aspecto 'espinoso' o plumoso muy llamativo."
+  ],
+  "imagen_principal_url": "leclercqia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Leclercqia es un género extinto de licópsidas herbáceas que habitó durante el Devónico Medio. Su descubrimiento fue crucial para la paleobotánica porque sus fósiles demostraron un nivel de sofisticación anatómica insospechado para la época, incluyendo un sistema vascular de xilema exarco sólidamente desarrollado y la presencia de lígulas. Crecía formando densas alfombras verdes de tallos rastreros de los cuales emergían ramificaciones verticales rígidas y densamente cubiertas de hojas modificadas.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 4,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 4
+  },
+  "estructura_vegetativa": {
+    "hojas": "Microfilos complejos y alargados, divididos distalmente en 5 puntas o segmentos afilados y curvados hacia atrás",
+    "tronco": "Ausente (tallos delgados y flexibles, cilíndricos, cubiertos de cicatrices foliares compactas)",
+    "raiz": "Sistema de rizomas rastreros simples dotados de filamentos absorbentes directos"
+  },
+  "reproduccion": {
+    "tipo": "Esporas (producidas en esporangios globosos adaxiales, situados sobre la superficie superior de hojas fértiles especializadas)"
+  },
+  "extincion": "Finales del Devónico Medio, debido a los profundos cambios ambientales globales y la exclusión competitiva por parte de las primeras plantas arbóreas complejas"
+}
