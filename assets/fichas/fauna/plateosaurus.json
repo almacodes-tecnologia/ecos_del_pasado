@@ -1,0 +1,126 @@
+{
+    "id": "plateosaurus",
+    "nombre_comun": "Plateosaurus",
+    "nombre_cientifico": "Plateosaurus",
+    "tipo_animal": "dinosaurio",
+    "grupo": "sauropodomorfo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Plateosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 8.0,
+      "altura_m": 3.0,
+      "peso_kg": 1000.0,
+      "descripcion_dimensiones": "Individuales juveniles y adultos muestran plasticidad de crecimiento; adultos comunes entre ~4.8–10 m de longitud y masas variables (estimaciones típicas ~600–1 000 kg), con ejemplares grandes más pesados."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Triásico",
+      "fase": "Tardío (Norian-Rhaetiano)",
+      "rango_edad_presentacion": "≈ 214–204 millones de años",
+      "edad_inicio_ma": 214.0,
+      "edad_fin_ma": 204.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1834,
+      "descubridor": "Johann Friedrich Engelhardt",
+      "lugar_original": {
+        "formacion": "Trossingen Formation / Keuper",
+        "region": "Heroldsberg / Trossingen, Baviera / Baden-Württemberg",
+        "pais": "Alemania"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Alemania",
+        "regiones": ["Trossingen (Baden-Württemberg)", "Halberstadt (Sajonia-Anhalt)"],
+        "coordenadas": [
+          {"lat": 48.305, "lon": 8.839}
+        ]
+      },
+      {
+        "pais": "Suiza",
+        "regiones": ["Frick (cantón de Aargau)"],
+        "coordenadas": [
+          {"lat": 47.485, "lon": 8.216}
+        ]
+      },
+      {
+        "pais": "Francia",
+        "regiones": ["Varios afloramientos triásicos"],
+        "coordenadas": [
+          {"lat": 46.8, "lon": 3.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras costeras y valles interiores con vegetación de helechos, cicadófitas y coníferas bajas",
+      "zona_actual": "Europa central (extinto)",
+      "zona_paleogeografica": "Pangea (porciones de Laurasia palaeo-europea)",
+      "clima_estimado": "Clima templado a cálido del Triásico tardío, con estaciones relativamente secas y humedades estacionales."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Dentición adaptada a triturar y cortar vegetación baja y media; probable alimentación de helechos, coníferas y plantas de porte bajo a medio."
+      },
+      "socialidad": "Evidencia de numerosos individuos en yacimientos sugiere agregaciones puntuales (posible comportamiento gregario o acumulación taphonómica).",
+      "defensa": "Tamaño y movilidad; garras en manos que podían utilizarse para defensa o manipulación de alimento.",
+      "movimiento": "Bípedo facultativo: mayormente bípedo, con facultad de apoyarse en cuatro patas en determinadas posturas.",
+      "reproduccion": "Ovíparo; puesta de huevos similar a otros dinosaurios ornitisquios/ saurópodos primitivos.",
+      "actividad": "Diurna según analogías con otros herbívoros y patrones de forrajeo."
+    },
+  
+    "curiosidades_adicionales": [
+      "Plateosaurus es uno de los primeros dinosaurios descritos y es muy abundante en yacimientos del Triásico europeo (más de 100 esqueletos).",
+      "Muestra una gran variación en tamaño entre individuos —interpretada como plasticidad de crecimiento en lugar de varias especies crípticas.",
+      "Los yacimientos masivos (p. ej. Halberstadt, Trossingen) han proporcionado material excepcional para estudiar paleobiología y crecimiento.",
+      "Su nombre significa 'lagarto ancho' o 'lagarto de placas' según la etimología propuesta originalmente."
+    ],
+  
+    "imagen_principal_url": "plateosaurus.webp",
+    "galeria_imagenes": [
+      "plateosaurus_fosil.webp",
+      "plateosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Plateosaurus fue un saurópodomorfo temprano del Triásico Superior de Europa, conocido por numerosos esqueletos completos y casi completos.",
+      "Tenía un cráneo pequeño con cuello relativamente largo, potentes extremidades traseras y brazos más cortos con manos prensiles.",
+      "La especie muestra considerable variación ontogenética y morfológica, lo que ha motivado estudios sobre crecimiento y ecología.",
+      "Los principales yacimientos se encuentran en formaciones triásicas de Alemania, Suiza y Francia."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 3,
+      "rareza": 3,
+      "fuerza_estimada": 3,
+      "defensa": 2,
+      "inteligencia": 3,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "H. von Meyer (1837) / múltiples estudios modernos",
+      "fuentes": [
+        "Wikipedia Plateosaurus",
+        "Journal of Vertebrate Paleontology",
+        "Museos y publicaciones sobre la Formación Trossingen"
+      ]
+    }
+  }
+  

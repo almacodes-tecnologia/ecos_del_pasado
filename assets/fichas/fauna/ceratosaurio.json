@@ -1,0 +1,111 @@
+{
+    "id": "ceratosaurus_nasicornis",
+    "nombre_comun": "Ceratosaurio",
+    "nombre_cientifico": "Ceratosaurus nasicornis",
+    "tipo_animal": "dinosaurio",
+    "grupo": "terópodo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Ceratosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 6.0,
+      "altura_m": 2.0,
+      "peso_kg": 500.0,
+      "descripcion_dimensiones": "Longitud aproximada de 6 m, altura al hombro de 2 m y peso estimado de 400–600 kg."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Jurásico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "≈ 155–145 millones de años",
+      "edad_inicio_ma": 155.0,
+      "edad_fin_ma": 145.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1884,
+      "descubridor": "Othniel Charles Marsh",
+      "lugar_original": {
+        "formacion": "Morrison",
+        "region": "Colorado",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Colorado", "Utah"],
+        "coordenadas": [
+          {"lat": 39.5, "lon": -107.5}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras semiáridas y zonas boscosas abiertas",
+      "zona_actual": "Oeste de América del Norte (extinto)",
+      "zona_paleogeografica": "Laurasia",
+      "clima_estimado": "Cálido y semiárido, con vegetación dispersa de helechos y coníferas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador activo que cazaba pequeños a medianos dinosaurios, posiblemente carroñero ocasional."
+      },
+      "socialidad": "Probablemente solitario o en pequeños grupos.",
+      "defensa": "Usaba sus dientes afilados y cuerno nasal para cazar y defenderse.",
+      "movimiento": "Bípedo, ágil y rápido en emboscadas.",
+      "reproduccion": "Ovíparo, como otros terópodos; huevos depositados en nidos sencillos.",
+      "actividad": "Diurna y posiblemente crepuscular"
+    },
+  
+    "curiosidades_adicionales": [
+      "Poseía un cuerno sobre la nariz y pequeños cuernos sobre los ojos.",
+      "Los restos muestran un tamaño relativamente pequeño comparado con otros terópodos del Jurásico Superior.",
+      "Se cree que pudo haber usado su cola para balance y maniobrabilidad durante la caza.",
+      "Fósiles encontrados en la formación Morrison, famosa por su diversidad de dinosaurios."
+    ],
+  
+    "imagen_principal_url": "ceratosaurus_nasicornis.webp",
+    "galeria_imagenes": [
+      "ceratosaurus_fosil.webp",
+      "ceratosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Ceratosaurus nasicornis fue un terópodo del Jurásico Superior que habitó América del Norte.",
+      "Su característica principal era un cuerno nasal prominente y dientes afilados adaptados a cazar presas medianas.",
+      "Era bípedo y ágil, con una cola larga que ayudaba al equilibrio y maniobrabilidad.",
+      "Su descubrimiento en la formación Morrison permitió comprender mejor la diversidad de depredadores en el Jurásico."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 4,
+      "velocidad": 4,
+      "rareza": 3,
+      "fuerza_estimada": 4,
+      "defensa": 2,
+      "inteligencia": 3,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Marsh, O. C. (1884)",
+      "fuentes": [
+        "Wikipedia Ceratosaurus",
+        "Journal of Vertebrate Paleontology",
+        "American Museum of Natural History"
+      ]
+    }
+}

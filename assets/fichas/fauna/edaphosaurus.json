@@ -1,0 +1,119 @@
+{
+    "id": "edaphosaurus_pogonias",
+    "nombre_comun": "Edaphosaurus",
+    "nombre_cientifico": "Edaphosaurus pogonias",
+    "tipo_animal": "sinápsido",
+    "grupo": "edafosáurido",
+  
+    "clasificacion": {
+      "clase": "Synapsida",
+      "orden": "†Pelycosauria",
+      "familia": "Edaphosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 3.5,
+      "altura_m": 1.2,
+      "peso_kg": 250.0,
+      "descripcion_dimensiones": "Longitud variable según especie (0.5–3.5 m); los ejemplares grandes (p. ej. E. pogonias) alcanzan longitudes de hasta ~3–3.5 m y masas estimadas en centenares de kilogramos."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Pérmico (inicios) / Carbonífero Superior a Pérmico Temprano",
+      "fase": "Carbonífero superior – Pérmico temprano",
+      "rango_edad_presentacion": "≈ 303.4–272.5 millones de años",
+      "edad_inicio_ma": 303.4,
+      "edad_fin_ma": 272.5
+    },
+  
+    "descubrimiento": {
+      "anio": 1882,
+      "descubridor": "Edward Drinker Cope",
+      "lugar_original": {
+        "formacion": "Texas Red Beds (Colección del suroeste de EE. UU.)",
+        "region": "Texas (afloramientos del Pérmico/Red Beds)",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Texas (Red Beds)"],
+        "coordenadas": [
+          {"lat": 33.0, "lon": -98.0}
+        ]
+      },
+      {
+        "pais": "Europa",
+        "regiones": ["Afloramientos pérmicos de Europa (varios especímenes referidos)"],
+        "coordenadas": [
+          {"lat": 50.0, "lon": 8.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambientes continentales, planicies y marjales de pórtico Carbonífero-Pérmico",
+      "zona_actual": "Norteamérica / Europa (extinto)",
+      "zona_paleogeografica": "Euramérica (Pangea parcialmente ensamblada)",
+      "clima_estimado": "Ambientes cálidos a templados con estaciones; zonas con vegetación de helechos y plantas arborescentes tempranas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Dentición en forma de 'pavimento' sugiere adaptación a procesar material vegetal duro; se considera herbívoro/fitófago."
+      },
+      "socialidad": "Desconocida; no hay evidencia sólida de comportamiento gregario.",
+      "defensa": "Sail (vela dorsal) posiblemente usada en termorregulación o exhibición; defensa principal basada en tamaño y robustez.",
+      "movimiento": "Terrestre, de movimiento relativamente lento; cuerpo robusto y patas cortas.",
+      "reproduccion": "Ovíparo; reproducción tipo tetrapod terrestrial (se asume puesta de huevos).",
+      "actividad": "Diurna según analogías ecológicas"
+    },
+  
+    "curiosidades_adicionales": [
+      "Edaphosaurus fue descrito por Cope en 1882; su rasgo más distintivo es la vela dorsal con espinas neurales engrosadas y nodos óseos.",
+      "A diferencia de Dimetrodon (carnívoro), Edaphosaurus se interpreta en la mayoría de estudios como herbívoro temprano entre los sinápsidos.",
+      "La vela dorsal ha sido objeto de debate (termorregulación, exhibición sexual o almacenamiento de energía), aún sin consenso total.",
+      "Sus fósiles en los Texas Red Beds ayudaron a comprender la fauna terrestre del Carbonífero tardío y el Pérmico temprano en Norteamérica."
+    ],
+  
+    "imagen_principal_url": "edaphosaurus_pogonias.webp",
+    "galeria_imagenes": [
+      "edaphosaurus_fosil.webp",
+      "edaphosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Edaphosaurus pogonias es un sinápsido del Carbonífero superior–Pérmico temprano conocido por su distintiva vela dorsal y su dentición en 'pavimento' para procesar material vegetal.",
+      "Descrito por Edward Drinker Cope en 1882 a partir de restos procedentes de los Texas Red Beds, es uno de los primeros grandes herbívoros amniotas.",
+      "Las estimaciones de tamaño varían por especie, pero los ejemplares mayores alcanzan varios metros de longitud y muestran adaptaciones para una dieta fitófaga.",
+      "El estudio comparativo entre Edaphosaurus y otros pelycosaurios ha sido clave para entender la eco-morfaología temprana de los sinápsidos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 1,
+      "velocidad": 1,
+      "rareza": 4,
+      "fuerza_estimada": 3,
+      "defensa": 3,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Cope, E. D. (1882)",
+      "fuentes": [
+        "Wikipedia Edaphosaurus",
+        "Publicaciones sobre Texas Red Beds y sinápsidos",
+        "Journal of Vertebrate Paleontology (reseñas)"
+      ]
+    }
+  }
+  

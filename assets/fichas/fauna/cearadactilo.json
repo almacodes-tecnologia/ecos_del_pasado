@@ -1,0 +1,111 @@
+{
+    "id": "cearadactylus_atrox",
+    "nombre_comun": "Cearadactilo",
+    "nombre_cientifico": "Cearadactylus atrox",
+    "tipo_animal": "reptil volador",
+    "grupo": "pterosaurio",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Pterosauria",
+      "familia": "Anhangueridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 1.0,
+      "altura_m": 0.3,
+      "peso_kg": 15.0,
+      "descripcion_dimensiones": "Ala con envergadura de hasta 5,5 m; longitud del cuerpo de 1 m y peso estimado de 10–15 kg."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Temprano",
+      "rango_edad_presentacion": "≈ 110 millones de años",
+      "edad_inicio_ma": 110.0,
+      "edad_fin_ma": 110.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1985,
+      "descubridor": "Alexander Kellner",
+      "lugar_original": {
+        "formacion": "Santana",
+        "region": "Ceará",
+        "pais": "Brasil"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Brasil",
+        "regiones": ["Ceará"],
+        "coordenadas": [
+          {"lat": -3.7, "lon": -38.5}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambientes costeros y lagos interiores",
+      "zona_actual": "Brasil (extinto)",
+      "zona_paleogeografica": "Gondwana",
+      "clima_estimado": "Cálido y húmedo, con abundante vegetación y cuerpos de agua."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Piscívoro",
+        "detalle": "Se alimentaba principalmente de peces y pequeños vertebrados acuáticos, capturados en vuelo o desde la superficie del agua."
+      },
+      "socialidad": "Se desconoce, pero algunos pterosaurios voladores podían agruparse en colonias.",
+      "defensa": "Usaba su vuelo y maniobrabilidad para escapar de depredadores.",
+      "movimiento": "Volador ágil, aterrizaba en áreas abiertas o costeras.",
+      "reproduccion": "Ovíparo, como todos los pterosaurios.",
+      "actividad": "Diurna"
+    },
+  
+    "curiosidades_adicionales": [
+      "Pertenece a la familia Anhangueridae, conocida por su pico alargado y cresta craneal.",
+      "Su fósil se encontró excepcionalmente bien conservado en la formación Santana.",
+      "Se trata de uno de los pterosaurios mejor documentados de Sudamérica.",
+      "Su envergadura de alas le permitía recorrer grandes distancias en busca de alimento."
+    ],
+  
+    "imagen_principal_url": "cearadactylus_atrox.webp",
+    "galeria_imagenes": [
+      "cearadactylus_fosil.webp",
+      "cearadactylus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Cearadactylus atrox fue un pterosaurio del Cretácico temprano que habitó lo que hoy es Brasil.",
+      "Tenía un pico largo y dientes afilados adaptados a capturar peces y pequeños animales acuáticos.",
+      "Sus alas eran grandes y delgadas, permitiéndole un vuelo eficiente sobre cuerpos de agua.",
+      "El descubrimiento en la formación Santana aportó gran información sobre los pterosaurios sudamericanos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 5,
+      "rareza": 4,
+      "fuerza_estimada": 2,
+      "defensa": 2,
+      "inteligencia": 3,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Kellner, A. W. A. (1985)",
+      "fuentes": [
+        "Wikipedia Cearadactylus",
+        "Journal of Vertebrate Paleontology",
+        "Acta Geologica Brasiliae"
+      ]
+    }
+}

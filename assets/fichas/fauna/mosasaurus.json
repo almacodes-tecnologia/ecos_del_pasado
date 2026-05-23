@@ -1,0 +1,110 @@
+{
+    "id": "mosasaurus",
+    "nombre_comun": "Mosasaurus",
+    "nombre_cientifico": "Mosasaurus hoffmannii",
+    "tipo_animal": "reptil acuático",
+    "grupo": "mosasáurido",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Squamata",
+      "familia": "Mosasauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 17.1,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Longitud estimada de hasta ~17,1 m para M. hoffmannii, según estimaciones basadas en mandíbula fósil."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío (Maastrichtiano)",
+      "rango_edad_presentacion": null,
+      "edad_inicio_ma": null,
+      "edad_fin_ma": null
+    },
+  
+    "descubrimiento": {
+      "anio": null,
+      "descubridor": null,
+      "lugar_original": {
+        "formacion": null,
+        "region": null,
+        "pais": null
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Países Bajos / Bélgica / otros",
+        "regiones": ["Formaciones cretácicas marinas de Europa"],
+        "coordenadas": [
+          {"lat": 52.0, "lon": 4.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Mares profundos o costeros",
+      "zona_actual": "Extinto (antiguos mares del Cretácico tardío)",
+      "zona_paleogeografica": "Mares de la parte norte de los continentes en el Cretácico tardío",
+      "clima_estimado": "Mares cálidos y ricos en fauna marina, con depredadores marinos grandes."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador ápice marino; se alimentaba de peces, reptiles marinos, otros mosasaurios posiblemente."
+      },
+      "socialidad": "Desconocida; no hay evidencia concluyente de comportamiento gregario.",
+      "defensa": "Su fuerza radicaba en su tamaño, velocidad y poder de mordida; no tenía armadura ósea como dinosaurios terrosos.",
+      "movimiento": "Nadador potente; cuerpo adaptado para natación, con aletas y cadena vertebral adaptada a embestidas.",
+      "reproduccion": "Probablemente vivíparo como otros mosasaurios (aunque no hay consenso total, muchos mosasaurios dieron a luz crías vivas).",
+      "actividad": "Desconocida; podría haber sido activo tanto de día como de noche según disponibilidad de presas."
+    },
+  
+    "curiosidades_adicionales": [
+      "Mosasaurus es uno de los reptiles marinos más grandes conocidos gracias a estimaciones en base a restos de mandíbula.",
+      "Su nombre significa ‘lagarto Mozo’ (Mosa = Mosa, nombre latino del río Mosa en Europa, donde se encontraron fósiles).",
+      "Los mosasaurios eran parientes lejanos de los lagartos modernos, no reptiles voladores ni dinosaurios.",
+      "Su desaparición está relacionada con el colapso de los mares del Cretácico y cambios ecológicos tras la extinción masiva."
+    ],
+  
+    "imagen_principal_url": "mosasaurus.webp",
+    "galeria_imagenes": [
+      "mosasaurus_fosil.webp",
+      "mosasaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Mosasaurus hoffmannii fue uno de los mosasaurios más grandes, con estimaciones de longitud de hasta 17,1 m.",
+      "Vivía en los mares del Cretácico tardío y era un depredador marino dominante, con una dieta variada de peces y otros reptiles acuáticos.",
+      "Morfológicamente estaba adaptado para nadar: tenía un cuerpo alargado y aletas, y una potente musculatura para embestir en el agua.",
+      "Aunque es altamente depredador, su estrategia de defensa radicaba en su gran tamaño y agilidad, más que en armaduras físicas."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 5,
+      "velocidad": 4,
+      "rareza": 4,
+      "fuerza_estimada": 5,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 5,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Estudios paleontológicos sobre Mosasaurus hoffmannii",
+      "fuentes": [
+        "Wikipedia Mosasaurus ([en.wikipedia.org](https://en.wikipedia.org/wiki/Mosasaurus))"
+      ]
+    }
+  }
+  

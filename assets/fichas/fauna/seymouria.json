@@ -1,0 +1,119 @@
+{
+    "id": "seymouria",
+    "nombre_comun": "Seymouria",
+    "nombre_cientifico": "Seymouria baylorensis",
+    "tipo_animal": "tetrápodo",
+    "grupo": "seymouriamorfo",
+  
+    "clasificacion": {
+      "clase": "Amphibia",
+      "orden": "†Seymouriamorpha",
+      "familia": "Seymouriidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 0.6,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Longitud estimada de unos ~60 cm según fósiles."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Permiano",
+      "fase": "Inferior",
+      "rango_edad_presentacion": "≈ 299–251 millones de años (Permiano temprano)",
+      "edad_inicio_ma": 299.0,
+      "edad_fin_ma": 251.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1904,
+      "descubridor": "Ferdinand Broili",
+      "lugar_original": {
+        "formacion": "Clear Fork Formation",
+        "region": "Condado de Baylor, Texas",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Texas (Baylor County)", "Utah", "Nuevo México"],
+        "coordenadas": [
+          {"lat": 33.6, "lon": -99.3}
+        ]
+      },
+      {
+        "pais": "Alemania",
+        "regiones": ["Formación de Tambach (Turingia)"],
+        "coordenadas": [
+          {"lat": 50.6, "lon": 10.8}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambiente terrestre (zonas semiáridas / riberas) con larvas acuáticas",
+      "zona_actual": "Norteamérica y Europa (extinto)",
+      "zona_paleogeografica": "Pangea (Permiano temprano)",
+      "clima_estimado": "Clima relativamente árido o semiárido, adaptado a vida terrestre con fases acuáticas en larvas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro u omnívoro",
+        "detalle": "Probablemente se alimentaba de insectos y pequeños vertebrados, según reconstrucciones paleobiológicas."
+      },
+      "socialidad": "Desconocida; no hay pruebas claras de vida gregaria.",
+      "defensa": "Estructura robusta, cráneo fuerte; adaptación terrestre más que defensiva especializada.",
+      "movimiento": "Terrestre, con extremidades fuertes y postura reptil-como.",
+      "reproduccion": "Se presume que ponía huevos; su ciclo probablemente incluía fase larvaria acuática.",
+      "actividad": "Actividades diurnas probables sobre tierra, pero también dependiente del agua en su fase juvenil."
+    },
+  
+    "curiosidades_adicionales": [
+      "A pesar de tener apariencia parecida a reptiles, Seymouria era un tetrápodo muy primitivo con muchas características anfibias.",
+      "Se pensó inicialmente que era un reptil debido a su robustez ósea y adaptaciones para caminar, pero estudios posteriores demostraron su relación con los anfibios.",
+      "Estudios histológicos muestran que tenía un desarrollo rápido y un esqueleto adaptado para vida totalmente terrestre.",
+      "Sus fósiles han sido hallados tanto en Norteamérica como en Europa, lo que sugiere una amplia distribución durante el Permiano temprano."
+    ],
+  
+    "imagen_principal_url": "seymouria.webp",
+    "galeria_imagenes": [
+      "seymouria_fosil.webp",
+      "seymouria_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Seymouria baylorensis es un género de seymouriamorfo del Permiano temprano, conocido por sus adaptaciones tanto terrestres como primitivamente anfibias.",
+      "Su cráneo robusto y sus extremidades fuertes sugieren un animal bien adaptado a la vida en tierra, con una locomoción más parecida a la de los reptiles que a la de los anfibios modernos.",
+      "Estudios recientes de histología han mostrado que sus huesos crecían rápidamente y que su morfología postcraneal es consistente con un animal terrestre.",
+      "Aunque sus larvas no han sido encontradas directamente, la morfología y los parientes cercanos indican un ciclo de vida con fase acuática juvenil."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 2,
+      "rareza": 5,
+      "fuerza_estimada": 2,
+      "defensa": 2,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 3
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Bazzana, K. D. et al. (2020)",
+      "fuentes": [
+        "PeerJ artículo postcraneal y histología (2020)",
+        "Britannica Seymouria",
+        "Prehistoric-Wildlife Seymouria"
+      ]
+    }
+  }
+  

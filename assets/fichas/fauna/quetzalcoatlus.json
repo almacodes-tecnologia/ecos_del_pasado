@@ -1,0 +1,110 @@
+{
+    "id": "quetzalcoatlus",
+    "nombre_comun": "Quetzalcoatlus",
+    "nombre_cientifico": "Quetzalcoatlus northropi",
+    "tipo_animal": "reptil volador",
+    "grupo": "pterosaurio",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Pterosauria",
+      "familia": "Azhdarchidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": null,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Se estima que su envergadura alar era de unos ~10 a 11 m según estimaciones modernas."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": null,
+      "edad_inicio_ma": null,
+      "edad_fin_ma": null
+    },
+  
+    "descubrimiento": {
+      "anio": null,
+      "descubridor": null,
+      "lugar_original": {
+        "formacion": null,
+        "region": null,
+        "pais": null
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Texas"],
+        "coordenadas": [
+          {"lat": 31.0, "lon": -100.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Zonas llanas terrestres y posiblemente costeras",
+      "zona_actual": "Extinto (Norteamérica)",
+      "zona_paleogeografica": "Pangea fragmentada / masa continental de Norteamérica",
+      "clima_estimado": "Ambientes terrestres abiertos del Cretácico tardío."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro / oportunista",
+        "detalle": "Podría haber cazado animales pequeños o carroña; los azdárquidos se consideran eficientes planeadores terrestres."
+      },
+      "socialidad": "Desconocida; no hay pruebas firmes de comportamiento en grupo.",
+      "defensa": "Probablemente dependía de su gran tamaño y vuelo para evitar depredadores.",
+      "movimiento": "Volador, con grandes alas para planear; también podía moverse por tierra cuando aterrizaba.",
+      "reproduccion": "Ovíparo como otros pterosaurios, aunque no hay nidos bien preservados de Quetzalcoatlus.",
+      "actividad": "Desconocida, probablemente diurna (como muchos pterosaurios)."
+    },
+  
+    "curiosidades_adicionales": [
+      "Es uno de los pterosaurios más grandes conocidos por el hombre, especialmente por su envergadura.",
+      "Su nombre proviene de la deidad mesoamericana Quetzalcóatl (‘serpiente emplumada’) por su gran tamaño y aspecto imponente.",
+      "La reconstrucción de su masa corporal ha sido difícil y debatida durante años debido a la fragilidad de los huesos pterosaurios.",
+      "Algunos estudios sugieren que podría haber sido capaz de caminar eficazmente en tierra, no sólo volar."
+    ],
+  
+    "imagen_principal_url": "quetzalcoatlus.webp",
+    "galeria_imagenes": [
+      "quetzalcoatlus_fosil.webp",
+      "quetzalcoatlus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Quetzalcoatlus northropi es un pterosaurio azdárquido del Cretácico tardío, uno de los más grandes jamás registrados.",
+      "La envergadura estimada de unos 10-11 m lo convierte en un verdadero gigante volador. :contentReference[oaicite:26]{index=26}",
+      "Dado su tamaño y morfología, es probable que fuera un planeador eficiente en ambientes terrestres amplios.",
+      "A pesar de su gran tamaño, sus hábitos exactos (caza, alimentación, reproducción) siguen siendo objeto de debate entre paleontólogos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 4,
+      "rareza": 5,
+      "fuerza_estimada": 3,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 5,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Douglas Lawson / estudios azdárquidos",
+      "fuentes": [
+        "Wikipedia Quetzalcoatlus ([en.wikipedia.org](https://en.wikipedia.org/wiki/Quetzalcoatlus?utm_source=chatgpt.com))"
+      ]
+    }
+  }
+  

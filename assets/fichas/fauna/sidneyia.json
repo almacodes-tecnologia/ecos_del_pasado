@@ -1,0 +1,119 @@
+{
+    "id": "sidneyia",
+    "nombre_comun": "Sidneyia",
+    "nombre_cientifico": "Sidneyia inexpectans",
+    "tipo_animal": "invertebrado",
+    "grupo": "artrópodo",
+  
+    "clasificacion": {
+      "clase": "Arthropoda",
+      "orden": "Vicissicaudata",
+      "familia": "Artiopoda"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 0.13,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Tamaño entre ~51 mm y ~130 mm según fósiles."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Cámbrico",
+      "fase": "Medio (Miaolingiano / Wuliuan)",
+      "rango_edad_presentacion": "≈ 505 millones de años",
+      "edad_inicio_ma": 505.0,
+      "edad_fin_ma": 500.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1910,
+      "descubridor": "Charles Doolittle Walcott",
+      "lugar_original": {
+        "formacion": "Burgess Shale, Walcott Quarry",
+        "region": "Columbia Británica",
+        "pais": "Canadá"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Burgess Shale, Greater Phyllopod Bed"],
+        "coordenadas": [
+          {"lat": 51.38, "lon": -116.21}
+        ]
+      },
+      {
+        "pais": "China",
+        "regiones": ["Formaciones equivalentes al Cámbrico (Maotianshan)"],
+        "coordenadas": [
+          {"lat": 24.7, "lon": 104.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Fondo marino bentónico",
+      "zona_actual": "Extinto (antiguos mares cámbricos)",
+      "zona_paleogeografica": "Laurentia y otras masas continentales cámbricas",
+      "clima_estimado": "Mar poco profundo del Cámbrico con abundante biodiversidad de organismos blandos y con conchas duras."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro / durofágico (triturador de conchas duras)",
+        "detalle": "Usaba sus gnátobases (bases espinosas de sus patas) para desgarrar y triturar organismos con exoesqueleto, como trilobites u otros artrópodos, según contenido estomacal fosilizado."
+      },
+      "socialidad": "Desconocida; los fósiles no muestran evidencia clara de colonias/pliegues sociales, podrían ser individuos sueltos o agrupados postmortem.",
+      "defensa": "No hay estructuras defensivas obvias más allá del exoesqueleto y su tamaño relativamente amplio para arthropodo cámbrico.",
+      "movimiento": "Terrestre marino (epibentónico), caminaba por el fondo marino con sus apéndices articulados.",
+      "reproduccion": "Desconocida con certeza; presumiblemente puesta de huevos, como otros artrópodos antiguos.",
+      "actividad": "Probablemente diurna/nocturna según disponibilidad de presas y ritmo biológico del Cámbrico, aunque no hay datos directos."
+    },
+  
+    "curiosidades_adicionales": [
+      "Se han encontrado más de 144 especímenes en el Lecho de Phyllopod del Burgess Shale, constituyendo una parte significativa de la comunidad fósil. :contentReference[oaicite:15]{index=15}",
+      "Sus gnátobases (estructuras espinosas en la base de las patas) son muy similares a las de los cangrejos herradura modernos, lo que sugiere una función de trituración de presas duras.",
+      "Fue uno de los primeros artrópodos grandes del Cámbrico medido y estudiado en detalle, y ha sido clave para entender la ecología de los fondos marinos del Cámbrico medio.",
+      "Su denominación 'inexpectans' (“inesperado”) proviene del hecho de que su descubrimiento fue sorprendente para Walcott."
+    ],
+  
+    "imagen_principal_url": "sidneyia.webp",
+    "galeria_imagenes": [
+      "sidneyia_fosil.webp",
+      "sidneyia_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Sidneyia inexpectans es un artrópodo del Cámbrico medio, caracterizado por su gran tamaño relativo y apéndices espinosos usados para triturar conchas duras.",
+      "Se ha interpretado como un depredador bentónico, que caminaba sobre el lecho marino y se alimentaba de trilobites y otros organismos con exoesqueleto duro.",
+      "Sus fósiles provienen principalmente del Burgess Shale (Canadá), aunque también se han encontrado especies similares en formaciones cámbricas en China.",
+      "El estudio de cientos de especímenes ha permitido reconstruir su morfología, su ecología y sus hábitos de vida en ambientes del Cámbrico."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 2,
+      "rareza": 4,
+      "fuerza_estimada": 3,
+      "defensa": 2,
+      "inteligencia": 1,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Bruton, D. L. (1981)",
+      "fuentes": [
+        "Wikipedia Sidneyia",
+        "Cambridge Geological Magazine (distribución de Sidneyia)",
+        "Prehistoric-Wildlife Sidneyia información general"
+      ]
+    }
+  }
+  

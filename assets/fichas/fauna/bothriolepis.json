@@ -1,0 +1,126 @@
+{
+    "id": "bothriolepis",
+    "nombre_comun": "Bothriolepis",
+    "nombre_cientifico": "Bothriolepis",
+    "tipo_animal": "pez",
+    "grupo": "placodermo",
+  
+    "clasificacion": {
+      "clase": "Placodermi",
+      "orden": "Antiarchi",
+      "familia": "Bothriolepidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 0.7,
+      "altura_m": 0.3,
+      "peso_kg": 10.0,
+      "descripcion_dimensiones": "Tamaño variable entre especies: la mayoría de especies median entre ~0.5 y 1.0 m; existen especies pequeñas y algunas más grandes (p. ej. B. rex hasta ~1.7 m). Valores aquí representan un ejemplar típico de tamaño moderado."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Devónico",
+      "fase": "Medio–Tardío",
+      "rango_edad_presentacion": "≈ 387–360 millones de años",
+      "edad_inicio_ma": 387.0,
+      "edad_fin_ma": 360.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1840,
+      "descubridor": "Christian Heinrich Pander / Gustav von Eichwald (atribución del género; histórico en literatura europea del siglo XIX)",
+      "lugar_original": {
+        "formacion": "Varios afloramientos devónicos europeos (material histórico descrito en Europa)",
+        "region": "Europa (región de descubrimiento histórico variable según especie)",
+        "pais": "Europa (varios países)"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Escuminac Formation (Quebec)"],
+        "coordenadas": [
+          {"lat": 48.0, "lon": -67.0}
+        ]
+      },
+      {
+        "pais": "Australia",
+        "regiones": ["Gogo Formation (Western Australia)"],
+        "coordenadas": [
+          {"lat": -16.2, "lon": 123.5}
+        ]
+      },
+      {
+        "pais": "Colombia",
+        "regiones": ["Formación Cuche (Boyacá)"],
+        "coordenadas": [
+          {"lat": 5.7, "lon": -73.2}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambientes dulciacuícolas y estuarios someros (ríos y lagos)",
+      "zona_actual": "Registros en varios continentes (extinto)",
+      "zona_paleogeografica": "Distribución amplia en paleocontinentes del Devónico",
+      "clima_estimado": "Climas variables del Devónico; ambientes costeros y de agua dulce interconectados."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Omnívoro/herbívoro bentónico",
+        "detalle": "Probablemente se alimentaba de materia orgánica del fondo (detritos), pequeñas presas bentónicas y algas; la boca ventral sugiere hábito de alimentación en el sustrato."
+      },
+      "socialidad": "Desconocida; grandes acumulaciones en ciertos yacimientos indican abundancia local y posible agregación taphonómica.",
+      "defensa": "Armadura ósea dorsal y placas cefálicas que protegían la cabeza y el tronco anterior.",
+      "movimiento": "Nadador de fondo con aletas pectorales adaptadas; podía desplazarse por sustratos someros.",
+      "reproduccion": "Desconocida en detalle; se asume puesta de huevos o reproducción de tipo primaria de peces antiguos.",
+      "actividad": "Probablemente diurna/nocturna dependiente de disponibilidad de alimento; difícil de precisar."
+    },
+  
+    "curiosidades_adicionales": [
+      "Bothriolepis es uno de los géneros de placodermos más abundantes y diversos en el Devónico, con decenas de especies descritas.",
+      "Se han encontrado tanto en depósitos de agua dulce como en ambientes costeros, lo que sugiere tolerancia a diferentes salinidades.",
+      "Bothriolepis canadensis (Escuminac) ha sido utilizado como especie modelo para estudiar ontogenia y morfología de antiarcos.",
+      "Algunas especies (p. ej. B. rex de Ellesmere Island) alcanzaron tamaños inusuales para el género, lo que revela gran variedad ecológica."
+    ],
+  
+    "imagen_principal_url": "bothriolepis.webp",
+    "galeria_imagenes": [
+      "bothriolepis_fosil.webp",
+      "bothriolepis_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Bothriolepis es un género de placodermo antiarco extremadamente diverso y distribuido globalmente en los depósitos devónicos; incluye numerosas especies que vivieron en hábitats dulciacuícolas y costeros.",
+      "Se caracteriza por una armadura ósea en la cabeza y el tronco anterior y por una boca ventral adaptada a alimentarse del sustrato.",
+      "Los estudios sobre B. canadensis y otras especies han permitido reconstruir la morfología y la ontogenia de los antiarcos con abundante material fósil.",
+      "La amplia distribución y variedad de especies de Bothriolepis hacen de este género un elemento clave para entender los ecosistemas devónicos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 1,
+      "velocidad": 1,
+      "rareza": 4,
+      "fuerza_estimada": 2,
+      "defensa": 4,
+      "inteligencia": 1,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 3
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Eichwald (1840) y revisiones modernas",
+      "fuentes": [
+        "Wikipedia Bothriolepis",
+        "Palaeontologia Electronica (artículos sobre Bothriolepis canadensis)",
+        "Artículos de revisión sobre placodermos devónicos"
+      ]
+    }
+  }
+  

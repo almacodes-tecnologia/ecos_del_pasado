@@ -1,0 +1,112 @@
+{
+    "id": "camarasaurus",
+    "nombre_comun": "Camarasaurio",
+    "nombre_cientifico": "Camarasaurus",
+    "tipo_animal": "dinosaurio",
+    "grupo": "saurópodo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Camarasauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 18.0,
+      "altura_m": 6.0,
+      "peso_kg": 20000.0,
+      "descripcion_dimensiones": "Longitud estimada de hasta ~18 m; altura a la cadera de ~4,5-6 m y peso de hasta ~20 toneladas (20.000 kg)."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Jurásico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "≈ 155–145 millones de años",
+      "edad_inicio_ma": 155.0,
+      "edad_fin_ma": 145.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1877,
+      "descubridor": "Edward Drinker Cope",
+      "lugar_original": {
+        "formacion": "Morrison",
+        "region": "Colorado / Utah",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Utah", "Colorado", "Wyoming", "New Mexico"],
+        "coordenadas": [
+          {"lat": 39.0, "lon": -110.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras y bosques claros",
+      "zona_actual": "América del Norte (extinto)",
+      "zona_paleogeografica": "Laramidia",
+      "clima_estimado": "Clima templado con estaciones secas; vegetación de helechos, coníferas y plantas bajas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Se alimentaba de vegetación dura y plantas de altura media, usando sus dientes en forma de cuchara para arrancar hojas."
+      },
+      "socialidad": "Probablemente vivía en manadas o en grupos familiares, como otros sauropodos.",
+      "defensa": "Su gran tamaño lo protegía de muchos depredadores; además, su cola podría usarse como látigo defensivo.",
+      "movimiento": "Cuadrúpedo; sus patas robustas le permitían desplazarse sobre terreno variado.",
+      "reproduccion": "Ovíparo; como otros saurópodos, debía poner huevos en nidos.",
+      "actividad": "Diurna"
+    },
+  
+    "curiosidades_adicionales": [
+      "El nombre *Camarasaurus* significa ‘lagarto de cámaras’ por las cavidades huecas en sus vértebras que reducen el peso.",
+      "Sus dientes eran ‘cuchara’ o ‘cuchilla’ y estaban adaptados a masticar vegetación más dura que la de otros sauropodos.",
+      "Los fósiles de Camarasaurus son muy comunes en la Formación Morrison, lo que sugiere que fue uno de los saurópodos más abundantes.",
+      "Se cree que tragaba piedras (gastrolitos) para ayudar con la digestión, como otros saurópodos."
+    ],
+  
+    "imagen_principal_url": "camarasaurus.webp",
+    "galeria_imagenes": [
+      "camarasaurus_fosil.webp",
+      "camarasaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Camarasaurus es un género de saurópodo macronario del Jurásico Superior, especialmente común en la Formación Morrison de Norteamérica.",
+      "Poseía un cráneo relativamente corto y robusto, con grandes aberturas nasales situadas frente a los ojos.",
+      "Sus vértebras tenían cámaras internas llenas de aire, lo que aligeraba su esqueleto sin sacrificar resistencia.",
+      "Sopesa varias toneladas y podía alcanzar longitudes de hasta 20 m en algunas especies."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 1,
+      "velocidad": 2,
+      "rareza": 4,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Cope, E. D. (1877)",
+      "fuentes": [
+        "Britannica Camarasaurus", 
+        "NHMU Utah Dinosaur Exhibit", 
+        "ActiveWild Camarasaurus"
+      ]
+    }
+  }
+  

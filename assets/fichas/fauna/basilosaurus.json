@@ -1,0 +1,119 @@
+{
+    "id": "basilosaurus",
+    "nombre_comun": "Basilosaurio",
+    "nombre_cientifico": "Basilosaurus isis",
+    "tipo_animal": "mamífero",
+    "grupo": "cetáceo arqueoceto",
+  
+    "clasificacion": {
+      "clase": "Mammalia",
+      "orden": "Cetacea",
+      "familia": "Basilosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 16.0,
+      "altura_m": null,
+      "peso_kg": 6500.0,
+      "descripcion_dimensiones": "Basilosaurus isis podía medir entre ~15 y 18 m de longitud. :contentReference[oaicite:32]{index=32} Peso estimado: unos ~6,5 toneladas para B. isis."
+    },
+  
+    "periodo": {
+      "era": "Cenozoico",
+      "epoca": "Eoceno",
+      "fase": "Bartoniano–Priaboniano",
+      "rango_edad_presentacion": "≈ 41–34 millones de años antes del presente",
+      "edad_inicio_ma": 41.0,
+      "edad_fin_ma": 34.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1834,
+      "descubridor": "Richard Harlan (primeros restos recogidos por Judge Bry)",
+      "lugar_original": {
+        "formacion": "Yazoo Clay / Jackson Group (para B. cetoides), o Wadi Al-Hitan (para B. isis)",
+        "region": "Louisiana (EE.UU.) / Egipto (Wadi Al-Hitan)",
+        "pais": "Estados Unidos / Egipto"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Louisiana (Jackson Group)"],
+        "coordenadas": [
+          {"lat": 31.3, "lon": -92.4}
+        ]
+      },
+      {
+        "pais": "Egipto",
+        "regiones": ["Wadi Al-Hitan (Valle de las ballenas)"],
+        "coordenadas": [
+          {"lat": 29.5, "lon": 30.5}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Mar tropical poco profundo",
+      "zona_actual": "Extinto (África / América del Norte) en mares antiguos",
+      "zona_paleogeografica": "Antiguos mares del Eoceno (por ejemplo mar de Tetis)",
+      "clima_estimado": "Clima cálido del Eoceno, mares tropicales o subtropicales."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador ápice; comía peces, tortugas, otros cetáceos jóvenes."
+      },
+      "socialidad": "Desconocida; no hay consenso claro, aunque algunos fósiles sugieren interacción social.",
+      "defensa": "No tenía estructuras óseas defensivas especiales; su tamaño y capacidad depredadora eran su defensa principal.",
+      "movimiento": "Nadador anguilliforme (cuerpo alargado tipo anguila), con aletas delanteras para dirigir y cuerpo ondulado para propulsarse.",
+      "reproduccion": "Vivíparo (como los cetáceos); sus extremidades posteriores estaban muy reducidas y no estaban conectadas a la columna vertebral.",
+      "actividad": "Probablemente activa diurna, aunque no se puede afirmar con seguridad."
+    },
+  
+    "curiosidades_adicionales": [
+      "Aunque su nombre significa “rey lagarto” ('Basilosaurus'), originalmente se creyó que era un reptil, antes de saber que era un cetáceo.",
+      "Sus vértebras posteriores y lumbares son muy alargadas, dando un cuerpo serpenteante muy distintivo.",
+      "Tenía extremidades posteriores vestigiales muy pequeñas, que no estaban unidas a la columna vertebral, lo que sugiere que no se usaban para desplazamiento.",
+      "Se han encontrado restos de sus comidas en algunos fósiles, lo que indica que era un depredador activo de gran tamaño."
+    ],
+  
+    "imagen_principal_url": "basilosaurus.webp",
+    "galeria_imagenes": [
+      "basilosaurus_fosil.webp",
+      "basilosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Basilosaurus isis es un cetáceo primitivo del Eoceno, parte de los arqueocetos, con un cuerpo extremadamente alargado y forma anguiliforme.",
+      "Su anatomía sugiere que nadaba mediante ondulación del cuerpo, más que mediante colas grandes como las ballenas modernas, y usaba sus aletas delanteras para maniobrar.",
+      "A pesar de su gran tamaño, tenía patas traseras muy reducidas y no funcionales para caminar, lo que es evidencia de su transición hacia la vida totalmente acuática.",
+      "Era un depredador marino dominante en su ecosistema, con dieta variada que incluía peces, tortugas y otros cetáceos jóvenes."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 5,
+      "velocidad": 3,
+      "rareza": 4,
+      "fuerza_estimada": 5,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 5,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Philip D. Gingerich / estudios sobre Basilosaurus isis",
+      "fuentes": [
+        "UMich Museum – Información sobre Basilosaurus isis",
+        "Prehistoric-Wildlife Basilosaurus",
+        "Smithsonian Institution – Basilosaurus cetoides registro fósil"
+      ]
+    }
+  }
+  

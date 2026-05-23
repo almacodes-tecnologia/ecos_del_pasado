@@ -1,0 +1,112 @@
+{
+    "id": "brachiosaurus_altithorax",
+    "nombre_comun": "Brachiosaurus",
+    "nombre_cientifico": "Brachiosaurus altithorax",
+    "tipo_animal": "dinosaurio",
+    "grupo": "saurópodo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Brachiosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 20.0,
+      "altura_m": 12.0,
+      "peso_kg": 35000.0,
+      "descripcion_dimensiones": "Estimaciones basadas en el holotipo y material asociado: longitudes entre ~18–25 m; altura (hasta la cabeza) estimada en ~12 m para individuos grandes; masa estimada del holotipo y subadultos frecuentemente en decenas de toneladas (varios estudios entre 28–56 t)."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Jurásico",
+      "fase": "Tardío (Kimmeridgian–Tithonian)",
+      "rango_edad_presentacion": "≈ 156–145 millones de años",
+      "edad_inicio_ma": 155.6,
+      "edad_fin_ma": 145.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1903,
+      "descubridor": "Elmer S. Riggs",
+      "lugar_original": {
+        "formacion": "Morrison Formation",
+        "region": "Valle del río Colorado / Grand River (Colorado, EE. UU.)",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Colorado", "Utah"],
+        "coordenadas": [
+          {"lat": 39.0, "lon": -108.5}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Bosques abiertos y llanuras ribereñas",
+      "zona_actual": "Norteamérica (extinto)",
+      "zona_paleogeografica": "Laramidia / porciones de Laurasia",
+      "clima_estimado": "Clima templado a cálido del Jurásico Superior con estaciones y abundante vegetación (coníferas, helechos y plantas vasculares tempranas)."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Probablemente se alimentaba de follaje alto gracias a su cuello elevado; dentición indicada para arrancar material vegetal, no para masticar extensivamente."
+      },
+      "socialidad": "No hay consenso definitivo; se han propuesto comportamientos solitarios o en grupos según evidencia fósil fragmentaria.",
+      "defensa": "Gran tamaño y altura; pocas evidencias de defensa activa más allá del tamaño y posiblemente la cola.",
+      "movimiento": "Cuadrúpedo, con miembros anteriores más largos que los posteriores (proporciones inusuales entre sauropodos).",
+      "reproduccion": "Ovíparo; postura reproductiva y nidos similares a otros saurópodos conocidos.",
+      "actividad": "Diurna, según analogías ecológicas y requerimientos alimentarios."
+    },
+  
+    "curiosidades_adicionales": [
+      "El nombre significa 'lagarto brazo' por sus brazos (húmeros) relativamente largos respecto a otros saurópodos.",
+      "El holotipo fue descrito por Elmer Riggs en 1903 a partir de material de la Formación Morrison en Colorado.",
+      "La comparación con Brachiosaurus brancai (hoy Giraffatitan) ha generado debate sobre la morfología y la asignación de fósiles africanos.",
+      "Su postura alta y cuello largo lo convierten en uno de los saurópodos más icónicos y reconocibles."
+    ],
+  
+    "imagen_principal_url": "brachiosaurus.webp",
+    "galeria_imagenes": [
+      "brachiosaurus_fosil.webp",
+      "brachiosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Brachiosaurus altithorax es un saurópodo del Jurásico Superior, descrito por Riggs (1903) a partir de restos de la Formación Morrison en Colorado.",
+      "Se caracteriza por miembros anteriores desproporcionadamente largos que le daban una postura más elevada frente a otros saurópodos.",
+      "Las estimaciones de tamaño varían, pero ejemplares grandes podían alcanzar decenas de toneladas y longitudes alrededor de 18–25 m.",
+      "La confusión histórica entre material africano (Giraffatitan) y el género Brachiosaurus ha sido objeto de revisiones taxonómicas."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 1,
+      "velocidad": 1,
+      "rareza": 4,
+      "fuerza_estimada": 5,
+      "defensa": 4,
+      "inteligencia": 2,
+      "impacto_historico": 5,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Riggs, E. S. (1903)",
+      "fuentes": [
+        "Wikipedia Brachiosaurus",
+        "Publicaciones sobre la Formación Morrison",
+        "American Museum of Natural History / Field Museum resources"
+      ]
+    }
+  }
+  

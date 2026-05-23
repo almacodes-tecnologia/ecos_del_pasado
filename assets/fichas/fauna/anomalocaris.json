@@ -1,0 +1,112 @@
+{
+    "id": "anomalocaris",
+    "nombre_comun": "Anomalocaris",
+    "nombre_cientifico": "Anomalocaris",
+    "tipo_animal": "invertebrado marino",
+    "grupo": "radiodonte",
+  
+    "clasificacion": {
+      "clase": "Radiodonta",
+      "orden": "Radiodonta",
+      "familia": "Anomalocarididae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 2.5,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Longitud estimada entre ~2,3 y 3,3 m según reconstrucciones modernas."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Cámbrico",
+      "fase": "Medio",
+      "rango_edad_presentacion": "≈ 520–500 millones de años antes del presente",
+      "edad_inicio_ma": 520.0,
+      "edad_fin_ma": 500.0
+    },
+  
+    "descubrimiento": {
+      "anio": null,
+      "descubridor": null,
+      "lugar_original": {
+        "formacion": "Formación Stephen (Burgess Shale)",
+        "region": "Columbia Británica",
+        "pais": "Canadá"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Columbia Británica (Burgess Shale)"],
+        "coordenadas": [
+          {"lat": 51.5, "lon": -116.2}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Medio marino abierto",
+      "zona_actual": "Regiones ahora continentales (extinto) — parte del fondo marino cámbrico",
+      "zona_paleogeografica": "Laurentia (en parte)",
+      "clima_estimado": "Oceanos cálidos del Cámbrico; luz solar relativamente alta en la columna de agua."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador ápice del Cámbrico; se alimentaba de trilobites y otros artrópodos marinos con sus apéndices prensiles."
+      },
+      "socialidad": "Desconocida; no hay evidencia clara de vida en manada.",
+      "defensa": "Sus apéndices prensiles le permitían capturar presas rápidamente; su estructura corporal le daba agilidad en el agua.",
+      "movimiento": "Nadador eficiente; usaba lóbulos laterales para impulsarse a través del agua.",
+      "reproduccion": "Desconocida, pero como invertebrado marino podría haber puesto huevos.",
+      "actividad": "Probablemente diurna/buena visibilidad, aunque el concepto de día/nocturno es distinto bajo el mar del Cámbrico."
+    },
+  
+    "curiosidades_adicionales": [
+      "Anomalocaris significa ‘gamba anómala’ en griego.",
+      "Tenía ojos compuestos muy desarrollados, posiblemente con decenas de miles de lentes.",
+      "Sus apéndices frontales estaban segmentados y terminaban en garras, usados para atrapar presas.",
+      "Por mucho tiempo se conocieron solo partes aisladas de su anatomía (como sus apéndices y boca) hasta reconstruir su forma completa."
+    ],
+  
+    "imagen_principal_url": "anomalocaris.webp",
+    "galeria_imagenes": [
+      "anomalocaris_fosil.webp",
+      "anomalocaris_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Anomalocaris es un género de radiodonto del Cámbrico, considerado uno de los primeros grandes depredadores marinos.",
+      "Poseía apéndices prensiles frontales y una boca circular con placas superpuestas adaptadas para capturar presas.",
+      "Su anatomía fue reconstruida gradualmente durante el siglo XX, pues sus partes fósiles se habían confundido con otros organismos.",
+      "Sus ojos eran muy complejos, lo que indica que tenía una visión avanzada para su tiempo."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 4,
+      "velocidad": 5,
+      "rareza": 5,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Whittington & Briggs (1985)",
+      "fuentes": [
+        "Wikipedia Anomalocaris",
+        "National Geographic anomalocaridids",
+        "IMP World Anomalocaris"
+      ]
+    }
+  }
+  

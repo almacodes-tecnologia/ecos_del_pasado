@@ -1,0 +1,110 @@
+{
+    "id": "edmontonia",
+    "nombre_comun": "Edmontonia",
+    "nombre_cientifico": "Edmontonia longiceps",  
+    "tipo_animal": "dinosaurio",
+    "grupo": "anquilosaurio",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Ornithischia",
+      "familia": "Nodosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 6.6,
+      "altura_m": null,
+      "peso_kg": 3000.0,
+      "descripcion_dimensiones": "Longitud estimada de unos ~6,6 m según fósiles; peso estimado en torno a 3 toneladas."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": null,
+      "edad_inicio_ma": null,
+      "edad_fin_ma": null
+    },
+  
+    "descubrimiento": {
+      "anio": null,
+      "descubridor": null,
+      "lugar_original": {
+        "formacion": null,
+        "region": null,
+        "pais": null
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá / Estados Unidos",
+        "regiones": ["Alberta", "Montana (posible)"],
+        "coordenadas": [
+          {"lat": 54.0, "lon": -113.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras terrestres",
+      "zona_actual": "Norteamérica (extinto)",
+      "zona_paleogeografica": "Laurasia",
+      "clima_estimado": "Probablemente bosques y llanuras durante el Cretácico tardío."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Comía vegetación baja; su armadura y espinas laterales lo protegían frente a depredadores."
+      },
+      "socialidad": "Desconocida; no hay evidencia concluyente de comportamiento social complejo.",
+      "defensa": "Armadura ósea y varias espinas laterales, especialmente grandes en los hombros.",
+      "movimiento": "Terrestre, robusto, no muy veloz por su peso y armadura.",
+      "reproduccion": "No hay datos concretos; probablemente ovíparo como otros dinosaurios.",
+      "actividad": "Desconocida."
+    },
+  
+    "curiosidades_adicionales": [
+      "Poseía espinas prominentes a los lados del cuerpo que lo hacían parecer bastante amenazante a los depredadores.",
+      "Era uno de los nodosaurios más grandes conocidos.",
+      "Su cráneo tenía placas protectoras además de las de su espalda, formando una especie de caparazón rígido."
+    ],
+  
+    "imagen_principal_url": "edmontonia.webp",
+    "galeria_imagenes": [
+      "edmontonia_fosil.webp",
+      "edmontonia_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Edmontonia es un género de dinosaurio anquilosaurio de la familia Nodosauridae, conocido por su gran tamaño y armadura.",
+      "Se distingue por espinas laterales muy prominentes, especialmente en los hombros, lo que sugiere un fuerte mecanismo defensivo.",
+      "Los especímenes fósiles indican que era un animal lento pero bien protegido, con una morfología adaptada para resistir ataques de depredadores.",
+      "Aunque su esqueleto completo es poco frecuente, los fósiles preservan placas óseas y espinas que han sido fundamentales para su estudio."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 1,
+      "rareza": 4,
+      "fuerza_estimada": 4,
+      "defensa": 5,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Media",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Gregory S. Paul, 2010",
+      "fuentes": [
+        "Wikipedia Edmontonia ([en.wikipedia.org](https://en.wikipedia.org/wiki/Edmontonia?utm_source=chatgpt.com))",
+        "Princeton Field Guide (Gregory S. Paul) citado en Wikipedia"
+      ]
+    }
+  }
+  

@@ -1,0 +1,112 @@
+{
+    "id": "archelon",
+    "nombre_comun": "Archelon",
+    "nombre_cientifico": "Archelon ischyros",
+    "tipo_animal": "reptil",
+    "grupo": "tortuga marina",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Testudines",
+      "familia": "Protostegidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 4.6,
+      "altura_m": null,
+      "peso_kg": 2200.0,
+      "descripcion_dimensiones": "Longitud estimada de hasta ~4,6 m según fósiles; peso estimado alrededor de 2200 kg."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío (Campaniano–Maastrichtiano)",
+      "rango_edad_presentacion": "≈ 100–66 millones de años",
+      "edad_inicio_ma": 100.0,
+      "edad_fin_ma": 66.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1895,
+      "descubridor": "George Reber Wieland",
+      "lugar_original": {
+        "formacion": "Pierre Shale",
+        "region": "Dakota del Sur",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Dakota del Sur", "Wyoming"],
+        "coordenadas": [
+          {"lat": 43.8, "lon": -100.4}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Mares costeros del Cretácico (seas poco profundos)",
+      "zona_actual": "Extinto",
+      "zona_paleogeografica": "Antiguo mar interior de América del Norte (Western Interior Seaway)",
+      "clima_estimado": "Mar cálido de Cretácico, aguas templadas a cálidas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro / omnívoro",
+        "detalle": "Se alimentaba de animales marinos como moluscos, crustáceos y posiblemente medusas; su pico ganchudo y mandíbula fuerte le permitían aplastar conchas."
+      },
+      "socialidad": "Desconocida; no hay evidencia clara de estructura social en los fósiles.",
+      "defensa": "Casco óseo interno y pálido, cuerpo grande difícil de depredar.",
+      "movimiento": "Nadador potente: aletas delanteras grandes para impulsarse, morfología similar a tortugas marinas actuales.",
+      "reproduccion": "Probablemente ovíparo, como otras tortugas marinas (pone huevos en tierra, aunque no hay nidos fósiles claros).",
+      "actividad": "Desconocida, probablemente activa durante el día en aguas superficiales."
+    },
+  
+    "curiosidades_adicionales": [
+      "Su nombre significa ‘tortuga gobernante’ (del griego).",
+      "Era la tortuga más grande conocida hasta ahora, con ejemplares de casi 5 metros.",
+      "Tenía un pico ganchudo, adaptado para triturar conchas duras de moluscos y otros invertebrados.",
+      "Sus aletas delanteras eran muy poderosas, permitiéndole nadar con fuerza similar a los pingüinos marinos según algunos estudios."
+    ],
+  
+    "imagen_principal_url": "archelon.webp",
+    "galeria_imagenes": [
+      "archelon_fosil.webp",
+      "archelon_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Archelon ischyros es una tortuga marina gigante del Cretácico Superior, perteneciente a la familia Protostegidae.",
+      "Los fósiles más grandes muestran que alcanzaba casi 4,6 m de longitud y pesaba más de 2 toneladas.",
+      "Su caparazón no era duro como el de otras tortugas, sino más bien de tipo “leathery”, similar al de la tortuga laúd moderna.",
+      "Sus extremidades anteriores (aletas) eran muy desarrolladas para nadar, lo que le permitía desplazarse con potencia por los mares antiguos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 2,
+      "rareza": 5,
+      "fuerza_estimada": 3,
+      "defensa": 4,
+      "inteligencia": 2,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "George R. Wieland, 1896",
+      "fuentes": [
+        "Britannica Archelon ([britannica.com](https://www.britannica.com/animal/Archelon?utm_source=chatgpt.com))",
+        "Wikipedia Archelon ([en.wikipedia.org](https://en.wikipedia.org/wiki/Archelon?utm_source=chatgpt.com))",
+        "Black Hills Institute datos fósiles de Archelon ([turn0search8])"
+      ]
+    }
+  }
+  

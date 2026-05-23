@@ -1,0 +1,111 @@
+{
+    "id": "chasmosaurus_belli",
+    "nombre_comun": "Casmosaurio",
+    "nombre_cientifico": "Chasmosaurus belli",
+    "tipo_animal": "dinosaurio",
+    "grupo": "ceratópsido",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Ornithischia",
+      "familia": "Ceratopsidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 5.0,
+      "altura_m": 1.8,
+      "peso_kg": 2000.0,
+      "descripcion_dimensiones": "Longitud de 5 m, altura al hombro de 1,8 m y peso aproximado de 1,5–2 toneladas."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "≈ 76–75 millones de años",
+      "edad_inicio_ma": 76.0,
+      "edad_fin_ma": 75.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1914,
+      "descubridor": "Lawrence Lambe",
+      "lugar_original": {
+        "formacion": "Foremost",
+        "region": "Alberta",
+        "pais": "Canadá"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Alberta"],
+        "coordenadas": [
+          {"lat": 50.5, "lon": -112.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras abiertas y bosques claros",
+      "zona_actual": "Canadá (extinto)",
+      "zona_paleogeografica": "Laramidia",
+      "clima_estimado": "Clima templado, con vegetación diversa de helechos, coníferas y plantas con flores tempranas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Se alimentaba de plantas bajas y medias, usando su pico y dientes para cortar vegetación."
+      },
+      "socialidad": "Probablemente vivía en manadas para defensa y protección de los jóvenes.",
+      "defensa": "Usaba su gran collar óseo y cuernos para intimidar y protegerse de depredadores.",
+      "movimiento": "Cuadrúpedo, caminaba lentamente pero estable.",
+      "reproduccion": "Ovíparo; depositaba huevos en nidos poco profundos.",
+      "actividad": "Diurna"
+    },
+  
+    "curiosidades_adicionales": [
+      "Poseía un amplio escudo óseo (frill) con agujeros que reducían peso.",
+      "Era más ligero y ágil que otros ceratópsidos grandes como Triceratops.",
+      "Sus cuernos eran relativamente pequeños, sugiriendo defensa más que ataque.",
+      "Fósiles bien conservados han permitido reconstrucciones detalladas de su frill y cráneo."
+    ],
+  
+    "imagen_principal_url": "chasmosaurus_belli.webp",
+    "galeria_imagenes": [
+      "chasmosaurus_fosil.webp",
+      "chasmosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Chasmosaurus belli fue un ceratópsido del Cretácico tardío en lo que hoy es Alberta, Canadá.",
+      "Su característica principal era el frill amplio y perforado, utilizado para defensa y posiblemente comunicación visual.",
+      "Se alimentaba de vegetación diversa, incluyendo helechos y coníferas.",
+      "Vivía en manadas, lo que ofrecía protección frente a depredadores como tyrannosaurios."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 2,
+      "rareza": 4,
+      "fuerza_estimada": 3,
+      "defensa": 5,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Lambe, L. (1914)",
+      "fuentes": [
+        "Wikipedia Chasmosaurus",
+        "Journal of Vertebrate Paleontology",
+        "Royal Tyrrell Museum"
+      ]
+    }
+}

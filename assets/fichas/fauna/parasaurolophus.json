@@ -1,0 +1,118 @@
+{
+    "id": "parasaurolophus",
+    "nombre_comun": "Parasaurolophus",
+    "nombre_cientifico": "Parasaurolophus walkeri",
+    "tipo_animal": "dinosaurio",
+    "grupo": "hadrosáurido",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Ornithischia",
+      "familia": "Hadrosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 10.0,
+      "altura_m": 2.5,
+      "peso_kg": 3500.0,
+      "descripcion_dimensiones": "Longitud estimada de hasta ~10 m, altura al nivel de la cadera ~2,5 m; peso estimado cerca de 3,5 toneladas."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío (Campaniano–Maastrichtiano)",
+      "rango_edad_presentacion": null,
+      "edad_inicio_ma": null,
+      "edad_fin_ma": null
+    },
+  
+    "descubrimiento": {
+      "anio": 1922,
+      "descubridor": "William Parks",
+      "lugar_original": {
+        "formacion": null,
+        "region": "Alberta",
+        "pais": "Canadá"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Alberta"],
+        "coordenadas": [
+          {"lat": 54.0, "lon": -112.0}
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Nuevo México", "Utah"],
+        "coordenadas": [
+          {"lat": 36.0, "lon": -109.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras de inundación y bosques costeros",
+      "zona_actual": "Extinto (Norteamérica)",
+      "zona_paleogeografica": "Llanuras costeras del Cretácico tardío",
+      "clima_estimado": "Clima cálido y húmedo durante el Cretácico tardío. "
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Se alimentaba de plantas; su cresta hueca podría haber sido usada para vocalización o termorregulación."
+      },
+      "socialidad": "Probablemente gregario, como otros hadrosáuridos; podía caminar bípeda o cuadrúpeda.",
+      "defensa": "Dependía de su tamaño y su capacidad para moverse en manadas más que de armadura física.",
+      "movimiento": "Capaz de caminar tanto en dos patas (bípeda) como en cuatro (cuadrúpeda).",
+      "reproduccion": "Ovíparo (ponía huevos), presumiblemente similar a otros dinosaurios hadrosáuridos.",
+      "actividad": "Desconocida, pero probablemente diurna."
+    },
+  
+    "curiosidades_adicionales": [
+      "La cresta del Parasaurolophus era larga, hueca y podía alcanzar ~1,6 m, lo que podría haber permitido emitir sonidos resonantes.",
+      "Se cree que la cresta también podría haber servido para la exhibición visual entre animales, para atraer pareja o mostrar dominancia.",
+      "A veces caminaba en cuatro patas para alimentarse, pero podía desplazarse en dos patas si necesitaba correr o vigilar su entorno.",
+      "Los esqueletos fósiles muestran que existían varias especies de Parasaurolophus, con variaciones en tamaño y longitud de cresta."
+    ],
+  
+    "imagen_principal_url": "parasaurolophus.webp",
+    "galeria_imagenes": [
+      "parasaurolophus_fosil.webp",
+      "parasaurolophus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Parasaurolophus walkeri es un dinosaurio hadrosáurido del Cretácico tardío, conocido por su extensa cresta ósea hueca.",
+      "La cresta estaba conectada al sistema respiratorio, lo que podría haber permitido vocalizaciones complejas y quizá la regulación de la temperatura.",
+      "Se han encontrado fósiles tanto en Canadá (Alberta) como en EE.UU. (Nuevo México, Utah), lo que indica una distribución amplia.",
+      "Su anatomía le permitía caminar bípeda o cuadrúpeda, una gran ventaja para pastar vegetación variada y desplazarse eficientemente."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 3,
+      "rareza": 3,
+      "fuerza_estimada": 3,
+      "defensa": 2,
+      "inteligencia": 3,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "William Parks, 1922",
+      "fuentes": [
+        "Wikipedia Parasaurolophus ([en.wikipedia.org](https://en.wikipedia.org/wiki/Parasaurolophus?utm_source=chatgpt.com))",
+        "Dinociencia Parasaurolophus ([dinociencia.com](https://dinociencia.com/parasaurolophus-walkeri/?utm_source=chatgpt.com))"
+      ]
+    }
+  }
+  

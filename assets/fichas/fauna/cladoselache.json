@@ -1,0 +1,112 @@
+{
+    "id": "cladoselache",
+    "nombre_comun": "Cladoselache",
+    "nombre_cientifico": "Cladoselache clarki",
+    "tipo_animal": "pez",
+    "grupo": "tiburón primitivo",
+  
+    "clasificacion": {
+      "clase": "Chondrichthyes",
+      "orden": "Cladoselachiformes",
+      "familia": "Cladoselachidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 1.8,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Se estima que algunos ejemplares alcanzaban hasta ~1,8 m de longitud según fósiles bien conservados."
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Devónico",
+      "fase": "Tardío (Famenniano)",
+      "rango_edad_presentacion": "≈ 370–359 millones de años",
+      "edad_inicio_ma": 370.0,
+      "edad_fin_ma": 359.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1893,
+      "descubridor": "E. W. Claypole (Cladoselache clarki)", 
+      "lugar_original": {
+        "formacion": "Cleveland Shale",
+        "region": "Ohio, EE.UU.",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Ohio (Cleveland Shale)"],
+        "coordenadas": [
+          {"lat": 41.5, "lon": -81.7}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Océanos marinos del Devónico",
+      "zona_actual": "Extinto",
+      "zona_paleogeografica": "Antiguos mares devónicos ubicados en lo que hoy es Norteamérica / Europa",
+      "clima_estimado": "Mares cálidos y poco profundos del Devónico tardío; ecosistemas ricos con peces primitivos y otros vertebrados marinos."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro / piscívoro",
+        "detalle": "Dentición primitiva tipo 'cladodonte' con cúspide central y cúspides accesorias; probablemente capturaba peces y otros animales marinos pequeños."
+      },
+      "socialidad": "Desconocida; no hay evidencias claras de agrupamientos sociales en los fósiles.",
+      "defensa": "No tenía armadura ósea fuerte; su defensa dependía más de velocidad y morfología esbelta.",
+      "movimiento": "Nadador rápido y ágil: cuerpo fusiforme, aletas pectorales grandes, cola potente.",
+      "reproduccion": "Desconocida con certeza; como tiburón primitivo podría tener fecundación interna, aunque no hay registros directos de claspers en algunos especímenes.",
+      "actividad": "Probablemente diurna o activa, dada su morfología de cazador ágil."
+    },
+  
+    "curiosidades_adicionales": [
+      "Es uno de los tiburones más antiguos bien conocidos y ha sido muy importante para entender la evolución de los tiburones cartilaginosos.",
+      "Algunos fósiles de Cladoselache conservan tejido blando, incluyendo músculos y órganos internos, algo relativamente raro en tiburones fósiles.",
+      "A diferencia de muchos tiburones modernos, Cladoselache no parece tener claspers sexuales bien desarrollados según los fósiles conocidos.",
+      "Su cola era asimétrica (heterocerca) y proporcionaba impulso para un nado rápido."
+    ],
+  
+    "imagen_principal_url": "cladoselache.webp",
+    "galeria_imagenes": [
+      "cladoselache_fosil.webp",
+      "cladoselache_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Cladoselache clarki es un tiburón primitivo del Devónico tardío, conocido por fósiles excepcionalmente bien conservados en la Cleveland Shale de EE.UU.",
+      "Presenta una dentición cladodonte con cúspide central y cúspides accesorias, lo que indica un estilo de alimentación adaptado a peces pequeños y otros animales marinos.",
+      "El cuerpo era esbelto y fusiforme, con aletas pectorales amplias y una cola potente que le permitía nadar con agilidad.",
+      "Algunos fósiles muestran tejido blando preservado, lo que ha permitido reconstruir no solo su morfología externa, sino también algunos órganos internos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 4,
+      "velocidad": 5,
+      "rareza": 4,
+      "fuerza_estimada": 3,
+      "defensa": 2,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 4
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Claypole, E. W. (1893)",
+      "fuentes": [
+        "Britannica",
+        "Wikipedia",
+        "Prehistoric-Wildlife Cladoselache}"
+      ]
+    }
+  }
+  

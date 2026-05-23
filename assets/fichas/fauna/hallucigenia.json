@@ -1,0 +1,119 @@
+{
+    "id": "hallucigenia",
+    "nombre_comun": "Hallucigenia",
+    "nombre_cientifico": "Hallucigenia sparsa",
+    "tipo_animal": "invertebrado",
+    "grupo": "lobopodio",
+  
+    "clasificacion": {
+      "clase": "Panarthropoda",
+      "orden": "Lobopodia",
+      "familia": "Hallucigeniidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 0.03,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Longitud pequeña, estimada entre ~10 y 50 mm según fósiles. :contentReference[oaicite:0]{index=0}"
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Cámbrico",
+      "fase": "Medio / Temprano",
+      "rango_edad_presentacion": "≈ 508 millones de años",
+      "edad_inicio_ma": 508.0,
+      "edad_fin_ma": 505.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1911,
+      "descubridor": "Charles Doolittle Walcott",
+      "lugar_original": {
+        "formacion": "Burgess Shale",
+        "region": "Columbia Británica",
+        "pais": "Canadá"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Canadá",
+        "regiones": ["Burgess Shale, Greater Phyllopod Bed"],
+        "coordenadas": [
+          {"lat": 51.38, "lon": -116.21}
+        ]
+      },
+      {
+        "pais": "China",
+        "regiones": ["Shales de Maotianshan"],
+        "coordenadas": [
+          {"lat": 24.7, "lon": 104.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Fondo marino poco profundo",
+      "zona_actual": "Área de Burgess Shale (Canadá) y biotas equivalentes en China (extinto)",
+      "zona_paleogeografica": "Laurasia (segmentos paleocámbricos)",
+      "clima_estimado": "Clima marino del Cámbrico, aguas relativamente cálidas y ricas en nutrientes. "
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Detritívoro / filtro / alimentación variable",
+        "detalle": "Se cree que podía alimentarse de detritos y materia orgánica. :contentReference[oaicite:1]{index=1}"
+      },
+      "socialidad": "Desconocida; los fósiles se han encontrado aislados o en densidades bajas.",
+      "defensa": "Tenía espinas dorsales rígidas a lo largo de su cuerpo, probablemente con función defensiva. :contentReference[oaicite:2]{index=2}",
+      "movimiento": "Terrestre / marino bentónico: lobopodio con patas musculares, posiblemente caminaba sobre el sustrato marino.",
+      "reproduccion": "Desconocida; no hay evidencia directa de su modo reproductivo.",
+      "actividad": "Desconocida."
+    },
+  
+    "curiosidades_adicionales": [
+      "Fue reconstruido originalmente al revés: las “piernas” se pensaban que eran espinas y viceversa. :contentReference[oaicite:3]{index=3}",
+      "Hallucigenia es un pariente remoto de los onicóforos (gusanos de terciopelo) y posiblemente de los artrópodos. :contentReference[oaicite:4]{index=4}",
+      "Se han hallado fósiles también en la Formación Wheeler (EE.UU.) además del Burgess Shale. :contentReference[oaicite:5]{index=5}",
+      "El nombre viene de su aspecto tan extraño y casi ‘alucinado’ (“hallucination”)."
+    ],
+  
+    "imagen_principal_url": "hallucigenia.webp",
+    "galeria_imagenes": [
+      "hallucigenia_fosil.webp",
+      "hallucigenia_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Hallucigenia sparsa es un lobopodio del Cámbrico que destaca por su cuerpo tubular, patas pares y espinas dorsales rígidas. :contentReference[oaicite:6]{index=6}",
+      "Se describe a partir de fósiles de la Burgess Shale (Canadá) y biotas equivalentes en China. :contentReference[oaicite:7]{index=7}",
+      "Inicialmente los científicos se confundieron sobre su orientación (qué parte era la cabeza y cuál su espalda), lo que provocó reconstrucciones erróneas. :contentReference[oaicite:8]{index=8}",
+      "Las espinas sobre su espalda probablemente servían como defensa pasiva frente a depredadores primitivos del Cámbrico."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 1,
+      "velocidad": 1,
+      "rareza": 5,
+      "fuerza_estimada": 1,
+      "defensa": 3,
+      "inteligencia": 1,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 3,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Walcott, década de 1910 / estudios modernos",
+      "fuentes": [
+        "Wikipedia Hallucigenia :contentReference[oaicite:9]{index=9}",
+        "BBC Science Focus sobre Hallucigenia :contentReference[oaicite:10]{index=10}",
+        "Prehistoric-Wildlife (Hallucigenia) :contentReference[oaicite:11]{index=11}"
+      ]
+    }
+  }
+  

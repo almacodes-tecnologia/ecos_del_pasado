@@ -1,0 +1,106 @@
+{
+    "id": "hibodo",
+    "nombre_comun": "Tiburón hybodonte",
+    "nombre_cientifico": "Hybodus fraasi",
+    "tipo_animal": "pez cartilaginoso",
+    "grupo": "hybodóntido",
+
+    "clasificacion": {
+        "clase": "Chondrichthyes",
+        "orden": "Hybodontiformes",
+        "familia": "Hybodontidae"
+    },
+
+    "dimensiones": {
+        "longitud_m": 1.0,
+        "altura_m": null,
+        "peso_kg": null,
+        "descripcion_dimensiones": "Se estima que Hybodus fraasi alcanzaba alrededor de 1 m de longitud. El peso y la altura son difíciles de estimar con precisión debido a que su esqueleto cartilaginoso es incompleto en el registro fósil."
+    },
+
+    "periodo": {
+        "era": "Mesozoico",
+        "epoca": "Jurásico",
+        "fase": "Tardío",
+        "rango_edad_presentacion": "Jurásico Tardío (aproximadamente 163.5 a 145 millones de años)",
+        "edad_inicio_ma": 163.5,
+        "edad_fin_ma": 145.0
+    },
+
+    "descubrimiento": {
+        "anio": 1911,
+        "descubridor": "Charles R. Eastman",
+        "lugar_original": {
+            "formacion": "Solnhofen",
+            "region": "Baviera",
+            "pais": "Alemania"
+        }
+    },
+
+    "yacimientos_clave": [
+        {
+            "pais": "Alemania",
+            "regiones": ["Baviera"],
+            "coordenadas": [
+                { "lat": 48.90, "lon": 10.90 }
+            ]
+        }
+    ],
+
+    "habitat_aproximado": {
+        "tipo": "Mares someros costeros",
+        "zona_actual": "Europa Central",
+        "zona_paleogeografica": "Regiones marinas del Jurásico europeo",
+        "clima_estimado": "Cálido y marino; océanos poco profundos con zonas costeras y lagunares."
+    },
+
+    "informacion_comportamiento": {
+        "dieta": {
+            "general": "Carnívoro",
+            "detalle": "Combinaba dientes puntiagudos para atrapar presas con otros más redondeados para triturar caparazones de invertebrados."
+        },
+        "socialidad": "Desconocida",
+        "defensa": "Espinas óseas delante de las aletas dorsales utilizadas probablemente como defensa.",
+        "movimiento": "Nadador ágil de aguas someras.",
+        "reproduccion": "Desconocida",
+        "actividad": "Probablemente diurna, aunque no demostrado."
+    },
+
+    "curiosidades_adicionales": [
+        "El nombre Hybodus significa ‘diente jorobado’.",
+        "Los fósiles de Hybodus fraasi son poco comunes y suelen consistir en dientes y espinas de aleta.",
+        "La especie fue descrita formalmente por Charles R. Eastman en 1911.",
+        "Los hybodóntidos coexistieron con los primeros tiburones modernos antes de extinguirse en el Cretácico."
+    ],
+
+    "imagen_principal_url": "hybodus_fraasi.webp",
+    "galeria_imagenes": [
+        "hybodus_fraasi_fosil.webp",
+        "hybodus_shark_reconstruccion.webp"
+    ],
+
+    "descripcion_cientifica": [
+        "Hybodus fraasi fue un tiburón primitivo del Jurásico tardío perteneciente a los hybodóntidos, un grupo muy difundido en ambientes costeros.",
+        "Su dentición heterodonta indica una dieta variada, con capacidad para capturar peces e invertebrados blandos y triturar organismos con concha.",
+        "Las espinas dorsales reforzadas le proporcionaban defensa y posiblemente estabilidad hidrodinámica.",
+        "El registro fósil limitado dificulta reconstruir su peso o comportamiento reproductivo, pero sí se conoce bien su dentición y morfología general."
+    ],
+
+    "estadisticas_fantasia": {
+        "agresividad": 3,
+        "velocidad": 4,
+        "rareza": 5,
+        "fuerza_estimada": 3,
+        "defensa": 3,
+        "inteligencia": 2,
+        "impacto_historico": 3,
+        "nivel_adaptacion": 5,
+        "impresionabilidad": 4
+    },
+
+    "metadatos_personalizados": {
+        "prioridad_ui": "Media",
+        "ultima_revision": "2025-11-17",
+        "referencia_principal": "Eastman, 1911"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "dunkleosteus_terrelli",
+    "nombre_comun": "Dunkleosteus",
+    "nombre_cientifico": "Dunkleosteus terrelli",
+    "tipo_animal": "pez",
+    "grupo": "placodermo",
+  
+    "clasificacion": {
+      "clase": "Placodermi",
+      "orden": "Arthrodira",
+      "familia": "Dunkleosteidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 4.6,
+      "altura_m": null,
+      "peso_kg": 950.0,
+      "descripcion_dimensiones": "Longitud estimada de ~4,6 m para un adulto; peso estimado entre ~950 y ~1.200 kg según estudios modernos."  
+    },
+  
+    "periodo": {
+      "era": "Paleozoico",
+      "epoca": "Devónico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "≈ 382–358 millones de años antes del presente",
+      "edad_inicio_ma": 382.0,
+      "edad_fin_ma": 358.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1867,
+      "descubridor": "Jay Terrell",
+      "lugar_original": {
+        "formacion": "Cleveland Shale / Ohio Shale",
+        "region": "Sheffield Lake, costa del Lago Erie",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Ohio (Cleveland Shale)"],
+        "coordenadas": [
+          {"lat": 41.5, "lon": -81.6}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Aguas marinas costeras",
+      "zona_actual": "Regiones ahora continentales (extinto)",
+      "zona_paleogeografica": "Antiguos mares devónicos",
+      "clima_estimado": "Océanos cálidos del Devónico con arrecifes y plataformas marinas poco profundas."  
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador ápice marino; se alimentaba de otros peces gracias a sus fuertes placas mandibulares. "
+      },
+      "socialidad": "Desconocida; no hay evidencia clara de comportamento gregario.",
+      "defensa": "Poseía una coraza ósea en la cabeza y el torso que le servía de protección; mandíbula extremadamente potente. ",
+      "movimiento": "Nadador robusto; su cuerpo blindado sugiera poder embestir presas.",
+      "reproduccion": "Desconocida; aunque algunos placodermos tenían fecundación interna, no hay consenso para este género.",
+      "actividad": "Probablemente diurna, dado que vivía en aguas iluminadas y bien oxigenadas."
+    },
+  
+    "curiosidades_adicionales": [
+      "Dunkleosteus fue nombrado en honor a David Dunkle, paleontólogo del Cleveland Museum of Natural History.",
+      "Los primeros fósiles fueron encontrados en 1867 por Jay Terrell a lo largo de las escarpas del Lago Erie.",
+      "Muchas reconstrucciones sólo están basadas en la armadura cefálica; no se han encontrado muchas partes blandas del cuerpo.",
+      "Se le considera uno de los depredadores más poderosos del Devónico, con una mordida capaz de aplastar con sus placas óseas."
+    ],
+  
+    "imagen_principal_url": "dunkleosteus.webp",
+    "galeria_imagenes": [
+      "dunkleosteus_fosil.webp",
+      "dunkleosteus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Dunkleosteus terrelli fue un placodermo del Devónico tardío con una cabeza blindada y mandíbulas formadas por placas óseas súper fuertes.",
+      "Se estima que alcanzaba longitudes de unos 4,6 m, aunque hay estimaciones mayores basadas en reconstrucciones completas.",
+      "Sus fósiles más comunes provienen de la Cleveland Shale, en Ohio, donde se han encontrado placas craneales bien preservadas.",
+      "Aunque sólo se conservan fragmentos de su cuerpo, estudios han mostrado que parte del tronco podría haber sido cartilaginoso, como en tiburones modernos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 5,
+      "velocidad": 3,
+      "rareza": 4,
+      "fuerza_estimada": 5,
+      "defensa": 5,
+      "inteligencia": 2,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "John S. Newberry / Jay Terrell",
+      "fuentes": [
+        "Wikipedia Dunkleosteus", 
+        "Ohio Geological Survey", 
+        "Palaeontologia Electronica"
+      ]
+    }
+  }
+  

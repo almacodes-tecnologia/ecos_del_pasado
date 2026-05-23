@@ -1,0 +1,126 @@
+{
+    "id": "gastornis",
+    "nombre_comun": "Gastornis",
+    "nombre_cientifico": "Gastornis parisiensis",
+    "tipo_animal": "ave",
+    "grupo": "ave no voladora",
+  
+    "clasificacion": {
+      "clase": "Aves",
+      "orden": "Gastornithiformes",
+      "familia": "Gastornithidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 1.8,
+      "altura_m": 1.9,
+      "peso_kg": 200.0,
+      "descripcion_dimensiones": "Altura aproximada de 1.6–2.0 m; masa estimada variable entre ~100–300 kg según especie y autores; pico robusto y cuerpo macizo."
+    },
+  
+    "periodo": {
+      "era": "Cenozoico",
+      "epoca": "Paleógeno",
+      "fase": "Paleoceno–Eoceno (final Paleoceno – inicios del Eoceno)",
+      "rango_edad_presentacion": "≈ 58–45 millones de años",
+      "edad_inicio_ma": 58.0,
+      "edad_fin_ma": 45.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1855,
+      "descubridor": "E. Hébert",
+      "lugar_original": {
+        "formacion": "Argile plastique (depósitos de Meudon)",
+        "region": "Meudon / Paris Basin, Île-de-France",
+        "pais": "Francia"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Francia",
+        "regiones": ["Meudon (Paris Basin)", "Passy)"],
+        "coordenadas": [
+          {"lat": 48.82, "lon": 2.24}
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Wyoming (Wasatch Formation)"],
+        "coordenadas": [
+          {"lat": 43.5, "lon": -108.5}
+        ]
+      },
+      {
+        "pais": "Eurasia",
+        "regiones": ["Hallazgos en Europa y Asia"],
+        "coordenadas": [
+          {"lat": 46.0, "lon": 2.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Zonas costeras, planicies y ambientes forestales abiertos del Paleógeno temprano",
+      "zona_actual": "Europa, Asia y América del Norte (extinto)",
+      "zona_paleogeografica": "Eurasiática / Norteamérica (distribución amplia tras el Paleoceno)",
+      "clima_estimado": "Climas cálidos a templados del Paleoceno-Eoceno temprano; ambientes con bosques y zonas abiertas."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro/Omnívoro (debate)",
+        "detalle": "Interpretaciones varían: pico poderoso sugiere capacidad para consumir vegetación dura, semillas o carroña; hoy muchos estudios favorecen una dieta herbívora u omnívora, no necesariamente exclusivamente depredadora."
+      },
+      "socialidad": "Desconocida; posibles asociaciones en grupos según icnitas y asociaciones en yacimientos.",
+      "defensa": "Gran tamaño, pico robusto y patas fuertes; probablemente no tenía depredadores frecuentes debido a su tamaño.",
+      "movimiento": "Terrestre, bípedo; adaptado a caminar con pasos fuertes.",
+      "reproduccion": "Ovíparo; postura de aves terrestres, con huevos y nidos subfósiles conocidos en familias emparentadas.",
+      "actividad": "Diurna, según analogías ecológicas."
+    },
+  
+    "curiosidades_adicionales": [
+      "Gastornis fue descrito por primera vez en 1855 y antiguamente se creyó que era un carnívoro gigante (Diatryma en América), aunque hoy la hipótesis herbívora/omnívora tiene mayor aceptación.",
+      "El género incluye varias especies distribuidas por Europa, Asia y América del Norte en el Paleógeno temprano.",
+      "Algunas reconstrucciones antiguas le atribuían comportamiento predador, pero el análisis funcional del pico sugiere capacidad para procesar material vegetal.",
+      "Recientes estudios filogenéticos han revisado su posición sistemática e hipótesis sobre afinidades con Galliformes o linajes relacionados."
+    ],
+  
+    "imagen_principal_url": "gastornis.webp",
+    "galeria_imagenes": [
+      "gastornis_fosil.webp",
+      "gastornis_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Gastornis parisiensis es un ave no voladora del Paleoceno–Eoceno, conocida por su gran tamaño y pico robusto.",
+      "Descubierta y descrita en Francia en 1855, su interpretación dietaria ha variado históricamente entre carnívora y herbívora/omnívora; la evidencia funcional reciente favorece dietas no estrictamente predadoras.",
+      "Los fósiles se han encontrado en Europa, América del Norte y Asia, lo que sugiere una amplia distribución paleogeográfica en el Paleógeno temprano.",
+      "Su morfología indica adaptaciones para un estilo de vida terrestre y para procesar material duro con su pico."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 1,
+      "rareza": 4,
+      "fuerza_estimada": 4,
+      "defensa": 4,
+      "inteligencia": 2,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Hébert (1855); revisiones modernas",
+      "fuentes": [
+        "Wikipedia Gastornis",
+        "Palaeontologia Electronica (revisiones)",
+        "Publicaciones de paleontología sobre Gastornithidae"
+      ]
+    }
+  }
+  

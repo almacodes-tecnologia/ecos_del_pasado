@@ -1,0 +1,106 @@
+{
+    "id": "allosaurus",
+    "nombre_comun": "Alosaurio",
+    "nombre_cientifico": "Allosaurus fragilis",
+    "tipo_animal": "dinosaurio",
+    "grupo": "terópodo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Allosauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 9.0,
+      "altura_m": 4.0,
+      "peso_kg": 1500.0,
+      "descripcion_dimensiones": "Longitud desde el hocico hasta la punta de la cola; altura estimada a la cadera (≈4.0 m). Estas cifras representan un valor razonable y respaldado por estudios y exposiciones de museos para A. fragilis (especie tipo) — ni el valor más conservador ni la máxima extrapolación extrema."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Jurásico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "Aproximadamente 155–150 millones de años",
+      "edad_inicio_ma": 155.0,
+      "edad_fin_ma": 150.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1877,
+      "descubridor": "Othniel Charles Marsh (restos recogidos por Benjamin Mudge y Samuel W. Williston)",
+      "lugar_original": {
+        "formacion": "Morrison",
+        "region": "Garden Park / Colorado (tipo de hallazgos tempranos)",
+        "pais": "Estados Unidos"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Estados Unidos",
+        "regiones": ["Colorado", "Utah", "Wyoming", "Montana"],
+        "coordenadas": [
+          {"lat": 39.03, "lon": -108.77}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras ribereñas, bosques abiertos y zonas semiarboladas",
+      "zona_actual": "Oeste de Estados Unidos",
+      "zona_paleogeografica": "Laurasia",
+      "clima_estimado": "Templado con estaciones, con bosques y ríos abundantes."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador ápice del ecosistema de la Formación Morrison; presas incluyeron grandes saurópodos juveniles, ornitisquios y otros dinosaurios. Mandíbulas y dientes adaptados para desgarrar y cortar carne."
+      },
+      "socialidad": "Debate científico: depósitos como Cleveland-Lloyd muestran agregaciones de Allosaurus que sugieren comportamientos complejos (acumulación por muerte en un mismo lugar, posible caza agregada o conducta de consumo de carroña).",
+      "defensa": "Dentición afilada, robustez craneal y agilidad; ataques con mordida y garras.",
+      "movimiento": "Bípedo, equilibrio mantenido por cola larga; desplazamiento ágil para su tamaño.",
+      "reproduccion": "Ovíparo; nidos y cuidado parental inferidos por analogía con terópodos relacionados.",
+      "actividad": "Diurna o catemeral (actividad en varias franjas del día plausible)."
+    },
+  
+    "curiosidades_adicionales": [
+      "Allosaurus fue el carnívoro más común en muchos ecosistemas de la Formación Morrison.",
+      "Se han documentado marcas de mordida y lesiones que indican peleas intraespecíficas o interacciones agresivas.",
+      "El yacimiento de Cleveland-Lloyd contiene una proporción inusualmente alta de Allosaurus, lo que ha motivado múltiples hipótesis sobre comportamiento y causas de muerte.",
+      "Allosaurus ha sido una pieza clave en estudios sobre biología y ecología de depredadores del Jurásico."
+    ],
+  
+    "imagen_principal_url": "allosaurus.webp",
+    "galeria_imagenes": [
+      "allosaurus_fosil.webp",
+      "allosaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Allosaurus fragilis fue un gran terópodo depredador del Jurásico tardío, muy representado en la Formación Morrison de América del Norte.",
+      "Poseía un cráneo relativamente ligero pero robusto, con abundantes dientes serrados adecuados para desgarrar la carne; su morfología sugiere estrategias de depredación versátiles.",
+      "Los numerosos ejemplares y las marcas en huesos de presas muestran que desempeñó un papel ecológico central como predador ápice en su comunidad."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 4,
+      "velocidad": 3,
+      "rareza": 4,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-18",
+      "referencia_principal": "Marsh, O. C. (1877)"
+    }
+  }
+  

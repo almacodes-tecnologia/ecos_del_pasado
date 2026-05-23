@@ -1,0 +1,126 @@
+{
+    "id": "tanystropheus",
+    "nombre_comun": "Tanystropheus",
+    "nombre_cientifico": "Tanystropheus hydroides",
+    "tipo_animal": "reptil",
+    "grupo": "arcosauromorfo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "†Prolacertiformes",
+      "familia": "Tanystropheidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 6.0,
+      "altura_m": null,
+      "peso_kg": null,
+      "descripcion_dimensiones": "Algunos ejemplares de Tanystropheus alcanzaban ~6 m de longitud, con el cuello componiendo una parte sustancial del cuerpo."
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Triásico",
+      "fase": "Medio",
+      "rango_edad_presentacion": "≈ 245–228 millones de años",
+      "edad_inicio_ma": 245.0,
+      "edad_fin_ma": 228.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1852,
+      "descubridor": "Christian Erich Hermann von Meyer",
+      "lugar_original": {
+        "formacion": "Formaciones triásicas (por ejemplo Monte San Giorgio)",
+        "region": "Suiza / Italia",
+        "pais": "Suiza / Italia"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Suiza",
+        "regiones": ["Monte San Giorgio"],
+        "coordenadas": [
+          {"lat": 46.01, "lon": 8.8}
+        ]
+      },
+      {
+        "pais": "China",
+        "regiones": ["Formaciones triásicas (varios especímenes)"],
+        "coordenadas": [
+          {"lat": 30.0, "lon": 104.0}
+        ]
+      },
+      {
+        "pais": "Italia",
+        "regiones": ["Formación de Besano / Lombardía"],
+        "coordenadas": [
+          {"lat": 45.9, "lon": 8.7}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambientes costeros / marinos poco profundos",
+      "zona_actual": "Extinto",
+      "zona_paleogeografica": "Pangea (Triásico medio)",
+      "clima_estimado": "Climas cálidos durante el Triásico; posiblemente vivía cerca de costa o en aguas someras."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Se alimentaba de peces y otros pequeños animales acuáticos; su largo cuello podría haber permitido emboscar presas desde la orilla o mientras estaba parcialmente sumergido."
+      },
+      "socialidad": "Desconocida; no hay muchos datos sobre comportamiento grupal.",
+      "defensa": "No tenía armadura aparente; su defensa probablemente dependía de su tamaño, velocidad y morfología alargada.",
+      "movimiento": "Su morfología sugiere movilidad tanto terrestre como acuática; investigaciones recientes apuntan a un modo de vida acuático en adultos grandes.",
+      "reproduccion": "Desconocida; no hay consenso claro en fósiles acerca de su tipo reproductivo.",
+      "actividad": "Podría haber sido crepuscular o diurno, aunque esto no está bien documentado."
+    },
+  
+    "curiosidades_adicionales": [
+      "Su cuello estaba formado por 13 vértebras extremadamente alargadas con costillas cervicales muy robustas, lo que lo hace muy peculiar entre los reptiles.",
+      "Durante mucho tiempo se debatió si vivía en tierra o en el agua; estudios recientes con escáneres CT han sugerido que los adultos más grandes eran acuáticos.",
+      "Se han identificado al menos dos especies distintas (T. longobardicus y T. hydroides) con diferencias craneales notables.",
+      "Se han encontrado marcas de mordeduras en algunos cuellos fósiles, lo que sugiere que depredadores atacaban esa parte vulnerable."
+    ],
+  
+    "imagen_principal_url": "tanystropheus.webp",
+    "galeria_imagenes": [
+      "tanystropheus_fosil.webp",
+      "tanystropheus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Tanystropheus hydroides es un reptil arcosauromorfo del Triásico medio caracterizado por su cuello extremadamente largo, compuesto por 13 vértebras elongadas.",
+      "Se han encontrado muchos esqueletos completos en sitios como Monte San Giorgio, lo que ha permitido reconstruir su morfología de forma bastante precisa.",
+      "Aunque su forma es tan extraña que durante décadas se dudó si vivía en tierra o en el agua, estudios recientes apuntan a un modo de vida al menos parcialmente acuático.",
+      "Las marcas de depredación en algunos fósiles de cuello sugieren que ese alargado cuello era un punto débil frente a otros reptiles o depredadores marinos."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 3,
+      "rareza": 5,
+      "fuerza_estimada": 2,
+      "defensa": 2,
+      "inteligencia": 3,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 5,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Rieppel et al. y estudios CT recientes",
+      "fuentes": [
+        "Field Museum nota de prensa sobre Tanystropheus (2020)",
+        "Sci.News sobre el reptil de cuello largo",
+        "PaleoCodex Tanystropheus"
+      ]
+    }
+  }
+  

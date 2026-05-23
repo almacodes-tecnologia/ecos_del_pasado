@@ -1,0 +1,112 @@
+{
+    "id": "aepyornis_maximus",
+    "nombre_comun": "Ave elefante (Aepyornis)",
+    "nombre_cientifico": "Aepyornis maximus",
+    "tipo_animal": "ave",
+    "grupo": "ratites",
+  
+    "clasificacion": {
+      "clase": "Aves",
+      "orden": "Aepyornithiformes",
+      "familia": "Aepyornithidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 3.0,
+      "altura_m": 3.0,
+      "peso_kg": 500.0,
+      "descripcion_dimensiones": "Las aves elefante (Aepyornis) fueron aves gigantes de Madagascar; estimaciones modernas sitúan alturas de hasta ~3 m y masas típicas entre ~400–500 kg (algunas estimaciones mayores para ejemplares extremos)."
+    },
+  
+    "periodo": {
+      "era": "Cenozoico",
+      "epoca": "Holoceno (subfósiles recientes)",
+      "fase": "Tardío (reciente)",
+      "rango_edad_presentacion": "≈ 125 000 años – 1 000 años antes del presente (persistieron hasta época histórica tardía)",
+      "edad_inicio_ma": 0.125,
+      "edad_fin_ma": 0.001
+    },
+  
+    "descubrimiento": {
+      "anio": 1851,
+      "descubridor": "Isidore Geoffroy Saint-Hilaire (descripción científica)",
+      "lugar_original": {
+        "formacion": "Depósitos cuaternarios costeros / subfósiles de Madagascar",
+        "region": "Costa sur/este de Madagascar (varias localidades)",
+        "pais": "Madagascar"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Madagascar",
+        "regiones": ["Costa sur y este (Mora Mora, Ampoza y otras localidades)"],
+        "coordenadas": [
+          {"lat": -22.0, "lon": 47.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Bosques costeros, sabanas y zonas pantanosas de Madagascar",
+      "zona_actual": "Madagascar (extinto)",
+      "zona_paleogeografica": "Madagascar isla",
+      "clima_estimado": "Clima tropical a subtropical; ambientes variados desde bosques húmedos a sabanas costeras."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro/omnívoro",
+        "detalle": "Se presume que consumía frutas, hojas y material vegetal; el gran tamaño de los huevos sugiere estrategias reproductivas de baja fecundidad y cuidado limitado comparado con aves pequeñas."
+      },
+      "socialidad": "Desconocida; evidencias arqueológicas y subfósiles sugieren coexistencia con humanos y explotación humana (cáscaras de huevo, marcas de corte).",
+      "defensa": "Gran tamaño; patas robustas que podrían disuadir depredadores. Sin alas para volar.",
+      "movimiento": "Terrestre, bípedo; desplazamiento lento pero capaz de recorrer áreas en busca de recursos.",
+      "reproduccion": "Ovíparo; ponían huevos enormes (los mayores huevos de ave conocidos), con tamaños de huevo de hasta ~34 cm de diámetro y volúmenes espectaculares.",
+      "actividad": "Diurna"
+    },
+  
+    "curiosidades_adicionales": [
+      "Aepyornis produjo algunos de los huevos más grandes conocidos: los huevos de aves elefante eran de volumen extraordinario, hasta ~160 litros.",
+      "Fueron endémicas de Madagascar y coexistieron con humanos; la evidencia sugiere que la caza humana y la modificación del hábitat contribuyeron a su extinción hace ~1 000 años.",
+      "La descripción científica inicial fue hecha por Isidore Geoffroy Saint-Hilaire en 1851 a partir de restos y huevos suministrados desde Madagascar.",
+      "Recientes estudios de ADN antiguo y de cáscaras han aportado información sobre su biología y cronología de extinción."
+    ],
+  
+    "imagen_principal_url": "aepyornis_maximus.webp",
+    "galeria_imagenes": [
+      "aepyornis_fosil.webp",
+      "aepyornis_huevo.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Aepyornis maximus (ave elefante) fue una de las aves más grandes que jamás existieron, endémica de Madagascar hasta su extinción en época histórica reciente.",
+      "Describió Isidore Geoffroy Saint-Hilaire en 1851; los especímenes y huevos subfósiles han permitido estimaciones de tamaño y biología.",
+      "Las evidencias arqueológicas indican interacción y aprovechamiento por humanos, lo que junto a cambios en el hábitat explica su desaparición.",
+      "Estudios modernos de ADN y de cáscaras de huevo han refinado la cronología y aspectos ecológicos de estas aves gigantes."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 2,
+      "velocidad": 1,
+      "rareza": 5,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 2,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 3,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Geoffroy Saint-Hilaire (1851); estudios modernos sobre aves elefante",
+      "fuentes": [
+        "Wikipedia Aepyornis",
+        "Artículos sobre ADN antiguo y cronología (Columbia/Lamont, 2023)",
+        "Publicaciones de paleornitología"
+      ]
+    }
+  }
+  

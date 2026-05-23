@@ -1,0 +1,112 @@
+{
+    "id": "carnotaurus_sastrei",
+    "nombre_comun": "Carnotauro",
+    "nombre_cientifico": "Carnotaurus sastrei",
+    "tipo_animal": "dinosaurio",
+    "grupo": "terópodo",
+  
+    "clasificacion": {
+      "clase": "Reptilia",
+      "orden": "Saurischia",
+      "familia": "Abelisauridae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 7.0,
+      "altura_m": 3.0,
+      "peso_kg": 2000.0,
+      "descripcion_dimensiones": "Longitud de unos ~7 m; altura de alrededor de 3 m y peso estimado de ~2 toneladas según estudios paleontológicos."  
+    },
+  
+    "periodo": {
+      "era": "Mesozoico",
+      "epoca": "Cretácico",
+      "fase": "Tardío",
+      "rango_edad_presentacion": "≈ 70 millones de años",
+      "edad_inicio_ma": 70.0,
+      "edad_fin_ma": 70.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1984,
+      "descubridor": "José F. Bonaparte",
+      "lugar_original": {
+        "formacion": "Formación La Colonia",
+        "region": "Chubut",
+        "pais": "Argentina"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Argentina",
+        "regiones": ["Provincia del Chubut"],
+        "coordenadas": [
+          {"lat": -43.0, "lon": -65.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Llanuras semiáridas",
+      "zona_actual": "Sur América (extinto)",
+      "zona_paleogeografica": "Gondwana",
+      "clima_estimado": "Clima cálido con ecosistemas abiertos y estepas, posiblemente con zonas pantanosas."  
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro",
+        "detalle": "Depredador activo que se alimentaba de otros dinosaurios; su cráneo y cuernos sugieren que también podría usar embestidas."
+      },
+      "socialidad": "Probablemente solitario, aunque no hay consenso claro sobre manadas.",
+      "defensa": "Tenía cuernos sobre los ojos que podrían usarse para embestir o intimidar, además de dientes afilados.",
+      "movimiento": "Bípedo, con patas traseras largas y robustas adaptadas para correr.",
+      "reproduccion": "Ovíparo; como otros terópodos, se supone que ponía huevos.",
+      "actividad": "Diurna"
+    },
+  
+    "curiosidades_adicionales": [
+      "Su nombre significa ‘toro carnívoro’, en referencia a sus cuernos sobre los ojos.",
+      "Los brazos del Carnotauro eran muy reducidos, incluso más que los del Tyrannosaurus.",
+      "Se ha sugerido que podía embestir a otros de su especie usando sus cuernos fuertes.",
+      "Vivió en lo que hoy es Patagonia, en Argentina, en un ambiente con vegetación abierta y lagunas."
+    ],
+  
+    "imagen_principal_url": "carnotaurus_sastrei.webp",
+    "galeria_imagenes": [
+      "carnotaurus_fosil.webp",
+      "carnotaurus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Carnotaurus sastrei fue un terópodo abelisáurido del Cretácico Superior, descrito por José Bonaparte en 1984.",
+      "Se caracterizaba por su cráneo corto y alto, con cuernos sobre los ojos y brazos extremadamente reducidos.",
+      "Sus patas traseras eran poderosas, lo que sugiere que era bastante ágil para su tamaño.",
+      "Los fósiles provienen de la Formación La Colonia, en la Patagonia argentina."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 5,
+      "velocidad": 4,
+      "rareza": 4,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 4,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Bonaparte, J. F. (1984)",
+      "fuentes": [
+        "La Revista de Divulgación Científica (MACN-CONICET)", 
+        "Fundación Azara Historia Natural", 
+        "Museo de Historia Natural"
+      ]
+    }
+  }
+  

@@ -1,0 +1,121 @@
+{
+    "id": "megaloceros_giganteus",
+    "nombre_comun": "Alce Gigante",
+    "nombre_cientifico": "Megaloceros giganteus",
+    "tipo_animal": "mamífero",
+    "grupo": "cérvido",
+  
+    "clasificacion": {
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Cervidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": null,
+      "altura_m": 2.1,
+      "peso_kg": 700.0,
+      "descripcion_dimensiones": "Los machos podían alcanzar unos 2,1 m de altura a la cruz; estimaciones de peso varían, llegando hasta ~700 kg en algunos ejemplares." 
+    },
+  
+    "periodo": {
+      "era": "Cenozoico",
+      "epoca": "Pleistoceno",
+      "fase": "Tardío / final",
+      "rango_edad_presentacion": "aproximadamente 400 000 - 7 700 años antes del presente",
+      "edad_inicio_ma": 0.4,
+      "edad_fin_ma": 0.0077
+    },
+  
+    "descubrimiento": {
+      "anio": 1799,
+      "descubridor": "Johann Friedrich Blumenbach",
+      "lugar_original": {
+        "formacion": null,
+        "region": "Irlanda",
+        "pais": "Irlanda"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "Irlanda",
+        "regiones": ["condado de Limerick", "Dublín", "Maybole (Escocia)"],
+        "coordenadas": [
+          {"lat": 52.6, "lon": -8.4}  
+        ]
+      },
+      {
+        "pais": "Rusia",
+        "regiones": ["Siberia occidental"],
+        "coordenadas": [
+          {"lat": 57.0, "lon": 60.0}  
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Praderas abiertas / bosques abiertos",
+      "zona_actual": "Eurasia (extinto)",
+      "zona_paleogeografica": "Eurasia",
+      "clima_estimado": "Climas fríos durante las glaciaciones, con tundra y estepas abiertas." 
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Herbívoro",
+        "detalle": "Se alimentaba de hierbas, arbustos y vegetación de zonas abiertas y ribereñas." 
+      },
+      "socialidad": "Probablemente social o parcialmente gregario.",
+      "defensa": "Grandes astas usadas en competencia entre machos; el tamaño también podía disuadir depredadores.",
+      "movimiento": "Terrestre, con un porte similar al de los grandes cérvidos modernos.",
+      "reproduccion": "Vivíparo; los machos quizá luchaban con sus astas durante la época de celo.",
+      "actividad": "Diurna, como muchos cérvidos actuales se supone que lo era."
+    },
+  
+    "curiosidades_adicionales": [
+      "Sus astas eran enormes, con una envergadura de hasta ~3,5 m de punta a punta.",
+      "Algunos machos pesaban tanto como un alce moderno grande (~700 kg).",
+      "Aunque se le llama “Irish Elk”, no es un alce moderno; está más relacionado con el gamo (Dama).",
+      "Se extinguió hace unos ~7.700-8.000 años según restos fósiles en Siberia.",
+      "Parte de su extinción pudo estar relacionada con el alto coste energético de mantener sus enormes astas y la falta de nutrientes como calcio y fósforo."
+    ],
+  
+    "imagen_principal_url": "megaloceros_giganteus.webp",
+    "galeria_imagenes": [
+      "megaloceros_esqueleto.webp",
+      "megaloceros_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Megaloceros giganteus, también conocido como alce irlandés o ciervo gigante, fue uno de los cérvidos más grandes que han existido.",
+      "Los machos alcanzaban una envergadura de astas de hasta ~3,5 m, lo que lo convierte en uno de los ciervos con los cuernos más grandes jamás registrados.",
+      "Su distribución era amplia: vivió desde Irlanda hasta Siberia.",
+      "A pesar de su tamaño, los estudios de extinción sugieren que cambios en el hábitat y en la disponibilidad de minerales para desarrollar las astas pudieron haber contribuido a su desaparición."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 3,
+      "velocidad": 2,
+      "rareza": 5,
+      "fuerza_estimada": 4,
+      "defensa": 3,
+      "inteligencia": 2,
+      "impacto_historico": 4,
+      "nivel_adaptacion": 3,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Media",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Lister et al. (2005), Nature",
+      "fuentes": [
+        "Britannica", 
+        "Smithsonian Magazine", 
+        "Nature (Lister et al. 2005)", 
+        "Wikipedia Megaloceros giganteus"
+      ]
+    }
+  }
+  

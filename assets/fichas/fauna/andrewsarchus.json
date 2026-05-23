@@ -1,0 +1,112 @@
+{
+    "id": "andrewsarchus_mongoliensis",
+    "nombre_comun": "Andrewsarchus",
+    "nombre_cientifico": "Andrewsarchus mongoliensis",
+    "tipo_animal": "mamífero",
+    "grupo": "mesonícido",
+  
+    "clasificacion": {
+      "clase": "Mammalia",
+      "orden": "Mesonychia",
+      "familia": "Andrewsarchidae"
+    },
+  
+    "dimensiones": {
+      "longitud_m": 3.5,
+      "altura_m": 1.5,
+      "peso_kg": 1000.0,
+      "descripcion_dimensiones": "Solo se conoce un cráneo completo (holotipo). Estimaciones basadas en el cráneo y comparaciones con mamíferos fósiles cercanos sitúan la longitud corporal reconstruda en varios metros y masas que varían ampliamente; valores aquí usados son estimaciones conservadoras (cráneo grande implicando un animal corpulento)."
+    },
+  
+    "periodo": {
+      "era": "Cenozoico",
+      "epoca": "Eoceno",
+      "fase": "Medio",
+      "rango_edad_presentacion": "≈ 45 millones de años antes del presente",
+      "edad_inicio_ma": 45.0,
+      "edad_fin_ma": 45.0
+    },
+  
+    "descubrimiento": {
+      "anio": 1923,
+      "descubridor": "Kan Chuen Pao (colector en la expedición AMNH) / expedición dirigida por Roy Chapman Andrews",
+      "lugar_original": {
+        "formacion": "Irdin Manha Formation",
+        "region": "Inner Mongolia (Desierto de Gobi)",
+        "pais": "China"
+      }
+    },
+  
+    "yacimientos_clave": [
+      {
+        "pais": "China",
+        "regiones": ["Inner Mongolia (Irdin Manha Formation)"],
+        "coordenadas": [
+          {"lat": 44.0, "lon": 116.0}
+        ]
+      }
+    ],
+  
+    "habitat_aproximado": {
+      "tipo": "Ambientes terrestres del Eoceno (planicies costeras / estepas áridas a semiáridas locales)",
+      "zona_actual": "Asia (extinto)",
+      "zona_paleogeografica": "Eurasia (porción oriental)",
+      "clima_estimado": "Clima cálido a templado del Eoceno; ambientes con vegetación variada en el entorno continental."
+    },
+  
+    "informacion_comportamiento": {
+      "dieta": {
+        "general": "Carnívoro/omnívoro (interpretación basada en morfología dental)",
+        "detalle": "Mandíbulas y dientes robustos sugieren alimentación carnívora o carroñera, aunque la ecología exacta se desconoce por falta de resto corporales completos."
+      },
+      "socialidad": "Desconocida; no hay evidencia directa por la escasez de material fósil.",
+      "defensa": "Probablemente dependía de su tamaño y potencia mandibular; no hay pruebas de estructuras defensivas especiales.",
+      "movimiento": "Terrestre; reconstruciones corporales basadas en mamíferos afines sugieren un animal robusto y de desplazamiento terrestre.",
+      "reproduccion": "Vivíparo (como otros mamíferos); detalles desconocidos.",
+      "actividad": "Desconocida; reconstrucción tentativa diurna/nocturna no posible con el material disponible."
+    },
+  
+    "curiosidades_adicionales": [
+      "Solo se conoce un cráneo completo (holotipo AMNH) recuperado por la expedición AMNH de 1923; el resto del esqueleto no está disponible.",
+      "Nombrado en honor de Roy Chapman Andrews; la descripción formal fue publicada por H. F. Osborn en 1924.",
+      "Ha habido debates sobre su afinidad (mesonícido vs. otros grupos) y sobre su tamaño real debido a la falta de esqueletos completos.",
+      "El cráneo es enorme y ha llevado a reconstrucciones muy llamativas en museos; su ecología exacta sigue siendo objeto de estudio."
+    ],
+  
+    "imagen_principal_url": "andrewsarchus_mongoliensis.webp",
+    "galeria_imagenes": [
+      "andrewsarchus_craneo_amnh.webp",
+      "andrewsarchus_reconstruccion.webp"
+    ],
+  
+    "descripcion_cientifica": [
+      "Andrewsarchus mongoliensis es un mamífero fósil conocido principalmente por un cráneo grande hallado en la Irdin Manha Formation durante la expedición AMNH de 1923 y descrito por Osborn (1924).",
+      "La apariencia corporal completa es especulativa porque no se han recuperado esqueletos asociados; las estimaciones sobre su tamaño y masa se basan en comparaciones craneales con otros mamíferos fósiles.",
+      "Se ha propuesto que era un depredador o carroñero de gran tamaño del Eoceno de Asia oriental, pero la interpretación ecológica sigue abierta por la limitada evidencia directa.",
+      "Su singularidad y el gran cráneo lo han convertido en un animal icónico en exhibiciones y estudios sobre paleomamíferos del Eoceno."
+    ],
+  
+    "estadisticas_fantasia": {
+      "agresividad": 4,
+      "velocidad": 2,
+      "rareza": 5,
+      "fuerza_estimada": 5,
+      "defensa": 3,
+      "inteligencia": 3,
+      "impacto_historico": 3,
+      "nivel_adaptacion": 3,
+      "impresionabilidad": 5
+    },
+  
+    "metadatos_personalizados": {
+      "prioridad_ui": "Alta",
+      "ultima_revision": "2025-11-21",
+      "referencia_principal": "Osborn, H. F. (1924)",
+      "fuentes": [
+        "Wikipedia Andrewsarchus",
+        "AMNH — Irdin Manha / Andrewsarchus materials",
+        "iDigBio specimen records"
+      ]
+    }
+  }
+  
