@@ -1,0 +1,78 @@
+{
+  "id": "cycadeoidea",
+  "nombre_comun": "Cycadeoidea",
+  "nombre_cientifico": "Cycadeoidea spp.",
+  "tipo_vegetal": "Cícada prehistórica",
+  "grupo": "Bennettitales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Bennettitales"
+  },
+  "dimensiones": {
+    "altura_m": 1.2,
+    "diametro_tronco_m": 0.5,
+    "extension_copa_m": 1.5
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Jurásico - Cretácico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "161–100",
+    "edad_inicio_millones_anios": 161,
+    "edad_fin_millones_anios": 100
+  },
+  "descubrimiento": {
+    "anio": 1828,
+    "descubridor": "William Buckland",
+    "lugar_original": {
+      "formacion": "Isla de Portland (Purbeck Bed)",
+      "region": "Dorset",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Dakota del Sur", "Wyoming (Formación Morrison)"],
+      "lat": 43.5,
+      "lon": -103.5
+    },
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Dorset (Isla de Portland)"],
+      "lat": 50.55,
+      "lon": -2.44
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sotobosques abiertos, llanuras aluviales y zonas semiáridas",
+    "zona_actual": "América del Norte y Europa",
+    "zona_paleogeografica": "Laurasia",
+    "clima_estimado": "Cálido y subtropical, con estaciones secas marcadas"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "Aunque superficialmente se parecía a las cícadas actuales (como la famosa planta de Cycas de jardín), sus órganos reproductores eran radicalmente distintos. Tenía estructuras similares a flores bisexuales incrustadas directamente dentro de la corteza de su tronco, protegidas por densas escamas de hojas viejas."
+  ],
+  "imagen_principal_url": "cycadeoidea.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Cycadeoidea es un género extinto de gimnospermas bennettitales que poseía un tronco masivo, corto y globoso o cilíndrico (con forma de barril). Su tallo estaba densamente cubierto por las bases persistentes de los peíolos de hojas caídas que actuaban como una armadura protectora. A diferencia de las cícadas verdaderas, sus conos reproductores eran estructuras complejas y bisexuales que contenían tanto polen como óvulos, lo que ha llevado a algunos botánicos a debatir su cercanía filogenética con el origen de las plantas con flores.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 4,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Grandes, pinnadas (en forma de pluma), coriáceas y rígidas, dispuestas en una corona terminal compacta al tope del tronco",
+    "tronco": "Corto, grueso y carnoso, reforzado exteriormente por una densa coraza de peíolos persistentes y filamentos protectores (rmentos)",
+    "raiz": "Sistema radicular pivotante y robusto, especializado en almacenar agua y nutrientes en climas estacionales"
+  },
+  "reproduccion": {
+    "tipo": "Semillas producidas en estructuras cónicas bisexuales axilares, polinizadas probablemente por insectos primitivos (escarabajos)"
+  },
+  "extincion": "A finales del Cretácico Superior, debido al enfriamiento global, la regresión marina y la competencia con las angiospermas de crecimiento rápido"
+}

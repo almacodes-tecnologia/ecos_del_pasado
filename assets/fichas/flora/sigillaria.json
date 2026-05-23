@@ -1,0 +1,84 @@
+{
+  "id": "sigillaria",
+  "nombre_comun": "Sigillaria (Árbol de sello)",
+  "nombre_cientifico": "Sigillaria spp.",
+  "tipo_vegetal": "Licófita gigante",
+  "grupo": "Lepidodendrales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Lepidodendrales"
+  },
+  "dimensions": {
+    "altura_m": 30.0,
+    "diametro_tronco_m": 1.0,
+    "extension_copa_m": 4.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Carbonífero - Pérmico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "323–272",
+    "edad_inicio_millones_anios": 323,
+    "edad_fin_millones_anios": 272
+  },
+  "descubrimiento": {
+    "anio": 1822,
+    "descubridor": "Kaspar Maria von Sternberg",
+    "lugar_original": {
+      "formacion": "Depósitos de carbón de Bohemia",
+      "region": "Bohemia",
+      "pais": "República Checa"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Alemania",
+      "regiones": ["Sarre", "Cuenca del Ruhr"],
+      "lat": 49.3,
+      "lon": 7.0
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Pensilvania", "Virginia Occidental"],
+      "lat": 40.0,
+      "lon": -80.0
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Nueva Escocia (Acantilados fosilíferos de Joggins)"],
+      "lat": 45.69,
+      "lon": -64.44
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Zonas de transición en pantanos de turbera, áreas marginales menos inundadas y llanuras aluviales",
+    "zona_actual": "Europa, América del Norte y Asia",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Ecuatorial, tropical, cálido y altamente húmedo"
+  },
+  "tipo_habitat": "Pantanos",
+  "curiosidades": [
+    "Su nombre significa 'árbol de sello' debido a que, cuando sus hojas caían, dejaban cicatrices hexagonales u ovales dispuestas en perfectas columnas verticales que recuerdan a las marcas que deja un sello de cera medieval. A diferencia de Lepidodendron, su tronco rara vez se bifurcaba, terminando en un espectacular e inmenso penacho de hojas similar a un plumero gigante."
+  ],
+  "imagen_principal_url": "sigillaria.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Sigillaria es un género de licópsidas arborescentes de gran porte que desempeñó un papel fundamental en la acumulación de biomasa vegetal que dio origen a las grandes cuencas de hulla del hemisferio norte. Su tronco era predominantemente verde y fotosintético, sostenido no por madera interna compacta, sino por un peridermo esclerosado externo muy grueso. Las hojas brotaban en espirales apretadas pero se alineaban verticalmente debido a las costillas longitudinales del tronco.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 2,
+    "impacto_ecologico": 5,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Microfilos lineares muy largos, con forma de espada (género Cyperites), que podían medir hasta un metro de longitud",
+    "tronco": "Erecto, cilíndrico, habitualmente simple o ramificado solo al final en dos ramificaciones cortas, recorrido por costillas verticales estriadas y simétricas",
+    "raiz": "Estructuras subterráneas dicotómicas horizontales (Stigmaria) modificadas, que se extendían de forma somera en el fango"
+  },
+  "reproduccion": {
+    "tipo": "Esporas heterospóreas contenidas en estróbilos o conos (Sigillariostrobus) que colgaban en racimos directamente del tronco principal, justo debajo del penacho de hojas"
+  },
+  "extincion": "Pérmico Inferior, debido al enfriamiento global, el aumento de la estacionalidad y la aridez que destruyeron de forma irreversible los ecosistemas de turberas tropicales"
+}

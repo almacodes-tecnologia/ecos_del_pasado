@@ -1,0 +1,72 @@
+{
+  "id": "archaeamphora",
+  "nombre_comun": "Archaeamphora",
+  "nombre_cientifico": "Archaeamphora longicervia",
+  "tipo_vegetal": "planta carnívora primitiva",
+  "grupo": "Angiospermae",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Ericales (afiliación probable)"
+  },
+  "dimensiones": {
+    "altura_m": 0.05,
+    "diametro_tronco_m": 0.0,
+    "extension_copa_m": 0.04
+  },
+  "alimentacion": "Fotosintética y Carnívora (insectívora pasiva)",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Temprano",
+    "edad_millones_anios": "125-121",
+    "edad_inicio_millones_anios": 125,
+    "edad_fin_millones_anios": 121
+  },
+  "descubrimiento": {
+    "anio": 2005,
+    "descubridor": "Hongqi Li",
+    "lugar_original": {
+      "formacion": "Formación Yixian",
+      "region": "Provincia de Liaoning",
+      "pais": "China"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "China",
+      "regiones": ["Liaoning (Formación Yixian)"],
+      "lat": 41.5,
+      "lon": 121.3
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Zonas húmedas lacustres y bordes de lagos",
+    "zona_actual": "Noreste de Asia",
+    "zona_paleogeografica": "Bloque de Amuria (Laurasia)",
+    "clima_estimado": "Templado cálido, con estaciones y vulcanismo activo"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Se considera uno de los linajes de plantas con flores más antiguos que se conocen y la candidata a planta carnívora con trampa de jarra más primitiva del registro fósil."
+  ],
+  "imagen_principal_url": "archaeamphora.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Archaeamphora longicervia es una especie descrita a partir de fósiles del Cretácico Temprano en China. Presenta hojas modificadas en forma de jarra que recuerdan fuertemente a las Sarraceniaceae modernas. Los fósiles muestran una estructura tubular, un opérculo (tapa) y zonas cubiertas de glándulas secretoras, lo que sugiere que utilizaba estas estructuras de ascidio para capturar pequeños artrópodos en ecosistemas lacustres dominados por coníferas y helechos.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 5,
+    "impacto_ecologico": 2,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 3,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Modificadas en forma de ascidio o jarra tubular con una constricción en el cuello",
+    "tronco": "Ausente (hábito herbáceo rizomatoso)",
+    "raiz": "Delgada y poco profunda, adaptada a suelos saturados de agua"
+  },
+  "reproduccion": {
+    "tipo": "Semillas (Angiosperma primitiva)"
+  },
+  "extincion": "Desconocida, probablemente debido a la evolución de competidores florales y cambios drásticos en los humedales del Cretácico"
+}

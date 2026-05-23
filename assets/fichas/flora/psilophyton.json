@@ -1,0 +1,84 @@
+{
+  "id": "psilophyton",
+  "nombre_comun": "Psilophyton",
+  "nombre_cientifico": "Psilophyton spp.",
+  "tipo_vegetal": "Planta vascular primitiva",
+  "grupo": "Trimerophytopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Trimerophytales"
+  },
+  "dimensiones": {
+    "altura_m": 1.0,
+    "diametro_tronco_m": 0.01,
+    "extension_copa_m": 0.3
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico",
+    "fase": "Temprano a Medio",
+    "edad_millones_anios": "419–388",
+    "edad_inicio_millones_anios": 419,
+    "edad_fin_millones_anios": 388
+  },
+  "descubrimiento": {
+    "anio": 1859,
+    "descubridor": "Sir John William Dawson",
+    "lugar_original": {
+      "formacion": "Formación Gaspé Sandstone",
+      "region": "Península de Gaspé (Quebec)",
+      "pais": "Canadá"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Canadá",
+      "regiones": ["Quebec (Gaspé)", "Nuevo Brunswick"],
+      "lat": 48.83,
+      "lon": -64.48
+    },
+    {
+      "pais": "Estados Unidos",
+      "regiones": ["Maine (Formación Trout Valley)", "Nueva York"],
+      "lat": 45.92,
+      "lon": -68.79
+    },
+    {
+      "pais": "República Checa",
+      "regiones": ["Bohemia"],
+      "lat": 49.8,
+      "lon": 14.4
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales húmedas, riberas fluviales y lodos costeros estacionales",
+    "zona_actual": "América del Norte y Europa",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido, templado húmedo a subtropical"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Cuando fue descubierta en el siglo XIX, su anatomía era tan extraña y desprovista de hojas que la comunidad científica de la época rechazó el hallazgo de Dawson, considerándolo una mala interpretación de los fósiles. Décadas más tarde se confirmó que era el eslabón evolutivo clave que dio origen a los helechos y plantas con semilla actuales."
+  ],
+  "imagen_principal_url": "psilophyton.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Psilophyton es el género definitivo de las trimerofitas, un grupo de plantas vasculares extintas más complejas que las riniofitas primitivas. Presentaba un eje central dominante del cual nacían ramificaciones laterales dicotómicas que terminaban en racimos de esporangios emparejados. Su sistema vascular estaba notablemente más desarrollado, provisto de una traza central de xilema con traqueidas que le permitía alcanzar alturas cercanas al metro, un logro vertical sin precedentes para su época.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 4,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Ausentes (la fotosíntesis se realizaba completamente a través de la superficie verde de los tallos, los cuales en algunas especies estaban cubiertos de pequeñas espinas o excrecencias muertas llamadas emergencias)",
+    "tronco": "Ausente (tallos aéreos rígidos, ramificados de forma pseudomonopodial, con estrías longitudinales y cutícula gruesa)",
+    "raiz": "Ausente (fijación al sustrato mediante un sistema de rizomas subterráneos horizontales y ramificados)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas homospóreas producidas en esporangios alargados y fusiformes que nacían en pares péndulos al final de las ramificaciones terminales"
+  },
+  "extincion": "Finales del Devónico Medio, debido a la radiación evolutiva de plantas terrestres más avanzadas (como los ancestros de los helechos y progimnospermas) que las superaron en competencia por la luz y los recursos"
+}

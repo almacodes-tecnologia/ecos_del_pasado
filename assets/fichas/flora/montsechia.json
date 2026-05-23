@@ -1,0 +1,72 @@
+{
+  "id": "montsechia",
+  "nombre_comun": "Montsechia",
+  "nombre_cientifico": "Montsechia vidalii",
+  "tipo_vegetal": "Planta con flor acuática",
+  "grupo": "Angiospermae",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Nymphaeales (afiliación probable)"
+  },
+  "dimensiones": {
+    "altura_m": 0.25,
+    "diametro_tronco_m": 0.0,
+    "extension_copa_m": 0.1
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Cretácico",
+    "fase": "Temprano (Barremiense)",
+    "edad_millones_anios": "130–125",
+    "edad_inicio_millones_anios": 130,
+    "edad_fin_millones_anios": 125
+  },
+  "descubrimiento": {
+    "anio": 1902,
+    "descubridor": "Charles René Zeiller",
+    "lugar_original": {
+      "formacion": "Calizas de El Montsec",
+      "region": "Lérida (Cataluña)",
+      "pais": "España"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "España",
+      "regiones": ["Sierra del Montsec (Lérida)", "Las Hoyas (Cuenca)"],
+      "lat": 42.03,
+      "lon": 0.88
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Lagos de agua dulce poco profundos, alcalinos y estanques calmos",
+    "zona_actual": "Sur de Europa",
+    "zona_paleogeografica": "Archipiélago Europeo (Iberia / Laurasia)",
+    "clima_estimado": "Subtropical, cálido y húmedo"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Es considerada por la comunidad científica internacional como la primera 'flor' de la historia de la Tierra, o al menos una de las más antiguas confirmadas. Vivió y prosperó bajo el agua al mismo tiempo que dinosaurios como el Iguanodon caminaban por las orillas de sus lagos."
+  ],
+  "imagen_principal_url": "montsechia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Montsechia vidalii es una angiosperma acuática extinta que representa uno de los linajes más antiguos del registro macrofósil vegetal. A pesar de ser una planta con flores, carecía de estructuras florales típicas como pétalos o glándulas productoras de néctar. Poseía tallos delgados y flexibles con hojas dispuestas en espiral o enfrentadas, y sus frutos (carpelos simples) contenían una única semilla que se desarrollaba completamente sumergida, liberando el polen directamente al agua.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 5,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Pequeñas, lineares u ovales, sésiles, de dos tipos (dimórficas) según la variedad de la planta, adaptadas a la vida sumergida",
+    "tronco": "Ausente (tallos herbáceos, delgados, ramificados y cubiertos por una fina cutícula)",
+    "raiz": "Sistema radicular muy reducido o ausente, ya que absorbía los nutrientes directamente del agua a través de sus tejidos"
+  },
+  "reproduccion": {
+    "tipo": "Semillas encerradas en frutos cerrados individuales (carpelos) polinizados de forma hidrófila (bajo el agua)"
+  },
+  "extincion": "Mediados del Cretácico, probablemente desplazada por la rápida radiación evolutiva de nuevas familias de angiospermas acuáticas y terrestres más eficientes"
+}

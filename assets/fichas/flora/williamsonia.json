@@ -1,0 +1,84 @@
+{
+  "id": "williamsonia",
+  "nombre_comun": "Williamsonia",
+  "nombre_cientifico": "Williamsonia spp.",
+  "tipo_vegetal": "Planta prehistórica similar a una cícada",
+  "grupo": "Bennettitales",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Bennettitales"
+  },
+  "dimensiones": {
+    "altura_m": 3.0,
+    "diametro_tronco_m": 0.2,
+    "extension_copa_m": 2.0
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Mesozoico",
+    "epoca": "Triásico - Cretácico",
+    "fase": "Tardío a Tardío",
+    "edad_millones_anios": "228–66",
+    "edad_inicio_millones_anios": 228,
+    "edad_fin_millones_anios": 66
+  },
+  "descubrimiento": {
+    "anio": 1870,
+    "descubridor": "William Carruthers",
+    "lugar_original": {
+      "formacion": "Formación de arenisca de Yorkshire",
+      "region": "Yorkshire",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Yorkshire"],
+      "lat": 54.3,
+      "lon": -0.7
+    },
+    {
+      "pais": "India",
+      "regiones": ["Colinas de Rajmahal (Jharkhand)"],
+      "lat": 25.0,
+      "lon": 87.8
+    },
+    {
+      "pais": "México",
+      "regiones": ["Oaxaca (Formación Simón)"],
+      "lat": 17.2,
+      "lon": -97.7
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Sotobosques abiertos, llanuras aluviales e islas costeras",
+    "zona_actual": "Europa, Asia y América",
+    "zona_paleogeografica": "Distribución global (Laurasia y Gondwana)",
+    "clima_estimado": "Cálido, de subtropical a tropical, con estaciones húmedas y secas alternantes"
+  },
+  "tipo_habitat": "Bosques",
+  "curiosidades": [
+    "El género fue nombrado en honor a William Williamson, un pionero de la paleobotánica de Yorkshire. Sus estructuras reproductoras estaban tan ridículamente bien desarrolladas que parecían flores reales con forma de estrella o bellota; de hecho, los primeros recolectores de fósiles del siglo XIX las llamaban erróneamente 'flores fósiles de alcachofa'."
+  ],
+  "imagen_principal_url": "williamsonia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Williamsonia es uno de los géneros más estudiados del orden extinto Bennettitales. A diferencia de Cycadeoidea, que tenía un tronco corto y macizo, Williamsonia presentaba un porte mucho más esbelto y arbóreo, con tallos delgados leñosos que se ramificaban de manera profusa. Sus órganos reproductores consistían en conos unisexuales (frecuentemente asociados al morfogenénero de hojas *Ptilophyllum*) rodeados por brácteas protectoras superpuestas, un diseño morfológico avanzado que atraía a insectos polinizadores primitivos.",
+  "estadisticas_ambientales": {
+    "belleza": 4,
+    "rareza": 2,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Grandes frondes pinnadas, rígidas y coriáceas (asociadas al tipo *Ptilophyllum* o *Zamites*), agrupadas en los extremos de las ramas",
+    "tronco": "Leñoso, esbelto y ramificado dicotómicamente, protegido exteriormente por una corteza con cicatrices de hojas caídas",
+    "raiz": "Sistema de raíces ramificado y firme, adaptado para soportar suelos costeros o fluviales variables"
+  },
+  "reproduccion": {
+    "tipo": "Semillas desnudas producidas en grandes conos receptáculos terminales rodeados de brácteas escamosas, con indicios claros de polinización por insectos (entomofilia)"
+  },
+  "extincion": "Finales del Cretácico Superior, coincidiendo con la extinción masiva del Cretácico-Paleógeno y el colapso definitivo frente a las angiospermas modernas más competitivas"
+}

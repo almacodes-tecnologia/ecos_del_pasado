@@ -1,0 +1,72 @@
+{
+  "id": "asteroxylon",
+  "nombre_comun": "Asteroxylon",
+  "nombre_cientifico": "Asteroxylon mackiei",
+  "tipo_vegetal": "licófita primitiva",
+  "grupo": "Lycopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Asteroxylales"
+  },
+  "dimensiones": {
+    "altura_m": 0.4,
+    "diametro_tronco_m": 0.01,
+    "extension_copa_m": 0.15
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Devónico",
+    "fase": "Temprano",
+    "edad_millones_anios": "411–407",
+    "edad_inicio_millones_anios": 411,
+    "edad_fin_millones_anios": 407
+  },
+  "descubrimiento": {
+    "anio": 1920,
+    "descubridor": "William Henry Lang y Robert Kidston",
+    "lugar_original": {
+      "formacion": "Rhynie Chert",
+      "region": "Aberdeenshire",
+      "pais": "Escocia (Reino Unido)"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Aberdeenshire (Rhynie)"],
+      "lat": 57.33,
+      "lon": -2.83
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Humedales geotérmicos y llanuras aluviales",
+    "zona_actual": "Europa del Norte",
+    "zona_paleogeografica": "Euramérica",
+    "clima_estimado": "Cálido y semiárido, con actividad hidrotermal activa"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Su nombre científico significa 'leño con forma de estrella' y se debe al patrón estrellado que forma su tejido conductor (xilema) al cortarse transversalmente."
+  ],
+  "imagen_principal_url": "asteroxylon.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Asteroxylon mackiei es uno de los miembros más avanzados y estructuralmente complejos encontrados en el ecosistema del Devónico Temprano de Rhynie Chert. Se caracteriza por poseer tallos ramificados dicotómicamente cubiertos de escamas o microfilos en forma de aguja (enaciones), los cuales representan uno de los primeros pasos evolutivos hacia el desarrollo de las hojas verdaderas. Sus tallos aéreos surgían a partir de un sistema de rizomas subterráneos desprovistos de raíces típicas.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 5,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Microfilos o enaciones (pequeñas extensiones escamosas sin venación interna completa)",
+    "tronco": "Ausente (tallos cilíndricos aéreos con xilema en forma de estrella)",
+    "raiz": "Ausente (sustituida por un sistema de rizomas rastreros fijados por micorrizas simbióticas)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas producidas en esporangios solitarios de forma arriñonada intercalados en los tallos"
+  },
+  "extincion": "Mediados del Devónico, reemplazada por linajes de licófitas más eficientes y con hojas verdaderas"
+}

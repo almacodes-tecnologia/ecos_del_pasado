@@ -1,0 +1,78 @@
+{
+  "id": "cooksonia",
+  "nombre_comun": "Cooksonia",
+  "nombre_cientifico": "Cooksonia spp.",
+  "tipo_vegetal": "planta terrestre primitiva",
+  "grupo": "Rhyniophyte",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Rhyniales"
+  },
+  "dimensiones": {
+    "altura_m": 0.05,
+    "diametro_tronco_m": 0.001,
+    "extension_copa_m": 0.03
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Silúrico - Devónico",
+    "fase": "Temprano",
+    "edad_millones_anios": "428–393",
+    "edad_inicio_millones_anios": 428,
+    "edad_fin_millones_anios": 393
+  },
+  "descubrimiento": {
+    "anio": 1937,
+    "descubridor": "William Henry Lang",
+    "lugar_original": {
+      "formacion": "Formación de arenisca roja antigua",
+      "region": "Gales",
+      "pais": "Reino Unido"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Gales", "Escocia"],
+      "lat": 52.5,
+      "lon": -3.5
+    },
+    {
+      "pais": "Irlanda",
+      "regiones": ["Condado de Tipperary"],
+      "lat": 52.7,
+      "lon": -8.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras costeras, marismas y orillas inundables",
+    "zona_actual": "Europa y América del Norte",
+    "zona_paleogeografica": "Laurasia / Avalonia",
+    "clima_estimado": "Cálido, húmedo y fuertemente dependiente de la proximidad del agua"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Es considerada la planta vascular más antigua del registro fósil. El género fue nombrado en honor a Isabel Cookson, una célebre paleobotánica australiana que colaboró intensamente en el estudio de la flora primitiva del Paleozoico."
+  ],
+  "imagen_principal_url": "cooksonia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Cooksonia representa un hito fundamental en la evolución de la vida en la Tierra al ser uno de los primeros linajes de plantas con un sistema vascular (xilema primitivo) capaz de transportar agua y nutrientes fuera de un entorno puramente acuático. Su morfología es extremadamente simple y minimalista: consistía únicamente en tallos verdes desnudos que se bifurcaban de forma dicotómica simétrica, coronados en sus extremos por cápsulas reproductoras.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 5,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 3,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Ausentes (las funciones de fotosíntesis eran realizadas directamente por el tejido verde de sus tallos)",
+    "tronco": "Ausente (tallos cilíndricos, delgados y flexibles sin madera verdadera)",
+    "raiz": "Ausente (fijación al suelo mediante un sistema de rizomas horizontales muy simples)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas (producidas dentro de esporangios terminales redondeados o con forma de copa en los extremos de los tallos)"
+  },
+  "extincion": "Devónico Medio, superada ecológicamente por plantas de mayor tamaño con hojas y raíces verdaderas"
+}

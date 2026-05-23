@@ -1,0 +1,78 @@
+{
+  "id": "baragwanathia",
+  "nombre_comun": "Baragwanathia",
+  "nombre_cientifico": "Baragwanathia spp.",
+  "tipo_vegetal": "licófita primitiva",
+  "grupo": "Lycopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Drepanophycales"
+  },
+  "dimensions": {
+    "altura_m": 0.3,
+    "diametro_tronco_m": 0.02,
+    "extension_copa_m": 0.25
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Silúrico - Devónico",
+    "fase": "Tardío a Temprano",
+    "edad_millones_anios": "427–393",
+    "edad_inicio_millones_anios": 427,
+    "edad_fin_millones_anios": 393
+  },
+  "descubrimiento": {
+    "anio": 1935,
+    "descubridor": "William Henry Lang e Isabel Cookson",
+    "lugar_original": {
+      "formacion": "Formación Yea (Gravels)",
+      "region": "Victoria",
+      "pais": "Australia"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Australia",
+      "regiones": ["Victoria"],
+      "lat": -37.2,
+      "lon": 145.4
+    },
+    {
+      "pais": "Canadá",
+      "regiones": ["Territorios del Noroeste"],
+      "lat": 62.0,
+      "lon": -123.0
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras aluviales y bordes de marismas costeras",
+    "zona_actual": "Oceanía y Norteamérica",
+    "zona_paleogeografica": "Gondwana (fósiles de Australia)",
+    "clima_estimado": "Cálido, húmedo y tropical"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Su descubrimiento en rocas del Silúrico conmocionó a la comunidad científica, ya que demostró que las plantas vasculares grandes y con hojas ya existían mucho antes de lo que se pensaba, compitiendo en antigüedad con plantas mucho más simples como Cooksonia."
+  ],
+  "imagen_principal_url": "baragwanathia.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Baragwanathia es un género extinto de plantas vasculares que representa una de las licófitas más antiguas del registro fósil. A diferencia de otras plantas contemporáneas de tallos desnudos, Baragwanathia poseía tallos robustos y densamente cubiertos por hojas verdaderas (microfilos) de hasta 4 cm de largo que contaban con un haz vascular central. Su avanzado cilindro central de tejido conductor le permitía alcanzar un tamaño considerablemente mayor que el de la mayoría de la flora de su época.",
+  "estadisticas_ambientales": {
+    "belleza": 3,
+    "rareza": 5,
+    "impacto_ecologico": 4,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "estructura_vegetativa": {
+    "hojas": "Microfilos alargados, delgados y aciculares (en forma de aguja), con un canal vascular simple que los recorre por completo",
+    "tronco": "Ausente (tallos aéreos gruesos ramificados dicotómicamente)",
+    "raiz": "Ausente (fijación al sustrato mediante un sistema de rizomas rastreos horizontales)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas generadas en esporangios con forma de riñón, distribuidos a lo largo del tallo en las axilas de las hojas"
+  },
+  "extincion": "Devónico Medio, desplazada debido a la rápida diversificación y competencia con plantas terrestres con sistemas radiculares y leñosos más avanzados"
+}

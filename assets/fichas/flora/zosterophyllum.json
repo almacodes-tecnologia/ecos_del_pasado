@@ -1,0 +1,84 @@
+{
+  "id": "zosterophyllum",
+  "nombre_comun": "Zosterophyllum",
+  "nombre_cientifico": "Zosterophyllum spp.",
+  "tipo_vegetal": "Planta vascular primitiva",
+  "grupo": "Zosterophyllopsida",
+  "clasificacion": {
+    "division": "Tracheophyta",
+    "orden": "Zosterophyllales"
+  },
+  "dimensiones": {
+    "altura_m": 0.25,
+    "diametro_tronco_m": 0.003,
+    "extension_copa_m": 0.15
+  },
+  "alimentacion": "Fotosintética",
+  "periodo": {
+    "era": "Paleozoico",
+    "epoca": "Silúrico - Devónico",
+    "fase": "Pridoliense a Medio",
+    "edad_millones_anios": "423–383",
+    "edad_inicio_millones_anios": 423,
+    "edad_fin_millones_anios": 383
+  },
+  "descubrimiento": {
+    "anio": 1892,
+    "descubridor": "Edward Pennhallow",
+    "lugar_original": {
+      "formacion": "Depósitos de la Formación Gaspé",
+      "region": "Península de Gaspé (Quebec)",
+      "pais": "Canadá"
+    }
+  },
+  "ubicaciones_fosiles": [
+    {
+      "pais": "Reino Unido",
+      "regiones": ["Escocia (Carmyllie)", "Gales"],
+      "lat": 56.61,
+      "lon": -2.76
+    },
+    {
+      "pais": "Australia",
+      "regiones": ["Victoria (Formación Baragwanathia)"],
+      "lat": -37.5,
+      "lon": 145.0
+    },
+    {
+      "pais": "China",
+      "regiones": ["Yunnan"],
+      "lat": 24.88,
+      "lon": 102.7
+    }
+  ],
+  "habitat_aproximado": {
+    "tipo": "Llanuras fangosas intermareales, marismas costeras y zonas deltaicas semisumergidas",
+    "zona_actual": "América del Norte, Europa, Asia y Australia",
+    "zona_paleogeografica": "Distribución global en Euramérica y Gondwana",
+    "clima_estimado": "Cálido, tropical a subtropical húmedo"
+  },
+  "tipo_habitat": "Humedales",
+  "curiosidades": [
+    "Su nombre significa 'hoja de cinta' debido a que los primeros investigadores pensaron que era una planta marina similar a las praderas de algas actuales. En realidad, vivía en el lodo de las orillas y sus ramificaciones inferiores crecían orientadas hacia abajo en forma de 'U' invertida, un truco evolutivo para anclarse firmemente en el fango inestable."
+  ],
+  "imagen_principal_url": "zosterophyllum.webp",
+  "banco_de_imagenes": [],
+  "descripcion_cientifica": "Zosterophyllum es el género arquetípico de las zosterofilópsidas, un grupo clave de plantas vasculares extintas que representa el linaje hermano (o ancestral) de todas las licópsidas modernas. Compartía con *Rhynia* la ausencia de hojas verdaderas, pero introdujo una innovación evolutiva crucial: sus esporangios no eran terminales, sino laterales, y presentaban una dehiscencia transversal (se abrían en dos valvas como una almeja). Su xilema maduraba desde el exterior hacia el centro (desarrollo exarco), un rasgo típico de las licófitas.",
+  "estadisticas_ambientales": {
+    "belleza": 2,
+    "rareza": 4,
+    "impacto_ecologico": 3,
+    "valor_paleobotanico": 5,
+    "nivel_adaptacion": 4,
+    "interes_educativo": 5
+  },
+  "structure_vegetativa": {
+    "hojas": "Ausentes (toda la fotosíntesis se llevaba a cabo en la epidermis de sus tallos aéreos verdes desnudos y lisos)",
+    "tronco": "Ausente (ejes cilíndricos delgados que se ramificaban de forma marcadamente dicotómica o sutilmente pseudomonopodial)",
+    "raiz": "Ausente (se sujetaba mediante un sistema basal de rizomas rastreros y ejes especializados ramificados que penetraban los sedimentos húmedos)"
+  },
+  "reproduccion": {
+    "tipo": "Esporas homospóreas producidas en esporangios arriñonados (con forma de riñón) agrupados en densas espigas terminales o laterales"
+  },
+  "extincion": "Finales del Devónico Medio, debido a la intensa competencia ecológica desatada por el surgimiento de plantas terrestres más altas, provistas de hojas complejas y verdaderos sistemas radiculares"
+}
